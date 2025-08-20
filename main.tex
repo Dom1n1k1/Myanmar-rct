@@ -1,0 +1,245 @@
+% Myanmar Mobile Micro Health Insurance RCT — Paper Skeleton
+% Last updated: 2025-08-14
+
+\documentclass[12pt]{article}
+
+% ---------- Packages ----------
+% Encoding, fonts, typography (use these with pdfLaTeX)
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% Line numbers (enable with \linenumbers after \begin{document})
+\usepackage[left]{lineno}
+\modulolinenumbers[1] % continuous numbering
+
+% Math + patching for lineno in math environments
+\usepackage{amsmath,amssymb}
+\usepackage{etoolbox}
+\AtBeginEnvironment{align}{\linenomath}
+\AtEndEnvironment{align}{\endlinenomath}
+\AtBeginEnvironment{align*}{\linenomath}
+\AtEndEnvironment{align*}{\endlinenomath}
+\AtBeginEnvironment{equation}{\linenomath}
+\AtEndEnvironment{equation}{\endlinenomath}
+\AtBeginEnvironment{gather}{\linenomath}
+\AtEndEnvironment{gather}{\endlinenomath}
+
+% Tables and figures
+\usepackage{booktabs}
+\usepackage{dcolumn}
+\usepackage[labelfont=bf,font=small]{caption}
+\usepackage{makecell}
+\usepackage{array}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{rotating}
+
+% Numbers/units
+\usepackage{siunitx}
+\sisetup{
+  group-digits=false,
+  input-symbols = ( ) * + -,
+  table-align-text-post = false,
+  table-number-alignment = center,
+  detect-weight = true,
+  detect-family = true,
+  table-space-text-post={***}
+}
+
+% Page layout and spacing
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{setspace}
+\onehalfspacing
+
+% Graphics / diagrams
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric,arrows.meta,positioning}
+\tikzstyle{box} = [rectangle,draw,rounded corners,minimum width=3.5cm,minimum height=1.1cm,text centered,fill=white]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+% Misc
+\usepackage{ragged2e}
+\usepackage{xurl}
+\urlstyle{same}
+
+% Bibliography (biblatex-apa) — load BEFORE hyperref
+\usepackage[
+  backend=biber,
+  style=apa,
+  citestyle=apa,
+  natbib=true,
+  sorting=nyt,
+  maxcitenames=2,
+  maxbibnames=99,
+  doi=true,
+  url=false,   % <— turn off URLs for APA journal articles
+  urldate=long,
+  eprint=false
+]{biblatex}
+\DeclareLanguageMapping{english}{english-apa}
+\addbibresource{refs.bib}
+
+% Hyperlinks — load AFTER biblatex
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  citecolor=blue,
+  urlcolor=blue
+}
+
+% ---------- Title ----------
+\title{Mobile Health Microinsurance and Health Care Access in Myanmar: \\
+Evidence from a Randomized Controlled Trial}
+\author{Author Name\thanks{Affiliation, email. Acknowledgments here as needed.}}
+\date{\today}
+
+% ---------- Document ----------
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+% 150–200 words. Brief context, intervention, design, main results, and policy takeaway.
+% If results are null due to implementation shortfalls, say so clearly and explain how you document exposure, take-up, and timing.
+\end{abstract}
+
+\noindent\textbf{Keywords:} micro health insurance; telemedicine; out-of-pocket expenditures; randomized controlled trial; Myanmar
+
+\noindent\textbf{JEL codes:} I13; I15; O12; C93
+
+\newpage
+\setcounter{page}{1}
+\onehalfspacing
+
+% ========== 1. Introduction ==========
+\section{Introduction}
+% Context: UHC challenges in Myanmar and the role of micro health insurance.
+% Brief description of Bright Start and the MHMI package.
+% Contribution: experimental evidence in a fragile setting with careful documentation of implementation and exposure.
+% Roadmap of the paper.
+
+% ========== 2. Intervention and Theory of Change ==========
+\section{Intervention and Theory of Change}
+% Describe the MHMI package: hospital insurance, telemedicine, outpatient benefit, information messages.
+% Present the theory of change from the protocol annex.
+% Map inputs -> activities -> outputs -> outcomes (utilization, financial protection).
+
+% ========== 3. Study Design ==========
+\section{Study Design}
+\subsection{Setting and Sample}
+% Two peri-urban townships in Yangon: Hlaing Thar Yar and Shwe Pyi Thar.
+% Target population: pregnant women and children under six, recruited from partner lists.
+
+\subsection{Randomization and Assignment}
+% Unit of randomization: household. Allocation 1:1 to treatment and control.
+% Geographic clustering considerations.
+
+\subsection{Data Collection}
+% Baseline phone survey, planned midline, endline survey about one year later.
+% Survey instruments and timing. Consent and ethical oversight.
+
+\subsection{Outcomes}
+% Primary: telehealth use, outpatient use, OOP expenditures.
+% Secondary: hospitalizations, information access, financial resilience.
+
+\subsection{Power Calculations}
+% Summarize assumptions: baseline utilization around 12–15 percent, ICC around 0.3, MDEs around 5 percentage points for utilization, 1.5 percentage points for hospitalizations, 5–6 USD drop in OOP.
+% Discuss implications for detectable effects under attrition.
+
+% ========== 4. Implementation and Exposure ==========
+\section{Implementation and Exposure}
+% Planned rollout versus realized rollout.
+% Enrollment flow, timing alignment between treatment activation and survey waves.
+% Take-up and adherence metrics. Barriers and context shocks.
+% Administrative data status and attempts to obtain it.
+
+% ========== 5. Empirical Strategy ==========
+\section{Empirical Strategy}
+\subsection{Intent-to-Treat Estimation}
+% Specify ITT model: outcome on treatment assignment with pre-specified controls, township fixed effects if planned, and clustering at the household level.
+% Outline outcomes and time windows.
+
+\subsection{Exposure and Treatment-on-the-Treated (Exploratory)}
+% If available, define exposure measures from survey self-reports.
+% Caution about selection. Present as exploratory.
+
+\subsection{Multiple Outcomes and Inference}
+% Pre-specify primary outcomes. Discuss adjustment strategy for families of outcomes if needed.
+
+\subsection{Heterogeneity Analyses}
+% Township, baseline vulnerability, baseline utilization, child versus pregnant woman.
+
+\subsection{Missing Data and Attrition}
+% Balance checks at baseline. Differential attrition tests. Weighting or bounding if needed.
+
+% ========== 6. Results ==========
+\section{Results}
+\subsection{Descriptive Statistics and Balance}
+% Table of baseline characteristics by assignment. Standardized differences.
+
+\subsection{Implementation and Take-up}
+% Graphs or tables documenting exposure timelines and take-up rates.
+
+\subsection{Main ITT Effects}
+% Telemedicine and outpatient utilization.
+% OOP expenditures.
+% Hospitalization outcomes.
+
+\subsection{Heterogeneity}
+% Report a small set of pre-specified interactions.
+
+\subsection{Robustness and Sensitivity}
+% Alternative specifications, trimming, winsorizing OOP, clustering alternatives, randomization inference if applicable.
+
+% ========== 7. Discussion ==========
+\section{Discussion}
+% Interpret findings given implementation realities.
+% External validity and policy implications for micro insurance and telemedicine in fragile contexts.
+% Lessons on timing alignment, data integration, and partner coordination.
+
+% ========== 8. Conclusion ==========
+\section{Conclusion}
+% Concise summary, policy relevance, and research agenda.
+
+% ========== Acknowledgments, Funding, Ethics ==========
+\section*{Acknowledgments}
+% Thank partners and field teams. List donors. Disclaimer text if required.
+
+\section*{Funding}
+% Identify UNICEF, Terre des hommes, and others as appropriate.
+
+\section*{Ethics and Pre-Analysis}
+% IRB approvals, protocol IDs, and any pre-analysis or registrations.
+% Data security and consent procedures.
+
+\section*{Data and Code Availability}
+% Plan for sharing de-identified data, code, and replication package.
+% Provide repository link once available.
+
+% ========== References ==========
+\printbibliography[heading=bibintoc,title={References}]
+
+% ========== Appendix ==========
+\appendix
+\clearpage
+\section{Additional Context and Protocol Details}
+% Full protocol excerpts as needed. Figures of the theory of change.
+
+\section{Survey Instruments and Variable Mapping}
+% Map protocol outcomes to baseline, midline, and endline survey items.
+% Include a table that links each construct to variable names.
+
+\section{Power Calculations and Assumptions}
+% Reproduce key power figures and assumptions. Document ICC choices and MDEs.
+
+\section{Additional Tables and Figures}
+% Balance tables by township. Robustness checks. Alternative outcome definitions.
+
+\section{Administrative Data Request Log}
+% Record of requests and responses from implementing partners.
+
+\end{document}
