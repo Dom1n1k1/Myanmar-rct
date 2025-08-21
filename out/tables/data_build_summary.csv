@@ -1,0 +1,5 @@
+dataset,n_rows,n_hh,n_ind,treat_na,treat_1,treat_0
+baseline,3210,3210,,0,1657,1553
+endline,2453,2453,,2453,0,0
+midline,534,534,,0,266,268
+panel,2453,2453,,0,1264,1189

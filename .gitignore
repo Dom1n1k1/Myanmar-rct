@@ -1,4 +1,24 @@
-.Rproj.user
+# --- data kept outside Git, on SwitchDrive ---
+data_raw/
+data_clean/
+
+# --- secrets and machine-specific settings ---
+.Renviron
+.env
+
+# --- RStudio cruft ---
 .Rhistory
 .RData
+.Rproj.user/
+.Ruserdata
+
+# --- knitr / cache / misc ---
+*_cache/
+*.utf8.md
+*.knit.md
+*.log
+.DS_Store
+Thumbs.db
+
+
 .Ruserdata
