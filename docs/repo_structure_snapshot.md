@@ -64,15 +64,15 @@
 ## /out (in-repo)
 ### /out/tables
 #### /out/tables/balance_tables
-• schema_scan
+• (empty)
 #### /out/tables/main_results
-• schema_scan
+• (empty)
 #### /out/tables/implementation
-• schema_scan
+• (empty)
 #### /out/tables/heterogeneity
-• schema_scan
+• (empty)
 #### /out/tables/appendix
-• schema_scan
+• (empty)
 ### /out/figures
 #### /out/figures/descriptives
 • (empty)
@@ -108,6 +108,7 @@
 #### /out/data_prep/04_household_raw
 • empty_columns_dropped_hh.csv
 • hh_raw_variables_catalog.csv
+• maternal_candidates_excluded.csv
 • roster_stems_used.csv
 • type_harmonization_summary.csv
 #### /out/data_prep/05_individual_raw

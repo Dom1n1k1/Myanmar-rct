@@ -91,8 +91,8 @@ drop_regex_stem_exact <- if (length(roster_stems)) {
 drop_regex_preg_suffix <- "(?i)_preg($|_)"
 
 # 2c) Pregnancy module from Step 2 candidates (maternal family), if present
-SCHEMA_TBL_DIR <- here::here("out","tables","schema_scan")
-cand_maternal_csv <- fs::path(SCHEMA_TBL_DIR, "schema_candidates_maternal.csv")
+# Source of truth: out/data_prep/02_schema_scan/schema_candidates_maternal.csv
+cand_maternal_csv <- fs::path(PATH_OUT_DP$`02_schema_scan`, "schema_candidates_maternal.csv")
 maternal_vars <- character(0)
 if (fs::file_exists(cand_maternal_csv)) {
   cm <- suppressMessages(readr::read_csv(cand_maternal_csv, show_col_types = FALSE))
@@ -156,9 +156,11 @@ extract_hh_wave <- function(df, wave_label) {
   if (length(empties)) {
     message(wave_label, ": dropping ", length(empties), " completely empty column(s).")
     joined <- dplyr::select(joined, -dplyr::any_of(empties))
-    assign(".empties_log", get0(".empties_log", ifnotfound = tibble::tibble()) |>
-             dplyr::bind_rows(tibble::tibble(wave = wave_label, column = empties)),
-           envir = .GlobalEnv)
+    # Append to the local accumulator defined above
+    empties_log <<- dplyr::bind_rows(
+      empties_log,
+      tibble::tibble(wave = wave_label, column = empties)
+    )
   }
   
   # relocate identifiers
@@ -169,8 +171,8 @@ extract_hh_wave <- function(df, wave_label) {
   out
 }
 
-# empties log container
-.assign_ok <- try(assign(".empties_log", tibble::tibble(wave = character(), column = character()), envir = .GlobalEnv), silent = TRUE)
+# empties log container (local, not .GlobalEnv)
+empties_log <- tibble::tibble(wave = character(), column = character())
 
 hh_bl_pw <- extract_hh_wave(bl, "baseline")
 hh_el_pw <- extract_hh_wave(el, "endline")
@@ -314,9 +316,10 @@ created_out <- c(created_out, .write_out(tibble::tibble(stem = roster_stems), "r
 if (length(maternal_vars)) {
   created_out <- c(created_out, .write_out(tibble::tibble(var = maternal_vars), "maternal_candidates_excluded.csv"))
 }
-# Empty columns dropped per wave
-empties_log <- get0(".empties_log", ifnotfound = tibble::tibble(wave = character(), column = character()))
+
+# Empty columns dropped per wave (already accumulated locally)
 created_out <- c(created_out, .write_out(empties_log, "empty_columns_dropped_hh.csv"))
+
 
 # ---- 7) Log and snapshot -------------------------------------------
 append_log(

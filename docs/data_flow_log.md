@@ -802,3 +802,23 @@ Timestamp: 2025-09-22 18:00
 **/data**: /04_household_raw/hh_raw_long.rds
 
 ---
+## 00_setup.R  
+Timestamp: 2025-09-22 18:32
+**/code**: code/00_setup.R
+**/docs**: docs/data_flow_log.md
+**/docs**: docs/repo_structure_snapshot.md
+
+---
+## 04_build_household.R  
+Timestamp: 2025-09-22 18:32
+**/code**: code/04_build_household.R
+**/out**: /data_prep/04_household_raw/hh_raw_variables_catalog.csv
+**/out**: /data_prep/04_household_raw/roster_stems_used.csv
+**/out**: /data_prep/04_household_raw/maternal_candidates_excluded.csv
+**/out**: /data_prep/04_household_raw/empty_columns_dropped_hh.csv
+**/data**: /04_household_raw/baseline_household_raw.rds
+**/data**: /04_household_raw/endline_household_raw.rds
+**/data**: /04_household_raw/midline_household_raw.rds
+**/data**: /04_household_raw/hh_raw_long.rds
+
+---
