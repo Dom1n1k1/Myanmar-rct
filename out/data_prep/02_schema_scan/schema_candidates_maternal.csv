@@ -1,0 +1,883 @@
+wave,var,label,type,n_missing,pct_missing,n_unique,examples
+baseline,a12_preg,A12.Pregnancy status,haven_labelled,2788,86.9,1,1
+baseline,a14_age_preg,A14.Age of Pregnant Mother,numeric,2789,86.9,28,21 | 31 | 39 | 33 | 26
+baseline,a14_dob_1,A14.Birthdate of Child(1),Date,230,7.2,1534,2019-10-09 | 2019-10-10 | 2018-07-15 | 2020-02-20 | 2019-12-01
+baseline,a14_dob_2,A14.Birthdate of Child(2),Date,2401,74.8,636,2021-08-27 | 2018-09-04 | 2017-05-23 | 2020-12-19 | 2016-06-18
+baseline,a14_dob_3,A14.Birthdate of Child(3),Date,3089,96.2,115,2020-05-04 | 2016-05-15 | 2020-10-22 | 2017-08-08 | 2021-09-13
+baseline,a14_dob_4,A14.Birthdate of Child(4),Date,3202,99.8,8,2018-02-03 | 2021-09-25 | 2015-08-12 | 2014-12-01 | 2020-06-07
+baseline,a14_edu_preg,A14.Education level of Pregnant Mother,haven_labelled,2788,86.9,3,2 | 3 | 1
+baseline,a14_employ,A14.Employment status of Pregnant Mother,haven_labelled,2789,86.9,4,4 | 1 | 2 | 5
+baseline,c10_seekcare_preg,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,2924,91.1,2,0 | 1
+baseline,c11_disease_preg,C11.Disease diagnosed for the most recent interaction in the past 30 days [Pregn,character,0,0,51, | 11 | 3 9 | 25 | 3 8
+baseline,c11_disease_preg_1,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_10,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_11,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the,haven_labelled,3001,93.5,2,1 | 0
+baseline,c11_disease_preg_12,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_13,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_14,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_15,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_16,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_17,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto",haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_18,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_19,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_2,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_20,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_21,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_22,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_23,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_24,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_25,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_26,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_27,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_28,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_29,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_3,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_30,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_31,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_32,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_33,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_34,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_35,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_36,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_37,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_38,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_39,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_4,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_40,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_41,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_42,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_43,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_44,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_45,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_5,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_6,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_preg_7,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct",haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_8,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_preg_9,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo,haven_labelled,3001,93.5,2,0 | 1
+baseline,c11_disease_u7_21_1,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,2120,66,1,0
+baseline,c11_disease_u7_21_2,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,2932,91.3,1,0
+baseline,c11_disease_u7_21_3,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,3169,98.7,1,0
+baseline,c11_disease_u7_21_4,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,3207,99.9,1,0
+baseline,c12_diagnose_preg,C12.Diagnostic / lab tests performed [Pregnant Mother],haven_labelled,3001,93.5,2,0 | 1
+baseline,c13_medication_preg,C13.Prescribing medications [Pregnant Mother],haven_labelled,3001,93.5,2,1 | 0
+baseline,c14_meditake_preg,C14.Taking the medicines as prescribed [Pregnant Mother],haven_labelled,3006,93.6,2,1 | 0
+baseline,c15_format_preg,C15.Format of seeking medical advice/treatment [Pregnant Mother],character,0,0,5, | 1 | 1 2 3 | 1 2 | 2
+baseline,c15_format_preg_1,C15_1.[In person] was the format of health seeking in the last 30 days.,haven_labelled,3001,93.5,2,1 | 0
+baseline,c15_format_preg_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,3001,93.5,2,0 | 1
+baseline,c15_format_preg_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,3001,93.5,2,0 | 1
+baseline,c16_virtual_preg,C16.Ways of telemedicine consultations in  the last 30 days [Pregnant Mother],character,0,0,2, | 4
+baseline,c16_virtual_preg_1,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_2,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_3,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_4,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,1
+baseline,c16_virtual_preg_5,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_6,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_7,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,3205,99.8,1,0
+baseline,c17_virtime_preg,C17.Times of telemedicine consultations in  the last 30 days [Pregnant Mother],numeric,3205,99.8,2,3 | 1
+baseline,c18_virlast_preg,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,3205,99.8,1,4
+baseline,c19_pertime_preg,C19.Times in-person consultation visits in the last 30 days [Pregnant Mother],numeric,3003,93.6,6,3 | 1 | 4 | 2 | 5
+baseline,c1_time_preg,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,2789,86.9,20,2 | 10 | 3 | 1 | 8
+baseline,c20_personlast_preg,C20.Place of in person visist for the most recent visit in the last 30 days [Pre,haven_labelled,3003,93.6,14,8 | 7 | 1 | 11 | 4
+baseline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,3001,93.5,41,15000 | 5000 | 10000 | 3000 | 70000
+baseline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,3001,93.5,25,2000 | 1500 | 5000 | 30000 | 0
+baseline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,3001,93.5,66,17000 | 7000 | 11500 | 8000 | 100000
+baseline,c23_reimburse_preg,C23.Amount of money [MMK] reimbursed from main health insurance [Pregnant Mother,numeric,3181,99.1,6,0 | 20000 | 8600 | 10000 | 5000
+baseline,c23_reimburse_u7_1,C23.Amount of money [MMK] reimbursed from main health insurance [Child (1)],numeric,3192,99.4,3,50000 | 0 | 40000
+baseline,c23_reimburse_u7_2,C23.Amount of money [MMK] reimbursed from main health insurance [Child (2)],numeric,3199,99.7,2,0 | 40000
+baseline,c23_reimburse_u7_3,C23.Amount of money [MMK] reimbursed from main health insurance [Child (3)],numeric,3209,100,1,15000
+baseline,c24_stopnormal_preg,C24.Number Days stoped normal activities because of the illness [Pregnant Mother,numeric,2924,91.1,13,5 | 10 | 4 | 6 | 2
+baseline,c25_assist_preg,C25.Gov/NGO/INGO assistance for [Pregnant Mother],character,0,0,9, | 7 | 0 | 3 | 4
+baseline,c25_assist_preg_0,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_preg_1,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,2789,86.9,1,0
+baseline,c25_assist_preg_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,1,0
+baseline,c25_assist_preg_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_preg_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_preg_5,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_preg_6,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_preg_7,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,2,1 | 0
+baseline,c25_assist_preg_8,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,2789,86.9,1,0
+baseline,c25_assist_preg_98,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,2789,86.9,2,0 | 1
+baseline,c25_assist_u7_0_1,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,255,7.9,2,0 | 1
+baseline,c25_assist_u7_0_2,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,2439,76,2,0 | 1
+baseline,c25_assist_u7_0_3,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,3097,96.5,2,1 | 0
+baseline,c25_assist_u7_0_4,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,2,0 | 1
+baseline,c25_assist_u7_1,C25.Gov/NGO/INGO assistance for [Child (1)],character,0,0,20,Don't know | 0 | 7 | 0 7 | 1
+baseline,c25_assist_u7_1_1,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_1_2,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,2400,74.8,2,0 | 1
+baseline,c25_assist_u7_1_3,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,3089,96.2,2,0 | 1
+baseline,c25_assist_u7_1_4,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_2,C25.Gov/NGO/INGO assistance for [Child (2)],character,0,0,15, | 6 | 7 | 0 | 4
+baseline,c25_assist_u7_2_1,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_2_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,2400,74.8,2,0 | 1
+baseline,c25_assist_u7_2_3,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,3089,96.2,1,0
+baseline,c25_assist_u7_2_4,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_3,C25.Gov/NGO/INGO assistance for [Child (3)],character,0,0,10, | 0 3 | 0 | 7 | Don't know
+baseline,c25_assist_u7_3_1,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_3_2,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,2400,74.8,2,0 | 1
+baseline,c25_assist_u7_3_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,3089,96.2,2,1 | 0
+baseline,c25_assist_u7_3_4,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_4,C25.Gov/NGO/INGO assistance for [Child (4)],character,0,0,3, | 0 | 7
+baseline,c25_assist_u7_4_1,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_4_2,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,2400,74.8,2,0 | 1
+baseline,c25_assist_u7_4_3,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,3089,96.2,2,0 | 1
+baseline,c25_assist_u7_4_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_5_1,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_5_2,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,2400,74.8,2,0 | 1
+baseline,c25_assist_u7_5_3,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,3089,96.2,2,0 | 1
+baseline,c25_assist_u7_5_4,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_6_1,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_6_2,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,2400,74.8,2,1 | 0
+baseline,c25_assist_u7_6_3,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,3089,96.2,1,0
+baseline,c25_assist_u7_6_4,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_7_1,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_7_2,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,2397,74.7,2,0 | 1
+baseline,c25_assist_u7_7_3,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,3088,96.2,2,0 | 1
+baseline,c25_assist_u7_7_4,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,2,0 | 1
+baseline,c25_assist_u7_8_1,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,230,7.2,2,0 | 1
+baseline,c25_assist_u7_8_2,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,2400,74.8,1,0
+baseline,c25_assist_u7_8_3,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,3089,96.2,1,0
+baseline,c25_assist_u7_8_4,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,3202,99.8,1,0
+baseline,c25_assist_u7_98_1,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,255,7.9,2,1 | 0
+baseline,c25_assist_u7_98_2,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,2439,76,2,0 | 1
+baseline,c25_assist_u7_98_3,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,3097,96.5,2,0 | 1
+baseline,c25_assist_u7_98_4,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,3202,99.8,1,0
+baseline,c26_nonsick_preg,C26.The reasons of visit/interact with health care providers although Pregnant M,character,0,0,4, | 1 | 7 | 1 6
+baseline,c26_nonsick_preg_1,C26_1.[Antenatal care] is the reason that Pregnant Mother visit/interact with he,haven_labelled,3075,95.8,2,1 | 0
+baseline,c26_nonsick_preg_2,C26_2.[Childbirth ] is the reason that Pregnant Mother visit/interact with healt,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_3,C26_3.[General check-up] is the reason that Pregnant Mother visit/interact with,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_4,C26_4.[Family planning] is the reason that Pregnant Mother visit/interact with h,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,3075,95.8,2,0 | 1
+baseline,c26_nonsick_preg_7,C26_7.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,3075,95.8,2,0 | 1
+baseline,c27_notconsult_preg,C27.The reasons that the [Pregnant Mother] didn't seek health care although sick,character,0,0,17, | 1 2 | 1 | 2 | 2 3
+baseline,c27_notconsult_preg_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,3133,97.6,2,1 | 0
+baseline,c27_notconsult_preg_10,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_11,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_12,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_13,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_14,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_15,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_16,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_17,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_18,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_19,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,2,1 | 0
+baseline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_22,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_23,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_24,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_25,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_5,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_6,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_7,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_8,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_9,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_u7_23_1,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,2339,72.9,1,0
+baseline,c27_notconsult_u7_23_2,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_23_3,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_23_4,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3208,99.9,1,0
+baseline,c28_inpatient_preg,C28.Hospitalization during 12 months [Pregnant Mother],haven_labelled,2789,86.9,2,0 | 1
+baseline,c29_insu_preg,C29.Main (government or private) health insurance covering inpatient care[Pregna,haven_labelled,2789,86.9,5,0 | 1 | 2 | 3 | 98
+baseline,c29_insu_u7_1,C29.Main (government or private) health insurance covering inpatient care[Child,numeric,230,7.2,6,0 | 98 | 2 | 1 | 4
+baseline,c29_insu_u7_2,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,2400,74.8,5,0 | 4 | 98 | 1 | 2
+baseline,c29_insu_u7_3,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,3089,96.2,2,0 | 1
+baseline,c29_insu_u7_4,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,3202,99.8,1,0
+baseline,c2_nature_preg,C2.Nature of the interactions in the last 12 months [Pregnant Mother],character,0,0,9, | 1 3 | 1 6 | 1 | 6
+baseline,c2_nature_preg_1,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,2823,87.9,2,1 | 0
+baseline,c2_nature_preg_10,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_2,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,2836,88.3,2,0 | 1
+baseline,c2_nature_preg_3,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,2832,88.2,2,1 | 0
+baseline,c2_nature_preg_4,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_5,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_6,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,2836,88.3,2,0 | 1
+baseline,c2_nature_preg_7,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_8,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_9,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_u7_9_1,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,1312,40.9,2,0 | 1
+baseline,c2_nature_u7_9_2,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_9_3,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_9_4,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,3208,99.9,1,0
+baseline,c30_episode_preg,C30.Episodes of hospitalization in the last 12 months [Pregnant Mother],numeric,3194,99.5,3,1 | 4 | 3
+baseline,c31_disease_preg,C31.Reasons for hospitalization for the most recent episode [Pregnant Mother],character,0,0,13, | 24 | 22 | 36 | 5
+baseline,c31_disease_preg_1,C31_1.[Malaria/ fever] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_10,C31_10.[Diabetes] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_11,C31_11.[Hypertension] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_12,C31_12.[Diarrhea] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_13,C31_13.[Intestinal worms] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_14,C31_14.[STD (Syphilis etc)] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_15,C31_15.[Accidents and injuries] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_16,C31_16.[Gender Based Violence related injuries] was the reason for hospitalizati,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_17,C31_17.[Cancer] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_18,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_19,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_2,C31_2.[Diseases of Respiratory including pneumonia] was the reason for hospitali,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_20,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_21,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_22,C31_22.[Abortion] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_23,C31_23.[Covid-19] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_24,C31_24.[Surgery for Appendicitis] was the reason for hospitalization.,haven_labelled,3194,99.5,2,1 | 0
+baseline,c31_disease_preg_25,"C31_25.[Skin diseases (e.g., boils, lesions, etc.)] was the reason for hospitali",haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_26,C31_26.[Gastritics] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_27,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_28,C31_28.[Dengue Haemorrhagic Fever] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_29,C31_29.[Surgery for hydrocephalus] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_3,C31_3.[TB] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_30,C31_30.[Surgery for hernia] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_31,C31_31.[Melena] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_32,C31_32.[Intussusception] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_33,C31_33.[Epilepsy/seizure] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_34,C31_34.[Fever] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_35,C31_35.[Drug poison/food poison] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_36,"C31_36.[Signs of labours (pain, rupture of membrane)] was the reason for hospita",haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_37,C31_37.[Jaundice] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_38,C31_38.[Meningitis] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_39,C31_39.[Constipation] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_4,C31_4.[Kidney disease] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_40,C31_40.[Low Birth weight] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_41,C31_41.[The newborn could not be fed.] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_42,C31_42.[Cleft palate surgery] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_5,C31_5.[Liver disease] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_6,C31_6.[Cardiovascular disease] was the reason for hospitalization.,haven_labelled,3194,99.5,2,0 | 1
+baseline,c31_disease_preg_7,C31_7.[Haematological disorders] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_8,C31_8.[Eye infections] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_preg_9,C31_9.[HIV/AIDS] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_u7_17_1,C31_17.[Cancer] was the reason for hospitalization..,haven_labelled,3127,97.4,1,0
+baseline,c31_disease_u7_17_2,C31_17.[Cancer] was the reason for hospitalization..,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_17_3,C31_17.[Cancer] was the reason for hospitalization..,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_18_1,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..,haven_labelled,3127,97.4,1,0
+baseline,c31_disease_u7_18_2,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_18_3,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_19_1,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..,haven_labelled,3127,97.4,2,0 | 1
+baseline,c31_disease_u7_19_2,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_19_3,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_20_1,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,3127,97.4,2,0 | 1
+baseline,c31_disease_u7_20_2,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_20_3,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_21_1,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,3127,97.4,2,0 | 1
+baseline,c31_disease_u7_21_2,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_21_3,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_27_1,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,3127,97.4,1,0
+baseline,c31_disease_u7_27_2,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_27_3,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,3209,100,1,0
+baseline,c31_disease_u7_40_1,C31_40.[Low Birth weight] was the reason for hospitalization..,haven_labelled,3127,97.4,2,0 | 1
+baseline,c31_disease_u7_40_2,C31_40.[Low Birth weight] was the reason for hospitalization..,haven_labelled,3176,98.9,1,0
+baseline,c31_disease_u7_40_3,C31_40.[Low Birth weight] was the reason for hospitalization..,haven_labelled,3209,100,1,0
+baseline,c32_opd_preg,C32.Seeking outpatient/primary care before hospitalization [Pregnant Mother],haven_labelled,3194,99.5,2,1 | 0
+baseline,c33_hospital_preg,C33.Place of hospitalization for the most recent episode [Pregnant Mother],haven_labelled,3194,99.5,2,1 | 5
+baseline,c34_stopnormal_preg,C34.Number of days stopped for normal activities because of the hospitalization,numeric,3194,99.5,8,7 | 30 | 8 | 5 | 20
+baseline,c35_days_preg,C35.Days spent in the hospital for the most recent hospitalization [Pregnant Mot,numeric,3194,99.5,8,4 | 3 | 1 | 2 | 8
+baseline,c36_health_preg,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,3196,99.6,9,110000 | 200000 | 20000 | 100000 | 15000
+baseline,c37_nonhealth_preg,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,3196,99.6,10,20000 | 40000 | 22000 | 30000 | 7000
+baseline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,3194,99.5,14,130000 | 240000 | 42000 | 196 | 120000
+baseline,c38_reimburse_preg,C38.Amount of money[MMK] reimbursed for the most recent hospitalization [Pregnan,numeric,3209,100,1,0
+baseline,c3_test_preg,C3.Tests/Investigations involved in the last 12 months [Pregnant Mother],haven_labelled,2825,88,2,0 | 1
+baseline,c4_hospital_preg,C4.Episodes of hospitalization in the last 12 months [Pregnant Mother],numeric,2789,86.9,4,0 | 1 | 4 | 3
+baseline,c5_amount_preg,C5.Approximate spent on health care in the last 12 months [Pregnant Mother],numeric,2841,88.5,70,18000 | 250000 | 5000 | 45000 | 6000
+baseline,c6_selfmed_preg,C6.Approximate spent on self-prescribed medication in the last 12 months [Pregna,numeric,3165,98.6,14,40000 | 2000 | 0 | 30000 | 50000
+baseline,c7_compare_preg,C7.Health care utilizaiton after February 1 [Pregnant Mother].,haven_labelled,2789,86.9,3,3 | 1 | 2
+baseline,c8_illyesno_preg,"C8.llness, injury, or health complaints in the last 30 days [Pregnant Mother]",haven_labelled,2789,86.9,2,1 | 0
+baseline,c9_insu_preg,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,2789,86.9,5,0 | 1 | 2 | 98 | 4
+baseline,c9_insu_u7_1,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,230,7.2,6,0 | 98 | 2 | 4 | 1
+baseline,c9_insu_u7_2,C9.Main (government or private) health insurance covering outpatient care for si,numeric,2400,74.8,4,0 | 4 | 98 | 1
+baseline,c9_insu_u7_3,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,3089,96.2,3,0 | 4 | 1
+baseline,c9_insu_u7_4,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,3202,99.8,1,0
+baseline,d10_past_preg,D10.Have you been pregnant in the last 5 years?[Note: Excludes current pregnancy,haven_labelled,150,4.7,2,1 | 0
+baseline,d13_reason_14,D13_14.[My insurance covered the costs at that health facility partially or full,haven_labelled,583,18.2,2,0 | 1
+baseline,d13_reason_15,"D13_15.[Due to complications at Childbirth/pregnancy (pre-eclampsia,preterm labo",haven_labelled,583,18.2,2,1 | 0
+baseline,d13_reason_24,"D13_24.[High risk pregnanacy (Primagravida,Smaller pregnancy gap(within one year",haven_labelled,599,18.7,2,0 | 1
+baseline,d13_reason_26,D13_26.[There was no patient's attendance for me.] was  the main reasons for cho,haven_labelled,599,18.7,2,0 | 1
+baseline,d13_reason_28,D13_28.[Easy to get birth registration certificate] was  the main reasons for ch,haven_labelled,599,18.7,1,0
+baseline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,562,17.5,2,0 | 1
+baseline,d1_preg,D1.Are you currently pregnant?,haven_labelled,2788,86.9,1,1
+baseline,d2_insu_preg,D2.What is the main (government or private) health insurance covering [NAME]’s ',haven_labelled,2789,86.9,5,0 | 1 | 2 | 4 | 98
+baseline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,2789,86.9,33,30 | 28 | 33 | 26 | 36
+baseline,d4_anc,D4.Have you ever been for antenatal care?,haven_labelled,2789,86.9,2,1 | 0
+baseline,d5_firstseek,D5.How far along were you when you first sought antenatal care for this pregnanc,numeric,2817,87.8,30,26 | 8 | 17 | 30 | 7
+baseline,d6_anctime,D6.How many times have you sought antenatal care for this pregnancy so far?,numeric,2817,87.8,16,1 | 3 | 2 | 6 | 5
+baseline,e3a_birth_1,E3a.At Birth,haven_labelled,714,22.2,3,98 | 2 | 1
+baseline,e3a_birth_2,E3a.At Birth,haven_labelled,2672,83.2,3,1 | 2 | 98
+baseline,e3a_birth_3,E3a.At Birth,haven_labelled,3146,98,3,1 | 2 | 98
+baseline,e3a_birth_4,E3a.At Birth,haven_labelled,3204,99.8,2,1 | 2
+baseline,f1_income_11,"F1_11.[Private gifts, donations, assistance ] was the sources of income in the l",haven_labelled,0,0,2,1 | 0
+baseline,f1_income_12,"F1_12.[Government assistance, pensions] was the sources of income in the last 12",haven_labelled,0,0,2,0 | 1
+baseline,f1_income_13,F1_13.[Remittance from abroad ] was the sources of income in the last 12 months.,haven_labelled,0,0,2,0 | 1
+baseline,f1_income_14,F1_14.[Remittance from other parts of the country ] was the sources of income in,haven_labelled,0,0,2,0 | 1
+baseline,h3_suspected_6,H3_6.[Keep social distancing with suspected person.] would be done if found out,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_10,H4_10.[Eating well balanced diet] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,new_born,Pregnant mother just born the baby after enrollment,haven_labelled,0,0,2,0 | 1
+endline,a13_1_preg_j,A13.1. # of pregnant woman in the HH (joined after November 2021),numeric,1969,80.3,2,0 | 1
+endline,a13_2_preg_l,A13.2. # of pregnant woman in the HH (left after baseline),numeric,2245,91.5,2,0 | 1
+endline,a16_age_preg_1,A16.(${a16_pregnm})'s Age[Completed Age],numeric,2439,99.4,12,32 | 18 | 30 | 29 | 38
+endline,a16_dob_1,A16.The date of birth of ${u7_id} and name : ${a16_u7nm},Date,2067,84.3,228,2022-08-15 | 2021-12-27 | 2021-11-16 | 2022-03-28 | 2021-08-24
+endline,a16_dob_2,A16.The date of birth of ${u7_id} and name : ${a16_u7nm},Date,2440,99.5,13,2021-12-05 | 2019-11-30 | 2018-05-12 | 2021-04-15 | 2022-05-30
+endline,a16_dob_3,A16.The date of birth of ${u7_id} and name : ${a16_u7nm},Date,2451,99.9,2,2017-11-30 | 2017-11-25
+endline,a16_edu_preg_1,A16.(${a16_pregnm})'s Highest level of education,haven_labelled,2439,99.4,3,1 | 2 | 3
+endline,a16_employ_1,A16.(${a16_pregnm})'s Employment status,haven_labelled,2439,99.4,4,1 | 2 | 4 | 3
+endline,a16_employ_bl,A16.(${a16_pregnm})'s Employment status,haven_labelled,2114,86.2,5,1 | 4 | 2 | 5 | 3
+endline,a16_pregnm_1,A16.what is pregnant women's name ?,character,0,0,15, | DAW  AYE  THIDAR | မဆုမြတ်သွယ် | မအိသဥ္ဇာထွန်း | Ma War War Tun
+endline,c10_seekcare_preg,"C10.During the past 30 days, did [${preg_name}] consult anyone or visit any hea",haven_labelled,2284,93.1,2,0 | 1
+endline,c11_disease_preg,"C11.For which disease (diagnosed by doctor/health care provider), [${preg_name}",character,0,0,49, | 3 8 | 22 | 1 | 3 10
+endline,c11_disease_preg_1,C11. Diarrhea,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_10,C11. Running nose,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_11,C11. Influenza,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_12,C11. Abdominal pain,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_13,C11. Covid 19,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_14,C11. Hypertension,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_15,C11. Diabetes,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_16,C11. Nausea and vomiting,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_17,"C11. Accidents (motorbike/car accidents, etc)",haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_18,C11. Occupational injuries or other injuries,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_19,C11. Oral disease,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_2,C11. Dengue Hemorrhagic Fever,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_20,C11. Low blood pressure/hypotension,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_21,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)",haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_22,C11. Heart disease,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_23,C11. Sore throat,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_24,C11. Muscle and joint pain,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_25,C11. Food poison,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_26,C11. Gastritics,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_27,C11. Urinary tract infection(UTI),haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_28,C11. Neurological disorders/headache,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_29,C11. Constipation,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_3,C11. Fever,haven_labelled,2362,96.3,2,1 | 0
+endline,c11_disease_preg_30,C11. Pneumonia/AVI/Other respiratory tract infections,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_31,C11. Asthema,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_32,C11. Intestinal worms,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_33,C11. Bone demorfimty,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_34,C11. Indigestion,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_35,C11. Hydrocephalus,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_36,C11. Bloating,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_37,C11. Ear infection,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_38,C11. Epistasis,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_39,C11. Epilepsy/seizure,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_4,C11. Malaria,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_40,C11. Paralysis,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_41,C11. Medical checkup/investigations,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_42,C11. Weakness,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_43,C11. Back pain,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_44,C11. Jaundice,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_45,C11. Eyes disease/eyes infection,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_46,C11. Liver and biliary tract disease,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_47,C11. Lump,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_48,C11. Cancer,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_5,C11. Typhoid,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_6,C11. Kidney disease,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_7,"C11. Skin diseases (e.g., boils, lesions, etc.)",haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_8,C11. Cough,haven_labelled,2362,96.3,2,1 | 0
+endline,c11_disease_preg_9,C11. Nasal congestion,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_preg_97,C11. Prefer not to answer,haven_labelled,2362,96.3,1,0
+endline,c11_disease_preg_98,C11. Don't know,haven_labelled,2362,96.3,2,0 | 1
+endline,c11_disease_u7_21_1,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)",haven_labelled,1708,69.6,1,0
+endline,c11_disease_u7_21_2,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)",haven_labelled,2272,92.6,1,0
+endline,c11_disease_u7_21_3,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)",haven_labelled,2436,99.3,1,0
+endline,c11_disease_u7_21_4,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)",haven_labelled,2449,99.8,1,0
+endline,c11_disease_u7_48_1,C11. Cancer,haven_labelled,1708,69.6,2,0 | 1
+endline,c11_disease_u7_48_2,C11. Cancer,haven_labelled,2272,92.6,1,0
+endline,c11_disease_u7_48_3,C11. Cancer,haven_labelled,2436,99.3,1,0
+endline,c11_disease_u7_48_4,C11. Cancer,haven_labelled,2449,99.8,1,0
+endline,c12_diagnose_preg,C12.Were any diagnostic / lab tests performed on [${preg_name}] as a part of th,haven_labelled,2362,96.3,2,0 | 1
+endline,c13_medication_preg,C13.Did the provider prescribe [${preg_name}] any medications as a part of the,haven_labelled,2362,96.3,1,1
+endline,c14_meditake_preg,C14.Did [${preg_name}] take the medicines prescribed by the provider?,haven_labelled,2362,96.3,2,1 | 0
+endline,c15_format_preg,"C15.For [${preg_name}] in the past 30 days, what was the format of seeking medi",character,0,0,3, | 1 | 3
+endline,c15_format_preg_1,C15. In person,haven_labelled,2362,96.3,2,1 | 0
+endline,c15_format_preg_2,C15. Telemdicine only,haven_labelled,2362,96.3,1,0
+endline,c15_format_preg_3,C15. Mix of inperson and telemedcicne,haven_labelled,2362,96.3,2,0 | 1
+endline,c16_virtual_preg,"C16.During the past 30 days, select all the ways [${preg_name}] ever communicat",character,0,0,2, | 4
+endline,c16_virtual_preg_1,C16. Text Message,haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_2,C16. Email,haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_3,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_4,C16. Phone calls,haven_labelled,2452,100,1,1
+endline,c16_virtual_preg_5,"C16. Videoconference (e.g viber, telegram, messenger)",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_6,"C16. Audioconference (e.g viber, telegram, messenger)",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_7,C16. eVisit (when you answer questions about your health issue online and hear b,haven_labelled,2452,100,1,0
+endline,c17_virtime_preg,"C17.During the past 30 days, how many times did [${preg_name}] have telemedicin",numeric,2452,100,1,2
+endline,c18_virlast_preg,"C18.For the most recent telemedicine consultation in the last 30 days, where did",haven_labelled,2452,100,1,4
+endline,c19_pertime_preg,"C19.During the past 30 days, how many in-person consultation visits did [${preg",numeric,2363,96.3,5,2 | 1 | 5 | 3 | 4
+endline,c1_time_preg,"C1.In the last 12 months, approximately how many times did [${a14_pregnm}] inte",numeric,2114,86.2,19,20 | 5 | 4 | 13 | 3
+endline,c20_personlast_preg,"C20.For your most recent visit in the past 30 days, where did [${preg_name}] ge",haven_labelled,2363,96.3,12,8 | 13 | 1 | 7 | 16
+endline,c21_health_preg,"C21. For [${preg_name}]'s most recent visit/interaction, how much money was spe",numeric,2362,96.3,34,10000 | 0 | 3000 | 23000 | 11500
+endline,c22_nonhealth_preg,"C22.For [${preg_name}]'s most recent visit/interaction, how much money was spen",numeric,2362,96.3,19,2000 | 0 | 5000 | 1500 | 10000
+endline,c23_reimburse_preg,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_pre",numeric,2435,99.3,3,0 | 41000 | 55000
+endline,c24_stopnormal_preg,"C24.For the most recent visit in the past 30 days, how many days did [${preg_na",numeric,2284,93.1,11,0 | 5 | 3 | 2 | 1
+endline,c25_assist_preg,C25.Does [${preg_name}] or someone in his/her household currently receiving ass,character,0,0,21, | 7 | 4 | 0 | 9
+endline,c25_assist_preg_0,C25. None,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_1,C25. Save the children,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_10,C25. Private donors,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_11,C25. Pact Myanmar,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_12,C25. International Labour Organization (ILO),haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_2,C25. LIFT,haven_labelled,2114,86.2,1,0
+endline,c25_assist_preg_3,C25. MCCT,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_4,C25. UNICEF,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_5,C25. World Food Program (WFP),haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_6,C25. Local charity organizations,haven_labelled,2114,86.2,1,0
+endline,c25_assist_preg_7,C25. TdH,haven_labelled,2114,86.2,2,1 | 0
+endline,c25_assist_preg_8,C25. Myat Wynn Lay Myar group,haven_labelled,2114,86.2,1,0
+endline,c25_assist_preg_9,C25. Bright Start/Common Health,haven_labelled,2114,86.2,2,0 | 1
+endline,c25_assist_preg_97,C25. Prefer not to answer,haven_labelled,2114,86.2,1,0
+endline,c25_assist_preg_98,C25. Don't know,haven_labelled,2114,86.2,2,0 | 1
+endline,c26_nonsick_preg,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,8, | 7 | 6 | 3 | 5
+endline,c26_nonsick_preg_1,C26. Prenatal care,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_2,C26. Childbirth,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_3,C26. General check-up,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_4,C26. Family planning,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_5,C26. Covid-19 vaccination,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_6,C26. Other vaccination,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_7,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,2283,93.1,2,1 | 0
+endline,c27_notconsult_preg,C27.Why did [${preg_name}] not consult anyone or seek treatment? [Select all th,character,0,0,12, | 1 2 3 | 1 | 3 | 1 2
+endline,c27_notconsult_preg_1,C27. Not serious illness,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_10,C27. Could not get permission,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_11,C27. Embarrassment,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_12,C27. Problem disappeared,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_13,C27. Didn't want to go/ anxious,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_14,C27. Bad previous experience,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_15,C27. Couldn't stop working,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_16,C27. Had children/ other responsibilities at home,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_17,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_18,C27. Doctors or health care providers didn't allow me to come,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_19,C27. Concern about getting Covid 19,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_2,C27. Self-treated,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_20,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_21,C27. Clinics were closed,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_22,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_23,C27. Lack of available transportation,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_24,C27. Clinic/ hospital had a long wait time,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_3,C27. No money for treatment,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_4,C27. Too far,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_5,C27. Poor services,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_6,C27. Not safe,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_7,C27. Do not know can be fixed,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_8,C27. Do not know where to go,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_9,C27. Too expensive,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_u7_22_1,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_22_2,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_22_3,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_22_4,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2452,100,1,0
+endline,c28_inpatient_preg,"C28.During the past 12 months, was [${preg_name}] hospitalized because of an il",haven_labelled,2114,86.2,2,1 | 0
+endline,c29_insu_preg,C29.What is the main (government or private) health insurance covering [NAME]'s,haven_labelled,2114,86.2,10,8 | 0 | 5 | 6 | 98
+endline,c29_insu_u7_1,C29.What is the main (government or private) health insurance covering [NAME]'s,haven_labelled,193,7.9,9,0 | 6 | 5 | 98 | 7
+endline,c29_insu_u7_2,C29.What is the main (government or private) health insurance covering [NAME]'s,haven_labelled,1863,75.9,7,0 | 5 | 98 | 7 | 6
+endline,c29_insu_u7_3,C29.What is the main (government or private) health insurance covering [NAME]'s,haven_labelled,2367,96.5,4,0 | 5 | 7 | 98
+endline,c29_insu_u7_4,C29.What is the main (government or private) health insurance covering [NAME]'s,haven_labelled,2445,99.7,2,0 | 5
+endline,c2_nature_preg,C2.Why did have these interactions that [${preg_name}] had in the last 12 month,character,0,0,28, | 1 3 | 3 | 1 | 1 8
+endline,c2_nature_preg_1,C2. Illness/ Injury,haven_labelled,2128,86.8,2,1 | 0
+endline,c2_nature_preg_10,C2. Obesity,haven_labelled,2128,86.8,1,0
+endline,c2_nature_preg_11,C2. Child birth,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_2,C2. Child immunization,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_3,C2. Antenatal care,haven_labelled,2127,86.7,2,1 | 0
+endline,c2_nature_preg_4,C2. Influenza Vaccination,haven_labelled,2128,86.8,1,0
+endline,c2_nature_preg_5,C2. Covid 19 vaccination,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_6,C2. Medical checkup,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_7,C2. Receiving health education/medical advice,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_8,C2. Newborn followup,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_preg_9,C2. Low birth weight,haven_labelled,2128,86.8,1,0
+endline,c2_nature_u7_11_1,C2. Child birth,haven_labelled,624,25.4,1,0
+endline,c2_nature_u7_11_2,C2. Child birth,haven_labelled,2027,82.6,1,0
+endline,c2_nature_u7_11_3,C2. Child birth,haven_labelled,2396,97.7,1,0
+endline,c2_nature_u7_11_4,C2. Child birth,haven_labelled,2448,99.8,1,0
+endline,c2_nature_u7_9_1,C2. Low birth weight,haven_labelled,624,25.4,2,0 | 1
+endline,c2_nature_u7_9_2,C2. Low birth weight,haven_labelled,2027,82.6,1,0
+endline,c2_nature_u7_9_3,C2. Low birth weight,haven_labelled,2396,97.7,1,0
+endline,c2_nature_u7_9_4,C2. Low birth weight,haven_labelled,2448,99.8,1,0
+endline,c30_episode_preg,"C30.During the past 12 months, how many episodes of hospitalization did [${preg",numeric,2222,90.6,10,1 | 9 | 5 | 4 | 3
+endline,c31_disease_preg,"C31.For [${preg_name}] most recent hospitalization episode, what was the main r",character,0,0,21, | 18 | 19 | 31 | 26
+endline,c31_disease_preg_1,C31. Malaria/ fever,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_10,C31. Diabetes,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_11,C31. Hypertension,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_12,C31. Diarrhea,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_13,C31. Intestinal worms,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_14,C31. STD (Syphilis etc),haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_15,C31. Accidents and injuries,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_16,C31. Gender Based Violence related injuries,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_17,C31. Cancer,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_18,C31. Childbirth (Normal Delivery),haven_labelled,2222,90.6,2,1 | 0
+endline,c31_disease_preg_19,C31. Childbirth (Caesarean),haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_2,C31. Diseases of Respiratory including pneumonia,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_20,C31. Treatment/ surgery for reproductive health related cancers etc.,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_21,C31. Post-natal care/ delivery complications,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_22,C31. Abortion,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_23,C31. Covid-19,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_24,C31. Surgery for Appendicitis,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_25,"C31. Skin diseases (e.g., boils, lesions, etc.)",haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_26,C31. Gastritics,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_27,C31. Abnormal pregnancy/pregnancy complications/malpresentation,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_28,C31. Dengue Haemorrhagic Fever,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_29,C31. Surgery for hydrocephalus,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_3,C31. TB,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_30,C31. Surgery for hernia,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_31,C31. Melena,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_32,C31. Intussusception,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_33,C31. Epilepsy/seizure,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_34,C31. Fever,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_35,C31. Drug poison/food poison,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_36,"C31. Signs of labours (pain, rupture of membrane)",haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_37,C31. Jaundice,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_38,C31. Meningitis,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_39,C31. Constipation,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_4,C31. Kidney disease,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_40,C31. Low Birth weight,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_41,C31. The newborn could not be fed.,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_42,C31. Cleft palate surgery,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_43,C31. Dental problem,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_44,C31. Reproductive system disease,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_5,C31. Liver disease,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_6,C31. Cardiovascular disease,haven_labelled,2222,90.6,2,0 | 1
+endline,c31_disease_preg_7,C31. Haematological disorders,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_8,C31. Eye infections,haven_labelled,2222,90.6,1,0
+endline,c31_disease_preg_9,C31. HIV/AIDS,haven_labelled,2222,90.6,1,0
+endline,c31_disease_u7_17_1,C31. Cancer,haven_labelled,2323,94.7,2,0 | 1
+endline,c31_disease_u7_17_2,C31. Cancer,haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_18_1,C31. Childbirth (Normal Delivery),haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_18_2,C31. Childbirth (Normal Delivery),haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_19_1,C31. Childbirth (Caesarean),haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_19_2,C31. Childbirth (Caesarean),haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_20_1,C31. Treatment/ surgery for reproductive health related cancers etc.,haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_20_2,C31. Treatment/ surgery for reproductive health related cancers etc.,haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_21_1,C31. Post-natal care/ delivery complications,haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_21_2,C31. Post-natal care/ delivery complications,haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_27_1,C31. Abnormal pregnancy/pregnancy complications/malpresentation,haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_27_2,C31. Abnormal pregnancy/pregnancy complications/malpresentation,haven_labelled,2420,98.7,1,0
+endline,c31_disease_u7_40_1,C31. Low Birth weight,haven_labelled,2323,94.7,1,0
+endline,c31_disease_u7_40_2,C31. Low Birth weight,haven_labelled,2420,98.7,1,0
+endline,c32_opd_preg,"C32.For [${preg_name}] most recent hospitalization episode, did [${preg_name}]",haven_labelled,2222,90.6,2,0 | 1
+endline,c33_hospital_preg,"C33.For [${preg_name}] most recent hospitalization episode, where did [NAME] ge",haven_labelled,2222,90.6,6,5 | 1 | 2 | 8 | 3
+endline,c34_stopnormal_preg,"C34.For [${preg_name}] most recent hospitalization episode, how many days did [",numeric,2222,90.6,25,45 | 5 | 90 | 30 | 60
+endline,c35_days_preg,"C35.For [${preg_name}] most recent hospitalization episode, how many days did [",numeric,2222,90.6,13,4 | 5 | 7 | 1 | 3
+endline,c36_health_preg,"C36. For [${preg_name}] most recent hospitalization, how much money was spent o",numeric,2225,90.7,45,400000 | 200000 | 300000 | 800000 | 50000
+endline,c37_nonhealth_preg,"C37.For [${preg_name}] most recent hospitalization episode, how much money was",numeric,2225,90.7,35,100000 | 120000 | 150000 | 30000 | 50000
+endline,c38_reimburse_preg,"C38.For [${preg_name}] most recent hospitalization, how much did that ${c29_in",numeric,2370,96.6,27,50000 | 54000 | 55000 | 52000 | 250000
+endline,c3_test_preg,C3.For all healthcare interactions that [${preg_name}] had in the last 12 month,haven_labelled,2127,86.7,2,1 | 0
+endline,c4_hospital_preg,"C4.In the last 12 months, how many times did [${preg_name}] stay overnight at a",numeric,2114,86.2,10,1 | 0 | 9 | 5 | 4
+endline,c5_amount_preg,"C5.In the last 12 months, what was the approximate amount spent on [${preg_name",numeric,2127,86.7,70,400000 | 500000 | 40000 | 120000 | 150000
+endline,c6_selfmed_preg,C6.Although [${preg_name}] didn't visit/interact and hospitalize any time in th,numeric,2443,99.6,6,0 | 20000 | 30000 | 50000 | 1000
+endline,c71_compare2_preg,"C7.1. Compared to November 2021 or before, do you now spend more or less for a f",haven_labelled,2114,86.2,3,1 | 3 | 2
+endline,c7_compare_preg,"C7.Compared to November 2021, has [${preg_name}] healthcare use increased, rema",haven_labelled,2114,86.2,3,3 | 2 | 1
+endline,c8_illyesno_preg,"C8.During the past 30 days did [${preg_name}] suffer from any illness, injury,",haven_labelled,2114,86.2,2,0 | 1
+endline,c9_insu_preg,C9.What is the main (government or private) health insurance covering [NAME]'s ',haven_labelled,2114,86.2,7,0 | 5 | 1 | 6 | 7
+endline,c9_insu_u7_1,C9.What is the main (government or private) health insurance covering [NAME]'s o,haven_labelled,193,7.9,8,0 | 5 | 6 | 7 | 98
+endline,c9_insu_u7_2,C9.What is the main (government or private) health insurance covering [NAME]'s o,haven_labelled,1863,75.9,7,0 | 5 | 98 | 7 | 6
+endline,c9_insu_u7_3,C9.What is the main (government or private) health insurance covering [NAME]'s o,haven_labelled,2367,96.5,5,0 | 6 | 5 | 7 | 98
+endline,c9_insu_u7_4,C9.What is the main (government or private) health insurance covering [NAME]'s o,haven_labelled,2445,99.7,3,0 | 5 | 99
+endline,d10_past_preg_end,D10.Have you been pregnant during baseline ?,haven_labelled,2114,86.2,2,1 | 0
+endline,d12_assist_del,D12.1. Who assisted the delivery?,haven_labelled,2121,86.5,6,1 | 2 | 3 | 4 | 5
+endline,d13_anc_week,D13.2.How many weeks were you pregnant when you first sought antenatal care for,numeric,2125,86.6,26,17 | 26 | 13 | 8 | 30
+endline,d13_anc_yn,"D13.1.During this pregnancy, did you received antenatal care?",haven_labelled,2121,86.5,2,1 | 0
+endline,d13_reason_14,C13. My insurance covered the costs at that health facility partially or fully.,haven_labelled,2122,86.5,2,0 | 1
+endline,d13_reason_15,C13. Due to complication at Childbirth,haven_labelled,2122,86.5,2,0 | 1
+endline,d13_reason_23,C13. High risk pregnanacy,haven_labelled,2122,86.5,2,0 | 1
+endline,d13_reason_25,C13. There was no patient's attendance for me.,haven_labelled,2122,86.5,2,0 | 1
+endline,d13_reason_27,C13. Easy to get birth registration certificate,haven_labelled,2122,86.5,2,0 | 1
+endline,d14_anc_antitt,"D14.3.During this pregnancy, how many times did you get a tetanus injection?",numeric,2184,89,4,2 | 3 | 1 | 4
+endline,d14_anc_deworm,"D14.4. During this pregnancy, how many times did you take deworming drugs?",numeric,2252,91.8,3,2 | 1 | 3
+endline,d14_anc_iron,"D14.5. During this pregnancy, how many days did you take the iron tablets or iro",numeric,2187,89.2,30,180 | 240 | 100 | 60 | 90
+endline,d14_anc_usg,"D14.2.During this pregnancy, how many times did you get an ultrasound screening?",numeric,2251,91.8,5,2 | 1 | 3 | 4 | 5
+endline,d14_time,D14.How many times did you seek antenatal care for this pregnancy until birth?,numeric,2125,86.6,15,14 | 7 | 4 | 5 | 10
+endline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,2121,86.5,2,0 | 1
+endline,d15_insutype,D15.2..What is the main (government or private) health insurance covering this p,haven_labelled,2121,86.5,9,5 | 7 | 0 | 6 | 1
+endline,d16_assist_yn,D16. Have you taken any assistance from Bright Start/Common Health after enrollm,haven_labelled,2121,86.5,2,1 | 0
+endline,d1_preg,D1.Are you currently pregnant?,haven_labelled,0,0,4,0 | 1 | 98 | 97
+endline,d2_insu_preg,D2.What is the main (government or private) health insurance covering [NAME]'s ',haven_labelled,2370,96.6,6,0 | 1 | 98 | 6 | 5
+endline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,2370,96.6,21,21 | 13 | 9 | 22 | 38
+endline,d4_anc,D4.Have you ever received antenatal care for this pregnancy?,haven_labelled,2370,96.6,2,1 | 0
+endline,d5_firstseek,D5.How far along were you when you first sought antenatal care for this pregnanc,numeric,2409,98.2,14,13 | 11 | 17 | 7 | 8
+endline,d6_anctime,D6.How many times have you sought antenatal care for this pregnancy so far?,numeric,2409,98.2,8,3 | 1 | 2 | 8 | 6
+endline,dob_yn,D10.2.Do you remember the exact date of birth of your child ?,haven_labelled,2126,86.7,2,1 | 0
+endline,e3a_birth_1,E3a.At Birth,haven_labelled,295,12,3,1 | 2 | 98
+endline,e3a_birth_2,E3a.At Birth,haven_labelled,1929,78.6,3,1 | 2 | 98
+endline,e3a_birth_3,E3a.At Birth,haven_labelled,2374,96.8,3,1 | 2 | 98
+endline,e3a_birth_4,E3a.At Birth,haven_labelled,2445,99.7,2,1 | 2
+endline,f1_income_11,"F1. Private gifts, donations, assistance",haven_labelled,0,0,2,0 | 1
+endline,f1_income_12,"F1. Government assistance, pensions",haven_labelled,0,0,2,0 | 1
+endline,f1_income_13,F1. Remittance from abroad,haven_labelled,0,0,2,0 | 1
+endline,f1_income_14,F1. Remittance from other parts of the country,haven_labelled,0,0,2,0 | 1
+endline,f8_assist_type,F8. What kind of assistance have you received from the [F6] after November 2021/,character,0,0,13,1 | 4 | 1 2 |  | 1 4
+endline,f9_assist_cash,F9. How much cash assistance have you received after November 2021/baseline?,numeric,1183,48.2,184,94000 | 150000 | 164000 | 200000 | 500000
+endline,h3_suspected_6,H3. Keep social distancing with suspected person.,haven_labelled,0,0,2,0 | 1
+endline,h4_protect_10,H4. Eating well balanced diet,haven_labelled,0,0,2,0 | 1
+endline,i2_preg_enrl,I2. How many pregnant women in the household had been enrolled in the program?,numeric,1189,48.5,3,0 | 1 | 2
+endline,i4_preg_claim,I4. How many times have [pregnant woman] have claimed for insurance/cash grants?,numeric,2373,96.7,9,0 | 1 | 3 | 10 | 5
+endline,i5_u7_claim,I5. How many times have [child under 7] have claimed for insurance?,numeric,1980,80.7,13,0 | 3 | 1 | 4 | 2
+endline,i6_total_claim,I6. What is the total amount (in MMK) of insurance claimed in the past 12 months,numeric,1189,48.5,52,0 | 123000 | 50000 | 4000 | 164000
+endline,past_preg_outcome,"D10.1.The last time we spoke, you indicated you were pregnant. May I ask what th",haven_labelled,2114,86.2,3,1 | 3 | 2
+endline,total_inpatient_preg,,character,0,0,76, | 400098 | 300000 | 420000 | 950000
+midline,a12_nopreg,A12.The reason for not pregnant at midline survey,haven_labelled,511,95.7,2,1 | 3
+midline,a12_preg,A12.Pregnancy status at baselien survey,character,0,0,2,0 | 1
+midline,a12_preg_check,A12.Pregnancy status at midline survey,haven_labelled,482,90.3,2,1 | 0
+midline,a14_edu_preg,A14.Education level of Pregnant Mother,haven_labelled,482,90.3,5,3 | 5 | 4 | 1 | 2
+midline,c10_seekcare_preg,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,514,96.3,2,0 | 1
+midline,c11_disease_preg,C11.Disease diagnosed for the most recent interaction in the past 30 days [Pregn,character,0,0,10, | 3 10 | 3 | 14 | 3 9 10
+midline,c11_disease_preg_1,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_10,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t,haven_labelled,522,97.8,2,1 | 0
+midline,c11_disease_preg_11,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_12,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_13,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_14,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_15,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_16,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_17,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto",haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_18,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_19,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_2,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_20,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_21,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_22,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_23,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_24,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_25,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_26,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_27,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_28,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_29,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_3,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen,haven_labelled,522,97.8,2,1 | 0
+midline,c11_disease_preg_30,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_31,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_32,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_33,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_34,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_35,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_36,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_37,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_38,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_39,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_4,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_40,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_41,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_42,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_43,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_44,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_45,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_46,C11_46.[Joint pain] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_47,C11_47.[Injury/dog bites] was disease diagnosed by doctor/health care provider f,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_48,C11_48.[Tonsilitis] was disease diagnosed by doctor/health care provider for the,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_5,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_6,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for,haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_7,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct",haven_labelled,522,97.8,1,0
+midline,c11_disease_preg_8,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_preg_9,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo,haven_labelled,522,97.8,2,0 | 1
+midline,c11_disease_u7_21_1,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,382,71.5,1,0
+midline,c11_disease_u7_21_2,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,499,93.4,1,0
+midline,c11_disease_u7_21_3,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise",haven_labelled,528,98.9,1,0
+midline,c12_diagnose_preg,C12.Diagnostic / lab tests performed [Pregnant Mother],haven_labelled,522,97.8,2,1 | 0
+midline,c13_medication_preg,C13.Prescribing medications [Pregnant Mother],haven_labelled,522,97.8,1,1
+midline,c14_meditake_preg,C14.Taking the medicines as prescribed [Pregnant Mother],haven_labelled,522,97.8,1,1
+midline,c15_format_preg,C15.Format of seeking medical advice/treatment [Pregnant Mother],character,0,0,2, | 1
+midline,c15_format_preg_1,C15_1.[In person] was the format of health seeking in the last 30 days.,haven_labelled,522,97.8,1,1
+midline,c15_format_preg_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,522,97.8,1,0
+midline,c15_format_preg_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,522,97.8,1,0
+midline,c19_pertime_preg,C19.Times in-person consultation visits in the last 30 days [Pregnant Mother],numeric,522,97.8,4,3 | 4 | 1 | 2
+midline,c20_personlast_preg,C20.Place of in person visist for the most recent visit in the last 30 days [Pre,haven_labelled,522,97.8,5,8 | 7 | 15 | 3 | 2
+midline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,522,97.8,9,8000 | 10000 | 6500 | 5500 | 28000
+midline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,522,97.8,8,4000 | 2000 | 1000 | 7000 | 0
+midline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,522,97.8,9,12000 | 8500 | 6500 | 35000 | 3000
+midline,c23_reimburse_preg,C23.Amount of money [MMK] reimbursed from main health insurance [Pregnant Mother,numeric,532,99.6,1,0
+midline,c23_reimburse_u7_1,C23.Amount of money [MMK] reimbursed from main health insurance [Child (1)],numeric,515,96.4,8,42800 | 10000 | 6000 | 3900 | 3600
+midline,c23_reimburse_u7_2,C23.Amount of money [MMK] reimbursed from main health insurance [Child (2)],numeric,527,98.7,2,0 | 42800
+midline,c24_stopnormal_preg,C24.Number Days stoped normal activities because of the illness [Pregnant Mother,numeric,514,96.3,7,0 | 7 | 4 | 3 | 1
+midline,c25_assist_preg,C25.Gov/NGO/INGO assistance for [Pregnant Mother],character,0,0,11, | 98 | 7 | 4 | 0
+midline,c25_assist_preg_0,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_1,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_10,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_11,C25_11.[ICRC] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,1,0
+midline,c25_assist_preg_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,1,0
+midline,c25_assist_preg_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_5,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,482,90.3,1,0
+midline,c25_assist_preg_6,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_7,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_8,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,482,90.3,1,0
+midline,c25_assist_preg_9,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive,haven_labelled,482,90.3,2,0 | 1
+midline,c25_assist_preg_98,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,482,90.3,2,1 | 0
+midline,c25_assist_u7_0_1,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,1 | 0
+midline,c25_assist_u7_0_2,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,2,1 | 0
+midline,c25_assist_u7_0_3,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,2,0 | 1
+midline,c25_assist_u7_0_4,C25_0.[None] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,2,0 | 1
+midline,c25_assist_u7_1,C25.Gov/NGO/INGO assistance for [Child (1)],character,0,0,15,0 | 7 9 | 7 | 8 | 
+midline,c25_assist_u7_10_1,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre,haven_labelled,15,2.8,1,0
+midline,c25_assist_u7_10_2,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre,haven_labelled,384,71.9,1,0
+midline,c25_assist_u7_10_3,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_10_4,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_11_1,C25_11.[ICRC] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_11_2,C25_11.[ICRC] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,1,0
+midline,c25_assist_u7_11_3,C25_11.[ICRC] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_11_4,C25_11.[ICRC] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_1_1,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_1_2,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,384,71.9,1,0
+midline,c25_assist_u7_1_3,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_1_4,C25_1.[Save the children] is the orgainzation where the assistance is received c,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_2,C25.Gov/NGO/INGO assistance for [Child (2)],character,0,0,11,0 |  | 7 | 7 9 | 98
+midline,c25_assist_u7_2_1,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,1,0
+midline,c25_assist_u7_2_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,1,0
+midline,c25_assist_u7_2_3,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_2_4,C25_2.[LIFT] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_3,C25.Gov/NGO/INGO assistance for [Child (3)],character,0,0,7, | 9 | 7 9 | 0 | 7
+midline,c25_assist_u7_3_1,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_3_2,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_3_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_3_4,C25_3.[MCCT] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_4,C25.Gov/NGO/INGO assistance for [Child (4)],character,0,0,3, | 4 7 | 0
+midline,c25_assist_u7_4_1,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_4_2,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_4_3,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,2,0 | 1
+midline,c25_assist_u7_4_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,2,1 | 0
+midline,c25_assist_u7_5_1,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_5_2,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_5_3,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_5_4,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_6_1,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_6_2,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_6_3,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_6_4,C25_6.[Local charity organizations] is the orgainzation where the assistance is,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_7_1,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_7_2,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_7_3,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,2,0 | 1
+midline,c25_assist_u7_7_4,C25_7.[TdH] is the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,2,1 | 0
+midline,c25_assist_u7_8_1,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_8_2,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,384,71.9,1,0
+midline,c25_assist_u7_8_3,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,510,95.5,2,0 | 1
+midline,c25_assist_u7_8_4,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_98_1,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_98_2,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_98_3,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,510,95.5,1,0
+midline,c25_assist_u7_98_4,C25_98.Don't know the orgainzation where the assistance is received currently.,haven_labelled,532,99.6,1,0
+midline,c25_assist_u7_9_1,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive,haven_labelled,15,2.8,2,0 | 1
+midline,c25_assist_u7_9_2,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive,haven_labelled,384,71.9,2,0 | 1
+midline,c25_assist_u7_9_3,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive,haven_labelled,510,95.5,2,1 | 0
+midline,c25_assist_u7_9_4,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive,haven_labelled,532,99.6,1,0
+midline,c26_nonsick_preg,C26.The reasons of visit/interact with health care providers although Pregnant M,character,0,0,6, | 1 | 2 | 7 | 1 6
+midline,c26_nonsick_preg_1,C26_1.[Antenatal care] is the reason that Pregnant Mother visit/interact with he,haven_labelled,502,94,2,1 | 0
+midline,c26_nonsick_preg_2,C26_2.[Childbirth ] is the reason that Pregnant Mother visit/interact with healt,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_preg_3,C26_3.[General check-up] is the reason that Pregnant Mother visit/interact with,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_4,C26_4.[Family planning] is the reason that Pregnant Mother visit/interact with h,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_preg_7,C26_7.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,502,94,2,0 | 1
+midline,c27_notconsult_preg,C27.The reasons that the [Pregnant Mother] didn't seek health care although sick,character,0,0,6, | 16 17 | 1 3 | 2 | 1
+midline,c27_notconsult_preg_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_10,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_11,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_12,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_13,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_14,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_15,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_16,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,526,98.5,2,1 | 0
+midline,c27_notconsult_preg_17,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,526,98.5,2,1 | 0
+midline,c27_notconsult_preg_18,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_19,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_22,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_23,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_24,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_25,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_5,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_6,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_7,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_8,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_9,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_u7_23_1,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_23_2,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_23_3,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,529,99.1,1,0
+midline,c28_inpatient_preg,C28.Hospitalization during 12 months [Pregnant Mother],haven_labelled,482,90.3,2,0 | 1
+midline,c29_insu_preg,C29.Main (government or private) health insurance covering inpatient care[Pregna,haven_labelled,482,90.3,5,1 | 5 | 0 | 2 | 98
+midline,c29_insu_u7_1,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,15,2.8,3,0 | 5 | 98
+midline,c29_insu_u7_2,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,384,71.9,4,0 | 5 | 98 | 4
+midline,c29_insu_u7_3,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,510,95.5,3,5 | 0 | 98
+midline,c29_insu_u7_4,C29.Main (government or private) health insurance covering inpatient care[Child,haven_labelled,532,99.6,2,0 | 98
+midline,c30_episode_preg,C30.Episodes of hospitalization in the last 12 months [Pregnant Mother],numeric,514,96.3,1,1
+midline,c31_disease_preg,C31.Reasons for hospitalization for the most recent episode [Pregnant Mother],character,0,0,4, | 18 | 21 | 19
+midline,c31_disease_preg_1,C31_1.[Malaria/ fever] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_10,C31_10.[Diabetes] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_11,C31_11.[Hypertension] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_12,C31_12.[Diarrhea] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_13,C31_13.[Intestinal worms] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_14,C31_14.[STD (Syphilis etc)] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_15,C31_15.[Accidents and injuries] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_16,C31_16.[Gender Based Violence related injuries] was the reason for hospitalizati,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_17,C31_17.[Cancer] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_18,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization.,haven_labelled,514,96.3,2,1 | 0
+midline,c31_disease_preg_19,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization.,haven_labelled,514,96.3,2,0 | 1
+midline,c31_disease_preg_2,C31_2.[Diseases of Respiratory including pneumonia] was the reason for hospitali,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_20,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_21,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,514,96.3,2,0 | 1
+midline,c31_disease_preg_22,C31_22.[Abortion] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_23,C31_23.[Covid-19] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_24,C31_24.[Surgery for Appendicitis] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_25,"C31_25.[Skin diseases (e.g., boils, lesions, etc.)] was the reason for hospitali",haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_26,C31_26.[Gastritics] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_27,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_28,C31_28.[Dengue Haemorrhagic Fever] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_29,C31_29.[Surgery for hydrocephalus] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_3,C31_3.[TB] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_30,C31_30.[Surgery for hernia] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_31,C31_31.[Melena] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_32,C31_32.[Intussusception] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_33,C31_33.[Epilepsy/seizure] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_34,C31_34.[Fever] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_35,C31_35.[Drug poison/food poison] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_36,"C31_36.[Signs of labours (pain, rupture of membrane)] was the reason for hospita",haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_37,C31_37.[Jaundice] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_38,C31_38.[Meningitis] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_39,C31_39.[Constipation] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_4,C31_4.[Kidney disease] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_40,C31_40.[Low Birth weight] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_41,C31_41.[The newborn could not be fed.] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_42,C31_42.[Cleft palate surgery] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_5,C31_5.[Liver disease] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_6,C31_6.[Cardiovascular disease] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_7,C31_7.[Haematological disorders] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_8,C31_8.[Eye infections] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_preg_9,C31_9.[HIV/AIDS] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_u7_17_1,C31_17.[Cancer] was the reason for hospitalization..,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_17_2,C31_17.[Cancer] was the reason for hospitalization..,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_18_1,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_18_2,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_19_1,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_19_2,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_20_1,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_20_2,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_21_1,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_21_2,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_27_1,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_27_2,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas,haven_labelled,533,99.8,1,0
+midline,c31_disease_u7_40_1,C31_40.[Low Birth weight] was the reason for hospitalization..,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_40_2,C31_40.[Low Birth weight] was the reason for hospitalization..,haven_labelled,533,99.8,1,0
+midline,c32_opd_preg,C32.Seeking outpatient/primary care before hospitalization [Pregnant Mother],haven_labelled,514,96.3,2,1 | 0
+midline,c33_hospital_preg,C33.Place of hospitalization for the most recent episode [Pregnant Mother],haven_labelled,514,96.3,4,10 | 5 | 1 | 2
+midline,c34_stopnormal_preg,C34.Number of days stopped for normal activities because of the hospitalization,numeric,514,96.3,11,5 | 30 | 7 | 4 | 10
+midline,c35_days_preg,C35.Days spent in the hospital for the most recent hospitalization [Pregnant Mot,numeric,514,96.3,5,1 | 2 | 3 | 5 | 7
+midline,c36_health_preg,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,514,96.3,13,100000 | 70000 | 400000 | 150000 | 130000
+midline,c37_nonhealth_preg,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,514,96.3,13,40000 | 30000 | 200000 | 230000 | 50000
+midline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,514,96.3,16,140000 | 130000 | 270000 | 300000 | 450000
+midline,c38_reimburse_preg,C38.Amount of money[MMK] reimbursed for the most recent hospitalization [Pregnan,numeric,528,98.9,4,10000 | 15000 | 55000 | 0
+midline,c8_illyesno_preg,"C8.llness, injury, or health complaints in the last 30 days [Pregnant Mother]",haven_labelled,482,90.3,2,0 | 1
+midline,c9_insu_preg,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,482,90.3,6,1 | 5 | 0 | 2 | 98
+midline,c9_insu_u7_1,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,15,2.8,5,0 | 5 | 4 | 1 | 98
+midline,c9_insu_u7_2,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,384,71.9,5,0 | 5 | 1 | 4 | 98
+midline,c9_insu_u7_3,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,510,95.5,3,5 | 0 | 98
+midline,c9_insu_u7_4,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,532,99.6,2,0 | 98
+midline,d10_past_preg,D10.Did you deliver a baby after ${subdate}?[Note: Excludes current pregnancy;,haven_labelled,29,5.4,2,0 | 1
+midline,d13_reason_14,D13_14.[My insurance covered the costs at that health facility partially or full,haven_labelled,509,95.3,1,0
+midline,d13_reason_18,"D13_18.[Due to complications at Childbirth/pregnancy (pre-eclampsia,preterm labo",haven_labelled,509,95.3,2,0 | 1
+midline,d13_reason_24,"D13_24.[High risk pregnanacy (Primagravida,Smaller pregnancy gap(within one year",haven_labelled,509,95.3,2,0 | 1
+midline,d13_reason_26,D13_26.[There was no patient's attendance for me.] was  the main reasons for cho,haven_labelled,509,95.3,2,1 | 0
+midline,d13_reason_28,D13_28.[Easy to get birth registration certificate] was  the main reasons for ch,haven_labelled,509,95.3,1,0
+midline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,509,95.3,2,0 | 1
+midline,d1_preg,D1.Are you currently pregnant?,haven_labelled,0,0,2,0 | 1
+midline,d2_insu_preg,D2.What is the main (government or private) health insurance covering [NAME]’s ',haven_labelled,499,93.4,5,1 | 0 | 5 | 2 | 4
+midline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,499,93.4,15,36 | 30 | 12 | 38 | 34
+midline,d4_anc,"D4.In the last 30 days, have you ever been for antenatal care?",haven_labelled,499,93.4,2,1 | 0
+midline,e3a_birth_1,E3a.At Birth,haven_labelled,339,63.5,3,1 | 2 | 98
+midline,e3a_birth_2,E3a.At Birth,haven_labelled,472,88.4,3,1 | 2 | 98
+midline,e3a_birth_3,E3a.At Birth,haven_labelled,526,98.5,2,2 | 1
+midline,e3a_birth_4,E3a.At Birth,haven_labelled,533,99.8,1,1
+midline,f1_income_11,"F1_11.[Private gifts, donations, assistance ] was the sources of income in the l",haven_labelled,0,0,2,0 | 1
+midline,f1_income_12,"F1_12.[Government assistance, pensions] was the sources of income in the last 12",haven_labelled,0,0,2,0 | 1
+midline,f1_income_13,F1_13.[Remittance from abroad ] was the sources of income in the last 12 months.,haven_labelled,0,0,2,0 | 1
+midline,f1_income_14,F1_14.[Remittance from other parts of the country ] was the sources of income in,haven_labelled,0,0,2,0 | 1
+midline,h3_suspected_6,H3_6.[Keep social distancing with suspected person.] would be done if found out,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_10,H4_10.[Eating well balanced diet] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1

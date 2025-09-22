@@ -1,0 +1,896 @@
+wave,var,label
+midline,duration_min,Survey Duration in minute
+midline,caseid,Respondent's ID
+midline,tsp_name,A1.Township Name
+midline,a12_preg,A12.Pregnancy status at baselien survey
+midline,a13_under7_baseline,A13.Number of u7 at baseline survey
+midline,a13_under7_mid,A13.Number of u7 at midlineline survey
+midline,consent,Do you agree to participate in this study?
+midline,b1a_audio,Do you agree to allow audio recording?
+midline,a1_tsp,A1.Are you currently living in (${tsp_name})?
+midline,a1_state_oth,A1.State where residing currently(Midline)
+midline,a1_tsp_oth,A1.Township where residing currently(Midline)
+midline,a9_edu_hh,A9.Highest level of education of the HH head
+midline,a12_preg_check,A12.Pregnancy status at midline survey
+midline,a12_nopreg,A12.The reason for not pregnant at midline survey
+midline,a14_edu_preg,A14.Education level of Pregnant Mother
+midline,a14_u7age_mth_1,A14.Age of U7 children (1)
+midline,a14_u7age_mth_2,A14.Age of U7 children (2)
+midline,a14_u7age_mth_3,A14.Age of U7 children (3)
+midline,a14_u7age_mth_4,A14.Age of U7 children (4)
+midline,a16_edu_u7,A16.What is your Highest level of education
+midline,a17_house,A17.Ownership status of the current household
+midline,c8_illyesno_preg,"C8.llness, injury, or health complaints in the last 30 days [Pregnant Mother]"
+midline,c9_insu_preg,C9.Main (government or private) health insurance covering outpatient care for si
+midline,c10_seekcare_preg,C10.Consulting/visiting/interacting with health care providers during the past 3
+midline,c11_disease_preg,C11.Disease diagnosed for the most recent interaction in the past 30 days [Pregn
+midline,c11_disease_preg_1,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_2,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro
+midline,c11_disease_preg_3,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_preg_4,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_preg_5,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_preg_6,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_preg_7,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct"
+midline,c11_disease_preg_8,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_preg_9,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_preg_10,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_preg_11,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_12,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_preg_13,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_14,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_preg_15,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_16,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide
+midline,c11_disease_preg_17,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto"
+midline,c11_disease_preg_18,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor
+midline,c11_disease_preg_19,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_preg_20,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c
+midline,c11_disease_preg_21,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise"
+midline,c11_disease_preg_22,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_preg_23,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_preg_24,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi
+midline,c11_disease_preg_25,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_preg_26,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_27,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car
+midline,c11_disease_preg_28,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health
+midline,c11_disease_preg_29,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_preg_30,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed
+midline,c11_disease_preg_31,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re
+midline,c11_disease_preg_32,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_preg_33,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_preg_34,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_preg_35,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_preg_36,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_37,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_preg_38,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_39,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_preg_40,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_41,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c
+midline,c11_disease_preg_42,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_43,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_44,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_preg_45,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care
+midline,c11_disease_preg_48,C11_48.[Tonsilitis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_preg_47,C11_47.[Injury/dog bites] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_preg_46,C11_46.[Joint pain] was disease diagnosed by doctor/health care provider for the
+midline,c12_diagnose_preg,C12.Diagnostic / lab tests performed [Pregnant Mother]
+midline,c13_medication_preg,C13.Prescribing medications [Pregnant Mother]
+midline,c14_meditake_preg,C14.Taking the medicines as prescribed [Pregnant Mother]
+midline,c15_format_preg,C15.Format of seeking medical advice/treatment [Pregnant Mother]
+midline,c15_format_preg_1,C15_1.[In person] was the format of health seeking in the last 30 days.
+midline,c15_format_preg_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.
+midline,c15_format_preg_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the
+midline,c19_pertime_preg,C19.Times in-person consultation visits in the last 30 days [Pregnant Mother]
+midline,c20_personlast_preg,C20.Place of in person visist for the most recent visit in the last 30 days [Pre
+midline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant
+midline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg
+midline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother]
+midline,c23_reimburse_preg,C23.Amount of money [MMK] reimbursed from main health insurance [Pregnant Mother
+midline,c24_stopnormal_preg,C24.Number Days stoped normal activities because of the illness [Pregnant Mother
+midline,c25_assist_preg,C25.Gov/NGO/INGO assistance for [Pregnant Mother]
+midline,c25_assist_preg_0,C25_0.[None] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_1,C25_1.[Save the children] is the orgainzation where the assistance is received c
+midline,c25_assist_preg_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_5,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec
+midline,c25_assist_preg_6,C25_6.[Local charity organizations] is the orgainzation where the assistance is
+midline,c25_assist_preg_7,C25_7.[TdH] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_8,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec
+midline,c25_assist_preg_9,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive
+midline,c25_assist_preg_10,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre
+midline,c25_assist_preg_11,C25_11.[ICRC] is the orgainzation where the assistance is received currently.
+midline,c25_assist_preg_98,C25_98.Don't know the orgainzation where the assistance is received currently.
+midline,c26_nonsick_preg,C26.The reasons of visit/interact with health care providers although Pregnant M
+midline,c26_nonsick_preg_1,C26_1.[Antenatal care] is the reason that Pregnant Mother visit/interact with he
+midline,c26_nonsick_preg_2,C26_2.[Childbirth ] is the reason that Pregnant Mother visit/interact with healt
+midline,c26_nonsick_preg_3,C26_3.[General check-up] is the reason that Pregnant Mother visit/interact with
+midline,c26_nonsick_preg_4,C26_4.[Family planning] is the reason that Pregnant Mother visit/interact with h
+midline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w
+midline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with
+midline,c26_nonsick_preg_7,C26_7.[Didn't go to heath care facillity or consult with health care provider] i
+midline,c27_notconsult_preg,C27.The reasons that the [Pregnant Mother] didn't seek health care although sick
+midline,c27_notconsult_preg_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt
+midline,c27_notconsult_preg_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care
+midline,c27_notconsult_preg_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he
+midline,c27_notconsult_preg_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi
+midline,c27_notconsult_preg_5,C27_5.[Poor services] was the reason that do not visit/interact with health care
+midline,c27_notconsult_preg_6,C27_6.[Not safe] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_preg_7,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with
+midline,c27_notconsult_preg_8,C27_8.[Do not know where to go] was the reason that do not visit/interact with h
+midline,c27_notconsult_preg_9,C27_9.[Too expensive] was the reason that do not visit/interact with health care
+midline,c27_notconsult_preg_10,C27_10.[Too far] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_preg_11,C27_11.[Could not get permission] was the reason that do not visit/interact with
+midline,c27_notconsult_preg_12,C27_12.[Embarrassment] was the reason that do not visit/interact with health car
+midline,c27_notconsult_preg_13,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal
+midline,c27_notconsult_preg_14,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi
+midline,c27_notconsult_preg_15,C27_15.[Bad previous experience] was the reason that do not visit/interact with
+midline,c27_notconsult_preg_16,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he
+midline,c27_notconsult_preg_17,C27_17.[Had children/ other responsibilities at home] was the reason that do not
+midline,c27_notconsult_preg_18,C27_18.[There were insufficient health care providers at the clinics/hospitals]
+midline,c27_notconsult_preg_19,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason
+midline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac
+midline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that
+midline,c27_notconsult_preg_22,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal
+midline,c27_notconsult_preg_23,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.
+midline,c27_notconsult_preg_24,C27_24.[Lack of available transportation] was the reason that do not visit/inter
+midline,c27_notconsult_preg_25,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/
+midline,c28_inpatient_preg,C28.Hospitalization during 12 months [Pregnant Mother]
+midline,c29_insu_preg,C29.Main (government or private) health insurance covering inpatient care[Pregna
+midline,c30_episode_preg,C30.Episodes of hospitalization in the last 12 months [Pregnant Mother]
+midline,c31_disease_preg,C31.Reasons for hospitalization for the most recent episode [Pregnant Mother]
+midline,c31_disease_preg_1,C31_1.[Malaria/ fever] was the reason for hospitalization.
+midline,c31_disease_preg_2,C31_2.[Diseases of Respiratory including pneumonia] was the reason for hospitali
+midline,c31_disease_preg_3,C31_3.[TB] was the reason for hospitalization.
+midline,c31_disease_preg_4,C31_4.[Kidney disease] was the reason for hospitalization.
+midline,c31_disease_preg_5,C31_5.[Liver disease] was the reason for hospitalization.
+midline,c31_disease_preg_6,C31_6.[Cardiovascular disease] was the reason for hospitalization.
+midline,c31_disease_preg_7,C31_7.[Haematological disorders] was the reason for hospitalization.
+midline,c31_disease_preg_8,C31_8.[Eye infections] was the reason for hospitalization.
+midline,c31_disease_preg_9,C31_9.[HIV/AIDS] was the reason for hospitalization.
+midline,c31_disease_preg_10,C31_10.[Diabetes] was the reason for hospitalization.
+midline,c31_disease_preg_11,C31_11.[Hypertension] was the reason for hospitalization.
+midline,c31_disease_preg_12,C31_12.[Diarrhea] was the reason for hospitalization.
+midline,c31_disease_preg_13,C31_13.[Intestinal worms] was the reason for hospitalization.
+midline,c31_disease_preg_14,C31_14.[STD (Syphilis etc)] was the reason for hospitalization.
+midline,c31_disease_preg_15,C31_15.[Accidents and injuries] was the reason for hospitalization.
+midline,c31_disease_preg_16,C31_16.[Gender Based Violence related injuries] was the reason for hospitalizati
+midline,c31_disease_preg_17,C31_17.[Cancer] was the reason for hospitalization.
+midline,c31_disease_preg_18,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization.
+midline,c31_disease_preg_19,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization.
+midline,c31_disease_preg_20,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the
+midline,c31_disease_preg_21,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat
+midline,c31_disease_preg_22,C31_22.[Abortion] was the reason for hospitalization.
+midline,c31_disease_preg_23,C31_23.[Covid-19] was the reason for hospitalization.
+midline,c31_disease_preg_24,C31_24.[Surgery for Appendicitis] was the reason for hospitalization.
+midline,c31_disease_preg_25,"C31_25.[Skin diseases (e.g., boils, lesions, etc.)] was the reason for hospitali"
+midline,c31_disease_preg_26,C31_26.[Gastritics] was the reason for hospitalization.
+midline,c31_disease_preg_27,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas
+midline,c31_disease_preg_28,C31_28.[Dengue Haemorrhagic Fever] was the reason for hospitalization.
+midline,c31_disease_preg_29,C31_29.[Surgery for hydrocephalus] was the reason for hospitalization.
+midline,c31_disease_preg_30,C31_30.[Surgery for hernia] was the reason for hospitalization.
+midline,c31_disease_preg_31,C31_31.[Melena] was the reason for hospitalization.
+midline,c31_disease_preg_32,C31_32.[Intussusception] was the reason for hospitalization.
+midline,c31_disease_preg_33,C31_33.[Epilepsy/seizure] was the reason for hospitalization.
+midline,c31_disease_preg_34,C31_34.[Fever] was the reason for hospitalization.
+midline,c31_disease_preg_35,C31_35.[Drug poison/food poison] was the reason for hospitalization.
+midline,c31_disease_preg_36,"C31_36.[Signs of labours (pain, rupture of membrane)] was the reason for hospita"
+midline,c31_disease_preg_37,C31_37.[Jaundice] was the reason for hospitalization.
+midline,c31_disease_preg_38,C31_38.[Meningitis] was the reason for hospitalization.
+midline,c31_disease_preg_39,C31_39.[Constipation] was the reason for hospitalization.
+midline,c31_disease_preg_40,C31_40.[Low Birth weight] was the reason for hospitalization.
+midline,c31_disease_preg_41,C31_41.[The newborn could not be fed.] was the reason for hospitalization.
+midline,c31_disease_preg_42,C31_42.[Cleft palate surgery] was the reason for hospitalization.
+midline,c32_opd_preg,C32.Seeking outpatient/primary care before hospitalization [Pregnant Mother]
+midline,c33_hospital_preg,C33.Place of hospitalization for the most recent episode [Pregnant Mother]
+midline,c34_stopnormal_preg,C34.Number of days stopped for normal activities because of the hospitalization
+midline,c35_days_preg,C35.Days spent in the hospital for the most recent hospitalization [Pregnant Mot
+midline,c36_health_preg,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi
+midline,c37_nonhealth_preg,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos
+midline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother]
+midline,c38_reimburse_preg,C38.Amount of money[MMK] reimbursed for the most recent hospitalization [Pregnan
+midline,c8_illyesno_u7_1,"C8.llness, injury, or health complaints in the last 30 days [Child (1)]"
+midline,c9_insu_u7_1,C9.Main (government or private) health insurance covering outpatient care for si
+midline,c10_seekcare_u7_1,C10.Consulting/visiting/interacting with health care providers during the past 3
+midline,c11_disease_u7_1,C11.Disease diagnosed for the most recent interaction in the past 30 days [Child
+midline,c11_disease_u7_1_1,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_2_1,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro
+midline,c11_disease_u7_3_1,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_4_1,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_5_1,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_6_1,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_7_1,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct"
+midline,c11_disease_u7_8_1,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_9_1,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_10_1,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_11_1,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_12_1,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_13_1,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_14_1,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_15_1,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_16_1,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide
+midline,c11_disease_u7_17_1,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto"
+midline,c11_disease_u7_18_1,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor
+midline,c11_disease_u7_19_1,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_20_1,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_21_1,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise"
+midline,c11_disease_u7_22_1,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_23_1,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_24_1,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi
+midline,c11_disease_u7_25_1,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_26_1,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_27_1,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car
+midline,c11_disease_u7_28_1,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health
+midline,c11_disease_u7_29_1,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_30_1,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed
+midline,c11_disease_u7_31_1,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re
+midline,c11_disease_u7_32_1,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_33_1,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_34_1,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_35_1,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_36_1,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_37_1,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_38_1,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_39_1,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_40_1,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_41_1,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_42_1,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_43_1,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_44_1,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_45_1,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care
+midline,c11_disease_u7_48_1,C11_48.[Tonsilitis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_47_1,C11_47.[Injury/dog bites] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_46_1,C11_46.[Joint pain] was disease diagnosed by doctor/health care provider for the
+midline,c12_diagnose_u7_1,C12.Diagnostic / lab tests performed [Child (1)]
+midline,c13_medication_u7_1,C13.Prescribing medications [Child (1)]
+midline,c14_meditake_u7_1,C14.Taking the medicines as prescribed [Child (1)]
+midline,c15_format_u7_1,C15.Format of seeking medical advice/treatment [Child (1)]
+midline,c15_format_u7_1_1,C15_1.[In person] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_2_1,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_3_1,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the
+midline,c16_virtual_u7_1,C16.Ways of telemedicine consultations in  the last 30 days [Child (1)]
+midline,c16_virtual_u7_1_1,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_2_1,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_3_1,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen"
+midline,c16_virtual_u7_4_1,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_5_1,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon"
+midline,c16_virtual_u7_6_1,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon"
+midline,c16_virtual_u7_7_1,C16_7.[eVisit (when you answer questions about your health issue online and hear
+midline,c17_virtime_u7_1,C17.Times of telemedicine consultations in  the last 30 days [Child (1)]
+midline,c18_virlast_u7_1,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d
+midline,c19_pertime_u7_1,C19.Times in-person consultation visits in the last 30 days [Child (1)]
+midline,c20_personlast_u7_1,C20.Place of in person visist for the most recent visit in the last 30 days [Chi
+midline,c21_health_u7_1,C21. Money spent on direct health care costs for the most recent visit [Child (1
+midline,c22_nonhealth_u7_1,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil
+midline,c22b_u7_total_1,C22b.Total health care cost for primary care visits [Child (1)]
+midline,c23_reimburse_u7_1,C23.Amount of money [MMK] reimbursed from main health insurance [Child (1)]
+midline,c24_stopnormal_u7_1,C24.Number Days stoped normal activities because of the illness [Child (1)]
+midline,c25_assist_u7_1,C25.Gov/NGO/INGO assistance for [Child (1)]
+midline,c25_assist_u7_0_1,C25_0.[None] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_1_1,C25_1.[Save the children] is the orgainzation where the assistance is received c
+midline,c25_assist_u7_2_1,C25_2.[LIFT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_3_1,C25_3.[MCCT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_4_1,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_5_1,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_6_1,C25_6.[Local charity organizations] is the orgainzation where the assistance is
+midline,c25_assist_u7_7_1,C25_7.[TdH] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_8_1,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_9_1,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive
+midline,c25_assist_u7_10_1,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre
+midline,c25_assist_u7_11_1,C25_11.[ICRC] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_98_1,C25_98.Don't know the orgainzation where the assistance is received currently.
+midline,c26_nonsick_u7_1,C26.The reasons of visit/interact with health care providers although [Child (1)
+midline,c26_nonsick_u7_1_1,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi
+midline,c26_nonsick_u7_2_1,C26_2.[Under five visit without vaccination] is the reason that Under 6 children
+midline,c26_nonsick_u7_3_1,C26_3.[General check-up] is the reason that Under 6 children visit/interact with
+midline,c26_nonsick_u7_4_1,C26_4.[Didn't go to heath care facillity or consult with health care provider] i
+midline,c27_notconsult_u7_1,C27.The reasons that the [Child (1)] didn't seek health care although sick/injur
+midline,c27_notconsult_u7_1_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt
+midline,c27_notconsult_u7_2_1,C27_2.[Self-treated] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_3_1,C27_3.[No money for treatment] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_4_1,C27_4.[Too far] was the reason that do not visit/interact with health care provi
+midline,c27_notconsult_u7_5_1,C27_5.[Poor services] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_6_1,C27_6.[Not safe] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_7_1,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_8_1,C27_8.[Do not know where to go] was the reason that do not visit/interact with h
+midline,c27_notconsult_u7_9_1,C27_9.[Too expensive] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_10_1,C27_10.[Too far] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_11_1,C27_11.[Could not get permission] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_12_1,C27_12.[Embarrassment] was the reason that do not visit/interact with health car
+midline,c27_notconsult_u7_13_1,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_14_1,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi
+midline,c27_notconsult_u7_15_1,C27_15.[Bad previous experience] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_16_1,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_17_1,C27_17.[Had children/ other responsibilities at home] was the reason that do not
+midline,c27_notconsult_u7_18_1,C27_18.[There were insufficient health care providers at the clinics/hospitals]
+midline,c27_notconsult_u7_19_1,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason
+midline,c27_notconsult_u7_20_1,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac
+midline,c27_notconsult_u7_21_1,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that
+midline,c27_notconsult_u7_22_1,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_23_1,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.
+midline,c27_notconsult_u7_24_1,C27_24.[Lack of available transportation] was the reason that do not visit/inter
+midline,c27_notconsult_u7_25_1,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/
+midline,c28_inpatient_u7_1,C28.Hospitalization during 12 months [Child (1)]
+midline,c29_insu_u7_1,C29.Main (government or private) health insurance covering inpatient care[Child
+midline,c30_episode_u7_1,C30.Episodes of hospitalization in the last 12 months [Child (1)]
+midline,c31_disease_u7_1,C31.Reasons for hospitalization for the most recent episode [Child (1)]
+midline,c31_disease_u7_1_1,C31_1.[Malaria/ fever] was the reason for hospitalization..
+midline,c31_disease_u7_2_1,C31_2.[Diseases of Respiratory including pneumonia] was the reason for hospitali
+midline,c31_disease_u7_3_1,C31_3.[TB] was the reason for hospitalization..
+midline,c31_disease_u7_4_1,C31_4.[Kidney disease] was the reason for hospitalization..
+midline,c31_disease_u7_5_1,C31_5.[Liver disease] was the reason for hospitalization..
+midline,c31_disease_u7_6_1,C31_6.[Cardiovascular disease] was the reason for hospitalization..
+midline,c31_disease_u7_7_1,C31_7.[Haematological disorders] was the reason for hospitalization..
+midline,c31_disease_u7_8_1,C31_8.[Eye infections] was the reason for hospitalization..
+midline,c31_disease_u7_9_1,C31_9.[HIV/AIDS] was the reason for hospitalization..
+midline,c31_disease_u7_10_1,C31_10.[Diabetes] was the reason for hospitalization..
+midline,c31_disease_u7_11_1,C31_11.[Hypertension] was the reason for hospitalization..
+midline,c31_disease_u7_12_1,C31_12.[Diarrhea] was the reason for hospitalization..
+midline,c31_disease_u7_13_1,C31_13.[Intestinal worms] was the reason for hospitalization..
+midline,c31_disease_u7_14_1,C31_14.[STD (Syphilis etc)] was the reason for hospitalization..
+midline,c31_disease_u7_15_1,C31_15.[Accidents and injuries] was the reason for hospitalization..
+midline,c31_disease_u7_16_1,C31_16.[Gender Based Violence related injuries] was the reason for hospitalizati
+midline,c31_disease_u7_17_1,C31_17.[Cancer] was the reason for hospitalization..
+midline,c31_disease_u7_18_1,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..
+midline,c31_disease_u7_19_1,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..
+midline,c31_disease_u7_20_1,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the
+midline,c31_disease_u7_21_1,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat
+midline,c31_disease_u7_22_1,C31_22.[Abortion] was the reason for hospitalization..
+midline,c31_disease_u7_23_1,C31_23.[Covid-19] was the reason for hospitalization..
+midline,c31_disease_u7_24_1,C31_24.[Surgery for Appendicitis] was the reason for hospitalization..
+midline,c31_disease_u7_25_1,"C31_25.[Skin diseases (e.g., boils, lesions, etc.)] was the reason for hospitali"
+midline,c31_disease_u7_26_1,C31_26.[Gastritics] was the reason for hospitalization..
+midline,c31_disease_u7_27_1,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas
+midline,c31_disease_u7_28_1,C31_28.[Dengue Haemorrhagic Fever] was the reason for hospitalization..
+midline,c31_disease_u7_29_1,C31_29.[Surgery for hydrocephalus] was the reason for hospitalization..
+midline,c31_disease_u7_30_1,C31_30.[Surgery for hernia] was the reason for hospitalization..
+midline,c31_disease_u7_31_1,C31_31.[Melena] was the reason for hospitalization..
+midline,c31_disease_u7_32_1,C31_32.[Intussusception] was the reason for hospitalization..
+midline,c31_disease_u7_33_1,C31_33.[Epilepsy/seizure] was the reason for hospitalization..
+midline,c31_disease_u7_34_1,C31_34.[Fever] was the reason for hospitalization..
+midline,c31_disease_u7_35_1,C31_35.[Drug poison/food poison] was the reason for hospitalization..
+midline,c31_disease_u7_36_1,"C31_36.[Signs of labours (pain, rupture of membrane)] was the reason for hospita"
+midline,c31_disease_u7_37_1,C31_37.[Jaundice] was the reason for hospitalization..
+midline,c31_disease_u7_38_1,C31_38.[Meningitis] was the reason for hospitalization..
+midline,c31_disease_u7_39_1,C31_39.[Constipation] was the reason for hospitalization..
+midline,c31_disease_u7_40_1,C31_40.[Low Birth weight] was the reason for hospitalization..
+midline,c31_disease_u7_41_1,C31_41.[The newborn could not be fed.] was the reason for hospitalization..
+midline,c31_disease_u7_42_1,C31_42.[Cleft palate surgery] was the reason for hospitalization..
+midline,c32_opd_u7_1,C32.Seeking outpatient/primary care before hospitalization [Child (1)]
+midline,c33_hospital_u7_1,C33.Place of hospitalization for the most recent episode [Child (1)]
+midline,c34_stopnormal_u7_1,C34.Number of days stopped for normal activities because of the hospitalization
+midline,c35_days_u7_1,C35.Days spent in the hospital for the most recent hospitalization [Child (1)]
+midline,c36_health_u7_1,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi
+midline,c37_nonhealth_u7_1,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos
+midline,c37b_u7_total_1,C37.Total health care costs for inpatient care[Child (1)]
+midline,c8_illyesno_u7_2,"C8.llness, injury, or health complaints in the last 30 days [Child (2)]"
+midline,c9_insu_u7_2,C9.Main (government or private) health insurance covering outpatient care for si
+midline,c10_seekcare_u7_2,C10.Consulting/visiting/interacting with health care providers during the past 3
+midline,c11_disease_u7_2,C11.Disease diagnosed for the most recent interaction in the past 30 days [Child
+midline,c11_disease_u7_1_2,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_2_2,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro
+midline,c11_disease_u7_3_2,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_4_2,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_5_2,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_6_2,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_7_2,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct"
+midline,c11_disease_u7_8_2,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_9_2,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_10_2,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_11_2,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_12_2,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_13_2,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_14_2,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_15_2,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_16_2,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide
+midline,c11_disease_u7_17_2,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto"
+midline,c11_disease_u7_18_2,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor
+midline,c11_disease_u7_19_2,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_20_2,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_21_2,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise"
+midline,c11_disease_u7_22_2,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_23_2,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_24_2,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi
+midline,c11_disease_u7_25_2,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_26_2,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_27_2,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car
+midline,c11_disease_u7_28_2,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health
+midline,c11_disease_u7_29_2,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_30_2,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed
+midline,c11_disease_u7_31_2,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re
+midline,c11_disease_u7_32_2,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_33_2,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_34_2,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_35_2,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_36_2,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_37_2,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_38_2,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_39_2,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_40_2,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_41_2,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_42_2,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_43_2,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_44_2,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_45_2,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care
+midline,c11_disease_u7_48_2,C11_48.[Tonsilitis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_47_2,C11_47.[Injury/dog bites] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_46_2,C11_46.[Joint pain] was disease diagnosed by doctor/health care provider for the
+midline,c12_diagnose_u7_2,C12.Diagnostic / lab tests performed [Child (2)]
+midline,c13_medication_u7_2,C13.Prescribing medications [Child (2)]
+midline,c14_meditake_u7_2,C14.Taking the medicines as prescribed [Child (2)]
+midline,c15_format_u7_2,C15.Format of seeking medical advice/treatment [Child (2)]
+midline,c15_format_u7_1_2,C15_1.[In person] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_2_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_3_2,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the
+midline,c16_virtual_u7_2,C16.Ways of telemedicine consultations in  the last 30 days [Child (2)]
+midline,c16_virtual_u7_1_2,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_2_2,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_3_2,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen"
+midline,c16_virtual_u7_4_2,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.
+midline,c16_virtual_u7_5_2,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon"
+midline,c16_virtual_u7_6_2,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon"
+midline,c16_virtual_u7_7_2,C16_7.[eVisit (when you answer questions about your health issue online and hear
+midline,c17_virtime_u7_2,C17.Times of telemedicine consultations in  the last 30 days [Child (2)]
+midline,c18_virlast_u7_2,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d
+midline,c19_pertime_u7_2,C19.Times in-person consultation visits in the last 30 days [Child (2)]
+midline,c20_personlast_u7_2,C20.Place of in person visist for the most recent visit in the last 30 days [Chi
+midline,c21_health_u7_2,C21. Money spent on direct health care costs for the most recent visit [Child (2
+midline,c22_nonhealth_u7_2,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil
+midline,c22b_u7_total_2,C22b.Total health care cost for primary care visits [Child (2)]
+midline,c23_reimburse_u7_2,C23.Amount of money [MMK] reimbursed from main health insurance [Child (2)]
+midline,c24_stopnormal_u7_2,C24.Number Days stoped normal activities because of the illness [Child (2)]
+midline,c25_assist_u7_2,C25.Gov/NGO/INGO assistance for [Child (2)]
+midline,c25_assist_u7_0_2,C25_0.[None] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_1_2,C25_1.[Save the children] is the orgainzation where the assistance is received c
+midline,c25_assist_u7_2_2,C25_2.[LIFT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_3_2,C25_3.[MCCT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_4_2,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_5_2,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_6_2,C25_6.[Local charity organizations] is the orgainzation where the assistance is
+midline,c25_assist_u7_7_2,C25_7.[TdH] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_8_2,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_9_2,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive
+midline,c25_assist_u7_10_2,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre
+midline,c25_assist_u7_11_2,C25_11.[ICRC] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_98_2,C25_98.Don't know the orgainzation where the assistance is received currently.
+midline,c26_nonsick_u7_2,C26.The reasons of visit/interact with health care providers although [Child (2)
+midline,c26_nonsick_u7_1_2,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi
+midline,c26_nonsick_u7_2_2,C26_2.[Under five visit without vaccination] is the reason that Under 6 children
+midline,c26_nonsick_u7_3_2,C26_3.[General check-up] is the reason that Under 6 children visit/interact with
+midline,c26_nonsick_u7_4_2,C26_4.[Didn't go to heath care facillity or consult with health care provider] i
+midline,c27_notconsult_u7_2,C27.The reasons that the [Child (2)] didn't seek health care although sick/injur
+midline,c27_notconsult_u7_1_2,C27_1.[Not serious illness] was the reason that do not visit/interact with healt
+midline,c27_notconsult_u7_2_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_3_2,C27_3.[No money for treatment] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_4_2,C27_4.[Too far] was the reason that do not visit/interact with health care provi
+midline,c27_notconsult_u7_5_2,C27_5.[Poor services] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_6_2,C27_6.[Not safe] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_7_2,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_8_2,C27_8.[Do not know where to go] was the reason that do not visit/interact with h
+midline,c27_notconsult_u7_9_2,C27_9.[Too expensive] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_10_2,C27_10.[Too far] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_11_2,C27_11.[Could not get permission] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_12_2,C27_12.[Embarrassment] was the reason that do not visit/interact with health car
+midline,c27_notconsult_u7_13_2,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_14_2,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi
+midline,c27_notconsult_u7_15_2,C27_15.[Bad previous experience] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_16_2,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_17_2,C27_17.[Had children/ other responsibilities at home] was the reason that do not
+midline,c27_notconsult_u7_18_2,C27_18.[There were insufficient health care providers at the clinics/hospitals]
+midline,c27_notconsult_u7_19_2,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason
+midline,c27_notconsult_u7_20_2,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac
+midline,c27_notconsult_u7_21_2,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that
+midline,c27_notconsult_u7_22_2,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_23_2,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.
+midline,c27_notconsult_u7_24_2,C27_24.[Lack of available transportation] was the reason that do not visit/inter
+midline,c27_notconsult_u7_25_2,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/
+midline,c28_inpatient_u7_2,C28.Hospitalization during 12 months [Child (2)]
+midline,c29_insu_u7_2,C29.Main (government or private) health insurance covering inpatient care[Child
+midline,c30_episode_u7_2,C30.Episodes of hospitalization in the last 12 months [Child (2)]
+midline,c31_disease_u7_2,C31.Reasons for hospitalization for the most recent episode [Child (2)]
+midline,c31_disease_u7_1_2,C31_1.[Malaria/ fever] was the reason for hospitalization..
+midline,c31_disease_u7_2_2,C31_2.[Diseases of Respiratory including pneumonia] was the reason for hospitali
+midline,c31_disease_u7_3_2,C31_3.[TB] was the reason for hospitalization..
+midline,c31_disease_u7_4_2,C31_4.[Kidney disease] was the reason for hospitalization..
+midline,c31_disease_u7_5_2,C31_5.[Liver disease] was the reason for hospitalization..
+midline,c31_disease_u7_6_2,C31_6.[Cardiovascular disease] was the reason for hospitalization..
+midline,c31_disease_u7_7_2,C31_7.[Haematological disorders] was the reason for hospitalization..
+midline,c31_disease_u7_8_2,C31_8.[Eye infections] was the reason for hospitalization..
+midline,c31_disease_u7_9_2,C31_9.[HIV/AIDS] was the reason for hospitalization..
+midline,c31_disease_u7_10_2,C31_10.[Diabetes] was the reason for hospitalization..
+midline,c31_disease_u7_11_2,C31_11.[Hypertension] was the reason for hospitalization..
+midline,c31_disease_u7_12_2,C31_12.[Diarrhea] was the reason for hospitalization..
+midline,c31_disease_u7_13_2,C31_13.[Intestinal worms] was the reason for hospitalization..
+midline,c31_disease_u7_14_2,C31_14.[STD (Syphilis etc)] was the reason for hospitalization..
+midline,c31_disease_u7_15_2,C31_15.[Accidents and injuries] was the reason for hospitalization..
+midline,c31_disease_u7_16_2,C31_16.[Gender Based Violence related injuries] was the reason for hospitalizati
+midline,c31_disease_u7_17_2,C31_17.[Cancer] was the reason for hospitalization..
+midline,c31_disease_u7_18_2,C31_18.[Childbirth (Normal Delivery)] was the reason for hospitalization..
+midline,c31_disease_u7_19_2,C31_19.[Childbirth (Caesarean) ] was the reason for hospitalization..
+midline,c31_disease_u7_20_2,C31_20.[Treatment/ surgery for reproductive health related cancers etc.] was the
+midline,c31_disease_u7_21_2,C31_21.[Post-natal care/ delivery complications] was the reason for hospitalizat
+midline,c31_disease_u7_22_2,C31_22.[Abortion] was the reason for hospitalization..
+midline,c31_disease_u7_23_2,C31_23.[Covid-19] was the reason for hospitalization..
+midline,c31_disease_u7_24_2,C31_24.[Surgery for Appendicitis] was the reason for hospitalization..
+midline,c31_disease_u7_25_2,"C31_25.[Skin diseases (e.g., boils, lesions, etc.)] was the reason for hospitali"
+midline,c31_disease_u7_26_2,C31_26.[Gastritics] was the reason for hospitalization..
+midline,c31_disease_u7_27_2,C31_27.[Abnormal pregnancy/pregnancy complications/malpresentation] was the reas
+midline,c31_disease_u7_28_2,C31_28.[Dengue Haemorrhagic Fever] was the reason for hospitalization..
+midline,c31_disease_u7_29_2,C31_29.[Surgery for hydrocephalus] was the reason for hospitalization..
+midline,c31_disease_u7_30_2,C31_30.[Surgery for hernia] was the reason for hospitalization..
+midline,c31_disease_u7_31_2,C31_31.[Melena] was the reason for hospitalization..
+midline,c31_disease_u7_32_2,C31_32.[Intussusception] was the reason for hospitalization..
+midline,c31_disease_u7_33_2,C31_33.[Epilepsy/seizure] was the reason for hospitalization..
+midline,c31_disease_u7_34_2,C31_34.[Fever] was the reason for hospitalization..
+midline,c31_disease_u7_35_2,C31_35.[Drug poison/food poison] was the reason for hospitalization..
+midline,c31_disease_u7_36_2,"C31_36.[Signs of labours (pain, rupture of membrane)] was the reason for hospita"
+midline,c31_disease_u7_37_2,C31_37.[Jaundice] was the reason for hospitalization..
+midline,c31_disease_u7_38_2,C31_38.[Meningitis] was the reason for hospitalization..
+midline,c31_disease_u7_39_2,C31_39.[Constipation] was the reason for hospitalization..
+midline,c31_disease_u7_40_2,C31_40.[Low Birth weight] was the reason for hospitalization..
+midline,c31_disease_u7_41_2,C31_41.[The newborn could not be fed.] was the reason for hospitalization..
+midline,c31_disease_u7_42_2,C31_42.[Cleft palate surgery] was the reason for hospitalization..
+midline,c32_opd_u7_2,C32.Seeking outpatient/primary care before hospitalization [Child (2)]
+midline,c33_hospital_u7_2,C33.Place of hospitalization for the most recent episode [Child (2)]
+midline,c34_stopnormal_u7_2,C34.Number of days stopped for normal activities because of the hospitalization
+midline,c35_days_u7_2,C35.Days spent in the hospital for the most recent hospitalization [Child (2)]
+midline,c36_health_u7_2,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi
+midline,c37_nonhealth_u7_2,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos
+midline,c37b_u7_total_2,C37.Total health care costs for inpatient care[Child (2)]
+midline,c38_reimburse_u7_2,C38.Amount of money[MMK] reimbursed for the most recent hospitalization [Child (
+midline,c8_illyesno_u7_3,"C8.llness, injury, or health complaints in the last 30 days [Child (3)]"
+midline,c9_insu_u7_3,C9.Main (government or private) health insurance covering outpatient care for si
+midline,c10_seekcare_u7_3,C10.Consulting/visiting/interacting with health care providers during the past 3
+midline,c11_disease_u7_3,C11.Disease diagnosed for the most recent interaction in the past 30 days [Child
+midline,c11_disease_u7_1_3,C11_1.[Diarrhea ] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_2_3,C11_2.[Dengue Hemorrhagic Fever] was disease diagnosed by doctor/health care pro
+midline,c11_disease_u7_3_3,C11_3.[Fever] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_4_3,C11_4.[Malaria] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_5_3,C11_5.[Typhoid] was disease diagnosed by doctor/health care provider for the rec
+midline,c11_disease_u7_6_3,C11_6.[Kidney disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_7_3,"C11_7.[Skin diseases (e.g., boils, lesions, etc.)] was disease diagnosed by doct"
+midline,c11_disease_u7_8_3,C11_8.[Cough] was disease diagnosed by doctor/health care provider for the recen
+midline,c11_disease_u7_9_3,C11_9.[Nasal congestion] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_10_3,C11_10.[Running nose] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_11_3,C11_11.[Influenza] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_12_3,C11_12.[Abdominal pain] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_13_3,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_14_3,C11_14.[Hypertension] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_15_3,C11_15.[Diabetes] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_16_3,C11_16.[Nausea and vomiting] was disease diagnosed by doctor/health care provide
+midline,c11_disease_u7_17_3,"C11_17.[Accidents (motorbike/car accidents, etc)] was disease diagnosed by docto"
+midline,c11_disease_u7_18_3,C11_18.[Occupational injuries or other injuries] was disease diagnosed by doctor
+midline,c11_disease_u7_19_3,C11_19.[Oral disease] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_20_3,C11_20.[Low blood pressure/hypotension] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_21_3,"C11_21.[Complications of pregnancy (diziness, bleeding, pain,weakness)] was dise"
+midline,c11_disease_u7_22_3,C11_22.[Heart disease] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_23_3,C11_23.[Sore throat] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_24_3,C11_24.[Muscle and joint pain] was disease diagnosed by doctor/health care provi
+midline,c11_disease_u7_25_3,C11_25.[Food poison] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_26_3,C11_26.[Gastritics] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_27_3,C11_27.[Urinary tract infection(UTI)] was disease diagnosed by doctor/health car
+midline,c11_disease_u7_28_3,C11_28.[Neurological disorders/headache] was disease diagnosed by doctor/health
+midline,c11_disease_u7_29_3,C11_29.[Constipation] was disease diagnosed by doctor/health care provider for t
+midline,c11_disease_u7_30_3,C11_30.[Pneumonia/AVI/Other respiratory tract infections] was disease diagnosed
+midline,c11_disease_u7_31_3,C11_31.[Asthema] was disease diagnosed by doctor/health care provider for the re
+midline,c11_disease_u7_32_3,C11_32.[Intestinal worms] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_33_3,C11_33.[Bone demorfimty] was disease diagnosed by doctor/health care provider fo
+midline,c11_disease_u7_34_3,C11_34.[Indigestion] was disease diagnosed by doctor/health care provider for th
+midline,c11_disease_u7_35_3,C11_35.[Hydrocephalus] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_36_3,C11_36.[Bloating] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_37_3,C11_37.[Ear infection] was disease diagnosed by doctor/health care provider for
+midline,c11_disease_u7_38_3,C11_38.[Epistasis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_39_3,C11_39.[Epilepsy/seizure] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_40_3,C11_40.[Paralysis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_41_3,C11_41.[Medical checkup/investigations] was disease diagnosed by doctor/health c
+midline,c11_disease_u7_42_3,C11_42.[Weakness] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_43_3,C11_43.[Back pain] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_44_3,C11_44.[Jaundice] was disease diagnosed by doctor/health care provider for the r
+midline,c11_disease_u7_45_3,C11_45.[Eyes disease/eyes infection] was disease diagnosed by doctor/health care
+midline,c11_disease_u7_48_3,C11_48.[Tonsilitis] was disease diagnosed by doctor/health care provider for the
+midline,c11_disease_u7_47_3,C11_47.[Injury/dog bites] was disease diagnosed by doctor/health care provider f
+midline,c11_disease_u7_46_3,C11_46.[Joint pain] was disease diagnosed by doctor/health care provider for the
+midline,c12_diagnose_u7_3,C12.Diagnostic / lab tests performed [Child (3)]
+midline,c13_medication_u7_3,C13.Prescribing medications [Child (3)]
+midline,c14_meditake_u7_3,C14.Taking the medicines as prescribed [Child (3)]
+midline,c15_format_u7_3,C15.Format of seeking medical advice/treatment [Child (3)]
+midline,c15_format_u7_1_3,C15_1.[In person] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_2_3,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.
+midline,c15_format_u7_3_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the
+midline,c19_pertime_u7_3,C19.Times in-person consultation visits in the last 30 days [Child (3)]
+midline,c20_personlast_u7_3,C20.Place of in person visist for the most recent visit in the last 30 days [Chi
+midline,c21_health_u7_3,C21. Money spent on direct health care costs for the most recent visit [Child (3
+midline,c22_nonhealth_u7_3,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil
+midline,c22b_u7_total_3,C22b.Total health care cost for primary care visits [Child (3)]
+midline,c24_stopnormal_u7_3,C24.Number Days stoped normal activities because of the illness [Child (3)]
+midline,c25_assist_u7_3,C25.Gov/NGO/INGO assistance for [Child (3)]
+midline,c25_assist_u7_0_3,C25_0.[None] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_1_3,C25_1.[Save the children] is the orgainzation where the assistance is received c
+midline,c25_assist_u7_2_3,C25_2.[LIFT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_3_3,C25_3.[MCCT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_4_3,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_5_3,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_6_3,C25_6.[Local charity organizations] is the orgainzation where the assistance is
+midline,c25_assist_u7_7_3,C25_7.[TdH] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_8_3,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_9_3,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive
+midline,c25_assist_u7_10_3,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre
+midline,c25_assist_u7_11_3,C25_11.[ICRC] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_98_3,C25_98.Don't know the orgainzation where the assistance is received currently.
+midline,c26_nonsick_u7_3,C26.The reasons of visit/interact with health care providers although [Child (3)
+midline,c26_nonsick_u7_1_3,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi
+midline,c26_nonsick_u7_2_3,C26_2.[Under five visit without vaccination] is the reason that Under 6 children
+midline,c26_nonsick_u7_3_3,C26_3.[General check-up] is the reason that Under 6 children visit/interact with
+midline,c26_nonsick_u7_4_3,C26_4.[Didn't go to heath care facillity or consult with health care provider] i
+midline,c27_notconsult_u7_3,C27.The reasons that the [Child (3)] didn't seek health care although sick/injur
+midline,c27_notconsult_u7_1_3,C27_1.[Not serious illness] was the reason that do not visit/interact with healt
+midline,c27_notconsult_u7_2_3,C27_2.[Self-treated] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_3_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_4_3,C27_4.[Too far] was the reason that do not visit/interact with health care provi
+midline,c27_notconsult_u7_5_3,C27_5.[Poor services] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_6_3,C27_6.[Not safe] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_7_3,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_8_3,C27_8.[Do not know where to go] was the reason that do not visit/interact with h
+midline,c27_notconsult_u7_9_3,C27_9.[Too expensive] was the reason that do not visit/interact with health care
+midline,c27_notconsult_u7_10_3,C27_10.[Too far] was the reason that do not visit/interact with health care prov
+midline,c27_notconsult_u7_11_3,C27_11.[Could not get permission] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_12_3,C27_12.[Embarrassment] was the reason that do not visit/interact with health car
+midline,c27_notconsult_u7_13_3,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_14_3,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi
+midline,c27_notconsult_u7_15_3,C27_15.[Bad previous experience] was the reason that do not visit/interact with
+midline,c27_notconsult_u7_16_3,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he
+midline,c27_notconsult_u7_17_3,C27_17.[Had children/ other responsibilities at home] was the reason that do not
+midline,c27_notconsult_u7_18_3,C27_18.[There were insufficient health care providers at the clinics/hospitals]
+midline,c27_notconsult_u7_19_3,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason
+midline,c27_notconsult_u7_20_3,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac
+midline,c27_notconsult_u7_21_3,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that
+midline,c27_notconsult_u7_22_3,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal
+midline,c27_notconsult_u7_23_3,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.
+midline,c27_notconsult_u7_24_3,C27_24.[Lack of available transportation] was the reason that do not visit/inter
+midline,c27_notconsult_u7_25_3,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/
+midline,c28_inpatient_u7_3,C28.Hospitalization during 12 months [Child (3)]
+midline,c29_insu_u7_3,C29.Main (government or private) health insurance covering inpatient care[Child
+midline,c8_illyesno_u7_4,"C8.llness, injury, or health complaints in the last 30 days [Child (4)]"
+midline,c9_insu_u7_4,C9.Main (government or private) health insurance covering outpatient care for si
+midline,c25_assist_u7_4,C25.Gov/NGO/INGO assistance for [Child (4)]
+midline,c25_assist_u7_0_4,C25_0.[None] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_1_4,C25_1.[Save the children] is the orgainzation where the assistance is received c
+midline,c25_assist_u7_2_4,C25_2.[LIFT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_3_4,C25_3.[MCCT] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_4_4,C25_4.[UNICEF] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_5_4,C25_5.[World Food Program (WFP)] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_6_4,C25_6.[Local charity organizations] is the orgainzation where the assistance is
+midline,c25_assist_u7_7_4,C25_7.[TdH] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_8_4,C25_8.[Myat Wynn Lay Myar group] is the orgainzation where the assistance is rec
+midline,c25_assist_u7_9_4,C25_9.[Bright Start Program] is the orgainzation where the assistance is receive
+midline,c25_assist_u7_10_4,C25_10.[PACT Myanmar] is the orgainzation where the assistance is received curre
+midline,c25_assist_u7_11_4,C25_11.[ICRC] is the orgainzation where the assistance is received currently.
+midline,c25_assist_u7_98_4,C25_98.Don't know the orgainzation where the assistance is received currently.
+midline,c26_nonsick_u7_4,C26.The reasons of visit/interact with health care providers although [Child (4)
+midline,c26_nonsick_u7_1_4,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi
+midline,c26_nonsick_u7_2_4,C26_2.[Under five visit without vaccination] is the reason that Under 6 children
+midline,c26_nonsick_u7_3_4,C26_3.[General check-up] is the reason that Under 6 children visit/interact with
+midline,c26_nonsick_u7_4_4,C26_4.[Didn't go to heath care facillity or consult with health care provider] i
+midline,c28_inpatient_u7_4,C28.Hospitalization during 12 months [Child (4)]
+midline,c29_insu_u7_4,C29.Main (government or private) health insurance covering inpatient care[Child
+midline,d1_preg,D1.Are you currently pregnant?
+midline,d2_insu_preg,D2.What is the main (government or private) health insurance covering [NAME]’s '
+midline,d3_week,D3.How far along are you in your pregnancy? (in weeks)
+midline,d4_anc,"D4.In the last 30 days, have you ever been for antenatal care?"
+midline,d7_lastvisit,"D7.In the last 30 days, what is the date of last visit of antenatal care?"
+midline,d8_antecare,"D8.For the [NAME]’s recent visit for antenatal care, what kinds of services did"
+midline,d8_antecare_1,D8_1.[Vital sign] was the antenatal care received in the last visit
+midline,d8_antecare_2,D8_2.[Testing] was the antenatal care received in the last visit
+midline,d8_antecare_3,D8_3.[Infection screening] was the antenatal care received in the last visit
+midline,d8_antecare_4,D8_4.[Ultrasound] was the antenatal care received in the last visit
+midline,d8_antecare_5,D8_5.[Tetanus immunization] was the antenatal care received in the last visit
+midline,d8_antecare_6,D8_6.[Deworming] was the antenatal care received in the last visit
+midline,d8_antecare_7,D8_7.[Supplements] was the antenatal care received in the last visit
+midline,d8_antecare_8,D8_8.[Specialist consultation  (Specialist doctors)   ] was the antenatal care r
+midline,d8_antecare_9,D8_9.[Doctors’ consultation (Non-specialist)] was the antenatal care received in
+midline,d8_antecare_10,D8_10.[Nurses/midwives/health assistant consultation] was the antenatal care rec
+midline,d8_antecare_11,D8_11.[Weight measurement] was the antenatal care received in the last visit
+midline,d9_admit,"D9.In the last 30 days,have you had an overnight hospital admission for reasons"
+midline,d10_past_preg,D10.Did you deliver a baby after ${subdate}?[Note: Excludes current pregnancy;
+midline,d11_year,D11.How many days ago did you deliver your child?
+midline,d12_place,D12.Where did you deliver the child? [Select one. Do not read out the choice lis
+midline,d13_reason,D13.What were the main reasons for choosing to deliver at [${d12_place_cal}]? [
+midline,d13_reason_1,D13_1.[Close to home] was  the main reasons for choosing to deliver at that plac
+midline,d13_reason_2,D13_2.[Staff give good advice] was  the main reasons for choosing to deliver at
+midline,d13_reason_3,D13_3.[Good staff attitude] was  the main reasons for choosing to deliver at tha
+midline,d13_reason_4,D13_4.[Knew someone in the facility] was  the main reasons for choosing to deliv
+midline,d13_reason_5,D13_5.[Less waiting time] was  the main reasons for choosing to deliver at that
+midline,d13_reason_6,D13_6.[Medicine available] was  the main reasons for choosing to deliver at that
+midline,d13_reason_7,D13_7.[Staff are qualified] was  the main reasons for choosing to deliver at tha
+midline,d13_reason_8,D13_8.[Less costly] was  the main reasons for choosing to deliver at that place.
+midline,d13_reason_9,D13_9.[Felt not serious (minor aliment)] was  the main reasons for choosing to d
+midline,d13_reason_10,D13_10.[Cleaner facility] was  the main reasons for choosing to deliver at that
+midline,d13_reason_11,D13_11.[More privacy] was  the main reasons for choosing to deliver at that plac
+midline,d13_reason_12,D13_12.[Was referred] was  the main reasons for choosing to deliver at that plac
+midline,d13_reason_13,D13_13.[Was recommended by the consulting health provider] was  the main reasons
+midline,d13_reason_14,D13_14.[My insurance covered the costs at that health facility partially or full
+midline,d13_reason_16,D13_16.[Need Caesarean Section (the former child was born by Caesarean section o
+midline,d13_reason_17,D13_17.[Difficult labour] was  the main reasons for choosing to deliver at that
+midline,d13_reason_18,"D13_18.[Due to complications at Childbirth/pregnancy (pre-eclampsia,preterm labo"
+midline,d13_reason_19,D13_19.[The government health care facilities were closed.] was  the main reason
+midline,d13_reason_20,D13_20.[Concern about Covid 19 transmission] was  the main reasons for choosing
+midline,d13_reason_21,D13_21.[Security concern] was  the main reasons for choosing to deliver at that
+midline,d13_reason_22,D13_22.[The hospitals were far from home] was  the main reasons for choosing to
+midline,d13_reason_23,D13_23.[Old age] was  the main reasons for choosing to deliver at that place.
+midline,d13_reason_24,"D13_24.[High risk pregnanacy (Primagravida,Smaller pregnancy gap(within one year"
+midline,d13_reason_25,D13_25.[Was recommended by family/friends/neighbours] was  the main reasons for
+midline,d13_reason_26,D13_26.[There was no patient's attendance for me.] was  the main reasons for cho
+midline,d13_reason_27,D13_27.[Unexpectedly deliver before due date] was  the main reasons for choosing
+midline,d13_reason_28,D13_28.[Easy to get birth registration certificate] was  the main reasons for ch
+midline,d14_time,D14.How many times did you see or interact with a healthcare provider during tha
+midline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna
+midline,e1_vaccine_1,E1.Immunization status of Child (1)
+midline,e2_vaccine_record_1,E2.Immunization record of Child (1)
+midline,e3a_birth_1,E3a.At Birth
+midline,e3b_2months_1,E3b.At 2 months
+midline,e3c_4months_1,E3c.At 4 months
+midline,e3c_6months_1,E3d.At 6 months
+midline,e3d_9months_1,E3e.At 9 months
+midline,e3e_half_1,E3f.At one year and half
+midline,e1_vaccine_2,E1.Immunization status of Child (2)
+midline,e2_vaccine_record_2,E2.Immunization record of Child (2)
+midline,e3a_birth_2,E3a.At Birth
+midline,e3b_2months_2,E3b.At 2 months
+midline,e3c_4months_2,E3c.At 4 months
+midline,e3c_6months_2,E3d.At 6 months
+midline,e3d_9months_2,E3e.At 9 months
+midline,e3e_half_2,E3f.At one year and half
+midline,e1_vaccine_3,E1.Immunization status of Child (3)
+midline,e2_vaccine_record_3,E2.Immunization record of Child (3)
+midline,e3a_birth_3,E3a.At Birth
+midline,e3b_2months_3,E3b.At 2 months
+midline,e3c_4months_3,E3c.At 4 months
+midline,e3c_6months_3,E3d.At 6 months
+midline,e3d_9months_3,E3e.At 9 months
+midline,e1_vaccine_4,E1.Immunization status of Child (4)
+midline,e2_vaccine_record_4,E2.Immunization record of Child (4)
+midline,e3a_birth_4,E3a.At Birth
+midline,e3b_2months_4,E3b.At 2 months
+midline,e3c_4months_4,E3c.At 4 months
+midline,e3c_6months_4,E3d.At 6 months
+midline,e3d_9months_4,E3e.At 9 months
+midline,f1_income,F1.Household income sources over the last 12 months.
+midline,f1_income_0,F1_0.[None/unemployed ] was the sources of income in the last 12 months.
+midline,f1_income_1,F1_1.[Farming ] was the sources of income in the last 12 months.
+midline,f1_income_2,F1_2.[Livestock and poultry raising ] was the sources of income in the last 12 m
+midline,f1_income_3,F1_3.[Fishing ] was the sources of income in the last 12 months.
+midline,f1_income_4,F1_4.[Wholesale and retail trade ] was the sources of income in the last 12 mont
+midline,f1_income_5,F1_5.[Peddling ] was the sources of income in the last 12 months.
+midline,f1_income_6,F1_6.[Manufacturing/handicraft ] was the sources of income in the last 12 months
+midline,f1_income_7,F1_7.[Salaried employment ] was the sources of income in the last 12 months.
+midline,f1_income_8,F1_8.[Skilled Labourer] was the sources of income in the last 12 months.
+midline,f1_income_9,F1_9.[Agricultural daily labourer ] was the sources of income in the last 12 mon
+midline,f1_income_10,F1_10.[Other daily labourer ] was the sources of income in the last 12 months.
+midline,f1_income_11,"F1_11.[Private gifts, donations, assistance ] was the sources of income in the l"
+midline,f1_income_12,"F1_12.[Government assistance, pensions] was the sources of income in the last 12"
+midline,f1_income_13,F1_13.[Remittance from abroad ] was the sources of income in the last 12 months.
+midline,f1_income_14,F1_14.[Remittance from other parts of the country ] was the sources of income in
+midline,f1_income_15,F1_15.[Tourism-related work ] was the sources of income in the last 12 months.
+midline,f1_income_16,F1_16.[Transport-related services] was the sources of income in the last 12 mont
+midline,f1_income_17,F1_17.[Broker] was the sources of income in the last 12 months.
+midline,f1_income_18,F1_18.[Land and housing rental agent] was the sources of income in the last 12 m
+midline,f1_income_19,F1_19.[Money lander] was the sources of income in the last 12 months.
+midline,f1_income_20,F1_20.[Street venders] was the sources of income in the last 12 months.
+midline,f1_income_21,F1_21.[Stone collector] was the sources of income in the last 12 months.
+midline,f1_income_22,F1_22.[Hostel Service] was the sources of income in the last 12 months.
+midline,f1_income_23,F1_23.[Small petroleum extraction] was the sources of income in the last 12 mont
+midline,f1_income_24,F1_24.[Internet Café] was the sources of income in the last 12 months.
+midline,f1_income_25,F1_25.[Logger] was the sources of income in the last 12 months.
+midline,f1_income_26,F1_26.[Aircon services] was the sources of income in the last 12 months.
+midline,f1_income_27,F1_27.[Construction] was the sources of income in the last 12 months.
+midline,f1_income_28,F1_28.[Selling water] was the sources of income in the last 12 months.
+midline,f1_income_29,F1_29.[Copyer and Printing Shop] was the sources of income in the last 12 months
+midline,f1_income_30,F1_30.[Quack Doctor] was the sources of income in the last 12 months.
+midline,f1_income_31,F1_31.[Selling firewood] was the sources of income in the last 12 months.
+midline,f1_income_32,F1_32.[Pharmacy shop] was the sources of income in the last 12 months.
+midline,f1_income_33,F1_33.[Tailor] was the sources of income in the last 12 months.
+midline,f1_income_34,F1_34.[Astrologer] was the sources of income in the last 12 months.
+midline,f1_income_35,F1_35.[Renting house to others] was the sources of income in the last 12 months.
+midline,f1_income_36,F1_36.[Phone/car/motorbike reparing service] was the sources of income in the la
+midline,f1_income_37,F1_37.[Barber shop/beauty saloon] was the sources of income in the last 12 month
+midline,f2_incomeone,F2.Main income source of the household
+midline,f3_icomemmk,F3.Average monthly income over the past 12 months.
+midline,f4a_food,F4a.Food and Bevearages (including purchase and home grown/raised)
+midline,f4b_living,F4b.Living or accommodation/rent
+midline,f4c_water,F4c.Water and sanitation
+midline,f4d_cloth,F4d.Clothing
+midline,f4e_social,F4e.Social or religious
+midline,f4f_edu,F4f.Education
+midline,f4g_health,F4g.Health
+midline,f4h_transport,F4h.Transportation
+midline,f4i_commu,"F4i.Communication (Wifi, topup bills)"
+midline,fj_electricity,F4j.Electricity
+midline,f4k_other,F4k.Others
+midline,f4k_other_oth,F4k.Other costs
+midline,h1_source,H1.Most reliable source of information for Covid 19.
+midline,h2_symptoms,H2.What are the suspected symptoms of COVID 19? [Select Multiple]
+midline,h2_symptoms_1,H2_1.[Fever or chills] was suspected symptom of Covid 19
+midline,h2_symptoms_2,H2_2.[Cough] was suspected symptom of Covid 19
+midline,h2_symptoms_3,H2_3.[Shortness of breath or difficulty breathing] was suspected symptom of Covi
+midline,h2_symptoms_4,H2_4.[Fatigue] was suspected symptom of Covid 19
+midline,h2_symptoms_5,H2_5.[Muscle or body aches] was suspected symptom of Covid 19
+midline,h2_symptoms_6,H2_6.[Headache] was suspected symptom of Covid 19
+midline,h2_symptoms_7,H2_7.[New loss of taste or smell] was suspected symptom of Covid 19
+midline,h2_symptoms_8,H2_8.[Sore throat] was suspected symptom of Covid 19
+midline,h2_symptoms_9,H2_9.[Congestion or runny nose] was suspected symptom of Covid 19
+midline,h2_symptoms_10,H2_10.[Nausea or vomiting] was suspected symptom of Covid 19
+midline,h2_symptoms_11,H2_11.[Diarrhea] was suspected symptom of Covid 19
+midline,h2_symptoms_12,H2_12.[Lower O2/SPO2] was suspected symptom of Covid 19
+midline,h2_symptoms_13,H2_13.[Loss of appetite] was suspected symptom of Covid 19
+midline,h2_symptoms_14,H2_14.[Redness on body and eyes] was suspected symptom of Covid 19
+midline,h2_symptoms_15,H2_15.[Diziness] was suspected symptom of Covid 19
+midline,h2_symptoms_16,H2_16.[Insomnia] was suspected symptom of Covid 19
+midline,h2_symptoms_17,H2_17.[Low blood pressure] was suspected symptom of Covid 19
+midline,h2_symptoms_98,H2_98.Don't know the symptoms of Covid-19.
+midline,h3_suspected,H3.What should you do if you find someone with suspected COVID-19 symptoms? [Sel
+midline,h3_suspected_1,H3_1.[Informing to health care personnel] would be done if found out someone wit
+midline,h3_suspected_2,H3_2.[Nothing to do] would be done if found out someone with suspected COVID-19
+midline,h3_suspected_3,"H3_3.[Monitoring symptoms (temperature, cough, breathing)] would be done if foun"
+midline,h3_suspected_4,H3_4.[Taking medications as directed or prescribed by doctors] would be done if
+midline,h3_suspected_5,H3_5.[Isolate the sick person] would be done if found out someone with suspected
+midline,h3_suspected_6,H3_6.[Keep social distancing with suspected person.] would be done if found out
+midline,h3_suspected_7,H3_7.[Encourge/take to seek medical treament] would be done if found out someone
+midline,h3_suspected_8,"H3_8.[Protect self from Covid-19 transmission (Masks, hand washing,etc)] would b"
+midline,h3_suspected_9,H3_9.[Encourage the suspected person verbally and help physically as needed (men
+midline,h3_suspected_10,H3_10.[Apply herbs to relief symptoms] would be done if found out someone with s
+midline,h3_suspected_11,H3_11.[Informing to the local authorities] would be done if found out someone wi
+midline,h3_suspected_97,H3_97. Refused to answer.
+midline,h3_suspected_98,H3_98. Don't Know
+midline,h4_protect,H4.Preventive measures against Covid-19.
+midline,h4_protect_1,H4_1.[Wear a mask over nose and mouth] is preventive measures against Covid-19
+midline,h4_protect_2,H4_2.[Stay 6 feet away from others] is preventive measures against Covid-19
+midline,h4_protect_3,H4_3.[Avoid crowds] is preventive measures against Covid-19
+midline,h4_protect_4,H4_4.[Avoid poorly ventilated spaces] is preventive measures against Covid-19
+midline,h4_protect_5,H4_5.[Wash your hands often] is preventive measures against Covid-19
+midline,h4_protect_6,H4_6.[Cover coughs and sneezes] is preventive measures against Covid-19
+midline,h4_protect_7,H4_7.[Clean and disinfect] is preventive measures against Covid-19
+midline,h4_protect_8,H4_8.[Monitor Health status daily] is preventive measures against Covid-19
+midline,h4_protect_9,H4_9.[Do not allow visitors at home] is preventive measures against Covid-19
+midline,h4_protect_10,H4_10.[Eating well balanced diet] is preventive measures against Covid-19
+midline,h4_protect_11,H4_11.[Taking multivitamin supplements] is preventive measures against Covid-19
+midline,h4_protect_12,H4_12.[Getting vaccinated] is preventive measures against Covid-19
+midline,h4_protect_13,H4_13.[Nothing ] is preventive measures against Covid-19
+midline,h4_protect_14,H4_14.[Changing clothes once came from outside] is preventive measures against C
+midline,h4_protect_15,H4_15.[Taking bath once come from outside] is preventive measures against Covid-
+midline,h4_protect_16,H4_16.[Worn surgical head cap] is preventive measures against Covid-19
+midline,h4_protect_17,H4_17.[Stay at home] is preventive measures against Covid-19
+midline,h4_protect_18,H4_18.[Wearing faceshield] is preventive measures against Covid-19
+midline,h4_protect_19,H4_19.[Using gloves] is preventive measures against Covid-19
+midline,h4_protect_20,H4_20.[Eating/drinking herbs] is preventive measures against Covid-19
+midline,h4_protect_21,H4_21.[Getting enough sleep] is preventive measures against Covid-19
+midline,h4_protect_22,H4_22.[Take care of personal hygiene] is preventive measures against Covid-19
+midline,h4_protect_98,H4_98.Don't know
+midline,h5_emergency,H5.Conditions for medical emergency.
+midline,h5_emergency_1,H5_1.[Trouble breathing] is condition for medical emergency.
+midline,h5_emergency_2,H5_2.[Persistent pain or pressure in the chest] is condition for medical emergen
+midline,h5_emergency_3,H5_3.[New confusion] is condition for medical emergency.
+midline,h5_emergency_4,H5_4.[Inability to wake or stay awake] is condition for medical emergency.
+midline,h5_emergency_5,H5_5.[Bluish lips or face] is condition for medical emergency.
+midline,h5_emergency_6,H5_6.[Lower SPO2 (<94%)] is condition for medical emergency.
+midline,h5_emergency_7,H5_7.[Loss of speech or mobility] is condition for medical emergency.
+midline,h5_emergency_8,"H5_8.[People with underlying diseases or high risk persons (smokers,alcoholism,o"
+midline,h5_emergency_9,H5_9.[Persistent/severe cough] is condition for medical emergency.
+midline,h5_emergency_10,H5_10.[High fever together with cough and loss of smell] is condition for medica
+midline,h5_emergency_11,"H5_11.[As soons as the Covid-19 symptoms were noticed (loss of smell, taste, mus"
+midline,h5_emergency_12,H5_12.[Frequent diarrhea and vomiting] is condition for medical emergency.
+midline,h5_emergency_13,H5_13.[Unable to eat] is condition for medical emergency.
+midline,h5_emergency_14,H5_14.[Low blood pressure] is condition for medical emergency.
+midline,h5_emergency_15,H5_15.[Getting worse] is condition for medical emergency.
+midline,h5_emergency_97,H5_97. Refused to answer
+midline,h5_emergency_98,H5_98. Don't Know
+midline,j1_fucall,j-1.We will conduct another short interview in approximately 6 month. Would you
+midline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?"
+midline,call_status,ENUMERATOR: DO NOT READ THIS ALOUD Report the status of this call.
+midline,key,Unique submission ID
+midline,subdate,Submission Date
+midline,group,Treatment/Control
+midline,ch_account_id,CHAccountID
+midline,enrollment_date,Enrollment Date
+midline,hh_id,
+midline,strata,
+midline,group_raw,Treatment/Control
+midline,treat,

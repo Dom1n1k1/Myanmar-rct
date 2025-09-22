@@ -2,6 +2,13 @@
 data_raw/
 data_clean/
 
+# --- schema scan artifacts ---
+out/tables/schema_scan/
+!out/tables/schema_scan/.gitkeep
+out/tables/schema_*.csv
+out/tables/labels_*.csv
+out/tables/value_labels_*.csv
+
 # --- secrets and machine-specific settings ---
 .Renviron
 .env
@@ -19,6 +26,3 @@ data_clean/
 *.log
 .DS_Store
 Thumbs.db
-
-
-.Ruserdata

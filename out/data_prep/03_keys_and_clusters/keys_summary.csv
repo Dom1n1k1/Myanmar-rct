@@ -1,0 +1,4 @@
+wave,n_rows,n_hh,n_clusters,treat_na
+baseline,3210,3210,108,0
+endline,2453,2453,108,0
+midline,534,534,108,0

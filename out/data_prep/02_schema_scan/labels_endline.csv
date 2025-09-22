@@ -1,0 +1,1252 @@
+wave,var,label
+endline,duration,Duration of the survey
+endline,caseid,Unique survey ID
+endline,a3_enu_nm,3. Enumerator 's Name ?
+endline,consent,Do you agree to participate in this study?
+endline,b1a_audio,Do you agree to allow audio recording?
+endline,resp_gen,What is the respondent's gender ?
+endline,a1_tsp_end,A1.Are you currently living in (${tsp_name})?
+endline,a1_ntsp,A1.1 Which township are you living in now ?
+endline,a2_ward_end,A2.Are you currently staying in ${ward}?
+endline,a8_employ,A8.Employment status of the HH head
+endline,a10_total,A10.Total number of members in the HH
+endline,a11_1_hh_change,"A11.1. Since November 2021, which is the last time we spoke with you, has there"
+endline,a11_1_hh_change_1,A11.1 No change
+endline,a11_1_hh_change_2,"A11.1 Yes, some have joined"
+endline,a11_1_hh_change_3,"A11.1 Yes, some have left;"
+endline,a11_2_hh_join,"A11.2. Since November 2021, how many members have joined the household after bas"
+endline,a11_3_hh_left,"A11.3. Since November 2021, how many members have left the household after basel"
+endline,a12_1_adult,"A12.1. Total # of adults (i.e., 18+ yrs. Old) currently residing in the HH"
+endline,a13_1_preg_j,A13.1. # of pregnant woman in the HH (joined after November 2021)
+endline,a13_2_preg_l,A13.2. # of pregnant woman in the HH (left after baseline)
+endline,a14_1_und6_j,A14.1. # of under 7 yrs old children in the HH (joined after baseline)
+endline,a14_2_und6_l,A14.2. # of under 7 yrs old children in the HH (left after baseline)
+endline,b1_0to4,B1.How many members are between 0-4 years of age?
+endline,b2_5to9,B2.How many members are between 5-9 years of age?
+endline,a16_pregnm_1,A16.what is pregnant women's name ?
+endline,a16_age_preg_1,A16.(${a16_pregnm})'s Age[Completed Age]
+endline,a16_edu_preg_1,A16.(${a16_pregnm})'s Highest level of education
+endline,a16_employ_1,A16.(${a16_pregnm})'s Employment status
+endline,a16_employ_bl,A16.(${a16_pregnm})'s Employment status
+endline,a16_u7gender_1,A16.Child number ${u7_id}: Gender of under six
+endline,a16_dob_1,A16.The date of birth of ${u7_id} and name : ${a16_u7nm}
+endline,a16_u7age_yr_1,a16.Child's age in Years
+endline,a16_u7age_mth_1,a16.Child's age in months
+endline,a16_age_u7_1,A16:Child number ${u7_id} : Age of under seven child in year
+endline,a15_u7_relation_1,A15.What is your relationship with Child number  ?
+endline,a16_u7gender_2,A16.Child number ${u7_id}: Gender of under six
+endline,a16_dob_2,A16.The date of birth of ${u7_id} and name : ${a16_u7nm}
+endline,a16_u7age_yr_2,a16.Child's age in Years
+endline,a16_u7age_mth_2,a16.Child's age in months
+endline,a16_age_u7_2,A16:Child number ${u7_id} : Age of under seven child in year
+endline,a15_u7_relation_2,A15.What is your relationship with Child number  ?
+endline,a16_u7gender_3,A16.Child number ${u7_id}: Gender of under six
+endline,a16_dob_3,A16.The date of birth of ${u7_id} and name : ${a16_u7nm}
+endline,a16_u7age_yr_3,a16.Child's age in Years
+endline,a16_u7age_mth_3,a16.Child's age in months
+endline,a16_age_u7_3,A16:Child number ${u7_id} : Age of under seven child in year
+endline,a15_u7_relation_3,A15.What is your relationship with Child number  ?
+endline,b3_electricity,B3.Did your household have access to any electricity in the past 12 months? [Cho
+endline,b3_electricity_1,B3. Government electricity with own meter box
+endline,b3_electricity_2,B3. Government electricity by sharing from another household
+endline,b3_electricity_3,B3. Generated electricity by paying charges for lighting
+endline,b3_electricity_4,B3. Own generator
+endline,b3_electricity_5,B3. Battery
+endline,b3_electricity_6,B3. Solar
+endline,b3_electricity_7,B3. Candle
+endline,b3_electricity_0,B3. No electricity at all
+endline,b4_water,B4.What is the main source of water used by the household for drinking in the WE
+endline,b5_roof,B5.What is the main construction material of the roof of the dwelling?
+endline,b6_wall,B6.What is the major construction material of the external (outer) walls of the
+endline,b7_stove,B7.Does any household member own (including ones rented to others) or have acces
+endline,b8_meat,"B9.During the past 7 days, did you or other members of your household consume ME"
+endline,c1_time_preg,"C1.In the last 12 months, approximately how many times did [${a14_pregnm}] inte"
+endline,c2_nature_preg,C2.Why did have these interactions that [${preg_name}] had in the last 12 month
+endline,c2_nature_preg_1,C2. Illness/ Injury
+endline,c2_nature_preg_2,C2. Child immunization
+endline,c2_nature_preg_3,C2. Antenatal care
+endline,c2_nature_preg_4,C2. Influenza Vaccination
+endline,c2_nature_preg_5,C2. Covid 19 vaccination
+endline,c2_nature_preg_6,C2. Medical checkup
+endline,c2_nature_preg_7,C2. Receiving health education/medical advice
+endline,c2_nature_preg_8,C2. Newborn followup
+endline,c2_nature_preg_9,C2. Low birth weight
+endline,c2_nature_preg_10,C2. Obesity
+endline,c2_nature_preg_11,C2. Child birth
+endline,c3_test_preg,C3.For all healthcare interactions that [${preg_name}] had in the last 12 month
+endline,c4_hospital_preg,"C4.In the last 12 months, how many times did [${preg_name}] stay overnight at a"
+endline,c5_amount_preg,"C5.In the last 12 months, what was the approximate amount spent on [${preg_name"
+endline,c6_selfmed_preg,C6.Although [${preg_name}] didn't visit/interact and hospitalize any time in th
+endline,c7_compare_preg,"C7.Compared to November 2021, has [${preg_name}] healthcare use increased, rema"
+endline,c71_compare2_preg,"C7.1. Compared to November 2021 or before, do you now spend more or less for a f"
+endline,c8_illyesno_preg,"C8.During the past 30 days did [${preg_name}] suffer from any illness, injury,"
+endline,c9_insu_preg,C9.What is the main (government or private) health insurance covering [NAME]'s '
+endline,c10_seekcare_preg,"C10.During the past 30 days, did [${preg_name}] consult anyone or visit any hea"
+endline,c11_disease_preg,"C11.For which disease (diagnosed by doctor/health care provider), [${preg_name}"
+endline,c11_disease_preg_1,C11. Diarrhea
+endline,c11_disease_preg_2,C11. Dengue Hemorrhagic Fever
+endline,c11_disease_preg_3,C11. Fever
+endline,c11_disease_preg_4,C11. Malaria
+endline,c11_disease_preg_5,C11. Typhoid
+endline,c11_disease_preg_6,C11. Kidney disease
+endline,c11_disease_preg_7,"C11. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c11_disease_preg_8,C11. Cough
+endline,c11_disease_preg_9,C11. Nasal congestion
+endline,c11_disease_preg_10,C11. Running nose
+endline,c11_disease_preg_11,C11. Influenza
+endline,c11_disease_preg_12,C11. Abdominal pain
+endline,c11_disease_preg_13,C11. Covid 19
+endline,c11_disease_preg_14,C11. Hypertension
+endline,c11_disease_preg_15,C11. Diabetes
+endline,c11_disease_preg_16,C11. Nausea and vomiting
+endline,c11_disease_preg_17,"C11. Accidents (motorbike/car accidents, etc)"
+endline,c11_disease_preg_18,C11. Occupational injuries or other injuries
+endline,c11_disease_preg_19,C11. Oral disease
+endline,c11_disease_preg_20,C11. Low blood pressure/hypotension
+endline,c11_disease_preg_21,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)"
+endline,c11_disease_preg_22,C11. Heart disease
+endline,c11_disease_preg_23,C11. Sore throat
+endline,c11_disease_preg_24,C11. Muscle and joint pain
+endline,c11_disease_preg_25,C11. Food poison
+endline,c11_disease_preg_26,C11. Gastritics
+endline,c11_disease_preg_27,C11. Urinary tract infection(UTI)
+endline,c11_disease_preg_28,C11. Neurological disorders/headache
+endline,c11_disease_preg_29,C11. Constipation
+endline,c11_disease_preg_30,C11. Pneumonia/AVI/Other respiratory tract infections
+endline,c11_disease_preg_31,C11. Asthema
+endline,c11_disease_preg_32,C11. Intestinal worms
+endline,c11_disease_preg_33,C11. Bone demorfimty
+endline,c11_disease_preg_34,C11. Indigestion
+endline,c11_disease_preg_35,C11. Hydrocephalus
+endline,c11_disease_preg_36,C11. Bloating
+endline,c11_disease_preg_37,C11. Ear infection
+endline,c11_disease_preg_38,C11. Epistasis
+endline,c11_disease_preg_39,C11. Epilepsy/seizure
+endline,c11_disease_preg_40,C11. Paralysis
+endline,c11_disease_preg_41,C11. Medical checkup/investigations
+endline,c11_disease_preg_42,C11. Weakness
+endline,c11_disease_preg_43,C11. Back pain
+endline,c11_disease_preg_44,C11. Jaundice
+endline,c11_disease_preg_45,C11. Eyes disease/eyes infection
+endline,c11_disease_preg_46,C11. Liver and biliary tract disease
+endline,c11_disease_preg_47,C11. Lump
+endline,c11_disease_preg_48,C11. Cancer
+endline,c11_disease_preg_98,C11. Don't know
+endline,c11_disease_preg_97,C11. Prefer not to answer
+endline,c12_diagnose_preg,C12.Were any diagnostic / lab tests performed on [${preg_name}] as a part of th
+endline,c13_medication_preg,C13.Did the provider prescribe [${preg_name}] any medications as a part of the
+endline,c14_meditake_preg,C14.Did [${preg_name}] take the medicines prescribed by the provider?
+endline,c15_format_preg,"C15.For [${preg_name}] in the past 30 days, what was the format of seeking medi"
+endline,c15_format_preg_1,C15. In person
+endline,c15_format_preg_2,C15. Telemdicine only
+endline,c15_format_preg_3,C15. Mix of inperson and telemedcicne
+endline,c16_virtual_preg,"C16.During the past 30 days, select all the ways [${preg_name}] ever communicat"
+endline,c16_virtual_preg_1,C16. Text Message
+endline,c16_virtual_preg_2,C16. Email
+endline,c16_virtual_preg_3,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge"
+endline,c16_virtual_preg_4,C16. Phone calls
+endline,c16_virtual_preg_5,"C16. Videoconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_preg_6,"C16. Audioconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_preg_7,C16. eVisit (when you answer questions about your health issue online and hear b
+endline,c17_virtime_preg,"C17.During the past 30 days, how many times did [${preg_name}] have telemedicin"
+endline,c18_virlast_preg,"C18.For the most recent telemedicine consultation in the last 30 days, where did"
+endline,c19_pertime_preg,"C19.During the past 30 days, how many in-person consultation visits did [${preg"
+endline,c20_personlast_preg,"C20.For your most recent visit in the past 30 days, where did [${preg_name}] ge"
+endline,filter_lastformat,I'd like to ask the cost for the most recent visit. Since the respondent used bo
+endline,c21_health_preg,"C21. For [${preg_name}]'s most recent visit/interaction, how much money was spe"
+endline,c22_nonhealth_preg,"C22.For [${preg_name}]'s most recent visit/interaction, how much money was spen"
+endline,c23_reimburse_preg,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_pre"
+endline,c24_stopnormal_preg,"C24.For the most recent visit in the past 30 days, how many days did [${preg_na"
+endline,c25_assist_preg,C25.Does [${preg_name}] or someone in his/her household currently receiving ass
+endline,c25_assist_preg_0,C25. None
+endline,c25_assist_preg_1,C25. Save the children
+endline,c25_assist_preg_2,C25. LIFT
+endline,c25_assist_preg_3,C25. MCCT
+endline,c25_assist_preg_4,C25. UNICEF
+endline,c25_assist_preg_5,C25. World Food Program (WFP)
+endline,c25_assist_preg_6,C25. Local charity organizations
+endline,c25_assist_preg_7,C25. TdH
+endline,c25_assist_preg_8,C25. Myat Wynn Lay Myar group
+endline,c25_assist_preg_9,C25. Bright Start/Common Health
+endline,c25_assist_preg_10,C25. Private donors
+endline,c25_assist_preg_11,C25. Pact Myanmar
+endline,c25_assist_preg_12,C25. International Labour Organization (ILO)
+endline,c25_assist_preg_97,C25. Prefer not to answer
+endline,c25_assist_preg_98,C25. Don't know
+endline,c26_nonsick_preg,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a"
+endline,c26_nonsick_preg_1,C26. Prenatal care
+endline,c26_nonsick_preg_2,C26. Childbirth
+endline,c26_nonsick_preg_3,C26. General check-up
+endline,c26_nonsick_preg_4,C26. Family planning
+endline,c26_nonsick_preg_5,C26. Covid-19 vaccination
+endline,c26_nonsick_preg_6,C26. Other vaccination
+endline,c26_nonsick_preg_7,C26. Didn't go to heath care facillity or consult with health care provider
+endline,c27_notconsult_preg,C27.Why did [${preg_name}] not consult anyone or seek treatment? [Select all th
+endline,c27_notconsult_preg_1,C27. Not serious illness
+endline,c27_notconsult_preg_2,C27. Self-treated
+endline,c27_notconsult_preg_3,C27. No money for treatment
+endline,c27_notconsult_preg_4,C27. Too far
+endline,c27_notconsult_preg_5,C27. Poor services
+endline,c27_notconsult_preg_6,C27. Not safe
+endline,c27_notconsult_preg_7,C27. Do not know can be fixed
+endline,c27_notconsult_preg_8,C27. Do not know where to go
+endline,c27_notconsult_preg_9,C27. Too expensive
+endline,c27_notconsult_preg_10,C27. Could not get permission
+endline,c27_notconsult_preg_11,C27. Embarrassment
+endline,c27_notconsult_preg_12,C27. Problem disappeared
+endline,c27_notconsult_preg_13,C27. Didn't want to go/ anxious
+endline,c27_notconsult_preg_14,C27. Bad previous experience
+endline,c27_notconsult_preg_15,C27. Couldn't stop working
+endline,c27_notconsult_preg_16,C27. Had children/ other responsibilities at home
+endline,c27_notconsult_preg_17,C27. There were insufficient health care providers at the clinics/hospitals
+endline,c27_notconsult_preg_18,C27. Doctors or health care providers didn't allow me to come
+endline,c27_notconsult_preg_19,C27. Concern about getting Covid 19
+endline,c27_notconsult_preg_20,C27. Concern about transmitting Covid 19 to other people
+endline,c27_notconsult_preg_21,C27. Clinics were closed
+endline,c27_notconsult_preg_22,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho
+endline,c27_notconsult_preg_23,C27. Lack of available transportation
+endline,c27_notconsult_preg_24,C27. Clinic/ hospital had a long wait time
+endline,c28_inpatient_preg,"C28.During the past 12 months, was [${preg_name}] hospitalized because of an il"
+endline,c29_insu_preg,C29.What is the main (government or private) health insurance covering [NAME]'s
+endline,c30_episode_preg,"C30.During the past 12 months, how many episodes of hospitalization did [${preg"
+endline,c31_disease_preg,"C31.For [${preg_name}] most recent hospitalization episode, what was the main r"
+endline,c31_disease_preg_1,C31. Malaria/ fever
+endline,c31_disease_preg_2,C31. Diseases of Respiratory including pneumonia
+endline,c31_disease_preg_3,C31. TB
+endline,c31_disease_preg_4,C31. Kidney disease
+endline,c31_disease_preg_5,C31. Liver disease
+endline,c31_disease_preg_6,C31. Cardiovascular disease
+endline,c31_disease_preg_7,C31. Haematological disorders
+endline,c31_disease_preg_8,C31. Eye infections
+endline,c31_disease_preg_9,C31. HIV/AIDS
+endline,c31_disease_preg_10,C31. Diabetes
+endline,c31_disease_preg_11,C31. Hypertension
+endline,c31_disease_preg_12,C31. Diarrhea
+endline,c31_disease_preg_13,C31. Intestinal worms
+endline,c31_disease_preg_14,C31. STD (Syphilis etc)
+endline,c31_disease_preg_15,C31. Accidents and injuries
+endline,c31_disease_preg_16,C31. Gender Based Violence related injuries
+endline,c31_disease_preg_17,C31. Cancer
+endline,c31_disease_preg_18,C31. Childbirth (Normal Delivery)
+endline,c31_disease_preg_19,C31. Childbirth (Caesarean)
+endline,c31_disease_preg_20,C31. Treatment/ surgery for reproductive health related cancers etc.
+endline,c31_disease_preg_21,C31. Post-natal care/ delivery complications
+endline,c31_disease_preg_22,C31. Abortion
+endline,c31_disease_preg_23,C31. Covid-19
+endline,c31_disease_preg_24,C31. Surgery for Appendicitis
+endline,c31_disease_preg_25,"C31. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c31_disease_preg_26,C31. Gastritics
+endline,c31_disease_preg_27,C31. Abnormal pregnancy/pregnancy complications/malpresentation
+endline,c31_disease_preg_28,C31. Dengue Haemorrhagic Fever
+endline,c31_disease_preg_29,C31. Surgery for hydrocephalus
+endline,c31_disease_preg_30,C31. Surgery for hernia
+endline,c31_disease_preg_31,C31. Melena
+endline,c31_disease_preg_32,C31. Intussusception
+endline,c31_disease_preg_33,C31. Epilepsy/seizure
+endline,c31_disease_preg_34,C31. Fever
+endline,c31_disease_preg_35,C31. Drug poison/food poison
+endline,c31_disease_preg_36,"C31. Signs of labours (pain, rupture of membrane)"
+endline,c31_disease_preg_37,C31. Jaundice
+endline,c31_disease_preg_38,C31. Meningitis
+endline,c31_disease_preg_39,C31. Constipation
+endline,c31_disease_preg_40,C31. Low Birth weight
+endline,c31_disease_preg_41,C31. The newborn could not be fed.
+endline,c31_disease_preg_42,C31. Cleft palate surgery
+endline,c31_disease_preg_43,C31. Dental problem
+endline,c31_disease_preg_44,C31. Reproductive system disease
+endline,c32_opd_preg,"C32.For [${preg_name}] most recent hospitalization episode, did [${preg_name}]"
+endline,c33_hospital_preg,"C33.For [${preg_name}] most recent hospitalization episode, where did [NAME] ge"
+endline,c34_stopnormal_preg,"C34.For [${preg_name}] most recent hospitalization episode, how many days did ["
+endline,c35_days_preg,"C35.For [${preg_name}] most recent hospitalization episode, how many days did ["
+endline,c36_health_preg,"C36. For [${preg_name}] most recent hospitalization, how much money was spent o"
+endline,c37_nonhealth_preg,"C37.For [${preg_name}] most recent hospitalization episode, how much money was"
+endline,total_inpatient_preg,
+endline,c38_reimburse_preg,"C38.For [${preg_name}] most recent hospitalization, how much did that ${c29_in"
+endline,u7_count,
+endline,c1_time_u7_1,"C1.In the last 12 months, approximately how many times did [${u7_name}] interac"
+endline,c2_nature_u7_1,C2.What was the nature of the interactions that [${u7_name}] had in the last 12
+endline,c2_nature_u7_1_1,C2. Illness/ Injury
+endline,c2_nature_u7_2_1,C2. Child immunization
+endline,c2_nature_u7_3_1,C2. Antenatal care
+endline,c2_nature_u7_4_1,C2. Influenza Vaccination
+endline,c2_nature_u7_5_1,C2. Covid 19 vaccination
+endline,c2_nature_u7_6_1,C2. Medical checkup
+endline,c2_nature_u7_7_1,C2. Receiving health education/medical advice
+endline,c2_nature_u7_8_1,C2. Newborn followup
+endline,c2_nature_u7_9_1,C2. Low birth weight
+endline,c2_nature_u7_10_1,C2. Obesity
+endline,c2_nature_u7_11_1,C2. Child birth
+endline,c3_test_u7_1,"C3.For all healthcare interactions that [${u7_name}] had in the last 12 months,"
+endline,c4_hospital_u7_1,"C4.In the last 12 months, how many times did [${u7_name}] stay overnight at a h"
+endline,c5_amount_u7_1,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]"
+endline,c6_selfmed_u7_1,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the
+endline,c7_compare_u7_1,C7.How do you think that the healthcare utilization for [${u7_name}] changed af
+endline,c8_illyesno_u7_1,"C8.During the past 30 days did [${u7_name}] suffer from any illness, injury, or"
+endline,c9_insu_u7_1,C9.What is the main (government or private) health insurance covering [NAME]'s o
+endline,c10_seekcare_u7_1,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt"
+endline,c11_disease_u7_1,"C11.For which disease (diagnosed by doctor/health care provider), [${u7_name}]"
+endline,c11_disease_u7_1_1,C11. Diarrhea
+endline,c11_disease_u7_2_1,C11. Dengue Hemorrhagic Fever
+endline,c11_disease_u7_3_1,C11. Fever
+endline,c11_disease_u7_4_1,C11. Malaria
+endline,c11_disease_u7_5_1,C11. Typhoid
+endline,c11_disease_u7_6_1,C11. Kidney disease
+endline,c11_disease_u7_7_1,"C11. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c11_disease_u7_8_1,C11. Cough
+endline,c11_disease_u7_9_1,C11. Nasal congestion
+endline,c11_disease_u7_10_1,C11. Running nose
+endline,c11_disease_u7_11_1,C11. Influenza
+endline,c11_disease_u7_12_1,C11. Abdominal pain
+endline,c11_disease_u7_13_1,C11. Covid 19
+endline,c11_disease_u7_14_1,C11. Hypertension
+endline,c11_disease_u7_15_1,C11. Diabetes
+endline,c11_disease_u7_16_1,C11. Nausea and vomiting
+endline,c11_disease_u7_17_1,"C11. Accidents (motorbike/car accidents, etc)"
+endline,c11_disease_u7_18_1,C11. Occupational injuries or other injuries
+endline,c11_disease_u7_19_1,C11. Oral disease
+endline,c11_disease_u7_20_1,C11. Low blood pressure/hypotension
+endline,c11_disease_u7_21_1,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)"
+endline,c11_disease_u7_22_1,C11. Heart disease
+endline,c11_disease_u7_23_1,C11. Sore throat
+endline,c11_disease_u7_24_1,C11. Muscle and joint pain
+endline,c11_disease_u7_25_1,C11. Food poison
+endline,c11_disease_u7_26_1,C11. Gastritics
+endline,c11_disease_u7_27_1,C11. Urinary tract infection(UTI)
+endline,c11_disease_u7_28_1,C11. Neurological disorders/headache
+endline,c11_disease_u7_29_1,C11. Constipation
+endline,c11_disease_u7_30_1,C11. Pneumonia/AVI/Other respiratory tract infections
+endline,c11_disease_u7_31_1,C11. Asthema
+endline,c11_disease_u7_32_1,C11. Intestinal worms
+endline,c11_disease_u7_33_1,C11. Bone demorfimty
+endline,c11_disease_u7_34_1,C11. Indigestion
+endline,c11_disease_u7_35_1,C11. Hydrocephalus
+endline,c11_disease_u7_36_1,C11. Bloating
+endline,c11_disease_u7_37_1,C11. Ear infection
+endline,c11_disease_u7_38_1,C11. Epistasis
+endline,c11_disease_u7_39_1,C11. Epilepsy/seizure
+endline,c11_disease_u7_40_1,C11. Paralysis
+endline,c11_disease_u7_41_1,C11. Medical checkup/investigations
+endline,c11_disease_u7_42_1,C11. Weakness
+endline,c11_disease_u7_43_1,C11. Back pain
+endline,c11_disease_u7_44_1,C11. Jaundice
+endline,c11_disease_u7_45_1,C11. Eyes disease/eyes infection
+endline,c11_disease_u7_46_1,C11. Liver and biliary tract disease
+endline,c11_disease_u7_47_1,C11. Lump
+endline,c11_disease_u7_48_1,C11. Cancer
+endline,c11_disease_u7_98_1,C11. Don't know
+endline,c11_disease_u7_97_1,C11. Prefer not to answer
+endline,c12_diagnose_u7_1,C12.Were any diagnostic / lab tests performed on [${u7_name}] as a part of the
+endline,c13_medication_u7_1,C13.Did the provider prescribe [${u7_name}] any medications as a part of the tr
+endline,c14_meditake_u7_1,C14.Did [${u7_name}] take the medicines prescribed by the provider?
+endline,c15_format_u7_1,"C15.For [${u7_name}] in the past 30 days, what was the format of seeking medica"
+endline,c15_format_u7_1_1,C15. In person
+endline,c15_format_u7_2_1,C15. Telemdicine only
+endline,c15_format_u7_3_1,C15. Mix of inperson and telemedcicne
+endline,c16_virtual_u7_1,"C16.During the past 30 days, select all the ways [${u7_name}] ever communicated"
+endline,c16_virtual_u7_1_1,C16. Text Message
+endline,c16_virtual_u7_2_1,C16. Email
+endline,c16_virtual_u7_3_1,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge"
+endline,c16_virtual_u7_4_1,C16. Phone calls
+endline,c16_virtual_u7_5_1,"C16. Videoconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_u7_6_1,"C16. Audioconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_u7_7_1,C16. eVisit (when you answer questions about your health issue online and hear b
+endline,c17_virtime_u7_1,"C17.During the past 30 days, how many times did [${u7_name}] have telemedicine"
+endline,c18_virlast_u7_1,"C18.For the most recent telemedicine consultation in the last 30 days, where did"
+endline,c19_pertime_u7_1,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n"
+endline,c20_personlast_u7_1,"C20.For your most recent visit in the past 30 days, where did [] get care?"
+endline,filteru7_lastformat_1,I'd like to ask the cost for the most recent visit. Since the respondent used bo
+endline,c21_health_u7_1,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c22_nonhealth_u7_1,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c23_reimburse_u7_1,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_"
+endline,c24_stopnormal_u7_1,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name"
+endline,c25_assist_u7_1,C25.Does [${u7_name}] or someone in his/her household currently receiving assis
+endline,c25_assist_u7_0_1,C25. None
+endline,c25_assist_u7_1_1,C25. Save the children
+endline,c25_assist_u7_2_1,C25. LIFT
+endline,c25_assist_u7_3_1,C25. MCCT
+endline,c25_assist_u7_4_1,C25. UNICEF
+endline,c25_assist_u7_5_1,C25. World Food Program (WFP)
+endline,c25_assist_u7_6_1,C25. Local charity organizations
+endline,c25_assist_u7_7_1,C25. TdH
+endline,c25_assist_u7_8_1,C25. Myat Wynn Lay Myar group
+endline,c25_assist_u7_9_1,C25. Bright Start/Common Health
+endline,c25_assist_u7_10_1,C25. Private donors
+endline,c25_assist_u7_11_1,C25. Pact Myanmar
+endline,c25_assist_u7_12_1,C25. International Labour Organization (ILO)
+endline,c25_assist_u7_97_1,C25. Prefer not to answer
+endline,c25_assist_u7_98_1,C25. Don't know
+endline,c26_nonsick_u7_1,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a"
+endline,c26_nonsick_u7_1_1,C26. Under five visit with vaccination
+endline,c26_nonsick_u7_2_1,C26. Under five visit without vaccination
+endline,c26_nonsick_u7_3_1,C26. General check-up
+endline,c26_nonsick_u7_4_1,C26. Didn't go to heath care facillity or consult with health care provider
+endline,c27_notconsult_u7_1,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that
+endline,c27_notconsult_u7_1_1,C27. Not serious illness
+endline,c27_notconsult_u7_2_1,C27. Self-treated
+endline,c27_notconsult_u7_3_1,C27. No money for treatment
+endline,c27_notconsult_u7_4_1,C27. Too far
+endline,c27_notconsult_u7_5_1,C27. Poor services
+endline,c27_notconsult_u7_6_1,C27. Not safe
+endline,c27_notconsult_u7_7_1,C27. Do not know can be fixed
+endline,c27_notconsult_u7_8_1,C27. Do not know where to go
+endline,c27_notconsult_u7_9_1,C27. Too expensive
+endline,c27_notconsult_u7_10_1,C27. Could not get permission
+endline,c27_notconsult_u7_11_1,C27. Embarrassment
+endline,c27_notconsult_u7_12_1,C27. Problem disappeared
+endline,c27_notconsult_u7_13_1,C27. Didn't want to go/ anxious
+endline,c27_notconsult_u7_14_1,C27. Bad previous experience
+endline,c27_notconsult_u7_15_1,C27. Couldn't stop working
+endline,c27_notconsult_u7_16_1,C27. Had children/ other responsibilities at home
+endline,c27_notconsult_u7_17_1,C27. There were insufficient health care providers at the clinics/hospitals
+endline,c27_notconsult_u7_18_1,C27. Doctors or health care providers didn't allow me to come
+endline,c27_notconsult_u7_19_1,C27. Concern about getting Covid 19
+endline,c27_notconsult_u7_20_1,C27. Concern about transmitting Covid 19 to other people
+endline,c27_notconsult_u7_21_1,C27. Clinics were closed
+endline,c27_notconsult_u7_22_1,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho
+endline,c27_notconsult_u7_23_1,C27. Lack of available transportation
+endline,c27_notconsult_u7_24_1,C27. Clinic/ hospital had a long wait time
+endline,c28_inpatient_u7_1,"C28.During the past 12 months, was [${u7_name}] hospitalized because of an illn"
+endline,c29_insu_u7_1,C29.What is the main (government or private) health insurance covering [NAME]'s
+endline,c30_episode_u7_1,"C30.During the past 12 months, how many episodes of hospitalization did [${u7_n"
+endline,c31_disease_u7_1,"C31.For [${u7_name}] most recent hospitalization episode, what was the main rea"
+endline,c31_disease_u7_1_1,C31. Malaria/ fever
+endline,c31_disease_u7_2_1,C31. Diseases of Respiratory including pneumonia
+endline,c31_disease_u7_3_1,C31. TB
+endline,c31_disease_u7_4_1,C31. Kidney disease
+endline,c31_disease_u7_5_1,C31. Liver disease
+endline,c31_disease_u7_6_1,C31. Cardiovascular disease
+endline,c31_disease_u7_7_1,C31. Haematological disorders
+endline,c31_disease_u7_8_1,C31. Eye infections
+endline,c31_disease_u7_9_1,C31. HIV/AIDS
+endline,c31_disease_u7_10_1,C31. Diabetes
+endline,c31_disease_u7_11_1,C31. Hypertension
+endline,c31_disease_u7_12_1,C31. Diarrhea
+endline,c31_disease_u7_13_1,C31. Intestinal worms
+endline,c31_disease_u7_14_1,C31. STD (Syphilis etc)
+endline,c31_disease_u7_15_1,C31. Accidents and injuries
+endline,c31_disease_u7_16_1,C31. Gender Based Violence related injuries
+endline,c31_disease_u7_17_1,C31. Cancer
+endline,c31_disease_u7_18_1,C31. Childbirth (Normal Delivery)
+endline,c31_disease_u7_19_1,C31. Childbirth (Caesarean)
+endline,c31_disease_u7_20_1,C31. Treatment/ surgery for reproductive health related cancers etc.
+endline,c31_disease_u7_21_1,C31. Post-natal care/ delivery complications
+endline,c31_disease_u7_22_1,C31. Abortion
+endline,c31_disease_u7_23_1,C31. Covid-19
+endline,c31_disease_u7_24_1,C31. Surgery for Appendicitis
+endline,c31_disease_u7_25_1,"C31. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c31_disease_u7_26_1,C31. Gastritics
+endline,c31_disease_u7_27_1,C31. Abnormal pregnancy/pregnancy complications/malpresentation
+endline,c31_disease_u7_28_1,C31. Dengue Haemorrhagic Fever
+endline,c31_disease_u7_29_1,C31. Surgery for hydrocephalus
+endline,c31_disease_u7_30_1,C31. Surgery for hernia
+endline,c31_disease_u7_31_1,C31. Melena
+endline,c31_disease_u7_32_1,C31. Intussusception
+endline,c31_disease_u7_33_1,C31. Epilepsy/seizure
+endline,c31_disease_u7_34_1,C31. Fever
+endline,c31_disease_u7_35_1,C31. Drug poison/food poison
+endline,c31_disease_u7_36_1,"C31. Signs of labours (pain, rupture of membrane)"
+endline,c31_disease_u7_37_1,C31. Jaundice
+endline,c31_disease_u7_38_1,C31. Meningitis
+endline,c31_disease_u7_39_1,C31. Constipation
+endline,c31_disease_u7_40_1,C31. Low Birth weight
+endline,c31_disease_u7_41_1,C31. The newborn could not be fed.
+endline,c31_disease_u7_42_1,C31. Cleft palate surgery
+endline,c31_disease_u7_43_1,C31. Dental and Oral diseases
+endline,c31_disease_u7_44_1,C31. Reproductive system disease
+endline,c32_opd_u7_1,"C32.For [${u7_name}] most recent hospitalization episode, did [${u7_name}] see"
+endline,c33_hospital_u7_1,"C33.For [] most recent hospitalization episode, where did [NAME] get hospitalize"
+endline,c34_stopnormal_u7_1,"C34.For [${u7_name}] most recent hospitalization episode, how many days did [$"
+endline,c35_days_u7_1,"C35.For [${u7_name}] most recent hospitalization episode, how many days did [$"
+endline,c36_health_u7_1,"C36. For [${u7_name}] most recent hospitalization, how much money was spent on"
+endline,c37_nonhealth_u7_1,"C37.For [${u7_name}] most recent hospitalization episode, how much money was sp"
+endline,c38_reimburse_u7_1,"C38.For [${u7_name}] most recent hospitalization, how much did that ${c29_insu"
+endline,c38_u7_live_1,C38.1 Does this child [${u7_name}] live with you right now?
+endline,c1_time_u7_2,"C1.In the last 12 months, approximately how many times did [${u7_name}] interac"
+endline,c2_nature_u7_2,C2.What was the nature of the interactions that [${u7_name}] had in the last 12
+endline,c2_nature_u7_1_2,C2. Illness/ Injury
+endline,c2_nature_u7_2_2,C2. Child immunization
+endline,c2_nature_u7_3_2,C2. Antenatal care
+endline,c2_nature_u7_4_2,C2. Influenza Vaccination
+endline,c2_nature_u7_5_2,C2. Covid 19 vaccination
+endline,c2_nature_u7_6_2,C2. Medical checkup
+endline,c2_nature_u7_7_2,C2. Receiving health education/medical advice
+endline,c2_nature_u7_8_2,C2. Newborn followup
+endline,c2_nature_u7_9_2,C2. Low birth weight
+endline,c2_nature_u7_10_2,C2. Obesity
+endline,c2_nature_u7_11_2,C2. Child birth
+endline,c3_test_u7_2,"C3.For all healthcare interactions that [${u7_name}] had in the last 12 months,"
+endline,c4_hospital_u7_2,"C4.In the last 12 months, how many times did [${u7_name}] stay overnight at a h"
+endline,c5_amount_u7_2,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]"
+endline,c6_selfmed_u7_2,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the
+endline,c7_compare_u7_2,C7.How do you think that the healthcare utilization for [${u7_name}] changed af
+endline,c8_illyesno_u7_2,"C8.During the past 30 days did [${u7_name}] suffer from any illness, injury, or"
+endline,c9_insu_u7_2,C9.What is the main (government or private) health insurance covering [NAME]'s o
+endline,c10_seekcare_u7_2,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt"
+endline,c11_disease_u7_2,"C11.For which disease (diagnosed by doctor/health care provider), [${u7_name}]"
+endline,c11_disease_u7_1_2,C11. Diarrhea
+endline,c11_disease_u7_2_2,C11. Dengue Hemorrhagic Fever
+endline,c11_disease_u7_3_2,C11. Fever
+endline,c11_disease_u7_4_2,C11. Malaria
+endline,c11_disease_u7_5_2,C11. Typhoid
+endline,c11_disease_u7_6_2,C11. Kidney disease
+endline,c11_disease_u7_7_2,"C11. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c11_disease_u7_8_2,C11. Cough
+endline,c11_disease_u7_9_2,C11. Nasal congestion
+endline,c11_disease_u7_10_2,C11. Running nose
+endline,c11_disease_u7_11_2,C11. Influenza
+endline,c11_disease_u7_12_2,C11. Abdominal pain
+endline,c11_disease_u7_13_2,C11. Covid 19
+endline,c11_disease_u7_14_2,C11. Hypertension
+endline,c11_disease_u7_15_2,C11. Diabetes
+endline,c11_disease_u7_16_2,C11. Nausea and vomiting
+endline,c11_disease_u7_17_2,"C11. Accidents (motorbike/car accidents, etc)"
+endline,c11_disease_u7_18_2,C11. Occupational injuries or other injuries
+endline,c11_disease_u7_19_2,C11. Oral disease
+endline,c11_disease_u7_20_2,C11. Low blood pressure/hypotension
+endline,c11_disease_u7_21_2,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)"
+endline,c11_disease_u7_22_2,C11. Heart disease
+endline,c11_disease_u7_23_2,C11. Sore throat
+endline,c11_disease_u7_24_2,C11. Muscle and joint pain
+endline,c11_disease_u7_25_2,C11. Food poison
+endline,c11_disease_u7_26_2,C11. Gastritics
+endline,c11_disease_u7_27_2,C11. Urinary tract infection(UTI)
+endline,c11_disease_u7_28_2,C11. Neurological disorders/headache
+endline,c11_disease_u7_29_2,C11. Constipation
+endline,c11_disease_u7_30_2,C11. Pneumonia/AVI/Other respiratory tract infections
+endline,c11_disease_u7_31_2,C11. Asthema
+endline,c11_disease_u7_32_2,C11. Intestinal worms
+endline,c11_disease_u7_33_2,C11. Bone demorfimty
+endline,c11_disease_u7_34_2,C11. Indigestion
+endline,c11_disease_u7_35_2,C11. Hydrocephalus
+endline,c11_disease_u7_36_2,C11. Bloating
+endline,c11_disease_u7_37_2,C11. Ear infection
+endline,c11_disease_u7_38_2,C11. Epistasis
+endline,c11_disease_u7_39_2,C11. Epilepsy/seizure
+endline,c11_disease_u7_40_2,C11. Paralysis
+endline,c11_disease_u7_41_2,C11. Medical checkup/investigations
+endline,c11_disease_u7_42_2,C11. Weakness
+endline,c11_disease_u7_43_2,C11. Back pain
+endline,c11_disease_u7_44_2,C11. Jaundice
+endline,c11_disease_u7_45_2,C11. Eyes disease/eyes infection
+endline,c11_disease_u7_46_2,C11. Liver and biliary tract disease
+endline,c11_disease_u7_47_2,C11. Lump
+endline,c11_disease_u7_48_2,C11. Cancer
+endline,c11_disease_u7_98_2,C11. Don't know
+endline,c11_disease_u7_97_2,C11. Prefer not to answer
+endline,c12_diagnose_u7_2,C12.Were any diagnostic / lab tests performed on [${u7_name}] as a part of the
+endline,c13_medication_u7_2,C13.Did the provider prescribe [${u7_name}] any medications as a part of the tr
+endline,c14_meditake_u7_2,C14.Did [${u7_name}] take the medicines prescribed by the provider?
+endline,c15_format_u7_2,"C15.For [${u7_name}] in the past 30 days, what was the format of seeking medica"
+endline,c15_format_u7_1_2,C15. In person
+endline,c15_format_u7_2_2,C15. Telemdicine only
+endline,c15_format_u7_3_2,C15. Mix of inperson and telemedcicne
+endline,c16_virtual_u7_2,"C16.During the past 30 days, select all the ways [${u7_name}] ever communicated"
+endline,c16_virtual_u7_1_2,C16. Text Message
+endline,c16_virtual_u7_2_2,C16. Email
+endline,c16_virtual_u7_3_2,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge"
+endline,c16_virtual_u7_4_2,C16. Phone calls
+endline,c16_virtual_u7_5_2,"C16. Videoconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_u7_6_2,"C16. Audioconference (e.g viber, telegram, messenger)"
+endline,c16_virtual_u7_7_2,C16. eVisit (when you answer questions about your health issue online and hear b
+endline,c17_virtime_u7_2,"C17.During the past 30 days, how many times did [${u7_name}] have telemedicine"
+endline,c18_virlast_u7_2,"C18.For the most recent telemedicine consultation in the last 30 days, where did"
+endline,c19_pertime_u7_2,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n"
+endline,c20_personlast_u7_2,"C20.For your most recent visit in the past 30 days, where did [] get care?"
+endline,c21_health_u7_2,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c22_nonhealth_u7_2,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c23_reimburse_u7_2,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_"
+endline,c24_stopnormal_u7_2,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name"
+endline,c25_assist_u7_2,C25.Does [${u7_name}] or someone in his/her household currently receiving assis
+endline,c25_assist_u7_0_2,C25. None
+endline,c25_assist_u7_1_2,C25. Save the children
+endline,c25_assist_u7_2_2,C25. LIFT
+endline,c25_assist_u7_3_2,C25. MCCT
+endline,c25_assist_u7_4_2,C25. UNICEF
+endline,c25_assist_u7_5_2,C25. World Food Program (WFP)
+endline,c25_assist_u7_6_2,C25. Local charity organizations
+endline,c25_assist_u7_7_2,C25. TdH
+endline,c25_assist_u7_8_2,C25. Myat Wynn Lay Myar group
+endline,c25_assist_u7_9_2,C25. Bright Start/Common Health
+endline,c25_assist_u7_10_2,C25. Private donors
+endline,c25_assist_u7_11_2,C25. Pact Myanmar
+endline,c25_assist_u7_12_2,C25. International Labour Organization (ILO)
+endline,c25_assist_u7_97_2,C25. Prefer not to answer
+endline,c25_assist_u7_98_2,C25. Don't know
+endline,c26_nonsick_u7_2,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a"
+endline,c26_nonsick_u7_1_2,C26. Under five visit with vaccination
+endline,c26_nonsick_u7_2_2,C26. Under five visit without vaccination
+endline,c26_nonsick_u7_3_2,C26. General check-up
+endline,c26_nonsick_u7_4_2,C26. Didn't go to heath care facillity or consult with health care provider
+endline,c27_notconsult_u7_2,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that
+endline,c27_notconsult_u7_1_2,C27. Not serious illness
+endline,c27_notconsult_u7_2_2,C27. Self-treated
+endline,c27_notconsult_u7_3_2,C27. No money for treatment
+endline,c27_notconsult_u7_4_2,C27. Too far
+endline,c27_notconsult_u7_5_2,C27. Poor services
+endline,c27_notconsult_u7_6_2,C27. Not safe
+endline,c27_notconsult_u7_7_2,C27. Do not know can be fixed
+endline,c27_notconsult_u7_8_2,C27. Do not know where to go
+endline,c27_notconsult_u7_9_2,C27. Too expensive
+endline,c27_notconsult_u7_10_2,C27. Could not get permission
+endline,c27_notconsult_u7_11_2,C27. Embarrassment
+endline,c27_notconsult_u7_12_2,C27. Problem disappeared
+endline,c27_notconsult_u7_13_2,C27. Didn't want to go/ anxious
+endline,c27_notconsult_u7_14_2,C27. Bad previous experience
+endline,c27_notconsult_u7_15_2,C27. Couldn't stop working
+endline,c27_notconsult_u7_16_2,C27. Had children/ other responsibilities at home
+endline,c27_notconsult_u7_17_2,C27. There were insufficient health care providers at the clinics/hospitals
+endline,c27_notconsult_u7_18_2,C27. Doctors or health care providers didn't allow me to come
+endline,c27_notconsult_u7_19_2,C27. Concern about getting Covid 19
+endline,c27_notconsult_u7_20_2,C27. Concern about transmitting Covid 19 to other people
+endline,c27_notconsult_u7_21_2,C27. Clinics were closed
+endline,c27_notconsult_u7_22_2,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho
+endline,c27_notconsult_u7_23_2,C27. Lack of available transportation
+endline,c27_notconsult_u7_24_2,C27. Clinic/ hospital had a long wait time
+endline,c28_inpatient_u7_2,"C28.During the past 12 months, was [${u7_name}] hospitalized because of an illn"
+endline,c29_insu_u7_2,C29.What is the main (government or private) health insurance covering [NAME]'s
+endline,c30_episode_u7_2,"C30.During the past 12 months, how many episodes of hospitalization did [${u7_n"
+endline,c31_disease_u7_2,"C31.For [${u7_name}] most recent hospitalization episode, what was the main rea"
+endline,c31_disease_u7_1_2,C31. Malaria/ fever
+endline,c31_disease_u7_2_2,C31. Diseases of Respiratory including pneumonia
+endline,c31_disease_u7_3_2,C31. TB
+endline,c31_disease_u7_4_2,C31. Kidney disease
+endline,c31_disease_u7_5_2,C31. Liver disease
+endline,c31_disease_u7_6_2,C31. Cardiovascular disease
+endline,c31_disease_u7_7_2,C31. Haematological disorders
+endline,c31_disease_u7_8_2,C31. Eye infections
+endline,c31_disease_u7_9_2,C31. HIV/AIDS
+endline,c31_disease_u7_10_2,C31. Diabetes
+endline,c31_disease_u7_11_2,C31. Hypertension
+endline,c31_disease_u7_12_2,C31. Diarrhea
+endline,c31_disease_u7_13_2,C31. Intestinal worms
+endline,c31_disease_u7_14_2,C31. STD (Syphilis etc)
+endline,c31_disease_u7_15_2,C31. Accidents and injuries
+endline,c31_disease_u7_16_2,C31. Gender Based Violence related injuries
+endline,c31_disease_u7_17_2,C31. Cancer
+endline,c31_disease_u7_18_2,C31. Childbirth (Normal Delivery)
+endline,c31_disease_u7_19_2,C31. Childbirth (Caesarean)
+endline,c31_disease_u7_20_2,C31. Treatment/ surgery for reproductive health related cancers etc.
+endline,c31_disease_u7_21_2,C31. Post-natal care/ delivery complications
+endline,c31_disease_u7_22_2,C31. Abortion
+endline,c31_disease_u7_23_2,C31. Covid-19
+endline,c31_disease_u7_24_2,C31. Surgery for Appendicitis
+endline,c31_disease_u7_25_2,"C31. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c31_disease_u7_26_2,C31. Gastritics
+endline,c31_disease_u7_27_2,C31. Abnormal pregnancy/pregnancy complications/malpresentation
+endline,c31_disease_u7_28_2,C31. Dengue Haemorrhagic Fever
+endline,c31_disease_u7_29_2,C31. Surgery for hydrocephalus
+endline,c31_disease_u7_30_2,C31. Surgery for hernia
+endline,c31_disease_u7_31_2,C31. Melena
+endline,c31_disease_u7_32_2,C31. Intussusception
+endline,c31_disease_u7_33_2,C31. Epilepsy/seizure
+endline,c31_disease_u7_34_2,C31. Fever
+endline,c31_disease_u7_35_2,C31. Drug poison/food poison
+endline,c31_disease_u7_36_2,"C31. Signs of labours (pain, rupture of membrane)"
+endline,c31_disease_u7_37_2,C31. Jaundice
+endline,c31_disease_u7_38_2,C31. Meningitis
+endline,c31_disease_u7_39_2,C31. Constipation
+endline,c31_disease_u7_40_2,C31. Low Birth weight
+endline,c31_disease_u7_41_2,C31. The newborn could not be fed.
+endline,c31_disease_u7_42_2,C31. Cleft palate surgery
+endline,c31_disease_u7_43_2,C31. Dental and Oral diseases
+endline,c31_disease_u7_44_2,C31. Reproductive system disease
+endline,c32_opd_u7_2,"C32.For [${u7_name}] most recent hospitalization episode, did [${u7_name}] see"
+endline,c33_hospital_u7_2,"C33.For [] most recent hospitalization episode, where did [NAME] get hospitalize"
+endline,c34_stopnormal_u7_2,"C34.For [${u7_name}] most recent hospitalization episode, how many days did [$"
+endline,c35_days_u7_2,"C35.For [${u7_name}] most recent hospitalization episode, how many days did [$"
+endline,c36_health_u7_2,"C36. For [${u7_name}] most recent hospitalization, how much money was spent on"
+endline,c37_nonhealth_u7_2,"C37.For [${u7_name}] most recent hospitalization episode, how much money was sp"
+endline,c38_reimburse_u7_2,"C38.For [${u7_name}] most recent hospitalization, how much did that ${c29_insu"
+endline,c38_u7_live_2,C38.1 Does this child [${u7_name}] live with you right now?
+endline,c1_time_u7_3,"C1.In the last 12 months, approximately how many times did [${u7_name}] interac"
+endline,c2_nature_u7_3,C2.What was the nature of the interactions that [${u7_name}] had in the last 12
+endline,c2_nature_u7_1_3,C2. Illness/ Injury
+endline,c2_nature_u7_2_3,C2. Child immunization
+endline,c2_nature_u7_3_3,C2. Antenatal care
+endline,c2_nature_u7_4_3,C2. Influenza Vaccination
+endline,c2_nature_u7_5_3,C2. Covid 19 vaccination
+endline,c2_nature_u7_6_3,C2. Medical checkup
+endline,c2_nature_u7_7_3,C2. Receiving health education/medical advice
+endline,c2_nature_u7_8_3,C2. Newborn followup
+endline,c2_nature_u7_9_3,C2. Low birth weight
+endline,c2_nature_u7_10_3,C2. Obesity
+endline,c2_nature_u7_11_3,C2. Child birth
+endline,c3_test_u7_3,"C3.For all healthcare interactions that [${u7_name}] had in the last 12 months,"
+endline,c4_hospital_u7_3,"C4.In the last 12 months, how many times did [${u7_name}] stay overnight at a h"
+endline,c5_amount_u7_3,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]"
+endline,c6_selfmed_u7_3,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the
+endline,c7_compare_u7_3,C7.How do you think that the healthcare utilization for [${u7_name}] changed af
+endline,c8_illyesno_u7_3,"C8.During the past 30 days did [${u7_name}] suffer from any illness, injury, or"
+endline,c9_insu_u7_3,C9.What is the main (government or private) health insurance covering [NAME]'s o
+endline,c10_seekcare_u7_3,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt"
+endline,c11_disease_u7_3,"C11.For which disease (diagnosed by doctor/health care provider), [${u7_name}]"
+endline,c11_disease_u7_1_3,C11. Diarrhea
+endline,c11_disease_u7_2_3,C11. Dengue Hemorrhagic Fever
+endline,c11_disease_u7_3_3,C11. Fever
+endline,c11_disease_u7_4_3,C11. Malaria
+endline,c11_disease_u7_5_3,C11. Typhoid
+endline,c11_disease_u7_6_3,C11. Kidney disease
+endline,c11_disease_u7_7_3,"C11. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c11_disease_u7_8_3,C11. Cough
+endline,c11_disease_u7_9_3,C11. Nasal congestion
+endline,c11_disease_u7_10_3,C11. Running nose
+endline,c11_disease_u7_11_3,C11. Influenza
+endline,c11_disease_u7_12_3,C11. Abdominal pain
+endline,c11_disease_u7_13_3,C11. Covid 19
+endline,c11_disease_u7_14_3,C11. Hypertension
+endline,c11_disease_u7_15_3,C11. Diabetes
+endline,c11_disease_u7_16_3,C11. Nausea and vomiting
+endline,c11_disease_u7_17_3,"C11. Accidents (motorbike/car accidents, etc)"
+endline,c11_disease_u7_18_3,C11. Occupational injuries or other injuries
+endline,c11_disease_u7_19_3,C11. Oral disease
+endline,c11_disease_u7_20_3,C11. Low blood pressure/hypotension
+endline,c11_disease_u7_21_3,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)"
+endline,c11_disease_u7_22_3,C11. Heart disease
+endline,c11_disease_u7_23_3,C11. Sore throat
+endline,c11_disease_u7_24_3,C11. Muscle and joint pain
+endline,c11_disease_u7_25_3,C11. Food poison
+endline,c11_disease_u7_26_3,C11. Gastritics
+endline,c11_disease_u7_27_3,C11. Urinary tract infection(UTI)
+endline,c11_disease_u7_28_3,C11. Neurological disorders/headache
+endline,c11_disease_u7_29_3,C11. Constipation
+endline,c11_disease_u7_30_3,C11. Pneumonia/AVI/Other respiratory tract infections
+endline,c11_disease_u7_31_3,C11. Asthema
+endline,c11_disease_u7_32_3,C11. Intestinal worms
+endline,c11_disease_u7_33_3,C11. Bone demorfimty
+endline,c11_disease_u7_34_3,C11. Indigestion
+endline,c11_disease_u7_35_3,C11. Hydrocephalus
+endline,c11_disease_u7_36_3,C11. Bloating
+endline,c11_disease_u7_37_3,C11. Ear infection
+endline,c11_disease_u7_38_3,C11. Epistasis
+endline,c11_disease_u7_39_3,C11. Epilepsy/seizure
+endline,c11_disease_u7_40_3,C11. Paralysis
+endline,c11_disease_u7_41_3,C11. Medical checkup/investigations
+endline,c11_disease_u7_42_3,C11. Weakness
+endline,c11_disease_u7_43_3,C11. Back pain
+endline,c11_disease_u7_44_3,C11. Jaundice
+endline,c11_disease_u7_45_3,C11. Eyes disease/eyes infection
+endline,c11_disease_u7_46_3,C11. Liver and biliary tract disease
+endline,c11_disease_u7_47_3,C11. Lump
+endline,c11_disease_u7_48_3,C11. Cancer
+endline,c11_disease_u7_98_3,C11. Don't know
+endline,c11_disease_u7_97_3,C11. Prefer not to answer
+endline,c12_diagnose_u7_3,C12.Were any diagnostic / lab tests performed on [${u7_name}] as a part of the
+endline,c13_medication_u7_3,C13.Did the provider prescribe [${u7_name}] any medications as a part of the tr
+endline,c14_meditake_u7_3,C14.Did [${u7_name}] take the medicines prescribed by the provider?
+endline,c15_format_u7_3,"C15.For [${u7_name}] in the past 30 days, what was the format of seeking medica"
+endline,c15_format_u7_1_3,C15. In person
+endline,c15_format_u7_2_3,C15. Telemdicine only
+endline,c15_format_u7_3_3,C15. Mix of inperson and telemedcicne
+endline,c19_pertime_u7_3,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n"
+endline,c20_personlast_u7_3,"C20.For your most recent visit in the past 30 days, where did [] get care?"
+endline,c21_health_u7_3,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c22_nonhealth_u7_3,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c23_reimburse_u7_3,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_"
+endline,c24_stopnormal_u7_3,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name"
+endline,c25_assist_u7_3,C25.Does [${u7_name}] or someone in his/her household currently receiving assis
+endline,c25_assist_u7_0_3,C25. None
+endline,c25_assist_u7_1_3,C25. Save the children
+endline,c25_assist_u7_2_3,C25. LIFT
+endline,c25_assist_u7_3_3,C25. MCCT
+endline,c25_assist_u7_4_3,C25. UNICEF
+endline,c25_assist_u7_5_3,C25. World Food Program (WFP)
+endline,c25_assist_u7_6_3,C25. Local charity organizations
+endline,c25_assist_u7_7_3,C25. TdH
+endline,c25_assist_u7_8_3,C25. Myat Wynn Lay Myar group
+endline,c25_assist_u7_9_3,C25. Bright Start/Common Health
+endline,c25_assist_u7_10_3,C25. Private donors
+endline,c25_assist_u7_11_3,C25. Pact Myanmar
+endline,c25_assist_u7_12_3,C25. International Labour Organization (ILO)
+endline,c25_assist_u7_97_3,C25. Prefer not to answer
+endline,c25_assist_u7_98_3,C25. Don't know
+endline,c26_nonsick_u7_3,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a"
+endline,c26_nonsick_u7_1_3,C26. Under five visit with vaccination
+endline,c26_nonsick_u7_2_3,C26. Under five visit without vaccination
+endline,c26_nonsick_u7_3_3,C26. General check-up
+endline,c26_nonsick_u7_4_3,C26. Didn't go to heath care facillity or consult with health care provider
+endline,c27_notconsult_u7_3,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that
+endline,c27_notconsult_u7_1_3,C27. Not serious illness
+endline,c27_notconsult_u7_2_3,C27. Self-treated
+endline,c27_notconsult_u7_3_3,C27. No money for treatment
+endline,c27_notconsult_u7_4_3,C27. Too far
+endline,c27_notconsult_u7_5_3,C27. Poor services
+endline,c27_notconsult_u7_6_3,C27. Not safe
+endline,c27_notconsult_u7_7_3,C27. Do not know can be fixed
+endline,c27_notconsult_u7_8_3,C27. Do not know where to go
+endline,c27_notconsult_u7_9_3,C27. Too expensive
+endline,c27_notconsult_u7_10_3,C27. Could not get permission
+endline,c27_notconsult_u7_11_3,C27. Embarrassment
+endline,c27_notconsult_u7_12_3,C27. Problem disappeared
+endline,c27_notconsult_u7_13_3,C27. Didn't want to go/ anxious
+endline,c27_notconsult_u7_14_3,C27. Bad previous experience
+endline,c27_notconsult_u7_15_3,C27. Couldn't stop working
+endline,c27_notconsult_u7_16_3,C27. Had children/ other responsibilities at home
+endline,c27_notconsult_u7_17_3,C27. There were insufficient health care providers at the clinics/hospitals
+endline,c27_notconsult_u7_18_3,C27. Doctors or health care providers didn't allow me to come
+endline,c27_notconsult_u7_19_3,C27. Concern about getting Covid 19
+endline,c27_notconsult_u7_20_3,C27. Concern about transmitting Covid 19 to other people
+endline,c27_notconsult_u7_21_3,C27. Clinics were closed
+endline,c27_notconsult_u7_22_3,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho
+endline,c27_notconsult_u7_23_3,C27. Lack of available transportation
+endline,c27_notconsult_u7_24_3,C27. Clinic/ hospital had a long wait time
+endline,c28_inpatient_u7_3,"C28.During the past 12 months, was [${u7_name}] hospitalized because of an illn"
+endline,c29_insu_u7_3,C29.What is the main (government or private) health insurance covering [NAME]'s
+endline,c1_time_u7_4,"C1.In the last 12 months, approximately how many times did [${u7_name}] interac"
+endline,c2_nature_u7_4,C2.What was the nature of the interactions that [${u7_name}] had in the last 12
+endline,c2_nature_u7_1_4,C2. Illness/ Injury
+endline,c2_nature_u7_2_4,C2. Child immunization
+endline,c2_nature_u7_3_4,C2. Antenatal care
+endline,c2_nature_u7_4_4,C2. Influenza Vaccination
+endline,c2_nature_u7_5_4,C2. Covid 19 vaccination
+endline,c2_nature_u7_6_4,C2. Medical checkup
+endline,c2_nature_u7_7_4,C2. Receiving health education/medical advice
+endline,c2_nature_u7_8_4,C2. Newborn followup
+endline,c2_nature_u7_9_4,C2. Low birth weight
+endline,c2_nature_u7_10_4,C2. Obesity
+endline,c2_nature_u7_11_4,C2. Child birth
+endline,c3_test_u7_4,"C3.For all healthcare interactions that [${u7_name}] had in the last 12 months,"
+endline,c4_hospital_u7_4,"C4.In the last 12 months, how many times did [${u7_name}] stay overnight at a h"
+endline,c5_amount_u7_4,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]"
+endline,c6_selfmed_u7_4,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the
+endline,c7_compare_u7_4,C7.How do you think that the healthcare utilization for [${u7_name}] changed af
+endline,c8_illyesno_u7_4,"C8.During the past 30 days did [${u7_name}] suffer from any illness, injury, or"
+endline,c9_insu_u7_4,C9.What is the main (government or private) health insurance covering [NAME]'s o
+endline,c10_seekcare_u7_4,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt"
+endline,c11_disease_u7_4,"C11.For which disease (diagnosed by doctor/health care provider), [${u7_name}]"
+endline,c11_disease_u7_1_4,C11. Diarrhea
+endline,c11_disease_u7_2_4,C11. Dengue Hemorrhagic Fever
+endline,c11_disease_u7_3_4,C11. Fever
+endline,c11_disease_u7_4_4,C11. Malaria
+endline,c11_disease_u7_5_4,C11. Typhoid
+endline,c11_disease_u7_6_4,C11. Kidney disease
+endline,c11_disease_u7_7_4,"C11. Skin diseases (e.g., boils, lesions, etc.)"
+endline,c11_disease_u7_8_4,C11. Cough
+endline,c11_disease_u7_9_4,C11. Nasal congestion
+endline,c11_disease_u7_10_4,C11. Running nose
+endline,c11_disease_u7_11_4,C11. Influenza
+endline,c11_disease_u7_12_4,C11. Abdominal pain
+endline,c11_disease_u7_13_4,C11. Covid 19
+endline,c11_disease_u7_14_4,C11. Hypertension
+endline,c11_disease_u7_15_4,C11. Diabetes
+endline,c11_disease_u7_16_4,C11. Nausea and vomiting
+endline,c11_disease_u7_17_4,"C11. Accidents (motorbike/car accidents, etc)"
+endline,c11_disease_u7_18_4,C11. Occupational injuries or other injuries
+endline,c11_disease_u7_19_4,C11. Oral disease
+endline,c11_disease_u7_20_4,C11. Low blood pressure/hypotension
+endline,c11_disease_u7_21_4,"C11. Complications of pregnancy (diziness, bleeding, pain,weakness)"
+endline,c11_disease_u7_22_4,C11. Heart disease
+endline,c11_disease_u7_23_4,C11. Sore throat
+endline,c11_disease_u7_24_4,C11. Muscle and joint pain
+endline,c11_disease_u7_25_4,C11. Food poison
+endline,c11_disease_u7_26_4,C11. Gastritics
+endline,c11_disease_u7_27_4,C11. Urinary tract infection(UTI)
+endline,c11_disease_u7_28_4,C11. Neurological disorders/headache
+endline,c11_disease_u7_29_4,C11. Constipation
+endline,c11_disease_u7_30_4,C11. Pneumonia/AVI/Other respiratory tract infections
+endline,c11_disease_u7_31_4,C11. Asthema
+endline,c11_disease_u7_32_4,C11. Intestinal worms
+endline,c11_disease_u7_33_4,C11. Bone demorfimty
+endline,c11_disease_u7_34_4,C11. Indigestion
+endline,c11_disease_u7_35_4,C11. Hydrocephalus
+endline,c11_disease_u7_36_4,C11. Bloating
+endline,c11_disease_u7_37_4,C11. Ear infection
+endline,c11_disease_u7_38_4,C11. Epistasis
+endline,c11_disease_u7_39_4,C11. Epilepsy/seizure
+endline,c11_disease_u7_40_4,C11. Paralysis
+endline,c11_disease_u7_41_4,C11. Medical checkup/investigations
+endline,c11_disease_u7_42_4,C11. Weakness
+endline,c11_disease_u7_43_4,C11. Back pain
+endline,c11_disease_u7_44_4,C11. Jaundice
+endline,c11_disease_u7_45_4,C11. Eyes disease/eyes infection
+endline,c11_disease_u7_46_4,C11. Liver and biliary tract disease
+endline,c11_disease_u7_47_4,C11. Lump
+endline,c11_disease_u7_48_4,C11. Cancer
+endline,c11_disease_u7_98_4,C11. Don't know
+endline,c11_disease_u7_97_4,C11. Prefer not to answer
+endline,c12_diagnose_u7_4,C12.Were any diagnostic / lab tests performed on [${u7_name}] as a part of the
+endline,c13_medication_u7_4,C13.Did the provider prescribe [${u7_name}] any medications as a part of the tr
+endline,c14_meditake_u7_4,C14.Did [${u7_name}] take the medicines prescribed by the provider?
+endline,c15_format_u7_4,"C15.For [${u7_name}] in the past 30 days, what was the format of seeking medica"
+endline,c15_format_u7_1_4,C15. In person
+endline,c15_format_u7_2_4,C15. Telemdicine only
+endline,c15_format_u7_3_4,C15. Mix of inperson and telemedcicne
+endline,c19_pertime_u7_4,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n"
+endline,c20_personlast_u7_4,"C20.For your most recent visit in the past 30 days, where did [] get care?"
+endline,c21_health_u7_4,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c22_nonhealth_u7_4,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent"
+endline,c23_reimburse_u7_4,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_"
+endline,c24_stopnormal_u7_4,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name"
+endline,c25_assist_u7_4,C25.Does [${u7_name}] or someone in his/her household currently receiving assis
+endline,c25_assist_u7_0_4,C25. None
+endline,c25_assist_u7_1_4,C25. Save the children
+endline,c25_assist_u7_2_4,C25. LIFT
+endline,c25_assist_u7_3_4,C25. MCCT
+endline,c25_assist_u7_4_4,C25. UNICEF
+endline,c25_assist_u7_5_4,C25. World Food Program (WFP)
+endline,c25_assist_u7_6_4,C25. Local charity organizations
+endline,c25_assist_u7_7_4,C25. TdH
+endline,c25_assist_u7_8_4,C25. Myat Wynn Lay Myar group
+endline,c25_assist_u7_9_4,C25. Bright Start/Common Health
+endline,c25_assist_u7_10_4,C25. Private donors
+endline,c25_assist_u7_11_4,C25. Pact Myanmar
+endline,c25_assist_u7_12_4,C25. International Labour Organization (ILO)
+endline,c25_assist_u7_97_4,C25. Prefer not to answer
+endline,c25_assist_u7_98_4,C25. Don't know
+endline,c26_nonsick_u7_4,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a"
+endline,c26_nonsick_u7_1_4,C26. Under five visit with vaccination
+endline,c26_nonsick_u7_2_4,C26. Under five visit without vaccination
+endline,c26_nonsick_u7_3_4,C26. General check-up
+endline,c26_nonsick_u7_4_4,C26. Didn't go to heath care facillity or consult with health care provider
+endline,c27_notconsult_u7_4,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that
+endline,c27_notconsult_u7_1_4,C27. Not serious illness
+endline,c27_notconsult_u7_2_4,C27. Self-treated
+endline,c27_notconsult_u7_3_4,C27. No money for treatment
+endline,c27_notconsult_u7_4_4,C27. Too far
+endline,c27_notconsult_u7_5_4,C27. Poor services
+endline,c27_notconsult_u7_6_4,C27. Not safe
+endline,c27_notconsult_u7_7_4,C27. Do not know can be fixed
+endline,c27_notconsult_u7_8_4,C27. Do not know where to go
+endline,c27_notconsult_u7_9_4,C27. Too expensive
+endline,c27_notconsult_u7_10_4,C27. Could not get permission
+endline,c27_notconsult_u7_11_4,C27. Embarrassment
+endline,c27_notconsult_u7_12_4,C27. Problem disappeared
+endline,c27_notconsult_u7_13_4,C27. Didn't want to go/ anxious
+endline,c27_notconsult_u7_14_4,C27. Bad previous experience
+endline,c27_notconsult_u7_15_4,C27. Couldn't stop working
+endline,c27_notconsult_u7_16_4,C27. Had children/ other responsibilities at home
+endline,c27_notconsult_u7_17_4,C27. There were insufficient health care providers at the clinics/hospitals
+endline,c27_notconsult_u7_18_4,C27. Doctors or health care providers didn't allow me to come
+endline,c27_notconsult_u7_19_4,C27. Concern about getting Covid 19
+endline,c27_notconsult_u7_20_4,C27. Concern about transmitting Covid 19 to other people
+endline,c27_notconsult_u7_21_4,C27. Clinics were closed
+endline,c27_notconsult_u7_22_4,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho
+endline,c27_notconsult_u7_23_4,C27. Lack of available transportation
+endline,c27_notconsult_u7_24_4,C27. Clinic/ hospital had a long wait time
+endline,c28_inpatient_u7_4,"C28.During the past 12 months, was [${u7_name}] hospitalized because of an illn"
+endline,c29_insu_u7_4,C29.What is the main (government or private) health insurance covering [NAME]'s
+endline,c39_1_earn,c39.1 Have you earned during the past 12 months ?
+endline,c39_ownearn,"C39.Who usually decides how the money you earn will be used: you, your (husband/"
+endline,c40_husearn,C40.Who usually decides how your (husband's/ partner's earnings will be used: yo
+endline,c41_health,"C41.Who usually makes decisions about health care for yourself: you, your (husba"
+endline,c42_health_child,"C42.Who usually makes decisions about health care for children: you, your (husba"
+endline,d1_preg,D1.Are you currently pregnant?
+endline,d2_insu_preg,D2.What is the main (government or private) health insurance covering [NAME]'s '
+endline,d3_week,D3.How far along are you in your pregnancy? (in weeks)
+endline,d4_anc,D4.Have you ever received antenatal care for this pregnancy?
+endline,d5_firstseek,D5.How far along were you when you first sought antenatal care for this pregnanc
+endline,d6_anctime,D6.How many times have you sought antenatal care for this pregnancy so far?
+endline,d7_lastvisit,D7.What is the date of last visit of antenatal care?
+endline,d8_antecare,"D8.For the [NAME]'s recent visit for antenatal care, what kinds of services did"
+endline,d8_antecare_1,D8. Vital sign
+endline,d8_antecare_2,D8. Testing
+endline,d8_antecare_3,D8. Infection screening
+endline,d8_antecare_4,D8. Ultrasound
+endline,d8_antecare_5,D8. Tetanus immunization
+endline,d8_antecare_6,D8. Deworming
+endline,d8_antecare_7,D8. Supplements
+endline,d8_antecare_8,D8. Specialist consultation  (Specialist doctors)
+endline,d8_antecare_9,D8. Doctors' consultation (Non-specialist)
+endline,d8_antecare_10,D8. Nurses/midwives/health assistant consultation
+endline,d8_antecare_11,D8. Weight measurement
+endline,d9_admit,D9.Have you had an overnight hospital admission for reasons related to current p
+endline,d10_past_preg_end,D10.Have you been pregnant during baseline ?
+endline,past_preg_outcome,"D10.1.The last time we spoke, you indicated you were pregnant. May I ask what th"
+endline,dob_yn,D10.2.Do you remember the exact date of birth of your child ?
+endline,dob_yes,D.10.3.When did you delivered your child?
+endline,d11_year,D11.How many months ago did you deliver your child? [Note: If the response is in
+endline,d12_place,D12.Where did you deliver the child? [Select one. Do not read out the choice lis
+endline,d12_assist_del,D12.1. Who assisted the delivery?
+endline,d13_reason,D13.What were the main reasons for choosing to deliver at [${d12_place_cal}]? [
+endline,d13_reason_1,C13. Close to home
+endline,d13_reason_2,C13. Staff give good advice
+endline,d13_reason_3,C13. Good staff attitude
+endline,d13_reason_4,C13. Knew someone in the facility
+endline,d13_reason_5,C13. Less waiting time
+endline,d13_reason_6,C13. Medicine available
+endline,d13_reason_7,C13. Staff are qualified
+endline,d13_reason_8,C13. Less costly
+endline,d13_reason_9,C13. Felt not serious (minor aliment)
+endline,d13_reason_10,C13. Cleaner facility
+endline,d13_reason_11,C13. More privacy
+endline,d13_reason_12,C13. Was referred
+endline,d13_reason_13,C13. Was recommended by the consulting health provider
+endline,d13_reason_14,C13. My insurance covered the costs at that health facility partially or fully.
+endline,d13_reason_15,C13. Due to complication at Childbirth
+endline,d13_reason_16,C13. Need Caesarean
+endline,d13_reason_17,C13. Difficult labour
+endline,d13_reason_18,C13. The government health care facilities were closed.
+endline,d13_reason_19,C13. Concern about Covid 19 transmission
+endline,d13_reason_20,C13. Security concern
+endline,d13_reason_21,C13. The hospitals were far from home
+endline,d13_reason_22,C13. Old age
+endline,d13_reason_23,C13. High risk pregnanacy
+endline,d13_reason_24,C13. Was recommended by family/friends/neighbours
+endline,d13_reason_25,C13. There was no patient's attendance for me.
+endline,d13_reason_26,C13. Unexpectedly deliver before due date
+endline,d13_reason_27,C13. Easy to get birth registration certificate
+endline,d13_anc_yn,"D13.1.During this pregnancy, did you received antenatal care?"
+endline,d13_anc_week,D13.2.How many weeks were you pregnant when you first sought antenatal care for
+endline,d14_time,D14.How many times did you seek antenatal care for this pregnancy until birth?
+endline,d14_antecare,D14.1.What kind of services did you receive during antenatal care visits for thi
+endline,d14_antecare_1,D14. Vital sign
+endline,d14_antecare_2,D14. Testing
+endline,d14_antecare_3,D14. Infection screening
+endline,d14_antecare_4,D14. Ultrasound
+endline,d14_antecare_5,D14. Tetanus immunization
+endline,d14_antecare_6,D14. Deworming
+endline,d14_antecare_7,D14. Supplements
+endline,d14_antecare_8,D14. Specialist consultation  (Specialist doctors)
+endline,d14_antecare_9,D14. Doctors' consultation (Non-specialist)
+endline,d14_antecare_10,D14. Nurses/midwives/health assistant consultation
+endline,d14_antecare_11,D14. Weight measurement
+endline,d14_anc_usg,"D14.2.During this pregnancy, how many times did you get an ultrasound screening?"
+endline,d14_anc_antitt,"D14.3.During this pregnancy, how many times did you get a tetanus injection?"
+endline,d14_anc_deworm,"D14.4. During this pregnancy, how many times did you take deworming drugs?"
+endline,d14_anc_iron,"D14.5. During this pregnancy, how many days did you take the iron tablets or iro"
+endline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna
+endline,d15_admit_reason,D15.1. What were the reason/s for hospitalization?
+endline,d15_insutype,D15.2..What is the main (government or private) health insurance covering this p
+endline,d16_assist_yn,D16. Have you taken any assistance from Bright Start/Common Health after enrollm
+endline,d17_prog_support,D17. What kind of support have you received from Brightstar/Common Health after
+endline,d17_prog_support_1,D17. Cash
+endline,d17_prog_support_2,D17. Tele-consultation
+endline,d17_prog_support_3,D17. Drugs
+endline,d17_prog_support_4,D17. In-person consultation
+endline,d18_prog_support_cash,D18. What was the total amount of cash (MMK) that you have received after the en
+endline,e1_vaccine_1,E1.Has [${u7_name_vp}] ever received any vaccinations?
+endline,e2_vaccine_record_1,E2.Do you have immunization record of [${u7_name_vp}]?
+endline,e3a_birth_1,E3a.At Birth
+endline,e3b_2months_1,E3b.At 2 months
+endline,e3c_4months_1,E3c.At 4 months
+endline,e3c_6months_1,E3d.At 6 months
+endline,e3d_9months_1,E3e.At 9 months
+endline,e3e_half_1,E3f.At one year and half
+endline,e3f_other_1,E3g.Older than 2 years
+endline,e4_1_covid_1,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?
+endline,e4_2_covid_dosage_1,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}]
+endline,e1_vaccine_2,E1.Has [${u7_name_vp}] ever received any vaccinations?
+endline,e2_vaccine_record_2,E2.Do you have immunization record of [${u7_name_vp}]?
+endline,e3a_birth_2,E3a.At Birth
+endline,e3b_2months_2,E3b.At 2 months
+endline,e3c_4months_2,E3c.At 4 months
+endline,e3c_6months_2,E3d.At 6 months
+endline,e3d_9months_2,E3e.At 9 months
+endline,e3e_half_2,E3f.At one year and half
+endline,e3f_other_2,E3g.Older than 2 years
+endline,e4_1_covid_2,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?
+endline,e4_2_covid_dosage_2,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}]
+endline,e1_vaccine_3,E1.Has [${u7_name_vp}] ever received any vaccinations?
+endline,e2_vaccine_record_3,E2.Do you have immunization record of [${u7_name_vp}]?
+endline,e3a_birth_3,E3a.At Birth
+endline,e3b_2months_3,E3b.At 2 months
+endline,e3c_4months_3,E3c.At 4 months
+endline,e3c_6months_3,E3d.At 6 months
+endline,e3d_9months_3,E3e.At 9 months
+endline,e3e_half_3,E3f.At one year and half
+endline,e3f_other_3,E3g.Older than 2 years
+endline,e4_1_covid_3,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?
+endline,e4_2_covid_dosage_3,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}]
+endline,e1_vaccine_4,E1.Has [${u7_name_vp}] ever received any vaccinations?
+endline,e2_vaccine_record_4,E2.Do you have immunization record of [${u7_name_vp}]?
+endline,e3a_birth_4,E3a.At Birth
+endline,e3b_2months_4,E3b.At 2 months
+endline,e3c_4months_4,E3c.At 4 months
+endline,e3c_6months_4,E3d.At 6 months
+endline,e3d_9months_4,E3e.At 9 months
+endline,e3e_half_4,E3f.At one year and half
+endline,e3f_other_4,E3g.Older than 2 years
+endline,e4_1_covid_4,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?
+endline,e4_2_covid_dosage_4,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}]
+endline,f1_income,F1.What have been your household income sources over the past 12 months? [Select
+endline,f1_income_0,F1. None/unemployed
+endline,f1_income_1,F1. Farming
+endline,f1_income_2,F1. Livestock and poultry raising
+endline,f1_income_3,F1. Fishing
+endline,f1_income_4,F1. Wholesale and retail trade
+endline,f1_income_5,F1. Peddling
+endline,f1_income_6,F1. Manufacturing/handicraft
+endline,f1_income_7,F1. Salaried employment
+endline,f1_income_8,F1. Skilled Labourer
+endline,f1_income_9,F1. Agricultural daily labourer
+endline,f1_income_10,F1. Other daily labourer
+endline,f1_income_11,"F1. Private gifts, donations, assistance"
+endline,f1_income_12,"F1. Government assistance, pensions"
+endline,f1_income_13,F1. Remittance from abroad
+endline,f1_income_14,F1. Remittance from other parts of the country
+endline,f1_income_15,F1. Tourism-related work
+endline,f1_income_16,F1.  Transport-related services
+endline,f1_income_17,F1. Broker
+endline,f1_income_18,F1. Land and housing rental agent
+endline,f1_income_19,F1. Money lander
+endline,f1_income_20,F1. Street venders
+endline,f1_income_21,F1. Stone collector
+endline,f1_income_22,F1. Hostel Service
+endline,f1_income_23,F1. Small petroleum extraction
+endline,f1_income_24,F1. Internet Café
+endline,f1_income_25,F1. Logger
+endline,f1_income_26,F1. Aircon services
+endline,f1_income_27,F1. Construction
+endline,f1_income_28,F1. Selling water
+endline,f1_income_29,F1. Copyer and Printing Shop
+endline,f1_income_30,F1. Quack Doctor
+endline,f1_income_31,F1. Selling firewood
+endline,f1_income_32,F1. Pharmacy shop
+endline,f1_income_33,F1. Tailor
+endline,f1_income_34,F1. Astrologer
+endline,f1_income_35,F1. Renting house to others
+endline,f1_income_36,F1. Phone/car/motorbike reparing service
+endline,f1_income_37,F1. Barber shop/beauty saloon
+endline,f2_incomeone,F2.What have been your household's main income source over the past 12 months?
+endline,f3_icomemmk,"F3.During the past 12 months, what is your HH's average monthly income? (MMK) __"
+endline,f4a_food,F4a.Food and Bevearages (including purchase and home grown/raised)
+endline,f4b_living,F4b.Living or accommodation/rent
+endline,f4c_water,F4c.Water and sanitation
+endline,f4d_cloth,F4d.Clothing
+endline,f4e_social,F4e.Social or religious
+endline,f4f_edu,F4f.Education
+endline,f4g_health,F4g.Health
+endline,f4h_transport,F4h.Transportation
+endline,f4i_commu,"F4i.Communication (Wifi, topup bills)"
+endline,fj_electricity,F4j.Electricity
+endline,f4k_other,F4k.Others
+endline,f4k_other_oth,othercost_oth
+endline,f5_spend_compare,"F5. Comapred to November 2021 or before, has your average total monthly spending"
+endline,f6_assist_yn,F6. Has [NAME] or someone in his/her household received or currently receiving a
+endline,f7_assist_org,F7. Which organizations has [NAME] or someone in his/her household received or c
+endline,f7_assist_org_0,F7. None
+endline,f7_assist_org_1,F7. Save the children
+endline,f7_assist_org_2,F7. LIFT
+endline,f7_assist_org_3,F7. MCCT
+endline,f7_assist_org_4,F7. UNICEF
+endline,f7_assist_org_5,F7. World Food Program (WFP)
+endline,f7_assist_org_6,F7. Local charity organizations
+endline,f7_assist_org_7,F7. TdH
+endline,f7_assist_org_8,F7. Myat Wynn Lay Myar group
+endline,f7_assist_org_9,F7. Bright Start/Common Health
+endline,f7_assist_org_10,F7. Private donors
+endline,f7_assist_org_11,F7. Pact Myanmar
+endline,f7_assist_org_12,F7. ILO
+endline,f7_assist_org_97,F7. Prefer not to answer
+endline,f7_assist_org_98,F7. Don't know
+endline,f8_assist_type,F8. What kind of assistance have you received from the [F6] after November 2021/
+endline,f8_assist_type_1,F8. Cash
+endline,f8_assist_type_2,F8. Food
+endline,f8_assist_type_3,F8. Non-food item
+endline,f8_assist_type_4,F8. Health care
+endline,f9_assist_cash,F9. How much cash assistance have you received after November 2021/baseline?
+endline,f10_assist_food,F10. Can you estimate the value of the food items you received after November 20
+endline,f11_assist_nfood,F11. Can you estimate the value of the non-food items have you received after No
+endline,g1_shock,"G1.In the past 12 months (i.e., since November 2021) , did your household experi"
+endline,g2_shockyes,"G2.What was the nature of shock did you experience in the past 12 months (i.e.,"
+endline,g2_shockyes_1,G2. Health-related
+endline,g2_shockyes_2,G2. High price for food
+endline,g2_shockyes_3,G2. Accommodation/Living
+endline,g2_shockyes_4,G2. Job related
+endline,g2_shockyes_5,G2. Delayed or unable to pay back loans
+endline,g2_shockyes_6,G2. Unstable political situations/security concern
+endline,g2_shockyes_7,G2. Not enough money for the family expenditure
+endline,g2_shockyes_8,G2. Family affair
+endline,g3_money,G3.Imagine that you have an emergency and you need to pay [1/20 of GNI per capit
+endline,g4_difficult,G4.How difficult would it be for you to come up with [1/20 of GNI per capita in
+endline,g5_difficult1,G5.How difficult would it be for you to come up with [1/20 of GNI per capita in
+endline,g6_force,"G6.In the last 30 days, have you or someone in your household been forced to do"
+endline,g6_force_1,G6. Sell off assets (including livestock)
+endline,g6_force_2,G6. Deplete your savings
+endline,g6_force_3,G6. Borrow money you were not certain you could pay back on time
+endline,g6_force_4,G6. Skip making a required payment on a loan (NOT taking advantage of govt progr
+endline,g6_force_5,G6. Seek food or money from friends/ relatives when you were unable to meet your
+endline,g6_force_6,G6. None of the above
+endline,h1_source,"H1.For information related to Covid-19, what is your most reliable source of inf"
+endline,h2_symptoms,H2.What are the suspected symptoms of COVID 19? [Select Multiple]
+endline,h2_symptoms_1,H2. Fever or chills
+endline,h2_symptoms_2,H2. Cough
+endline,h2_symptoms_3,H2. Shortness of breath or difficulty breathing
+endline,h2_symptoms_4,H2. Fatigue
+endline,h2_symptoms_5,H2. Muscle or body aches
+endline,h2_symptoms_6,H2. Headache
+endline,h2_symptoms_7,H2. New loss of taste or smell
+endline,h2_symptoms_8,H2. Sore throat
+endline,h2_symptoms_9,H2. Congestion or runny nose
+endline,h2_symptoms_10,H2. Nausea or vomiting
+endline,h2_symptoms_11,H2. Diarrhea
+endline,h2_symptoms_12,H2. Lower O2/SPO2
+endline,h2_symptoms_13,H2. Loss of appetite
+endline,h2_symptoms_14,H2. Redness on body and eyes
+endline,h2_symptoms_15,H2. Diziness
+endline,h2_symptoms_16,H2. Insomnia
+endline,h2_symptoms_17,H2. Low blood pressure
+endline,h2_symptoms_98,H2. Don't know
+endline,h3_suspected,H3.What should you do if you find someone with suspected COVID-19 symptoms? [Sel
+endline,h3_suspected_1,H3. Informing to health care personnel
+endline,h3_suspected_2,H3. Nothing to do
+endline,h3_suspected_3,"H3. Monitoring symptoms (temperature, cough, breathing)"
+endline,h3_suspected_4,H3. Taking medications as directed or prescribed by doctors
+endline,h3_suspected_5,H3. Isolate the sick person
+endline,h3_suspected_6,H3. Keep social distancing with suspected person.
+endline,h3_suspected_7,H3. Encourge/take to seek medical treament
+endline,h3_suspected_8,"H3. Protect self from Covid-19 transmission (Masks, hand washing,etc)"
+endline,h3_suspected_9,H3. Encourage the suspected person verbally and help physically as needed
+endline,h3_suspected_10,H3. Apply herbs to relief symptoms
+endline,h3_suspected_11,H3. Informing to the local authorities
+endline,h3_suspected_97,H3. Prefer not to answer
+endline,h3_suspected_98,H3. Don't know
+endline,h4_protect,H4.How do you protect yourself and others from COVID-19? [Select Multiple]
+endline,h4_protect_1,H4. Wear a mask over nose and mouth
+endline,h4_protect_2,H4. Stay 6 feet away from others
+endline,h4_protect_3,H4. Avoid crowds
+endline,h4_protect_4,H4. Avoid poorly ventilated spaces
+endline,h4_protect_5,H4. Wash your hands often
+endline,h4_protect_6,H4. Cover coughs and sneezes
+endline,h4_protect_7,H4. Clean and disinfect
+endline,h4_protect_8,H4. Monitor Health status daily
+endline,h4_protect_9,H4. Do not allow visitors at home
+endline,h4_protect_10,H4. Eating well balanced diet
+endline,h4_protect_11,H4. Taking multivitamin supplements
+endline,h4_protect_12,H4. Getting vaccinated
+endline,h4_protect_13,H4. Nothing
+endline,h4_protect_14,H4. Changing clothes once came from outside
+endline,h4_protect_15,H4. Taking bath once come from outside
+endline,h4_protect_16,H4. Worn surgical head cap
+endline,h4_protect_17,H4. Stay at home
+endline,h4_protect_18,H4. Wearing faceshield
+endline,h4_protect_19,H4. Using gloves
+endline,h4_protect_20,H4. Eating/drinking herbs
+endline,h4_protect_21,H4. Getting enough sleep
+endline,h4_protect_22,H4. Take care of personal hygiene
+endline,h4_protect_98,H4. Don't know
+endline,h5_emergency,"H5.In which conditions with the suspected symptoms of COVID19, should someone se"
+endline,h5_emergency_1,H5. Trouble breathing
+endline,h5_emergency_2,H5. Persistent pain or pressure in the chest
+endline,h5_emergency_3,H5. New confusion
+endline,h5_emergency_4,H5. Inability to wake or stay awake
+endline,h5_emergency_5,H5. Bluish lips or face
+endline,h5_emergency_6,H5. Lower SPO2 (<94%)
+endline,h5_emergency_7,H5. Loss of speech or mobility
+endline,h5_emergency_8,"H5. People with underlying diseases or high risk persons (smokers,alcoholism)"
+endline,h5_emergency_9,H5. Persistent/severe cough
+endline,h5_emergency_10,H5. High fever together with cough and loss of smell
+endline,h5_emergency_11,"H5. As soons as the Covid-19 symptoms were noticed (loss of smell, taste,)"
+endline,h5_emergency_12,H5. Frequent diarrhea and vomiting
+endline,h5_emergency_13,H5. Unable to eat
+endline,h5_emergency_14,H5. Low blood pressure
+endline,h5_emergency_15,H5. Getting worse
+endline,h5_emergency_97,H4. Prefer not to answer
+endline,h5_emergency_98,H4. Don't know
+endline,h6_1_vaccine,H6.1. Have you taken any vaccines to protect yourself against COVID?
+endline,h6_2_vaccine_dosage,H6.2. How many dosages of COVID vaccines have you taken?
+endline,i1_hhenroll,I1. How many household members had been enrolled in the program?
+endline,i2_preg_enrl,I2. How many pregnant women in the household had been enrolled in the program?
+endline,i3_u7_enrl,I3. How many children under 7 in the household had been enrolled in the program?
+endline,i4_preg_claim,I4. How many times have [pregnant woman] have claimed for insurance/cash grants?
+endline,i5_u7_claim,I5. How many times have [child under 7] have claimed for insurance?
+endline,i6_total_claim,I6. What is the total amount (in MMK) of insurance claimed in the past 12 months
+endline,j1_fucall,j-1.We will conduct another short interview in approximately 3-4 month. Would yo
+endline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?"
+endline,key,Unique submission ID
+endline,starttime,Start time
+endline,endtime,End time
+endline,interview_time,Time of the interview
+endline,subdate,Submissiondate (DDMMYY)
+endline,survey,
+endline,submissiondate,
+endline,hh_id,

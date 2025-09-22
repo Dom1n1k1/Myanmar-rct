@@ -1,0 +1,222 @@
+wave,var,label,class,n_missing,pct_missing,n_unique,examples
+baseline,a10_total,A10.Total number of members in the HH,numeric,0,0,16,3 | 7 | 5 | 4 | 6
+baseline,a11_adult,"A11.Total number of adults (i.e., 18+ yrs. old) in the HH",numeric,0,0,12,2 | 3 | 4 | 6 | 5
+baseline,a13_under7_final,A13.Final Number of under 7 children,numeric,0,0,5,1 | 2 | 0 | 4 | 3
+baseline,a13_under7_org,A13.Number of under 7 children in the sample frame,numeric,255,7.9,4,1 | 2 | 4 | 3
+baseline,a14_employ,A14.Employment status of Pregnant Mother,haven_labelled,2789,86.9,4,4 | 1 | 2 | 5
+baseline,a1_tsp,A1.Township Name,haven_labelled,0,0,2,1 | 2
+baseline,a2_ward,A2.Ward Name,character,0,0,166,No (3) Ward | ကြည်းမြင့်တိုင် လမ်းသစ်လမ်း No 46 | No (20) Ward | No (5) Ward | No (9) Ward
+baseline,a3a_zone,A3a.Industrial Zone Name,character,0,0,126,Na | NA | အပိုင်၁၁ | N A | Shwe lin Ban
+baseline,a5_rs,A5.Respondent's relationship to houshold head,haven_labelled,0,0,10,2 | 4 | 1 | 7 | 9
+baseline,a6_gender,A6.Sex of the HH head,haven_labelled,0,0,2,1 | 0
+baseline,a7_age,A7.Age of the HH head[Completed Age],numeric,0,0,57,26 | 43 | 33 | 32 | 30
+baseline,a8_employ,A8.Employment status of the HH head,haven_labelled,0,0,7,1 | 2 | 5 | 4 | 98
+baseline,a9_edu_hh,A9.Highest level of education of the HH head,haven_labelled,0,0,5,1 | 2 | 3 | 98 | 97
+baseline,b1a_audio,Do you agree to allow audio recording?,haven_labelled,0,0,2,1 | 0
+baseline,b4_water,B4.What is the main source of water used by the household for drinking in the WE,haven_labelled,0,0,11,9 | 3 | 12 | 1 | 5
+baseline,b5_roof,B5.What is the main construction material of the roof of the dwelling?,haven_labelled,0,0,10,6 | 4 | 7 | 8 | 9
+baseline,b6_wall,B6.What is the major construction material of the external (outer) walls of the,haven_labelled,0,0,9,5 | 10 | 9 | 6 | 7
+baseline,b7_stove,B7.Does any household member own (including ones rented to others) or have acces,haven_labelled,0,0,2,1 | 0
+baseline,b8_meat,"B9.During the past 7 days, did you or other members of your household consume ME",haven_labelled,0,0,2,1 | 0
+baseline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,3001,93.5,66,17000 | 7000 | 11500 | 8000 | 100000
+baseline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,3194,99.5,14,130000 | 240000 | 42000 | 196 | 120000
+baseline,c39_ownearn,"C39.Who usually decides how the money you earn will be used: you, your (husband/",haven_labelled,38,1.2,5,3 | 1 | 2 | 4 | 5
+baseline,c40_husearn,C40.Who usually decides how your (husband’s/ partner’s earnings will be used: yo,haven_labelled,38,1.2,6,3 | 2 | 1 | 4 | 5
+baseline,c41_health,"C41.Who usually makes decisions about health care for yourself: you, your (husba",haven_labelled,38,1.2,5,3 | 1 | 2 | 4 | 5
+baseline,c42_health_child,"C42.Who usually makes decisions about health care for children: you, your (husba",haven_labelled,38,1.2,5,3 | 2 | 1 | 5 | 4
+baseline,call_status,ENUMERATOR: DO NOT READ THIS ALOUD Report the status of this call.,haven_labelled,0,0,1,1
+baseline,caseid,Respondent's ID,character,0,0,3210,10001 | 10003 | 10004 | 10005 | 10006
+baseline,ch_account_id,CHAccountID,character,0,0,1420,A-11900 |  | A-11456 | A-11977 | A-12720
+baseline,cluster_id,,character,0,0,108,44 | 37 | 99 | 48 | 58
+baseline,consent,Do you agree to participate in this study?,haven_labelled,0,0,1,1
+baseline,d11_year,D11.How many months ago did you deliver your child? [Note: If the response is in,numeric,562,17.5,80,13 | 24 | 1 | 19 | 21
+baseline,d12_place,D12.Where did you deliver the child? [Select one. Do not read out the choice lis,haven_labelled,562,17.5,14,1 | 11 | 4 | 7 | 3
+baseline,d14_time,D14.How many times did you see or interact with a healthcare provider during tha,numeric,562,17.5,20,6 | 3 | 1 | 7 | 4
+baseline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,562,17.5,2,0 | 1
+baseline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,2789,86.9,33,30 | 28 | 33 | 26 | 36
+baseline,d4_anc,D4.Have you ever been for antenatal care?,haven_labelled,2789,86.9,2,1 | 0
+baseline,d5_firstseek,D5.How far along were you when you first sought antenatal care for this pregnanc,numeric,2817,87.8,30,26 | 8 | 17 | 30 | 7
+baseline,d6_anctime,D6.How many times have you sought antenatal care for this pregnancy so far?,numeric,2817,87.8,16,1 | 3 | 2 | 6 | 5
+baseline,d7_lastvisit,D7.What is the date of last visit of antenatal care?,Date,2817,87.8,94,2021-09-10 | 2021-08-19 | 2021-10-11 | 2021-09-20 | 2021-09-29
+baseline,d9_admit,D9.Have you had an overnight hospital admission for reasons related to current p,haven_labelled,2789,86.9,2,0 | 1
+baseline,duration,Survey Duration in minute,numeric,0,0,1645,34.1833343505859 | 35.033332824707 | 54.966667175293 | 35.1333351135254 | 30.4833335876465
+baseline,enroll_more_baseline,enroll_more_baseline,numeric,1791,55.8,2,0 | 1
+baseline,f2_incomeone,F2.Main income source of the household,haven_labelled,0,0,30,10 | 7 | 4 | 5 | 9
+baseline,f3_icomemmk,F3.Average monthly income over the past 12 months.,numeric,206,6.4,104,350000 | 210000 | 150000 | 130000 | 250000
+baseline,f4a_food,F4a.Food and Bevearages (including purchase and home grown/raised),numeric,147,4.6,74,250000 | 200000 | 150000 | 120000 | 180000
+baseline,f4b_living,F4b.Living or accommodation/rent,numeric,6,0.2,63,60000 | 0 | 70000 | 55000 | 65000
+baseline,f4c_water,F4c.Water and sanitation,numeric,27,0.8,52,0 | 5000 | 1500 | 15000 | 12000
+baseline,f4d_cloth,F4d.Clothing,numeric,60,1.9,70,30000 | 0 | 20000 | 2000 | 35000
+baseline,f4e_social,F4e.Social or religious,numeric,148,4.6,51,20000 | 0 | 30000 | 5000 | 45000
+baseline,f4f_edu,F4f.Education,numeric,6,0.2,22,0 | 5000 | 10000 | 20000 | 6000
+baseline,f4g_health,F4g.Health,numeric,140,4.4,121,30000 | 13000 | 15000 | 70000 | 300000
+baseline,f4h_transport,F4h.Transportation,numeric,166,5.2,72,20000 | 15000 | 0 | 6000 | 2000
+baseline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,103,3.2,47,5000 | 2000 | 10000 | 4000 | 6000
+baseline,f4k_other,F4k.Others,numeric,113,3.5,55,0 | 10000 | 45000 | 30000 | 6000
+baseline,f4k_other_oth,F4k.Other costs,haven_labelled,2879,89.7,6,1 | 3 | 2 | 5 | 4
+baseline,fj_electricity,F4j.Electricity,numeric,144,4.5,107,0 | 12000 | 32500 | 6000 | 8000
+baseline,g1_shock,G1.Stress or Shock over the past 12 months.,haven_labelled,0,0,2,1 | 0
+baseline,g3_money,G3.Imagine that you have an emergency and you need to pay [1/20 of GNI per capit,haven_labelled,0,0,6,0 | 2 | 4 | 3 | 5
+baseline,g4_difficult,G4.How difficult would it be for you to come up with [1/20 of GNI per capita in,haven_labelled,1373,42.8,4,2 | 3 | 1 | 0
+baseline,group,Treatment/Control,haven_labelled,0,0,2,1 | 0
+baseline,group_raw,Treatment/Control,haven_labelled,0,0,2,1 | 0
+baseline,h1_source,H1.Most reliable source of information for Covid 19.,haven_labelled,0,0,16,1 | 3 | 2 | 7 | 8
+baseline,hh_id,,character,0,0,3210,10001 | 10003 | 10004 | 10005 | 10006
+baseline,j1_fucall,j-1.We will conduct another short interview in approximately 3-4 month. Would yo,haven_labelled,0,0,2,1 | 0
+baseline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,1,0,4,2 | 3 | 1 | 4
+baseline,key,Unique submission ID,character,0,0,3210,uuid:87b357ec-2fb1-4e3f-a12f-3a35cee7ed0c | uuid:67e2257a-c823-421d-baf4-d7ce619afa36 | uuid:f7158e46-62c0-4ef6-8165-189ab6b38710 | uuid:ea35c636-b360-4dfc-8c20-75bb31ffdf18 | uuid:c4316b80-4b93-43f2-a68e-899bfb1f7618
+baseline,new_born,Pregnant mother just born the baby after enrollment,haven_labelled,0,0,2,0 | 1
+baseline,sample_order,Replacement/Target,haven_labelled,0,0,5,1 | 3 | 0 | 2 | 4
+baseline,strata,,character,0,0,2,1 | 2
+baseline,submissiondate,Submission Date,Date,0,0,22,2021-10-13 | 2021-10-14 | 2021-10-11 | 2021-10-24 | 2021-10-22
+baseline,survey,,numeric,0,0,1,1
+baseline,treat,,integer,0,0,2,1 | 0
+baseline,uni_cluster_id,Unique Street Cluster ID,numeric,0,0,108,44 | 37 | 99 | 48 | 58
+baseline,wave,,character,0,0,1,baseline
+endline,a10_total,A10.Total number of members in the HH,numeric,0,0,15,7 | 4 | 5 | 3 | 6
+endline,a11_2_hh_join,"A11.2. Since November 2021, how many members have joined the household after bas",numeric,1969,80.3,10,1 | 2 | 3 | 4 | 12
+endline,a11_3_hh_left,"A11.3. Since November 2021, how many members have left the household after basel",numeric,2245,91.5,8,1 | 4 | 2 | 5 | 3
+endline,a12_1_adult,"A12.1. Total # of adults (i.e., 18+ yrs. Old) currently residing in the HH",numeric,1969,80.3,11,2 | 4 | 3 | 5 | 0
+endline,a14_1_und6_j,A14.1. # of under 7 yrs old children in the HH (joined after baseline),numeric,1969,80.3,4,1 | 0 | 2 | 3
+endline,a14_2_und6_l,A14.2. # of under 7 yrs old children in the HH (left after baseline),numeric,2245,91.5,4,1 | 0 | 2 | 3
+endline,a16_employ_bl,A16.(${a16_pregnm})'s Employment status,haven_labelled,2114,86.2,5,1 | 4 | 2 | 5 | 3
+endline,a1_ntsp,A1.1 Which township are you living in now ?,character,0,0,108,ကြည်းမြင်တိုင် |  | ​တောင်ဒဂုံ | ​မြောက်ဥက္ကလာ | ထန်းတပင်မြို့နယ်
+endline,a1_tsp_end,A1.Are you currently living in (${tsp_name})?,haven_labelled,0,0,2,0 | 1
+endline,a2_ward_end,A2.Are you currently staying in ${ward}?,haven_labelled,146,6,2,1 | 0
+endline,a3_enu_nm,3. Enumerator 's Name ?,character,0,0,1,100
+endline,a8_employ,A8.Employment status of the HH head,haven_labelled,0,0,7,1 | 5 | 3 | 4 | 2
+endline,b1a_audio,Do you agree to allow audio recording?,haven_labelled,0,0,2,1 | 0
+endline,b4_water,B4.What is the main source of water used by the household for drinking in the WE,haven_labelled,0,0,12,3 | 9 | 12 | 2 | 1
+endline,b5_roof,B5.What is the main construction material of the roof of the dwelling?,haven_labelled,0,0,9,6 | 4 | 8 | 7 | 2
+endline,b6_wall,B6.What is the major construction material of the external (outer) walls of the,haven_labelled,0,0,9,5 | 9 | 6 | 4 | 7
+endline,b7_stove,B7.Does any household member own (including ones rented to others) or have acces,haven_labelled,0,0,2,0 | 1
+endline,b8_meat,"B9.During the past 7 days, did you or other members of your household consume ME",haven_labelled,0,0,2,1 | 0
+endline,c39_1_earn,c39.1 Have you earned during the past 12 months ?,haven_labelled,49,2,2,1 | 0
+endline,c39_ownearn,"C39.Who usually decides how the money you earn will be used: you, your (husband/",haven_labelled,1370,55.8,5,3 | 1 | 4 | 2 | 5
+endline,c40_husearn,C40.Who usually decides how your (husband's/ partner's earnings will be used: yo,haven_labelled,49,2,7,3 | 1 | 4 | 7 | 2
+endline,c41_health,"C41.Who usually makes decisions about health care for yourself: you, your (husba",haven_labelled,49,2,5,3 | 1 | 2 | 4 | 5
+endline,c42_health_child,"C42.Who usually makes decisions about health care for children: you, your (husba",haven_labelled,49,2,5,3 | 1 | 5 | 4 | 2
+endline,caseid,Unique survey ID,character,0,0,2453,10004 | 10005 | 10006 | 10007 | 10009
+endline,cluster_id,,character,0,0,108,37 | 99 | 48 | 58 | 20
+endline,consent,Do you agree to participate in this study?,haven_labelled,0,0,1,1
+endline,d11_year,D11.How many months ago did you deliver your child? [Note: If the response is in,numeric,2121,86.5,14,11 | 10 | 12 | 8 | 16
+endline,d12_assist_del,D12.1. Who assisted the delivery?,haven_labelled,2121,86.5,6,1 | 2 | 3 | 4 | 5
+endline,d12_place,D12.Where did you deliver the child? [Select one. Do not read out the choice lis,haven_labelled,2121,86.5,10,7 | 1 | 3 | 2 | 4
+endline,d13_anc_week,D13.2.How many weeks were you pregnant when you first sought antenatal care for,numeric,2125,86.6,26,17 | 26 | 13 | 8 | 30
+endline,d13_anc_yn,"D13.1.During this pregnancy, did you received antenatal care?",haven_labelled,2121,86.5,2,1 | 0
+endline,d14_anc_antitt,"D14.3.During this pregnancy, how many times did you get a tetanus injection?",numeric,2184,89,4,2 | 3 | 1 | 4
+endline,d14_anc_deworm,"D14.4. During this pregnancy, how many times did you take deworming drugs?",numeric,2252,91.8,3,2 | 1 | 3
+endline,d14_anc_iron,"D14.5. During this pregnancy, how many days did you take the iron tablets or iro",numeric,2187,89.2,30,180 | 240 | 100 | 60 | 90
+endline,d14_anc_usg,"D14.2.During this pregnancy, how many times did you get an ultrasound screening?",numeric,2251,91.8,5,2 | 1 | 3 | 4 | 5
+endline,d14_time,D14.How many times did you seek antenatal care for this pregnancy until birth?,numeric,2125,86.6,15,14 | 7 | 4 | 5 | 10
+endline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,2121,86.5,2,0 | 1
+endline,d15_admit_reason,D15.1. What were the reason/s for hospitalization?,haven_labelled,2440,99.5,5,12 | 5 | 4 | 3 | 1
+endline,d15_insutype,D15.2..What is the main (government or private) health insurance covering this p,haven_labelled,2121,86.5,9,5 | 7 | 0 | 6 | 1
+endline,d16_assist_yn,D16. Have you taken any assistance from Bright Start/Common Health after enrollm,haven_labelled,2121,86.5,2,1 | 0
+endline,d18_prog_support_cash,D18. What was the total amount of cash (MMK) that you have received after the en,numeric,2392,97.5,32,50000 | 54000 | 55000 | 300000 | 40000
+endline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,2370,96.6,21,21 | 13 | 9 | 22 | 38
+endline,d4_anc,D4.Have you ever received antenatal care for this pregnancy?,haven_labelled,2370,96.6,2,1 | 0
+endline,d5_firstseek,D5.How far along were you when you first sought antenatal care for this pregnanc,numeric,2409,98.2,14,13 | 11 | 17 | 7 | 8
+endline,d6_anctime,D6.How many times have you sought antenatal care for this pregnancy so far?,numeric,2409,98.2,8,3 | 1 | 2 | 8 | 6
+endline,d7_lastvisit,D7.What is the date of last visit of antenatal care?,Date,2409,98.2,31,2022-12-03 | 2022-10-31 | 2022-12-01 | 2022-11-27 | 2022-12-21
+endline,d9_admit,D9.Have you had an overnight hospital admission for reasons related to current p,haven_labelled,2370,96.6,1,0
+endline,dob_yes,D.10.3.When did you delivered your child?,Date,2127,86.7,149,2021-12-27 | 2022-01-15 | 2021-11-16 | 2022-01-18 | 2022-03-29
+endline,dob_yn,D10.2.Do you remember the exact date of birth of your child ?,haven_labelled,2126,86.7,2,1 | 0
+endline,duration,Duration of the survey,numeric,0,0,1444,34.7333335876465 | 33.3666648864746 | 28.3333339691162 | 13.6666669845581 | 25.5499992370605
+endline,endtime,End time,POSIXct,0,0,2446,2022-12-02 16:29:46 | 2022-12-02 12:22:40 | 2022-12-06 18:52:47 | 2022-12-14 10:55:41 | 2022-11-30 14:24:59
+endline,f10_assist_food,F10. Can you estimate the value of the food items you received after November 20,numeric,2120,86.4,46,100000 | 70000 | 120000 | 20000 | 45000
+endline,f11_assist_nfood,F11. Can you estimate the value of the non-food items have you received after No,numeric,2441,99.5,9,150000 | 30000 | 20000 | 15000 | 8000
+endline,f2_incomeone,F2.What have been your household's main income source over the past 12 months?,haven_labelled,4,0.2,27,10 | 7 | 8 | 4 | 36
+endline,f3_icomemmk,"F3.During the past 12 months, what is your HH's average monthly income? (MMK) __",numeric,0,0,77,300000 | 200000 | 450000 | 150000 | 240000
+endline,f4a_food,F4a.Food and Bevearages (including purchase and home grown/raised),numeric,0,0,81,240000 | 170000 | 200000 | 150000 | 100000
+endline,f4b_living,F4b.Living or accommodation/rent,numeric,0,0,57,40000 | 0 | 50000 | 60000 | 80000
+endline,f4c_water,F4c.Water and sanitation,numeric,0,0,70,0 | 3000 | 1500 | 7000 | 500
+endline,f4d_cloth,F4d.Clothing,numeric,0,0,60,50000 | 0 | 30000 | 10000 | 15000
+endline,f4e_social,F4e.Social or religious,numeric,0,0,55,30000 | 0 | 15000 | 10000 | 50000
+endline,f4f_edu,F4f.Education,numeric,0,0,55,20000 | 0 | 15000 | 60000 | 8000
+endline,f4g_health,F4g.Health,numeric,0,0,110,30000 | 20000 | 5000 | 10000 | 12000
+endline,f4h_transport,F4h.Transportation,numeric,0,0,65,20000 | 10000 | 0 | 30000 | 50000
+endline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,0,0,52,15000 | 7000 | 10000 | 3000 | 2000
+endline,f4k_other,F4k.Others,numeric,47,1.9,26,0 | 98 | 15000 | 18000 | 250000
+endline,f4k_other_oth,othercost_oth,haven_labelled,2383,97.1,11,8 | 7 | 11 | 1 | 4
+endline,f5_spend_compare,"F5. Comapred to November 2021 or before, has your average total monthly spending",haven_labelled,0,0,3,1 | 3 | 2
+endline,f6_assist_yn,F6. Has [NAME] or someone in his/her household received or currently receiving a,haven_labelled,0,0,2,1 | 0
+endline,f9_assist_cash,F9. How much cash assistance have you received after November 2021/baseline?,numeric,1183,48.2,184,94000 | 150000 | 164000 | 200000 | 500000
+endline,filter_lastformat,I'd like to ask the cost for the most recent visit. Since the respondent used bo,haven_labelled,2452,100,1,1
+endline,fj_electricity,F4j.Electricity,numeric,0,0,115,10000 | 0 | 9000 | 8600 | 8000
+endline,g1_shock,"G1.In the past 12 months (i.e., since November 2021) , did your household experi",haven_labelled,0,0,2,1 | 0
+endline,g3_money,G3.Imagine that you have an emergency and you need to pay [1/20 of GNI per capit,haven_labelled,0,0,6,0 | 2 | 3 | 4 | 1
+endline,g4_difficult,G4.How difficult would it be for you to come up with [1/20 of GNI per capita in,haven_labelled,838,34.2,5,3 | 2 | 1 | 0 | 98
+endline,h1_source,"H1.For information related to Covid-19, what is your most reliable source of inf",haven_labelled,0,0,16,8 | 3 | 12 | 1 | 98
+endline,h6_1_vaccine,H6.1. Have you taken any vaccines to protect yourself against COVID?,haven_labelled,0,0,2,0 | 1
+endline,h6_2_vaccine_dosage,H6.2. How many dosages of COVID vaccines have you taken?,numeric,1010,41.2,5,2 | 3 | 1 | 4 | 6
+endline,hh_id,,character,0,0,2453,10004 | 10005 | 10006 | 10007 | 10009
+endline,i1_hhenroll,I1. How many household members had been enrolled in the program?,numeric,1189,48.5,5,0 | 2 | 1 | 3 | 6
+endline,i3_u7_enrl,I3. How many children under 7 in the household had been enrolled in the program?,numeric,1189,48.5,4,0 | 2 | 1 | 3
+endline,i5_u7_claim,I5. How many times have [child under 7] have claimed for insurance?,numeric,1980,80.7,13,0 | 3 | 1 | 4 | 2
+endline,i6_total_claim,I6. What is the total amount (in MMK) of insurance claimed in the past 12 months,numeric,1189,48.5,52,0 | 123000 | 50000 | 4000 | 164000
+endline,interview_time,Time of the interview,POSIXct,0,0,2149,2022-12-02 15:57:00 | 2022-12-02 11:50:00 | 2022-12-06 18:27:00 | 2022-12-14 10:44:00 | 2022-11-30 14:01:00
+endline,j1_fucall,j-1.We will conduct another short interview in approximately 3-4 month. Would yo,haven_labelled,0,0,2,1 | 0
+endline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,6,0.2,4,1 | 3 | 4 | 2
+endline,key,Unique submission ID,character,0,0,2453,uuid:3f2d6f1d-18a4-4533-91be-e251e75456eb | uuid:a2aff3d2-d797-4910-8f9e-ec4f6fc3d19f | uuid:0ba82d13-e15c-4767-ae78-ba093df53ba5 | uuid:81d499f3-a089-4db5-8991-bf7f9fef99d1 | uuid:a8708ed5-92ba-43cf-8433-49a9cdebff8d
+endline,resp_gen,What is the respondent's gender ?,haven_labelled,0,0,2,0 | 1
+endline,starttime,Start time,POSIXct,0,0,2449,2022-12-02 15:55:02 | 2022-12-02 11:49:19 | 2022-12-06 18:24:27 | 2022-12-14 10:42:01 | 2022-11-30 13:59:27
+endline,strata,,character,0,0,2,2 | 1
+endline,subdate,Submissiondate (DDMMYY),Date,0,0,27,2022-12-02 | 2022-12-06 | 2022-12-14 | 2022-11-30 | 2022-11-29
+endline,submissiondate,,Date,0,0,27,2022-12-02 | 2022-12-06 | 2022-12-14 | 2022-11-30 | 2022-11-29
+endline,survey,,numeric,0,0,1,0
+endline,treat,,integer,0,0,2,1 | 0
+endline,u7_count,,character,0,0,5,2 | 1 | 0 | 4 | 3
+endline,wave,,character,0,0,1,endline
+midline,a12_nopreg,A12.The reason for not pregnant at midline survey,haven_labelled,511,95.7,2,1 | 3
+midline,a13_under7_baseline,A13.Number of u7 at baseline survey,character,0,0,5,2 | 1 | 0 | 3 | 4
+midline,a13_under7_mid,A13.Number of u7 at midlineline survey,numeric,0,0,5,2 | 1 | 0 | 3 | 4
+midline,a17_house,A17.Ownership status of the current household,haven_labelled,0,0,4,2 | 4 | 3 | 1
+midline,a1_state_oth,A1.State where residing currently(Midline),haven_labelled,517,96.8,3,1 | 2 | 3
+midline,a1_tsp,A1.Are you currently living in (${tsp_name})?,haven_labelled,0,0,2,1 | 0
+midline,a1_tsp_oth,A1.Township where residing currently(Midline),haven_labelled,517,96.8,14,2 | 13 | 10 | 1 | 3
+midline,a9_edu_hh,A9.Highest level of education of the HH head,haven_labelled,0,0,7,3 | 5 | 4 | 1 | 2
+midline,b1a_audio,Do you agree to allow audio recording?,haven_labelled,0,0,2,1 | 0
+midline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,522,97.8,9,12000 | 8500 | 6500 | 35000 | 3000
+midline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,514,96.3,16,140000 | 130000 | 270000 | 300000 | 450000
+midline,call_status,ENUMERATOR: DO NOT READ THIS ALOUD Report the status of this call.,haven_labelled,0,0,1,1
+midline,caseid,Respondent's ID,character,0,0,534,10010 | 10014 | 10018 | 10019 | 10028
+midline,ch_account_id,CHAccountID,character,0,0,267,A-11459 | A-11978 | A-13003 | A-11979 | 
+midline,cluster_id,,character,0,0,108,26 | 97 | 38 | 39 | 96
+midline,consent,Do you agree to participate in this study?,haven_labelled,0,0,1,1
+midline,d11_year,D11.How many days ago did you deliver your child?,numeric,509,95.3,20,5 | 37 | 35 | 45 | 41
+midline,d12_place,D12.Where did you deliver the child? [Select one. Do not read out the choice lis,haven_labelled,509,95.3,7,3 | 7 | 1 | 11 | 4
+midline,d14_time,D14.How many times did you see or interact with a healthcare provider during tha,numeric,509,95.3,8,7 | 5 | 1 | 4 | 3
+midline,d15_admit,D15.Were you admitted overnight to a hospital for reasons related to that pregna,haven_labelled,509,95.3,2,0 | 1
+midline,d3_week,D3.How far along are you in your pregnancy? (in weeks),numeric,499,93.4,15,36 | 30 | 12 | 38 | 34
+midline,d4_anc,"D4.In the last 30 days, have you ever been for antenatal care?",haven_labelled,499,93.4,2,1 | 0
+midline,d7_lastvisit,"D7.In the last 30 days, what is the date of last visit of antenatal care?",Date,507,94.9,15,2021-11-25 | 2021-11-11 | 2021-11-10 | 2021-11-22 | 2021-12-01
+midline,d9_admit,"D9.In the last 30 days,have you had an overnight hospital admission for reasons",haven_labelled,499,93.4,1,0
+midline,duration_min,Survey Duration in minute,numeric,0,0,424,25.1666660308838 | 21.8166675567627 | 19.0666675567627 | 29.7333335876465 | 13.0166664123535
+midline,enrollment_date,Enrollment Date,character,0,0,23,10/12/2021 | 10/18/2021 | 10/29/2021 |  | 10/23/2021
+midline,f2_incomeone,F2.Main income source of the household,haven_labelled,0,0,17,0 | 36 | 4 | 7 | 10
+midline,f3_icomemmk,F3.Average monthly income over the past 12 months.,numeric,33,6.2,50,0 | 300000 | 250000 | 150000 | 140000
+midline,f4a_food,F4a.Food and Bevearages (including purchase and home grown/raised),numeric,13,2.4,38,220000 | 180000 | 150000 | 80000 | 300000
+midline,f4b_living,F4b.Living or accommodation/rent,numeric,0,0,33,65000 | 60000 | 0 | 50000 | 73000
+midline,f4c_water,F4c.Water and sanitation,numeric,1,0.2,37,0 | 2000 | 6000 | 15000 | 600
+midline,f4d_cloth,F4d.Clothing,numeric,2,0.4,34,0 | 20000 | 12000 | 15000 | 30000
+midline,f4e_social,F4e.Social or religious,numeric,11,2.1,30,0 | 5000 | 10000 | 50000 | 20000
+midline,f4f_edu,F4f.Education,numeric,2,0.4,18,0 | 10000 | 15000 | 20000 | 12000
+midline,f4g_health,F4g.Health,numeric,10,1.9,57,70000 | 11000 | 5000 | 15000 | 10000
+midline,f4h_transport,F4h.Transportation,numeric,10,1.9,51,12000 | 0 | 10000 | 5000 | 3000
+midline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,9,1.7,27,2000 | 8000 | 5000 | 3000 | 20000
+midline,f4k_other,F4k.Others,numeric,24,4.5,27,0 | 5000 | 15000 | 50000 | 1000
+midline,f4k_other_oth,F4k.Other costs,haven_labelled,491,91.9,4,1 | 3 | 8 | 2
+midline,fj_electricity,F4j.Electricity,numeric,1,0.2,53,15000 | 0 | 40000 | 10800 | 12000
+midline,group,Treatment/Control,haven_labelled,0,0,2,1 | 0
+midline,group_raw,Treatment/Control,haven_labelled,0,0,2,1 | 0
+midline,h1_source,H1.Most reliable source of information for Covid 19.,haven_labelled,0,0,10,2 | 1 | 3 | 7 | 8
+midline,hh_id,,character,0,0,534,10010 | 10014 | 10018 | 10019 | 10028
+midline,j1_fucall,j-1.We will conduct another short interview in approximately 6 month. Would you,haven_labelled,0,0,2,1 | 0
+midline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,2,0.4,4,3 | 1 | 2 | 4
+midline,key,Unique submission ID,character,0,0,534,uuid:9416022b-698b-4381-afa0-70c511314e72 | uuid:03858f24-0da7-4e20-8f7f-c2d3a9f82b62 | uuid:68119126-5a8c-4dc1-bf17-14ad834df451 | uuid:41c27981-5d2c-4cf6-93ed-d5ec2584d768 | uuid:a0a45bf1-d19d-4147-8b3a-755f2a97c7b9
+midline,strata,,character,0,0,2,1 | 2
+midline,subdate,Submission Date,Date,0,0,4,2021-12-01 | 2021-12-02 | 2021-12-04 | 2021-12-03
+midline,treat,,integer,0,0,2,1 | 0
+midline,tsp_name,A1.Township Name,character,0,0,2,Hlaing Thar Yar | Shwe Pyi Thar
+midline,wave,,character,0,0,1,midline

@@ -1,0 +1,238 @@
+wave,var,label,type,n_missing,pct_missing,n_unique,examples
+baseline,c11_disease_preg_13,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3001,93.5,1,0
+baseline,c11_disease_u7_13_1,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,2120,66,1,0
+baseline,c11_disease_u7_13_2,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,2932,91.3,1,0
+baseline,c11_disease_u7_13_3,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3169,98.7,1,0
+baseline,c11_disease_u7_13_4,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,3207,99.9,1,0
+baseline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,3075,95.8,2,0 | 1
+baseline,c26_nonsick_u7_1_1,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,2192,68.3,2,0 | 1
+baseline,c26_nonsick_u7_1_2,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,2909,90.6,2,0 | 1
+baseline,c26_nonsick_u7_1_3,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,3165,98.6,2,0 | 1
+baseline,c26_nonsick_u7_1_4,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,3207,99.9,1,0
+baseline,c26_nonsick_u7_2_1,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,2192,68.3,2,0 | 1
+baseline,c26_nonsick_u7_2_2,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,2909,90.6,1,0
+baseline,c26_nonsick_u7_2_3,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,3165,98.6,1,0
+baseline,c26_nonsick_u7_2_4,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,3207,99.9,1,0
+baseline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_u7_20_1,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_20_2,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_20_3,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_20_4,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_21_1,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_21_2,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_21_3,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_21_4,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_preg_4,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_5,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_u7_4_1,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_4_2,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_4_3,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_4_4,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_5_1,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_5_2,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_5_3,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_5_4,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,3208,99.9,1,0
+baseline,c31_disease_preg_23,C31_23.[Covid-19] was the reason for hospitalization.,haven_labelled,3194,99.5,1,0
+baseline,c31_disease_u7_23_1,C31_23.[Covid-19] was the reason for hospitalization..,haven_labelled,3127,97.4,1,0
+baseline,c31_disease_u7_23_2,C31_23.[Covid-19] was the reason for hospitalization..,haven_labelled,3176,98.9,2,0 | 1
+baseline,c31_disease_u7_23_3,C31_23.[Covid-19] was the reason for hospitalization..,haven_labelled,3209,100,1,0
+baseline,d13_reason_20,D13_20.[Concern about Covid 19 transmission] was  the main reasons for choosing,haven_labelled,599,18.7,2,0 | 1
+baseline,e1_vaccine_1,E1.Immunization status of Child (1),haven_labelled,259,8.1,3,1 | 2 | 98
+baseline,e1_vaccine_2,E1.Immunization status of Child (2),haven_labelled,2448,76.3,3,1 | 2 | 98
+baseline,e1_vaccine_3,E1.Immunization status of Child (3),haven_labelled,3102,96.6,2,1 | 2
+baseline,e1_vaccine_4,E1.Immunization status of Child (4),haven_labelled,3202,99.8,2,1 | 2
+baseline,e2_vaccine_record_1,E2.Immunization record of Child (1),haven_labelled,714,22.2,3,1 | 2 | 98
+baseline,e2_vaccine_record_2,E2.Immunization record of Child (2),haven_labelled,2672,83.2,3,1 | 2 | 98
+baseline,e2_vaccine_record_3,E2.Immunization record of Child (3),haven_labelled,3146,98,2,1 | 2
+baseline,e2_vaccine_record_4,E2.Immunization record of Child (4),haven_labelled,3204,99.8,1,1
+baseline,h1_source,H1.Most reliable source of information for Covid 19.,haven_labelled,0,0,16,1 | 3 | 2 | 7 | 8
+baseline,h2_symptoms,H2.Suspected symptoms of Covid 19.,character,0,0,401,Don't know | 1 3 6 7 | 1 2 7 9 | 1 9 | 1 3 5 7
+baseline,h2_symptoms_1,H2_1.[Fever or chills] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_10,H2_10.[Nausea or vomiting] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_11,H2_11.[Diarrhea] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_12,H2_12.[Lower O2/SPO2] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_13,H2_13.[Loss of appetite] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_14,H2_14.[Redness on body and eyes] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_15,H2_15.[Diziness] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_16,H2_16.[Insomnia] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_17,H2_17.[Low blood pressure] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_2,H2_2.[Cough] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_4,H2_4.[Fatigue] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_5,H2_5.[Muscle or body aches] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_6,H2_6.[Headache] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_7,H2_7.[New loss of taste or smell] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_8,H2_8.[Sore throat] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_9,H2_9.[Congestion or runny nose] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+baseline,h2_symptoms_98,H2_98.Don't know the symptoms of Covid-19.,numeric,0,0,2,1 | 0
+baseline,h3_suspected,H3.What should you do if you find someone with suspected COVID-19 symptoms? [Sel,character,0,0,40,7 | 5 | 1 | Don't know | 8
+baseline,h3_suspected_2,H3_2.[Nothing to do] would be done if found out someone with suspected COVID-19,haven_labelled,0,0,2,0 | 1
+baseline,h3_suspected_8,"H3_8.[Protect self from Covid-19 transmission (Masks, hand washing,etc)] would b",haven_labelled,0,0,2,0 | 1
+baseline,h4_protect,H4.Preventive measures against Covid-19.,character,0,0,362,1 3 5 | 1 5 | 1 3 | 1 3 5 7 | 1 2 3 5 7
+baseline,h4_protect_1,H4_1.[Wear a mask over nose and mouth] is preventive measures against Covid-19,haven_labelled,0,0,2,1 | 0
+baseline,h4_protect_10,H4_10.[Eating well balanced diet] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_11,H4_11.[Taking multivitamin supplements] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_12,H4_12.[Getting vaccinated] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_13,H4_13.[Nothing ] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_15,H4_15.[Taking bath once come from outside] is preventive measures against Covid-,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_16,H4_16.[Worn surgical head cap] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_17,H4_17.[Stay at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_18,H4_18.[Wearing faceshield] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_19,H4_19.[Using gloves] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_2,H4_2.[Stay 6 feet away from others] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_20,H4_20.[Eating/drinking herbs] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_21,H4_21.[Getting enough sleep] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_22,H4_22.[Take care of personal hygiene] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_3,H4_3.[Avoid crowds] is preventive measures against Covid-19,haven_labelled,0,0,2,1 | 0
+baseline,h4_protect_4,H4_4.[Avoid poorly ventilated spaces] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_5,H4_5.[Wash your hands often] is preventive measures against Covid-19,haven_labelled,0,0,2,1 | 0
+baseline,h4_protect_6,H4_6.[Cover coughs and sneezes] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_7,H4_7.[Clean and disinfect] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_8,H4_8.[Monitor Health status daily] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_9,H4_9.[Do not allow visitors at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,h5_emergency_11,"H5_11.[As soons as the Covid-19 symptoms were noticed (loss of smell, taste, mus",haven_labelled,0,0,2,0 | 1
+endline,c11_disease_preg_13,C11. Covid 19,haven_labelled,2362,96.3,1,0
+endline,c11_disease_u7_13_1,C11. Covid 19,haven_labelled,1708,69.6,1,0
+endline,c11_disease_u7_13_2,C11. Covid 19,haven_labelled,2272,92.6,1,0
+endline,c11_disease_u7_13_3,C11. Covid 19,haven_labelled,2436,99.3,1,0
+endline,c11_disease_u7_13_4,C11. Covid 19,haven_labelled,2449,99.8,1,0
+endline,c26_nonsick_preg_5,C26. Covid-19 vaccination,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_preg_6,C26. Other vaccination,haven_labelled,2283,93.1,2,0 | 1
+endline,c26_nonsick_u7_1_1,C26. Under five visit with vaccination,haven_labelled,1530,62.4,2,0 | 1
+endline,c26_nonsick_u7_1_2,C26. Under five visit with vaccination,haven_labelled,2185,89.1,2,0 | 1
+endline,c26_nonsick_u7_1_3,C26. Under five visit with vaccination,haven_labelled,2409,98.2,2,0 | 1
+endline,c26_nonsick_u7_1_4,C26. Under five visit with vaccination,haven_labelled,2450,99.9,1,0
+endline,c26_nonsick_u7_2_1,C26. Under five visit without vaccination,haven_labelled,1530,62.4,2,0 | 1
+endline,c26_nonsick_u7_2_2,C26. Under five visit without vaccination,haven_labelled,2185,89.1,2,0 | 1
+endline,c26_nonsick_u7_2_3,C26. Under five visit without vaccination,haven_labelled,2409,98.2,1,0
+endline,c26_nonsick_u7_2_4,C26. Under five visit without vaccination,haven_labelled,2450,99.9,1,0
+endline,c27_notconsult_preg_19,C27. Concern about getting Covid 19,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_20,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_u7_19_1,C27. Concern about getting Covid 19,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_19_2,C27. Concern about getting Covid 19,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_19_3,C27. Concern about getting Covid 19,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_19_4,C27. Concern about getting Covid 19,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_20_1,C27. Concern about transmitting Covid 19 to other people,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_20_2,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_20_3,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_20_4,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2452,100,1,0
+endline,c2_nature_preg_4,C2. Influenza Vaccination,haven_labelled,2128,86.8,1,0
+endline,c2_nature_preg_5,C2. Covid 19 vaccination,haven_labelled,2128,86.8,2,0 | 1
+endline,c2_nature_u7_4_1,C2. Influenza Vaccination,haven_labelled,624,25.4,2,0 | 1
+endline,c2_nature_u7_4_2,C2. Influenza Vaccination,haven_labelled,2027,82.6,2,0 | 1
+endline,c2_nature_u7_4_3,C2. Influenza Vaccination,haven_labelled,2396,97.7,1,0
+endline,c2_nature_u7_4_4,C2. Influenza Vaccination,haven_labelled,2448,99.8,1,0
+endline,c2_nature_u7_5_1,C2. Covid 19 vaccination,haven_labelled,624,25.4,2,0 | 1
+endline,c2_nature_u7_5_2,C2. Covid 19 vaccination,haven_labelled,2027,82.6,2,0 | 1
+endline,c2_nature_u7_5_3,C2. Covid 19 vaccination,haven_labelled,2396,97.7,1,0
+endline,c2_nature_u7_5_4,C2. Covid 19 vaccination,haven_labelled,2448,99.8,1,0
+endline,c31_disease_preg_23,C31. Covid-19,haven_labelled,2222,90.6,1,0
+endline,c31_disease_u7_23_1,C31. Covid-19,haven_labelled,2323,94.7,2,0 | 1
+endline,c31_disease_u7_23_2,C31. Covid-19,haven_labelled,2420,98.7,1,0
+endline,d13_reason_19,C13. Concern about Covid 19 transmission,haven_labelled,2122,86.5,2,0 | 1
+endline,e1_vaccine_1,E1.Has [${u7_name_vp}] ever received any vaccinations?,haven_labelled,193,7.9,3,1 | 2 | 98
+endline,e1_vaccine_2,E1.Has [${u7_name_vp}] ever received any vaccinations?,haven_labelled,1863,75.9,3,1 | 2 | 98
+endline,e1_vaccine_3,E1.Has [${u7_name_vp}] ever received any vaccinations?,haven_labelled,2367,96.5,3,1 | 2 | 98
+endline,e1_vaccine_4,E1.Has [${u7_name_vp}] ever received any vaccinations?,haven_labelled,2445,99.7,1,1
+endline,e2_vaccine_record_1,E2.Do you have immunization record of [${u7_name_vp}]?,haven_labelled,295,12,3,1 | 2 | 98
+endline,e2_vaccine_record_2,E2.Do you have immunization record of [${u7_name_vp}]?,haven_labelled,1929,78.6,3,1 | 2 | 98
+endline,e2_vaccine_record_3,E2.Do you have immunization record of [${u7_name_vp}]?,haven_labelled,2374,96.8,3,1 | 2 | 98
+endline,e2_vaccine_record_4,E2.Do you have immunization record of [${u7_name_vp}]?,haven_labelled,2445,99.7,2,2 | 1
+endline,e4_1_covid_1,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?,haven_labelled,295,12,3,2 | 1 | 98
+endline,e4_1_covid_2,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?,haven_labelled,1929,78.6,3,2 | 1 | 98
+endline,e4_1_covid_3,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?,haven_labelled,2374,96.8,3,2 | 1 | 98
+endline,e4_1_covid_4,E4.1. Has [${u7_name_vp}] taken any COVID vaccines?,haven_labelled,2445,99.7,2,1 | 2
+endline,e4_2_covid_dosage_1,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}],numeric,2155,87.9,3,2 | 1 | 3
+endline,e4_2_covid_dosage_2,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}],numeric,2385,97.2,3,1 | 2 | 3
+endline,e4_2_covid_dosage_3,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}],numeric,2442,99.6,2,2 | 1
+endline,e4_2_covid_dosage_4,E4.2. How many dosages of have you taken COVID-19 vaccines has [${u7_name_vp}],numeric,2451,99.9,2,1 | 2
+endline,h1_source,"H1.For information related to Covid-19, what is your most reliable source of inf",haven_labelled,0,0,16,8 | 3 | 12 | 1 | 98
+endline,h2_symptoms,H2.What are the suspected symptoms of COVID 19? [Select Multiple],character,0,0,516,7 13 | 1 3 7 | 2 5 8 10 14 | 1 2 3 7 8 | 1 2 3
+endline,h3_suspected,H3.What should you do if you find someone with suspected COVID-19 symptoms? [Sel,character,0,0,159,1 | 6 7 | 4 5 8 9 | 5 7 9 | 1 4 5 6
+endline,h3_suspected_8,"H3. Protect self from Covid-19 transmission (Masks, hand washing,etc)",haven_labelled,0,0,2,0 | 1
+endline,h4_protect,H4.How do you protect yourself and others from COVID-19? [Select Multiple],character,0,0,440,1 2 5 | 1 3 5 | 1 3 5 10 14 | 1 2 3 5 14 15 | 1 5
+endline,h4_protect_12,H4. Getting vaccinated,haven_labelled,0,0,2,0 | 1
+endline,h5_emergency,"H5.In which conditions with the suspected symptoms of COVID19, should someone se",character,0,0,232,1 | 1 10 11 | 4 11 13 | 1 6 | 1 7 10 13
+endline,h5_emergency_11,"H5. As soons as the Covid-19 symptoms were noticed (loss of smell, taste,)",haven_labelled,0,0,2,0 | 1
+endline,h6_1_vaccine,H6.1. Have you taken any vaccines to protect yourself against COVID?,haven_labelled,0,0,2,0 | 1
+endline,h6_2_vaccine_dosage,H6.2. How many dosages of COVID vaccines have you taken?,numeric,1010,41.2,5,2 | 3 | 1 | 4 | 6
+midline,c11_disease_preg_13,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,522,97.8,1,0
+midline,c11_disease_u7_13_1,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,382,71.5,1,0
+midline,c11_disease_u7_13_2,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,499,93.4,1,0
+midline,c11_disease_u7_13_3,C11_13.[Covid 19] was disease diagnosed by doctor/health care provider for the r,haven_labelled,528,98.9,1,0
+midline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_u7_1_1,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,325,60.9,2,0 | 1
+midline,c26_nonsick_u7_1_2,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,458,85.8,2,0 | 1
+midline,c26_nonsick_u7_1_3,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,521,97.6,2,0 | 1
+midline,c26_nonsick_u7_1_4,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,532,99.6,2,0 | 1
+midline,c26_nonsick_u7_2_1,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,325,60.9,1,0
+midline,c26_nonsick_u7_2_2,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,458,85.8,1,0
+midline,c26_nonsick_u7_2_3,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,521,97.6,1,0
+midline,c26_nonsick_u7_2_4,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,532,99.6,1,0
+midline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_u7_20_1,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_20_2,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_20_3,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_21_1,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_21_2,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_21_3,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,529,99.1,1,0
+midline,c31_disease_preg_23,C31_23.[Covid-19] was the reason for hospitalization.,haven_labelled,514,96.3,1,0
+midline,c31_disease_u7_23_1,C31_23.[Covid-19] was the reason for hospitalization..,haven_labelled,532,99.6,1,0
+midline,c31_disease_u7_23_2,C31_23.[Covid-19] was the reason for hospitalization..,haven_labelled,533,99.8,1,0
+midline,d13_reason_20,D13_20.[Concern about Covid 19 transmission] was  the main reasons for choosing,haven_labelled,509,95.3,1,0
+midline,e1_vaccine_1,E1.Immunization status of Child (1),haven_labelled,15,2.8,3,1 | 2 | 98
+midline,e1_vaccine_2,E1.Immunization status of Child (2),haven_labelled,384,71.9,2,1 | 2
+midline,e1_vaccine_3,E1.Immunization status of Child (3),haven_labelled,510,95.5,2,2 | 1
+midline,e1_vaccine_4,E1.Immunization status of Child (4),haven_labelled,532,99.6,2,1 | 2
+midline,e2_vaccine_record_1,E2.Immunization record of Child (1),haven_labelled,92,17.2,3,1 | 2 | 98
+midline,e2_vaccine_record_2,E2.Immunization record of Child (2),haven_labelled,425,79.6,2,1 | 2
+midline,e2_vaccine_record_3,E2.Immunization record of Child (3),haven_labelled,521,97.6,2,1 | 2
+midline,e2_vaccine_record_4,E2.Immunization record of Child (4),haven_labelled,533,99.8,1,1
+midline,h1_source,H1.Most reliable source of information for Covid 19.,haven_labelled,0,0,10,2 | 1 | 3 | 7 | 8
+midline,h2_symptoms,H2.What are the suspected symptoms of COVID 19? [Select Multiple],character,0,0,206,3 7 12 | 1 2 3 7 10 13 | 2 7 11 | 1 4 7 | 1 2 3
+midline,h2_symptoms_1,H2_1.[Fever or chills] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_10,H2_10.[Nausea or vomiting] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_11,H2_11.[Diarrhea] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_12,H2_12.[Lower O2/SPO2] was suspected symptom of Covid 19,haven_labelled,0,0,2,1 | 0
+midline,h2_symptoms_13,H2_13.[Loss of appetite] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_14,H2_14.[Redness on body and eyes] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_15,H2_15.[Diziness] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_16,H2_16.[Insomnia] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_17,H2_17.[Low blood pressure] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_2,H2_2.[Cough] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_4,H2_4.[Fatigue] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_5,H2_5.[Muscle or body aches] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_6,H2_6.[Headache] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_7,H2_7.[New loss of taste or smell] was suspected symptom of Covid 19,haven_labelled,0,0,2,1 | 0
+midline,h2_symptoms_8,H2_8.[Sore throat] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_9,H2_9.[Congestion or runny nose] was suspected symptom of Covid 19,haven_labelled,0,0,2,0 | 1
+midline,h2_symptoms_98,H2_98.Don't know the symptoms of Covid-19.,numeric,0,0,2,0 | 1
+midline,h3_suspected,H3.What should you do if you find someone with suspected COVID-19 symptoms? [Sel,character,0,0,71,9 11 | 1 5 6 8 | 1 | 1 6 | 7
+midline,h3_suspected_2,H3_2.[Nothing to do] would be done if found out someone with suspected COVID-19,haven_labelled,0,0,2,0 | 1
+midline,h3_suspected_8,"H3_8.[Protect self from Covid-19 transmission (Masks, hand washing,etc)] would b",haven_labelled,0,0,2,0 | 1
+midline,h4_protect,H4.Preventive measures against Covid-19.,character,0,0,152,1 5 14 15 | 1 2 3 5 6 7 9 10 14 16 | 1 5 14 | 1 3 5 | 1 5
+midline,h4_protect_1,H4_1.[Wear a mask over nose and mouth] is preventive measures against Covid-19,haven_labelled,0,0,2,1 | 0
+midline,h4_protect_10,H4_10.[Eating well balanced diet] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_11,H4_11.[Taking multivitamin supplements] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_12,H4_12.[Getting vaccinated] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_13,H4_13.[Nothing ] is preventive measures against Covid-19,haven_labelled,0,0,1,0
+midline,h4_protect_15,H4_15.[Taking bath once come from outside] is preventive measures against Covid-,haven_labelled,0,0,2,1 | 0
+midline,h4_protect_16,H4_16.[Worn surgical head cap] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_17,H4_17.[Stay at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_18,H4_18.[Wearing faceshield] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_19,H4_19.[Using gloves] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_2,H4_2.[Stay 6 feet away from others] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_20,H4_20.[Eating/drinking herbs] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_21,H4_21.[Getting enough sleep] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_22,H4_22.[Take care of personal hygiene] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_3,H4_3.[Avoid crowds] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_4,H4_4.[Avoid poorly ventilated spaces] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_5,H4_5.[Wash your hands often] is preventive measures against Covid-19,haven_labelled,0,0,2,1 | 0
+midline,h4_protect_6,H4_6.[Cover coughs and sneezes] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_7,H4_7.[Clean and disinfect] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_8,H4_8.[Monitor Health status daily] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h4_protect_9,H4_9.[Do not allow visitors at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,h5_emergency_11,"H5_11.[As soons as the Covid-19 symptoms were noticed (loss of smell, taste, mus",haven_labelled,0,0,2,0 | 1

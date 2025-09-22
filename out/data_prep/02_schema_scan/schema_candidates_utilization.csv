@@ -1,0 +1,755 @@
+wave,var,label,type,n_missing,pct_missing,n_unique,examples
+baseline,c10_seekcare_preg,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,2924,91.1,2,0 | 1
+baseline,c10_seekcare_u7_1,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,1248,38.9,2,1 | 0
+baseline,c10_seekcare_u7_2,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,2699,84.1,2,0 | 1
+baseline,c10_seekcare_u7_3,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,3134,97.6,2,0 | 1
+baseline,c10_seekcare_u7_4,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,3205,99.8,2,1 | 0
+baseline,c15_format_preg_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,3001,93.5,2,0 | 1
+baseline,c15_format_preg_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,3001,93.5,2,0 | 1
+baseline,c15_format_u7_2_1,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,2120,66,2,0 | 1
+baseline,c15_format_u7_2_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,2932,91.3,2,0 | 1
+baseline,c15_format_u7_2_3,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,3169,98.7,1,0
+baseline,c15_format_u7_2_4,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,3207,99.9,1,0
+baseline,c15_format_u7_3_1,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,2120,66,2,0 | 1
+baseline,c15_format_u7_3_2,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,2932,91.3,2,0 | 1
+baseline,c15_format_u7_3_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,3169,98.7,1,0
+baseline,c15_format_u7_3_4,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,3207,99.9,1,0
+baseline,c16_virtual_preg,C16.Ways of telemedicine consultations in  the last 30 days [Pregnant Mother],character,0,0,2, | 4
+baseline,c16_virtual_preg_1,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_2,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_3,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_4,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3205,99.8,1,1
+baseline,c16_virtual_preg_5,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_6,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_preg_7,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,3205,99.8,1,0
+baseline,c16_virtual_u7_1,C16.Ways of telemedicine consultations in  the last 30 days [Child (1)],character,0,0,2, | 4
+baseline,c16_virtual_u7_1_1,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_1_2,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3206,99.9,1,0
+baseline,c16_virtual_u7_2,C16.Ways of telemedicine consultations in  the last 30 days [Child (2)],character,0,0,2, | 4
+baseline,c16_virtual_u7_2_1,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_2_2,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3206,99.9,1,0
+baseline,c16_virtual_u7_3_1,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_3_2,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,3206,99.9,1,0
+baseline,c16_virtual_u7_4_1,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3188,99.3,1,1
+baseline,c16_virtual_u7_4_2,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,3206,99.9,1,1
+baseline,c16_virtual_u7_5_1,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_5_2,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3206,99.9,1,0
+baseline,c16_virtual_u7_6_1,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_6_2,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,3206,99.9,1,0
+baseline,c16_virtual_u7_7_1,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,3188,99.3,1,0
+baseline,c16_virtual_u7_7_2,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,3206,99.9,1,0
+baseline,c17_virtime_preg,C17.Times of telemedicine consultations in  the last 30 days [Pregnant Mother],numeric,3205,99.8,2,3 | 1
+baseline,c17_virtime_u7_1,C17.Times of telemedicine consultations in  the last 30 days [Child (1)],numeric,3188,99.3,3,1 | 2 | 3
+baseline,c17_virtime_u7_2,C17.Times of telemedicine consultations in  the last 30 days [Child (2)],numeric,3206,99.9,2,1 | 3
+baseline,c18_virlast_preg,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,3205,99.8,1,4
+baseline,c18_virlast_u7_1,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,3188,99.3,1,4
+baseline,c18_virlast_u7_2,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,3206,99.9,1,4
+baseline,c19_pertime_preg,C19.Times in-person consultation visits in the last 30 days [Pregnant Mother],numeric,3003,93.6,6,3 | 1 | 4 | 2 | 5
+baseline,c19_pertime_u7_1,C19.Times in-person consultation visits in the last 30 days [Child (1)],numeric,2130,66.4,6,3 | 1 | 2 | 5 | 4
+baseline,c19_pertime_u7_2,C19.Times in-person consultation visits in the last 30 days [Child (2)],numeric,2935,91.4,9,1 | 8 | 2 | 3 | 6
+baseline,c19_pertime_u7_3,C19.Times in-person consultation visits in the last 30 days [Child (3)],numeric,3169,98.7,5,2 | 1 | 5 | 4 | 3
+baseline,c19_pertime_u7_4,C19.Times in-person consultation visits in the last 30 days [Child (4)],numeric,3207,99.9,2,2 | 1
+baseline,c1_time_preg,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,2789,86.9,20,2 | 10 | 3 | 1 | 8
+baseline,c1_time_u7_1,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,233,7.3,24,3 | 0 | 7 | 5 | 2
+baseline,c1_time_u7_2,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,2401,74.8,21,0 | 5 | 4 | 30 | 2
+baseline,c1_time_u7_3,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,3089,96.2,13,0 | 6 | 5 | 2 | 1
+baseline,c1_time_u7_4,C1.Time of consulting/visiting/interaction with health care providers in the las,numeric,3202,99.8,3,0 | 2 | 1
+baseline,c20_personlast_preg,C20.Place of in person visist for the most recent visit in the last 30 days [Pre,haven_labelled,3003,93.6,14,8 | 7 | 1 | 11 | 4
+baseline,c20_personlast_u7_1,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,2130,66.4,12,7 | 8 | 2 | 4 | 6
+baseline,c20_personlast_u7_2,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,2935,91.4,12,8 | 7 | 12 | 10 | 3
+baseline,c20_personlast_u7_3,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,3169,98.7,4,8 | 7 | 4 | 1
+baseline,c20_personlast_u7_4,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,3207,99.9,2,8 | 7
+baseline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,3001,93.5,41,15000 | 5000 | 10000 | 3000 | 70000
+baseline,c21_health_u7_1,C21. Money spent on direct health care costs for the most recent visit [Child (1,numeric,2123,66.1,80,30000 | 15000 | 8000 | 5000 | 8700
+baseline,c21_health_u7_2,C21. Money spent on direct health care costs for the most recent visit [Child (2,numeric,2933,91.4,46,5000 | 8000 | 25000 | 6000 | 4200
+baseline,c21_health_u7_3,C21. Money spent on direct health care costs for the most recent visit [Child (3,numeric,3170,98.8,15,30000 | 5000 | 6000 | 10000 | 4000
+baseline,c21_health_u7_4,C21. Money spent on direct health care costs for the most recent visit [Child (4,numeric,3207,99.9,2,6000 | 15000
+baseline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,3001,93.5,25,2000 | 1500 | 5000 | 30000 | 0
+baseline,c22_nonhealth_u7_1,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,2121,66.1,39,5000 | 15000 | 2000 | 4000 | 3000
+baseline,c22_nonhealth_u7_2,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,2933,91.4,28,2000 | 1000 | 6000 | 4000 | 3000
+baseline,c22_nonhealth_u7_3,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,3170,98.8,14,6000 | 2000 | 0 | 3000 | 1500
+baseline,c22_nonhealth_u7_4,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,3207,99.9,3,1500 | 5000 | 0
+baseline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,3001,93.5,66,17000 | 7000 | 11500 | 8000 | 100000
+baseline,c22b_u7_total_1,C22b.Total health care cost for primary care visits [Child (1)],numeric,2120,66,112,35000 | 30000 | 10000 | 7000 | 12700
+baseline,c22b_u7_total_2,C22b.Total health care cost for primary care visits [Child (2)],numeric,2932,91.3,68,7000 | 9000 | 31000 | 8000 | 5200
+baseline,c22b_u7_total_3,C22b.Total health care cost for primary care visits [Child (3)],numeric,3169,98.7,25,36000 | 7000 | 6000 | 8000 | 12000
+baseline,c22b_u7_total_4,C22b.Total health care cost for primary care visits [Child (4)],numeric,3207,99.9,3,7500 | 20000 | 6000
+baseline,c26_nonsick_preg,C26.The reasons of visit/interact with health care providers although Pregnant M,character,0,0,4, | 1 | 7 | 1 6
+baseline,c26_nonsick_preg_1,C26_1.[Antenatal care] is the reason that Pregnant Mother visit/interact with he,haven_labelled,3075,95.8,2,1 | 0
+baseline,c26_nonsick_preg_2,C26_2.[Childbirth ] is the reason that Pregnant Mother visit/interact with healt,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_3,C26_3.[General check-up] is the reason that Pregnant Mother visit/interact with,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_4,C26_4.[Family planning] is the reason that Pregnant Mother visit/interact with h,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,3075,95.8,1,0
+baseline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,3075,95.8,2,0 | 1
+baseline,c26_nonsick_preg_7,C26_7.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,3075,95.8,2,0 | 1
+baseline,c26_nonsick_u7_1,C26.The reasons of visit/interact with health care providers although [Child (1),character,0,0,7, | 4 | 1 | 1 4 | 2
+baseline,c26_nonsick_u7_1_1,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,2192,68.3,2,0 | 1
+baseline,c26_nonsick_u7_1_2,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,2909,90.6,2,0 | 1
+baseline,c26_nonsick_u7_1_3,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,3165,98.6,2,0 | 1
+baseline,c26_nonsick_u7_1_4,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,3207,99.9,1,0
+baseline,c26_nonsick_u7_2,C26.The reasons of visit/interact with health care providers although [Child (2),character,0,0,5, | 4 | 1 | 1 4 | 3
+baseline,c26_nonsick_u7_2_1,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,2192,68.3,2,0 | 1
+baseline,c26_nonsick_u7_2_2,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,2909,90.6,1,0
+baseline,c26_nonsick_u7_2_3,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,3165,98.6,1,0
+baseline,c26_nonsick_u7_2_4,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,3207,99.9,1,0
+baseline,c26_nonsick_u7_3,C26.The reasons of visit/interact with health care providers although [Child (3),character,0,0,3, | 4 | 1
+baseline,c26_nonsick_u7_3_1,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,2192,68.3,2,0 | 1
+baseline,c26_nonsick_u7_3_2,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,2909,90.6,2,0 | 1
+baseline,c26_nonsick_u7_3_3,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,3165,98.6,1,0
+baseline,c26_nonsick_u7_3_4,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,3207,99.9,1,0
+baseline,c26_nonsick_u7_4,C26.The reasons of visit/interact with health care providers although [Child (4),character,0,0,2, | 4
+baseline,c26_nonsick_u7_4_1,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,2188,68.2,2,1 | 0
+baseline,c26_nonsick_u7_4_2,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,2905,90.5,2,1 | 0
+baseline,c26_nonsick_u7_4_3,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,3165,98.6,2,1 | 0
+baseline,c26_nonsick_u7_4_4,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,3207,99.9,1,1
+baseline,c27_notconsult_preg,C27.The reasons that the [Pregnant Mother] didn't seek health care although sick,character,0,0,17, | 1 2 | 1 | 2 | 2 3
+baseline,c27_notconsult_preg_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,3133,97.6,2,1 | 0
+baseline,c27_notconsult_preg_10,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_11,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_12,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_13,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_14,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_15,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_16,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_17,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_18,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_19,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,2,1 | 0
+baseline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_22,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_23,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_24,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_25,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_5,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_6,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_preg_7,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_8,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,3133,97.6,1,0
+baseline,c27_notconsult_preg_9,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,3133,97.6,2,0 | 1
+baseline,c27_notconsult_u7_1,C27.The reasons that the [Child (1)] didn't seek health care although sick/injur,character,0,0,63, | 3 9 | 1 2 | 1 2 13 | 3
+baseline,c27_notconsult_u7_10_1,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_10_2,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_10_3,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_10_4,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_11_1,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,2338,72.8,1,0
+baseline,c27_notconsult_u7_11_2,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_11_3,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_11_4,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_12_1,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,2338,72.8,1,0
+baseline,c27_notconsult_u7_12_2,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_12_3,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_12_4,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_13_1,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_13_2,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_13_3,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_13_4,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_14_1,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_14_2,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_14_3,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_14_4,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_15_1,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,2338,72.8,1,0
+baseline,c27_notconsult_u7_15_2,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_15_3,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_15_4,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_16_1,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_16_2,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_16_3,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_16_4,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_17_1,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_17_2,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_17_3,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_17_4,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_18_1,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_18_2,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_18_3,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_18_4,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_19_1,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_19_2,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_19_3,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_19_4,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_1_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_1_2,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_1_3,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,3175,98.9,2,1 | 0
+baseline,c27_notconsult_u7_1_4,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_2,C27.The reasons that the [Child (2)] didn't seek health care although sick/injur,character,0,0,24, | 2 | 3 | 2 3 | 1
+baseline,c27_notconsult_u7_20_1,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_20_2,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_20_3,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_20_4,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_21_1,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_21_2,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_21_3,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_21_4,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_22_1,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_22_2,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_22_3,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_22_4,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_23_1,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,2339,72.9,1,0
+baseline,c27_notconsult_u7_23_2,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_23_3,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_23_4,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_24_1,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_24_2,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_24_3,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,3175,98.9,2,0 | 1
+baseline,c27_notconsult_u7_24_4,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_25_1,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,2339,72.9,2,0 | 1
+baseline,c27_notconsult_u7_25_2,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_25_3,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_25_4,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_2_1,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_2_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,2976,92.7,2,1 | 0
+baseline,c27_notconsult_u7_2_3,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,3175,98.9,2,1 | 0
+baseline,c27_notconsult_u7_2_4,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_3,C27.The reasons that the [Child (3)] didn't seek health care although sick/injur,character,0,0,9, | 1 2 | 3 | 1 | 2
+baseline,c27_notconsult_u7_3_1,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,2338,72.8,2,1 | 0
+baseline,c27_notconsult_u7_3_2,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_3_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,3175,98.9,2,0 | 1
+baseline,c27_notconsult_u7_3_4,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,3208,99.9,1,1
+baseline,c27_notconsult_u7_4,C27.The reasons that the [Child (4)] didn't seek health care although sick/injur,character,0,0,2, | 3
+baseline,c27_notconsult_u7_4_1,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_4_2,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_4_3,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_4_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_5_1,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_5_2,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_5_3,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_5_4,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_6_1,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_6_2,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_6_3,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_6_4,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_7_1,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_7_2,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_7_3,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_7_4,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_8_1,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,2338,72.8,2,0 | 1
+baseline,c27_notconsult_u7_8_2,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,2977,92.7,1,0
+baseline,c27_notconsult_u7_8_3,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,3175,98.9,1,0
+baseline,c27_notconsult_u7_8_4,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,3208,99.9,1,0
+baseline,c27_notconsult_u7_9_1,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,2338,72.8,2,1 | 0
+baseline,c27_notconsult_u7_9_2,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,2977,92.7,2,0 | 1
+baseline,c27_notconsult_u7_9_3,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,3175,98.9,2,0 | 1
+baseline,c27_notconsult_u7_9_4,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_preg_1,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,2823,87.9,2,1 | 0
+baseline,c2_nature_preg_10,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_2,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,2836,88.3,2,0 | 1
+baseline,c2_nature_preg_3,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,2832,88.2,2,1 | 0
+baseline,c2_nature_preg_4,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_5,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_6,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,2836,88.3,2,0 | 1
+baseline,c2_nature_preg_7,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_8,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_preg_9,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,2836,88.3,1,0
+baseline,c2_nature_u7_10_1,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,1312,40.9,2,0 | 1
+baseline,c2_nature_u7_10_2,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_10_3,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_10_4,C2_10.[Obesity] was the nature of visit/interaction in the last 12 months.,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_1_1,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,1311,40.8,2,1 | 0
+baseline,c2_nature_u7_1_2,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,2742,85.4,2,1 | 0
+baseline,c2_nature_u7_1_3,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,3151,98.2,2,1 | 0
+baseline,c2_nature_u7_1_4,C2_1.[Illness/ Injury] was the nature of visit/interaction in the last 12 months,haven_labelled,3208,99.9,1,1
+baseline,c2_nature_u7_2_1,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_2_2,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,2742,85.4,2,0 | 1
+baseline,c2_nature_u7_2_3,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,3152,98.2,2,1 | 0
+baseline,c2_nature_u7_2_4,C2_2.[Child immunization] was the nature of visit/interaction in the last 12 mon,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_3_1,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,1313,40.9,1,0
+baseline,c2_nature_u7_3_2,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_3_3,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_3_4,C2_3.[Antenatal care] was the nature of visit/interaction in the last 12 months.,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_4_1,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_4_2,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_4_3,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_4_4,C2_4.[Influenza Vaccination] was the nature of visit/interaction in the last 12,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_5_1,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_5_2,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_5_3,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_5_4,C2_5.[Covid 19 vaccination] was the nature of visit/interaction in the last 12 m,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_6_1,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,1313,40.9,2,0 | 1
+baseline,c2_nature_u7_6_2,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,2742,85.4,2,0 | 1
+baseline,c2_nature_u7_6_3,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_6_4,C2_6.[Medical checkup] was the nature of visit/interaction in the last 12 months,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_7_1,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,1312,40.9,1,0
+baseline,c2_nature_u7_7_2,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_7_3,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_7_4,C2_7.[Receiving health education/medical advice] was the nature of visit/interac,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_8_1,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,1312,40.9,2,0 | 1
+baseline,c2_nature_u7_8_2,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_8_3,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_8_4,C2_8.[Newborn followup] was the nature of visit/interaction in the last 12 month,haven_labelled,3208,99.9,1,0
+baseline,c2_nature_u7_9_1,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,1312,40.9,2,0 | 1
+baseline,c2_nature_u7_9_2,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,2742,85.4,1,0
+baseline,c2_nature_u7_9_3,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,3152,98.2,1,0
+baseline,c2_nature_u7_9_4,C2_9.[Low birth weight] was the nature of visit/interaction in the last 12 month,haven_labelled,3208,99.9,1,0
+baseline,c32_opd_preg,C32.Seeking outpatient/primary care before hospitalization [Pregnant Mother],haven_labelled,3194,99.5,2,1 | 0
+baseline,c32_opd_u7_1,C32.Seeking outpatient/primary care before hospitalization [Child (1)],haven_labelled,3127,97.4,2,1 | 0
+baseline,c32_opd_u7_2,C32.Seeking outpatient/primary care before hospitalization [Child (2)],haven_labelled,3176,98.9,2,0 | 1
+baseline,c32_opd_u7_3,C32.Seeking outpatient/primary care before hospitalization [Child (3)],haven_labelled,3209,100,1,0
+baseline,c9_insu_preg,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,2789,86.9,5,0 | 1 | 2 | 98 | 4
+baseline,c9_insu_u7_1,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,230,7.2,6,0 | 98 | 2 | 4 | 1
+baseline,c9_insu_u7_2,C9.Main (government or private) health insurance covering outpatient care for si,numeric,2400,74.8,4,0 | 4 | 98 | 1
+baseline,c9_insu_u7_3,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,3089,96.2,3,0 | 4 | 1
+baseline,c9_insu_u7_4,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,3202,99.8,1,0
+baseline,call_status,ENUMERATOR: DO NOT READ THIS ALOUD Report the status of this call.,haven_labelled,0,0,1,1
+baseline,d13_reason_13,D13_13.[Was recommended by the consulting health provider] was  the main reasons,haven_labelled,583,18.2,2,0 | 1
+baseline,d7_lastvisit,D7.What is the date of last visit of antenatal care?,Date,2817,87.8,94,2021-09-10 | 2021-08-19 | 2021-10-11 | 2021-09-20 | 2021-09-29
+baseline,d8_antecare,"D8.For the [NAME]’s recent visit for antenatal care, what kinds of services did",character,0,0,107, | 1 5 7 | 1 4 5 7 8 | 1 7 8 11 | 1 2 7 11
+baseline,d8_antecare_1,D8_1.[Vital sign] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,1 | 0
+baseline,d8_antecare_10,D8_10.[Nurses/midwives/health assistant consultation] was the antenatal care rec,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_11,D8_11.[Weight measurement] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_2,D8_2.[Testing] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_3,D8_3.[Infection screening] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_4,D8_4.[Ultrasound] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_5,D8_5.[Tetanus immunization] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,1 | 0
+baseline,d8_antecare_6,D8_6.[Deworming] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_7,D8_7.[Supplements] was the antenatal care received in the last visit,haven_labelled,2817,87.8,2,1 | 0
+baseline,d8_antecare_8,D8_8.[Specialist consultation  (Specialist doctors)   ] was the antenatal care r,haven_labelled,2817,87.8,2,0 | 1
+baseline,d8_antecare_9,D8_9.[Doctors’ consultation (Non-specialist)] was the antenatal care received in,haven_labelled,2817,87.8,2,0 | 1
+baseline,h3_suspected_9,H3_9.[Encourage the suspected person verbally and help physically as needed (men,haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_9,H4_9.[Do not allow visitors at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+baseline,j1_fucall,j-1.We will conduct another short interview in approximately 3-4 month. Would yo,haven_labelled,0,0,2,1 | 0
+baseline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,1,0,4,2 | 3 | 1 | 4
+endline,c10_seekcare_preg,"C10.During the past 30 days, did [${preg_name}] consult anyone or visit any hea",haven_labelled,2284,93.1,2,0 | 1
+endline,c10_seekcare_u7_1,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt",haven_labelled,1116,45.5,2,0 | 1
+endline,c10_seekcare_u7_2,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt",haven_labelled,2131,86.9,2,1 | 0
+endline,c10_seekcare_u7_3,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt",haven_labelled,2411,98.3,2,0 | 1
+endline,c10_seekcare_u7_4,"C10.During the past 30 days, did [${u7_name}] consult anyone or visit any healt",haven_labelled,2448,99.8,2,1 | 0
+endline,c15_format_preg_2,C15. Telemdicine only,haven_labelled,2362,96.3,1,0
+endline,c15_format_preg_3,C15. Mix of inperson and telemedcicne,haven_labelled,2362,96.3,2,0 | 1
+endline,c15_format_u7_2_1,C15. Telemdicine only,haven_labelled,1708,69.6,2,0 | 1
+endline,c15_format_u7_2_2,C15. Telemdicine only,haven_labelled,2272,92.6,2,0 | 1
+endline,c15_format_u7_2_3,C15. Telemdicine only,haven_labelled,2436,99.3,1,0
+endline,c15_format_u7_2_4,C15. Telemdicine only,haven_labelled,2449,99.8,1,0
+endline,c15_format_u7_3_1,C15. Mix of inperson and telemedcicne,haven_labelled,1708,69.6,2,0 | 1
+endline,c15_format_u7_3_2,C15. Mix of inperson and telemedcicne,haven_labelled,2272,92.6,1,0
+endline,c15_format_u7_3_3,C15. Mix of inperson and telemedcicne,haven_labelled,2436,99.3,1,0
+endline,c15_format_u7_3_4,C15. Mix of inperson and telemedcicne,haven_labelled,2449,99.8,1,0
+endline,c16_virtual_preg_3,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_4,C16. Phone calls,haven_labelled,2452,100,1,1
+endline,c16_virtual_preg_5,"C16. Videoconference (e.g viber, telegram, messenger)",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_6,"C16. Audioconference (e.g viber, telegram, messenger)",haven_labelled,2452,100,1,0
+endline,c16_virtual_preg_7,C16. eVisit (when you answer questions about your health issue online and hear b,haven_labelled,2452,100,1,0
+endline,c16_virtual_u7_3_1,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge",haven_labelled,2426,98.9,1,0
+endline,c16_virtual_u7_3_2,"C16. Messaging within a website (e.g., patient portal, viber, telegram, messenge",haven_labelled,2448,99.8,2,0 | 1
+endline,c16_virtual_u7_4_1,C16. Phone calls,haven_labelled,2426,98.9,1,1
+endline,c16_virtual_u7_4_2,C16. Phone calls,haven_labelled,2448,99.8,2,1 | 0
+endline,c16_virtual_u7_5_1,"C16. Videoconference (e.g viber, telegram, messenger)",haven_labelled,2426,98.9,1,0
+endline,c16_virtual_u7_5_2,"C16. Videoconference (e.g viber, telegram, messenger)",haven_labelled,2448,99.8,1,0
+endline,c16_virtual_u7_6_1,"C16. Audioconference (e.g viber, telegram, messenger)",haven_labelled,2426,98.9,1,0
+endline,c16_virtual_u7_6_2,"C16. Audioconference (e.g viber, telegram, messenger)",haven_labelled,2448,99.8,1,0
+endline,c16_virtual_u7_7_1,C16. eVisit (when you answer questions about your health issue online and hear b,haven_labelled,2426,98.9,1,0
+endline,c16_virtual_u7_7_2,C16. eVisit (when you answer questions about your health issue online and hear b,haven_labelled,2448,99.8,1,0
+endline,c17_virtime_preg,"C17.During the past 30 days, how many times did [${preg_name}] have telemedicin",numeric,2452,100,1,2
+endline,c17_virtime_u7_1,"C17.During the past 30 days, how many times did [${u7_name}] have telemedicine",numeric,2426,98.9,5,1 | 2 | 3 | 4 | 300
+endline,c17_virtime_u7_2,"C17.During the past 30 days, how many times did [${u7_name}] have telemedicine",numeric,2448,99.8,4,1 | 4 | 3 | 5
+endline,c18_virlast_preg,"C18.For the most recent telemedicine consultation in the last 30 days, where did",haven_labelled,2452,100,1,4
+endline,c18_virlast_u7_1,"C18.For the most recent telemedicine consultation in the last 30 days, where did",haven_labelled,2426,98.9,1,4
+endline,c18_virlast_u7_2,"C18.For the most recent telemedicine consultation in the last 30 days, where did",haven_labelled,2448,99.8,2,4 | 3
+endline,c19_pertime_preg,"C19.During the past 30 days, how many in-person consultation visits did [${preg",numeric,2363,96.3,5,2 | 1 | 5 | 3 | 4
+endline,c19_pertime_u7_1,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n",numeric,1724,70.3,7,2 | 3 | 1 | 4 | 20
+endline,c19_pertime_u7_2,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n",numeric,2274,92.7,5,2 | 1 | 3 | 6 | 4
+endline,c19_pertime_u7_3,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n",numeric,2436,99.3,4,2 | 1 | 4 | 3
+endline,c19_pertime_u7_4,"C19.During the past 30 days, how many in-person consultation visits did [${u7_n",numeric,2449,99.8,2,2 | 1
+endline,c20_personlast_preg,"C20.For your most recent visit in the past 30 days, where did [${preg_name}] ge",haven_labelled,2363,96.3,12,8 | 13 | 1 | 7 | 16
+endline,c20_personlast_u7_1,"C20.For your most recent visit in the past 30 days, where did [] get care?",haven_labelled,1724,70.3,11,7 | 8 | 13 | 4 | 3
+endline,c20_personlast_u7_2,"C20.For your most recent visit in the past 30 days, where did [] get care?",haven_labelled,2274,92.7,9,8 | 2 | 10 | 13 | 7
+endline,c20_personlast_u7_3,"C20.For your most recent visit in the past 30 days, where did [] get care?",haven_labelled,2436,99.3,5,7 | 1 | 2 | 8 | 3
+endline,c20_personlast_u7_4,"C20.For your most recent visit in the past 30 days, where did [] get care?",haven_labelled,2449,99.8,4,8 | 2 | 13 | 7
+endline,c21_health_preg,"C21. For [${preg_name}]'s most recent visit/interaction, how much money was spe",numeric,2362,96.3,34,10000 | 0 | 3000 | 23000 | 11500
+endline,c21_health_u7_1,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,1708,69.6,74,30000 | 15000 | 5000 | 18000 | 300000
+endline,c21_health_u7_2,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2272,92.6,41,15000 | 6000 | 10000 | 0 | 8000
+endline,c21_health_u7_3,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2436,99.3,10,18000 | 15000 | 30000 | 50000 | 17000
+endline,c21_health_u7_4,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2449,99.8,2,10000 | 0
+endline,c22_nonhealth_preg,"C22.For [${preg_name}]'s most recent visit/interaction, how much money was spen",numeric,2362,96.3,19,2000 | 0 | 5000 | 1500 | 10000
+endline,c22_nonhealth_u7_1,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,1708,69.6,43,25000 | 10000 | 0 | 2000 | 22000
+endline,c22_nonhealth_u7_2,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2272,92.6,23,2000 | 3000 | 5000 | 10000 | 0
+endline,c22_nonhealth_u7_3,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2436,99.3,7,12000 | 5000 | 15000 | 3000 | 30000
+endline,c22_nonhealth_u7_4,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2449,99.8,4,2000 | 0 | 4000 | 2500
+endline,c23_reimburse_preg,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_pre",numeric,2435,99.3,3,0 | 41000 | 55000
+endline,c23_reimburse_u7_1,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_",numeric,2287,93.2,13,0 | 12000 | 42000 | 3000 | 41000
+endline,c23_reimburse_u7_2,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_",numeric,2413,98.4,6,0 | 8000 | 41000 | 5200 | 30000
+endline,c23_reimburse_u7_3,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_",numeric,2451,99.9,1,0
+endline,c23_reimburse_u7_4,"C23.For [NAME's] most recent visit/interaction, how much did that ${c9_insu_u7_",numeric,2451,99.9,1,0
+endline,c24_stopnormal_preg,"C24.For the most recent visit in the past 30 days, how many days did [${preg_na",numeric,2284,93.1,11,0 | 5 | 3 | 2 | 1
+endline,c24_stopnormal_u7_1,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name",numeric,1116,45.5,13,2 | 0 | 1 | 4 | 3
+endline,c24_stopnormal_u7_2,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name",numeric,2131,86.9,12,3 | 0 | 2 | 5 | 1
+endline,c24_stopnormal_u7_3,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name",numeric,2411,98.3,7,0 | 5 | 3 | 2 | 4
+endline,c24_stopnormal_u7_4,"C24.For the most recent visit in the past 30 days, how many days did [${u7_name",numeric,2448,99.8,2,0 | 1
+endline,c26_nonsick_preg,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,8, | 7 | 6 | 3 | 5
+endline,c26_nonsick_preg_7,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,2283,93.1,2,1 | 0
+endline,c26_nonsick_u7_1,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,5, | 4 | 2 | 1 | 3
+endline,c26_nonsick_u7_1_1,C26. Under five visit with vaccination,haven_labelled,1530,62.4,2,0 | 1
+endline,c26_nonsick_u7_1_2,C26. Under five visit with vaccination,haven_labelled,2185,89.1,2,0 | 1
+endline,c26_nonsick_u7_1_3,C26. Under five visit with vaccination,haven_labelled,2409,98.2,2,0 | 1
+endline,c26_nonsick_u7_1_4,C26. Under five visit with vaccination,haven_labelled,2450,99.9,1,0
+endline,c26_nonsick_u7_2,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,4, | 4 | 1 | 2
+endline,c26_nonsick_u7_2_1,C26. Under five visit without vaccination,haven_labelled,1530,62.4,2,0 | 1
+endline,c26_nonsick_u7_2_2,C26. Under five visit without vaccination,haven_labelled,2185,89.1,2,0 | 1
+endline,c26_nonsick_u7_2_3,C26. Under five visit without vaccination,haven_labelled,2409,98.2,1,0
+endline,c26_nonsick_u7_2_4,C26. Under five visit without vaccination,haven_labelled,2450,99.9,1,0
+endline,c26_nonsick_u7_3,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,3, | 4 | 1
+endline,c26_nonsick_u7_4,"C26.Although you weren't [NAME wasn't] sick/ wounded, did you [he/she] consult a",character,0,0,2, | 4
+endline,c26_nonsick_u7_4_1,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,1530,62.4,2,1 | 0
+endline,c26_nonsick_u7_4_2,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,2185,89.1,2,1 | 0
+endline,c26_nonsick_u7_4_3,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,2409,98.2,2,1 | 0
+endline,c26_nonsick_u7_4_4,C26. Didn't go to heath care facillity or consult with health care provider,haven_labelled,2450,99.9,1,1
+endline,c27_notconsult_preg,C27.Why did [${preg_name}] not consult anyone or seek treatment? [Select all th,character,0,0,12, | 1 2 3 | 1 | 3 | 1 2
+endline,c27_notconsult_preg_1,C27. Not serious illness,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_10,C27. Could not get permission,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_11,C27. Embarrassment,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_12,C27. Problem disappeared,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_13,C27. Didn't want to go/ anxious,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_14,C27. Bad previous experience,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_15,C27. Couldn't stop working,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_16,C27. Had children/ other responsibilities at home,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_17,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_18,C27. Doctors or health care providers didn't allow me to come,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_19,C27. Concern about getting Covid 19,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_2,C27. Self-treated,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_20,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_21,C27. Clinics were closed,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_22,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_23,C27. Lack of available transportation,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_24,C27. Clinic/ hospital had a long wait time,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_3,C27. No money for treatment,haven_labelled,2375,96.8,2,1 | 0
+endline,c27_notconsult_preg_4,C27. Too far,haven_labelled,2375,96.8,2,0 | 1
+endline,c27_notconsult_preg_5,C27. Poor services,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_6,C27. Not safe,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_7,C27. Do not know can be fixed,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_8,C27. Do not know where to go,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_preg_9,C27. Too expensive,haven_labelled,2375,96.8,1,0
+endline,c27_notconsult_u7_1,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that,character,0,0,29,1 3 | 1 |  | 2 | 1 2
+endline,c27_notconsult_u7_10_1,C27. Could not get permission,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_10_2,C27. Could not get permission,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_10_3,C27. Could not get permission,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_10_4,C27. Could not get permission,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_11_1,C27. Embarrassment,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_11_2,C27. Embarrassment,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_11_3,C27. Embarrassment,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_11_4,C27. Embarrassment,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_12_1,C27. Problem disappeared,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_12_2,C27. Problem disappeared,haven_labelled,2312,94.3,2,0 | 1
+endline,c27_notconsult_u7_12_3,C27. Problem disappeared,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_12_4,C27. Problem disappeared,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_13_1,C27. Didn't want to go/ anxious,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_13_2,C27. Didn't want to go/ anxious,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_13_3,C27. Didn't want to go/ anxious,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_13_4,C27. Didn't want to go/ anxious,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_14_1,C27. Bad previous experience,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_14_2,C27. Bad previous experience,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_14_3,C27. Bad previous experience,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_14_4,C27. Bad previous experience,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_15_1,C27. Couldn't stop working,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_15_2,C27. Couldn't stop working,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_15_3,C27. Couldn't stop working,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_15_4,C27. Couldn't stop working,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_16_1,C27. Had children/ other responsibilities at home,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_16_2,C27. Had children/ other responsibilities at home,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_16_3,C27. Had children/ other responsibilities at home,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_16_4,C27. Had children/ other responsibilities at home,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_17_1,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_17_2,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_17_3,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_17_4,C27. There were insufficient health care providers at the clinics/hospitals,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_18_1,C27. Doctors or health care providers didn't allow me to come,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_18_2,C27. Doctors or health care providers didn't allow me to come,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_18_3,C27. Doctors or health care providers didn't allow me to come,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_18_4,C27. Doctors or health care providers didn't allow me to come,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_19_1,C27. Concern about getting Covid 19,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_19_2,C27. Concern about getting Covid 19,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_19_3,C27. Concern about getting Covid 19,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_19_4,C27. Concern about getting Covid 19,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_1_1,C27. Not serious illness,haven_labelled,1861,75.9,2,1 | 0
+endline,c27_notconsult_u7_1_2,C27. Not serious illness,haven_labelled,2312,94.3,2,1 | 0
+endline,c27_notconsult_u7_1_3,C27. Not serious illness,haven_labelled,2428,99,2,1 | 0
+endline,c27_notconsult_u7_1_4,C27. Not serious illness,haven_labelled,2452,100,1,1
+endline,c27_notconsult_u7_2,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that,character,0,0,12, | 1 3 | 1 2 | 1 | 3
+endline,c27_notconsult_u7_20_1,C27. Concern about transmitting Covid 19 to other people,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_20_2,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_20_3,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_20_4,C27. Concern about transmitting Covid 19 to other people,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_21_1,C27. Clinics were closed,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_21_2,C27. Clinics were closed,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_21_3,C27. Clinics were closed,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_21_4,C27. Clinics were closed,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_22_1,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_22_2,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_22_3,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_22_4,C27. Could not get appointment or appointment was cancelled or postponed (eg. Ho,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_23_1,C27. Lack of available transportation,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_23_2,C27. Lack of available transportation,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_23_3,C27. Lack of available transportation,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_23_4,C27. Lack of available transportation,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_24_1,C27. Clinic/ hospital had a long wait time,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_24_2,C27. Clinic/ hospital had a long wait time,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_24_3,C27. Clinic/ hospital had a long wait time,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_24_4,C27. Clinic/ hospital had a long wait time,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_2_1,C27. Self-treated,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_2_2,C27. Self-treated,haven_labelled,2312,94.3,2,0 | 1
+endline,c27_notconsult_u7_2_3,C27. Self-treated,haven_labelled,2428,99,2,0 | 1
+endline,c27_notconsult_u7_2_4,C27. Self-treated,haven_labelled,2452,100,1,1
+endline,c27_notconsult_u7_3,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that,character,0,0,9, | 1 | 1 2 | 3 9 | 1 2 3
+endline,c27_notconsult_u7_3_1,C27. No money for treatment,haven_labelled,1861,75.9,2,1 | 0
+endline,c27_notconsult_u7_3_2,C27. No money for treatment,haven_labelled,2312,94.3,2,1 | 0
+endline,c27_notconsult_u7_3_3,C27. No money for treatment,haven_labelled,2428,99,2,0 | 1
+endline,c27_notconsult_u7_3_4,C27. No money for treatment,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_4,C27.Why did [${u7_name}] not consult anyone or seek treatment? [Select all that,character,0,0,2, | 1 2
+endline,c27_notconsult_u7_4_1,C27. Too far,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_4_2,C27. Too far,haven_labelled,2312,94.3,2,0 | 1
+endline,c27_notconsult_u7_4_3,C27. Too far,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_4_4,C27. Too far,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_5_1,C27. Poor services,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_5_2,C27. Poor services,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_5_3,C27. Poor services,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_5_4,C27. Poor services,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_6_1,C27. Not safe,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_6_2,C27. Not safe,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_6_3,C27. Not safe,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_6_4,C27. Not safe,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_7_1,C27. Do not know can be fixed,haven_labelled,1861,75.9,1,0
+endline,c27_notconsult_u7_7_2,C27. Do not know can be fixed,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_7_3,C27. Do not know can be fixed,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_7_4,C27. Do not know can be fixed,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_8_1,C27. Do not know where to go,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_8_2,C27. Do not know where to go,haven_labelled,2312,94.3,1,0
+endline,c27_notconsult_u7_8_3,C27. Do not know where to go,haven_labelled,2428,99,1,0
+endline,c27_notconsult_u7_8_4,C27. Do not know where to go,haven_labelled,2452,100,1,0
+endline,c27_notconsult_u7_9_1,C27. Too expensive,haven_labelled,1861,75.9,2,0 | 1
+endline,c27_notconsult_u7_9_2,C27. Too expensive,haven_labelled,2312,94.3,2,0 | 1
+endline,c27_notconsult_u7_9_3,C27. Too expensive,haven_labelled,2428,99,2,0 | 1
+endline,c27_notconsult_u7_9_4,C27. Too expensive,haven_labelled,2452,100,1,0
+endline,c6_selfmed_preg,C6.Although [${preg_name}] didn't visit/interact and hospitalize any time in th,numeric,2443,99.6,6,0 | 20000 | 30000 | 50000 | 1000
+endline,c6_selfmed_u7_1,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the,numeric,2022,82.4,42,30000 | 10000 | 0 | 98 | 50000
+endline,c6_selfmed_u7_2,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the,numeric,2289,93.3,23,30000 | 0 | 8000 | 20000 | 5000
+endline,c6_selfmed_u7_3,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the,numeric,2424,98.8,14,5000 | 98 | 0 | 20000 | 6500
+endline,c6_selfmed_u7_4,C6.Although [${u7_name}] didn't visit/interact and hospitalize any time in the,numeric,2450,99.9,3,20000 | 0 | 10000
+endline,d13_reason_13,C13. Was recommended by the consulting health provider,haven_labelled,2122,86.5,2,1 | 0
+endline,d14_antecare,D14.1.What kind of services did you receive during antenatal care visits for thi,character,0,0,117, | 1 4 5 11 | 1 2 5 6 11 | 1 2 4 5 7 10 11 | 1 4 5 6 11
+endline,d14_antecare_10,D14. Nurses/midwives/health assistant consultation,haven_labelled,2125,86.6,2,0 | 1
+endline,d14_antecare_8,D14. Specialist consultation  (Specialist doctors),haven_labelled,2125,86.6,2,0 | 1
+endline,d14_antecare_9,D14. Doctors' consultation (Non-specialist),haven_labelled,2125,86.6,2,0 | 1
+endline,d17_prog_support_2,D17. Tele-consultation,haven_labelled,2376,96.9,2,1 | 0
+endline,d17_prog_support_4,D17. In-person consultation,haven_labelled,2376,96.9,2,0 | 1
+endline,d7_lastvisit,D7.What is the date of last visit of antenatal care?,Date,2409,98.2,31,2022-12-03 | 2022-10-31 | 2022-12-01 | 2022-11-27 | 2022-12-21
+endline,d8_antecare,"D8.For the [NAME]'s recent visit for antenatal care, what kinds of services did",character,0,0,36, | 1 2 5 7 10 11 | 1 7 9 | 1 2 3 5 6 7 | 1 5 7 10 11
+endline,d8_antecare_10,D8. Nurses/midwives/health assistant consultation,haven_labelled,2409,98.2,2,1 | 0
+endline,d8_antecare_8,D8. Specialist consultation  (Specialist doctors),haven_labelled,2409,98.2,1,0
+endline,d8_antecare_9,D8. Doctors' consultation (Non-specialist),haven_labelled,2409,98.2,2,0 | 1
+endline,filter_lastformat,I'd like to ask the cost for the most recent visit. Since the respondent used bo,haven_labelled,2452,100,1,1
+endline,filteru7_lastformat_1,I'd like to ask the cost for the most recent visit. Since the respondent used bo,haven_labelled,2448,99.8,2,1 | 2
+endline,h3_suspected_9,H3. Encourage the suspected person verbally and help physically as needed,haven_labelled,0,0,2,0 | 1
+endline,h4_protect_9,H4. Do not allow visitors at home,haven_labelled,0,0,2,0 | 1
+endline,j1_fucall,j-1.We will conduct another short interview in approximately 3-4 month. Would yo,haven_labelled,0,0,2,1 | 0
+endline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,6,0.2,4,1 | 3 | 4 | 2
+midline,c10_seekcare_preg,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,514,96.3,2,0 | 1
+midline,c10_seekcare_u7_1,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,224,41.9,2,1 | 0
+midline,c10_seekcare_u7_2,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,460,86.1,2,1 | 0
+midline,c10_seekcare_u7_3,C10.Consulting/visiting/interacting with health care providers during the past 3,haven_labelled,523,97.9,2,0 | 1
+midline,c15_format_preg_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,522,97.8,1,0
+midline,c15_format_preg_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,522,97.8,1,0
+midline,c15_format_u7_2_1,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,382,71.5,2,0 | 1
+midline,c15_format_u7_2_2,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,499,93.4,2,0 | 1
+midline,c15_format_u7_2_3,C15_2.[Telemdicine only] was the format of health seeking in the last 30 days.,haven_labelled,528,98.9,1,0
+midline,c15_format_u7_3_1,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,382,71.5,2,0 | 1
+midline,c15_format_u7_3_2,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,499,93.4,2,0 | 1
+midline,c15_format_u7_3_3,C15_3.[Mix of inperson and telemedcicne] was the format of health seeking in the,haven_labelled,528,98.9,1,0
+midline,c16_virtual_u7_1,C16.Ways of telemedicine consultations in  the last 30 days [Child (1)],character,0,0,5, | 4 | 3 | 1 4 | 6
+midline,c16_virtual_u7_1_1,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,519,97.2,2,0 | 1
+midline,c16_virtual_u7_1_2,C16_1.[Text Message] was the ways of teleconsultations used in the last 30 days.,haven_labelled,531,99.4,1,0
+midline,c16_virtual_u7_2,C16.Ways of telemedicine consultations in  the last 30 days [Child (2)],character,0,0,2, | 4
+midline,c16_virtual_u7_2_1,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,519,97.2,1,0
+midline,c16_virtual_u7_2_2,C16_2.[Email] was the ways of teleconsultations used in the last 30 days.,haven_labelled,531,99.4,1,0
+midline,c16_virtual_u7_3_1,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,519,97.2,2,0 | 1
+midline,c16_virtual_u7_3_2,"C16_3.[Messaging within a website (e.g., patient portal, viber, telegram, messen",haven_labelled,531,99.4,1,0
+midline,c16_virtual_u7_4_1,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,519,97.2,2,1 | 0
+midline,c16_virtual_u7_4_2,C16_4.[Phone calls] was the ways of teleconsultations used in the last 30 days.,haven_labelled,531,99.4,1,1
+midline,c16_virtual_u7_5_1,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,519,97.2,1,0
+midline,c16_virtual_u7_5_2,"C16_5.[Videoconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,531,99.4,1,0
+midline,c16_virtual_u7_6_1,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,519,97.2,2,0 | 1
+midline,c16_virtual_u7_6_2,"C16_6.[Audioconference (e.g viber, telegram, messenger)] was the ways of telecon",haven_labelled,531,99.4,1,0
+midline,c16_virtual_u7_7_1,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,519,97.2,1,0
+midline,c16_virtual_u7_7_2,C16_7.[eVisit (when you answer questions about your health issue online and hear,haven_labelled,531,99.4,1,0
+midline,c17_virtime_u7_1,C17.Times of telemedicine consultations in  the last 30 days [Child (1)],numeric,519,97.2,4,3 | 2 | 1 | 4
+midline,c17_virtime_u7_2,C17.Times of telemedicine consultations in  the last 30 days [Child (2)],numeric,531,99.4,1,1
+midline,c18_virlast_u7_1,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,520,97.4,4,4 | 3 | 1 | 6
+midline,c18_virlast_u7_2,C18.Ways of telemedicine consultation for the most recent visit in the last 30 d,haven_labelled,532,99.6,1,4
+midline,c19_pertime_preg,C19.Times in-person consultation visits in the last 30 days [Pregnant Mother],numeric,522,97.8,4,3 | 4 | 1 | 2
+midline,c19_pertime_u7_1,C19.Times in-person consultation visits in the last 30 days [Child (1)],numeric,390,73,6,1 | 3 | 2 | 4 | 6
+midline,c19_pertime_u7_2,C19.Times in-person consultation visits in the last 30 days [Child (2)],numeric,501,93.8,4,3 | 2 | 1 | 4
+midline,c19_pertime_u7_3,C19.Times in-person consultation visits in the last 30 days [Child (3)],numeric,528,98.9,3,2 | 3 | 1
+midline,c20_personlast_preg,C20.Place of in person visist for the most recent visit in the last 30 days [Pre,haven_labelled,522,97.8,5,8 | 7 | 15 | 3 | 2
+midline,c20_personlast_u7_1,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,390,73,9,8 | 15 | 7 | 4 | 2
+midline,c20_personlast_u7_2,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,501,93.8,4,8 | 7 | 4 | 13
+midline,c20_personlast_u7_3,C20.Place of in person visist for the most recent visit in the last 30 days [Chi,haven_labelled,528,98.9,2,8 | 7
+midline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,522,97.8,9,8000 | 10000 | 6500 | 5500 | 28000
+midline,c21_health_u7_1,C21. Money spent on direct health care costs for the most recent visit [Child (1,numeric,384,71.9,38,5000 | 11000 | 10000 | 4000 | 0
+midline,c21_health_u7_2,C21. Money spent on direct health care costs for the most recent visit [Child (2,numeric,499,93.4,15,35000 | 3000 | 6000 | 10000 | 5000
+midline,c21_health_u7_3,C21. Money spent on direct health care costs for the most recent visit [Child (3,numeric,528,98.9,5,15000 | 11000 | 25000 | 20000 | 5000
+midline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,522,97.8,8,4000 | 2000 | 1000 | 7000 | 0
+midline,c22_nonhealth_u7_1,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,383,71.7,19,3000 | 2000 | 8000 | 4000 | 1000
+midline,c22_nonhealth_u7_2,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,499,93.4,11,9000 | 3000 | 1000 | 1500 | 0
+midline,c22_nonhealth_u7_3,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,528,98.9,6,4000 | 9000 | 6000 | 3000 | 15000
+midline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,522,97.8,9,12000 | 8500 | 6500 | 35000 | 3000
+midline,c22b_u7_total_1,C22b.Total health care cost for primary care visits [Child (1)],numeric,383,71.7,54,8000 | 14000 | 13000 | 6000 | 9000
+midline,c22b_u7_total_2,C22b.Total health care cost for primary care visits [Child (2)],numeric,499,93.4,20,44000 | 6000 | 7000 | 7500 | 13000
+midline,c22b_u7_total_3,C22b.Total health care cost for primary care visits [Child (3)],numeric,528,98.9,5,19000 | 20000 | 31000 | 23000 | 25000
+midline,c26_nonsick_preg,C26.The reasons of visit/interact with health care providers although Pregnant M,character,0,0,6, | 1 | 2 | 7 | 1 6
+midline,c26_nonsick_preg_1,C26_1.[Antenatal care] is the reason that Pregnant Mother visit/interact with he,haven_labelled,502,94,2,1 | 0
+midline,c26_nonsick_preg_2,C26_2.[Childbirth ] is the reason that Pregnant Mother visit/interact with healt,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_preg_3,C26_3.[General check-up] is the reason that Pregnant Mother visit/interact with,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_4,C26_4.[Family planning] is the reason that Pregnant Mother visit/interact with h,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_5,C26_5.[Covid-19 vaccination] is the reason that Pregnant Mother visit/interact w,haven_labelled,502,94,1,0
+midline,c26_nonsick_preg_6,C26_6.[Other vaccination] is the reason that Pregnant Mother visit/interact with,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_preg_7,C26_7.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,502,94,2,0 | 1
+midline,c26_nonsick_u7_1,C26.The reasons of visit/interact with health care providers although [Child (1),character,0,0,4, | 4 | 1 | 3
+midline,c26_nonsick_u7_1_1,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,325,60.9,2,0 | 1
+midline,c26_nonsick_u7_1_2,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,458,85.8,2,0 | 1
+midline,c26_nonsick_u7_1_3,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,521,97.6,2,0 | 1
+midline,c26_nonsick_u7_1_4,C26_1.[Under five visit with vaccination] is the reason that Under 6 children vi,haven_labelled,532,99.6,2,0 | 1
+midline,c26_nonsick_u7_2,C26.The reasons of visit/interact with health care providers although [Child (2),character,0,0,3, | 4 | 1
+midline,c26_nonsick_u7_2_1,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,325,60.9,1,0
+midline,c26_nonsick_u7_2_2,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,458,85.8,1,0
+midline,c26_nonsick_u7_2_3,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,521,97.6,1,0
+midline,c26_nonsick_u7_2_4,C26_2.[Under five visit without vaccination] is the reason that Under 6 children,haven_labelled,532,99.6,1,0
+midline,c26_nonsick_u7_3,C26.The reasons of visit/interact with health care providers although [Child (3),character,0,0,3, | 4 | 1
+midline,c26_nonsick_u7_3_1,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,325,60.9,2,0 | 1
+midline,c26_nonsick_u7_3_2,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,458,85.8,1,0
+midline,c26_nonsick_u7_3_3,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,521,97.6,1,0
+midline,c26_nonsick_u7_3_4,C26_3.[General check-up] is the reason that Under 6 children visit/interact with,haven_labelled,532,99.6,1,0
+midline,c26_nonsick_u7_4,C26.The reasons of visit/interact with health care providers although [Child (4),character,0,0,3, | 4 | 1
+midline,c26_nonsick_u7_4_1,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,325,60.9,2,1 | 0
+midline,c26_nonsick_u7_4_2,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,458,85.8,2,1 | 0
+midline,c26_nonsick_u7_4_3,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,521,97.6,2,1 | 0
+midline,c26_nonsick_u7_4_4,C26_4.[Didn't go to heath care facillity or consult with health care provider] i,haven_labelled,532,99.6,2,1 | 0
+midline,c27_notconsult_preg,C27.The reasons that the [Pregnant Mother] didn't seek health care although sick,character,0,0,6, | 16 17 | 1 3 | 2 | 1
+midline,c27_notconsult_preg_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_10,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_11,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_12,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_13,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_14,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_15,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_16,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,526,98.5,2,1 | 0
+midline,c27_notconsult_preg_17,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,526,98.5,2,1 | 0
+midline,c27_notconsult_preg_18,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_19,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_20,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_21,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_22,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_23,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_24,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_25,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,526,98.5,2,0 | 1
+midline,c27_notconsult_preg_4,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_5,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_6,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_7,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_8,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_preg_9,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,526,98.5,1,0
+midline,c27_notconsult_u7_1,C27.The reasons that the [Child (1)] didn't seek health care although sick/injur,character,0,0,17, | 1 | 1 2 | 2 | 3
+midline,c27_notconsult_u7_10_1,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_10_2,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_10_3,C27_10.[Too far] was the reason that do not visit/interact with health care prov,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_11_1,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_11_2,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_11_3,C27_11.[Could not get permission] was the reason that do not visit/interact with,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_12_1,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_12_2,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_12_3,C27_12.[Embarrassment] was the reason that do not visit/interact with health car,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_13_1,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_13_2,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,495,92.7,2,0 | 1
+midline,c27_notconsult_u7_13_3,C27_13.[Problem disappeared] was the reason that do not visit/interact with heal,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_14_1,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_14_2,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_14_3,C27_14.[Didn’t want to go/ anxious] was the reason that do not visit/interact wi,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_15_1,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_15_2,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_15_3,C27_15.[Bad previous experience] was the reason that do not visit/interact with,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_16_1,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_16_2,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_16_3,C27_16.[Couldn’t stop working] was the reason that do not visit/interact with he,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_17_1,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_17_2,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_17_3,C27_17.[Had children/ other responsibilities at home] was the reason that do not,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_18_1,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_18_2,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_18_3,C27_18.[There were insufficient health care providers at the clinics/hospitals],haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_19_1,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_19_2,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_19_3,C27_19.[Doctors or health care providers didn’t allow me to come] was the reason,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_1_1,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,376,70.4,2,1 | 0
+midline,c27_notconsult_u7_1_2,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,495,92.7,2,1 | 0
+midline,c27_notconsult_u7_1_3,C27_1.[Not serious illness] was the reason that do not visit/interact with healt,haven_labelled,529,99.1,2,0 | 1
+midline,c27_notconsult_u7_2,C27.The reasons that the [Child (2)] didn't seek health care although sick/injur,character,0,0,10, | 1 2 | 1 | 2 24 | 1 2 13
+midline,c27_notconsult_u7_20_1,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_20_2,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_20_3,C27_20.[Concern about getting Covid 19] was the reason that do not visit/interac,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_21_1,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_21_2,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_21_3,C27_21.[Concern about transmitting Covid 19 to other people] was the reason that,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_22_1,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_22_2,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_22_3,C27_22.[Clinics were closed] was the reason that do not visit/interact with heal,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_23_1,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_23_2,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_23_3,C27_23.[Could not get appointment or appointment was cancelled or postponed (eg.,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_24_1,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_24_2,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,495,92.7,2,0 | 1
+midline,c27_notconsult_u7_24_3,C27_24.[Lack of available transportation] was the reason that do not visit/inter,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_25_1,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_25_2,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_25_3,C27_25.[Clinic/ hospital had a long wait time] was the reason that do not visit/,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_2_1,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_2_2,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,495,92.7,2,1 | 0
+midline,c27_notconsult_u7_2_3,C27_2.[Self-treated] was the reason that do not visit/interact with health care,haven_labelled,529,99.1,2,1 | 0
+midline,c27_notconsult_u7_3,C27.The reasons that the [Child (3)] didn't seek health care although sick/injur,character,0,0,4, | 2 | 1 | 1 2
+midline,c27_notconsult_u7_3_1,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_3_2,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,495,92.7,2,0 | 1
+midline,c27_notconsult_u7_3_3,C27_3.[No money for treatment] was the reason that do not visit/interact with he,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_4_1,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_4_2,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_4_3,C27_4.[Too far] was the reason that do not visit/interact with health care provi,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_5_1,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_5_2,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_5_3,C27_5.[Poor services] was the reason that do not visit/interact with health care,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_6_1,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_6_2,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_6_3,C27_6.[Not safe] was the reason that do not visit/interact with health care prov,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_7_1,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,376,70.4,1,0
+midline,c27_notconsult_u7_7_2,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_7_3,C27_7.[Do not know can be fixed] was the reason that do not visit/interact with,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_8_1,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_8_2,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,495,92.7,1,0
+midline,c27_notconsult_u7_8_3,C27_8.[Do not know where to go] was the reason that do not visit/interact with h,haven_labelled,529,99.1,1,0
+midline,c27_notconsult_u7_9_1,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,376,70.4,2,0 | 1
+midline,c27_notconsult_u7_9_2,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,495,92.7,2,0 | 1
+midline,c27_notconsult_u7_9_3,C27_9.[Too expensive] was the reason that do not visit/interact with health care,haven_labelled,529,99.1,1,0
+midline,c32_opd_preg,C32.Seeking outpatient/primary care before hospitalization [Pregnant Mother],haven_labelled,514,96.3,2,1 | 0
+midline,c32_opd_u7_1,C32.Seeking outpatient/primary care before hospitalization [Child (1)],haven_labelled,532,99.6,2,0 | 1
+midline,c32_opd_u7_2,C32.Seeking outpatient/primary care before hospitalization [Child (2)],haven_labelled,533,99.8,1,1
+midline,c9_insu_preg,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,482,90.3,6,1 | 5 | 0 | 2 | 98
+midline,c9_insu_u7_1,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,15,2.8,5,0 | 5 | 4 | 1 | 98
+midline,c9_insu_u7_2,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,384,71.9,5,0 | 5 | 1 | 4 | 98
+midline,c9_insu_u7_3,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,510,95.5,3,5 | 0 | 98
+midline,c9_insu_u7_4,C9.Main (government or private) health insurance covering outpatient care for si,haven_labelled,532,99.6,2,0 | 98
+midline,call_status,ENUMERATOR: DO NOT READ THIS ALOUD Report the status of this call.,haven_labelled,0,0,1,1
+midline,d13_reason_13,D13_13.[Was recommended by the consulting health provider] was  the main reasons,haven_labelled,509,95.3,1,0
+midline,d7_lastvisit,"D7.In the last 30 days, what is the date of last visit of antenatal care?",Date,507,94.9,15,2021-11-25 | 2021-11-11 | 2021-11-10 | 2021-11-22 | 2021-12-01
+midline,d8_antecare,"D8.For the [NAME]’s recent visit for antenatal care, what kinds of services did",character,0,0,24, | 4 | 1 7 10 11 | 1 7 11 | 1 2 3 5 6 7 10 11
+midline,d8_antecare_1,D8_1.[Vital sign] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_10,D8_10.[Nurses/midwives/health assistant consultation] was the antenatal care rec,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_11,D8_11.[Weight measurement] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_2,D8_2.[Testing] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_3,D8_3.[Infection screening] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_4,D8_4.[Ultrasound] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,1 | 0
+midline,d8_antecare_5,D8_5.[Tetanus immunization] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_6,D8_6.[Deworming] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_7,D8_7.[Supplements] was the antenatal care received in the last visit,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_8,D8_8.[Specialist consultation  (Specialist doctors)   ] was the antenatal care r,haven_labelled,507,94.9,2,0 | 1
+midline,d8_antecare_9,D8_9.[Doctors’ consultation (Non-specialist)] was the antenatal care received in,haven_labelled,507,94.9,2,0 | 1
+midline,h3_suspected_9,H3_9.[Encourage the suspected person verbally and help physically as needed (men,haven_labelled,0,0,2,1 | 0
+midline,h4_protect_9,H4_9.[Do not allow visitors at home] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+midline,j1_fucall,j-1.We will conduct another short interview in approximately 6 month. Would you,haven_labelled,0,0,2,1 | 0
+midline,j3_time,"j-3.If yes, what is the preferred time for receiving a call from us?",haven_labelled,2,0.4,4,3 | 1 | 2 | 4

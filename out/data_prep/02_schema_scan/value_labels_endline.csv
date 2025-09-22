@@ -1,0 +1,2616 @@
+wave,var,value,value_label
+endline,consent,0,No
+endline,consent,1,Yes
+endline,b1a_audio,0,No
+endline,b1a_audio,1,Yes
+endline,resp_gen,0,Female
+endline,resp_gen,1,Male
+endline,a1_tsp_end,0,No
+endline,a1_tsp_end,1,Yes
+endline,a2_ward_end,0,No
+endline,a2_ward_end,1,Yes
+endline,a8_employ,1,Currently employed (permanent/ partial employment)
+endline,a8_employ,2,Unemployed
+endline,a8_employ,3,Retired
+endline,a8_employ,4,Unable to work
+endline,a8_employ,5,Looking for work
+endline,a8_employ,97,Prefer not to answer
+endline,a8_employ,98,Don't know
+endline,a11_1_hh_change_1,0,No
+endline,a11_1_hh_change_1,1,Yes
+endline,a11_1_hh_change_2,0,No
+endline,a11_1_hh_change_2,1,Yes
+endline,a11_1_hh_change_3,0,No
+endline,a11_1_hh_change_3,1,Yes
+endline,a16_edu_preg_1,1,None/ Monastic or religious/ Grades 1-5
+endline,a16_edu_preg_1,2,Grade 6-10
+endline,a16_edu_preg_1,3,"Grade 11 and above (College, Postgraduate)"
+endline,a16_edu_preg_1,97,Prefer not to answer
+endline,a16_edu_preg_1,98,Don't know
+endline,a16_employ_1,1,Currently employed (permanent/ partial employment)
+endline,a16_employ_1,2,Unemployed
+endline,a16_employ_1,3,Retired
+endline,a16_employ_1,4,Unable to work
+endline,a16_employ_1,5,Looking for work
+endline,a16_employ_1,97,Prefer not to answer
+endline,a16_employ_1,98,Don't know
+endline,a16_employ_bl,1,Currently employed (permanent/ partial employment)
+endline,a16_employ_bl,2,Unemployed
+endline,a16_employ_bl,3,Retired
+endline,a16_employ_bl,4,Unable to work
+endline,a16_employ_bl,5,Looking for work
+endline,a16_employ_bl,97,Prefer not to answer
+endline,a16_employ_bl,98,Don't know
+endline,a16_u7gender_1,0,Female
+endline,a16_u7gender_1,1,Male
+endline,a15_u7_relation_1,1,Birthmother
+endline,a15_u7_relation_1,2,Aunty
+endline,a15_u7_relation_1,3,Grandmother
+endline,a15_u7_relation_1,4,Adopted mother
+endline,a15_u7_relation_1,5,Sister
+endline,a15_u7_relation_1,6,Brother in law
+endline,a15_u7_relation_1,7,father
+endline,a15_u7_relation_1,99,Other (Specify):
+endline,a16_u7gender_2,0,Female
+endline,a16_u7gender_2,1,Male
+endline,a15_u7_relation_2,1,Birthmother
+endline,a15_u7_relation_2,2,Aunty
+endline,a15_u7_relation_2,3,Grandmother
+endline,a15_u7_relation_2,4,Adopted mother
+endline,a15_u7_relation_2,5,Sister
+endline,a15_u7_relation_2,6,Brother in law
+endline,a15_u7_relation_2,7,father
+endline,a15_u7_relation_2,99,Other (Specify):
+endline,a16_u7gender_3,0,Female
+endline,a16_u7gender_3,1,Male
+endline,a15_u7_relation_3,1,Birthmother
+endline,a15_u7_relation_3,2,Aunty
+endline,a15_u7_relation_3,3,Grandmother
+endline,a15_u7_relation_3,4,Adopted mother
+endline,a15_u7_relation_3,5,Sister
+endline,a15_u7_relation_3,6,Brother in law
+endline,a15_u7_relation_3,7,father
+endline,a15_u7_relation_3,99,Other (Specify):
+endline,b3_electricity_1,0,No
+endline,b3_electricity_1,1,Yes
+endline,b3_electricity_2,0,No
+endline,b3_electricity_2,1,Yes
+endline,b3_electricity_3,0,No
+endline,b3_electricity_3,1,Yes
+endline,b3_electricity_4,0,No
+endline,b3_electricity_4,1,Yes
+endline,b3_electricity_5,0,No
+endline,b3_electricity_5,1,Yes
+endline,b3_electricity_6,0,No
+endline,b3_electricity_6,1,Yes
+endline,b3_electricity_7,0,No
+endline,b3_electricity_7,1,Yes
+endline,b3_electricity_0,0,No
+endline,b3_electricity_0,1,Yes
+endline,b4_water,1,Surface water (river/dam/ lake/pond/stream/spring။canal/ irrigation channel)
+endline,b4_water,2,Ponds
+endline,b4_water,3,Rainwater
+endline,b4_water,4,Hand dug wells
+endline,b4_water,5,Tube well / manual water pump/ borehole
+endline,b4_water,6,Piped water
+endline,b4_water,7,"storage tank,"
+endline,b4_water,8,water truck
+endline,b4_water,9,bottled water
+endline,b4_water,10,Public tap/standpipe
+endline,b4_water,11,Tanker truck
+endline,b4_water,12,Cart with small tank
+endline,b4_water,13,Stream
+endline,b4_water,99,Others (specify)
+endline,b5_roof,1,Thatch
+endline,b5_roof,2,Large leaves
+endline,b5_roof,3,Palm
+endline,b5_roof,4,Dhani
+endline,b5_roof,5,Bamboo
+endline,b5_roof,6,Metal
+endline,b5_roof,7,Concrete roofing
+endline,b5_roof,8,Concrete flat roof
+endline,b5_roof,9,Plastic
+endline,b5_roof,10,No roof and stay under the bridge
+endline,b5_roof,11,Paper
+endline,b5_roof,99,Others (specify)
+endline,b6_wall,1,Thatch
+endline,b6_wall,2,Large leaves
+endline,b6_wall,3,Palm
+endline,b6_wall,4,Dhani
+endline,b6_wall,5,Bamboo
+endline,b6_wall,6,Brick
+endline,b6_wall,7,Wood
+endline,b6_wall,8,Using the wall of next door
+endline,b6_wall,9,Stone
+endline,b6_wall,10,Metal
+endline,b6_wall,11,Plastic
+endline,b6_wall,12,No wall and stay under the bridge
+endline,b6_wall,99,Others (specify)
+endline,b7_stove,0,No
+endline,b7_stove,1,Yes
+endline,b8_meat,0,No
+endline,b8_meat,1,Yes
+endline,c2_nature_preg_1,0,No
+endline,c2_nature_preg_1,1,Yes
+endline,c2_nature_preg_2,0,No
+endline,c2_nature_preg_2,1,Yes
+endline,c2_nature_preg_3,0,No
+endline,c2_nature_preg_3,1,Yes
+endline,c2_nature_preg_4,0,No
+endline,c2_nature_preg_4,1,Yes
+endline,c2_nature_preg_5,0,No
+endline,c2_nature_preg_5,1,Yes
+endline,c2_nature_preg_6,0,No
+endline,c2_nature_preg_6,1,Yes
+endline,c2_nature_preg_7,0,No
+endline,c2_nature_preg_7,1,Yes
+endline,c2_nature_preg_8,0,No
+endline,c2_nature_preg_8,1,Yes
+endline,c2_nature_preg_9,0,No
+endline,c2_nature_preg_9,1,Yes
+endline,c2_nature_preg_10,0,No
+endline,c2_nature_preg_10,1,Yes
+endline,c2_nature_preg_11,0,No
+endline,c2_nature_preg_11,1,Yes
+endline,c3_test_preg,0,No
+endline,c3_test_preg,1,Yes
+endline,c7_compare_preg,1,Healthcare use increased
+endline,c7_compare_preg,2,Healthcare use decreased
+endline,c7_compare_preg,3,Healthcare use did not change
+endline,c71_compare2_preg,1,More
+endline,c71_compare2_preg,2,Less
+endline,c71_compare2_preg,3,The same
+endline,c8_illyesno_preg,0,No
+endline,c8_illyesno_preg,1,Yes
+endline,c8_illyesno_preg,97,Prefer not to answer
+endline,c8_illyesno_preg,98,Don't know
+endline,c9_insu_preg,0,No health insurance
+endline,c9_insu_preg,1,Social Security
+endline,c9_insu_preg,2,Health Insurance through Employer
+endline,c9_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+endline,c9_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c9_insu_preg,5,Bright start's support
+endline,c9_insu_preg,6,Terre des hommes (Tdh)
+endline,c9_insu_preg,7,UNICEF
+endline,c9_insu_preg,8,Local charity organization
+endline,c9_insu_preg,9,Pact Myanmar
+endline,c9_insu_preg,98,Don't know
+endline,c9_insu_preg,99,Other (Specify):
+endline,c10_seekcare_preg,0,No
+endline,c10_seekcare_preg,1,Yes
+endline,c11_disease_preg_1,0,No
+endline,c11_disease_preg_1,1,Yes
+endline,c11_disease_preg_2,0,No
+endline,c11_disease_preg_2,1,Yes
+endline,c11_disease_preg_3,0,No
+endline,c11_disease_preg_3,1,Yes
+endline,c11_disease_preg_4,0,No
+endline,c11_disease_preg_4,1,Yes
+endline,c11_disease_preg_5,0,No
+endline,c11_disease_preg_5,1,Yes
+endline,c11_disease_preg_6,0,No
+endline,c11_disease_preg_6,1,Yes
+endline,c11_disease_preg_7,0,No
+endline,c11_disease_preg_7,1,Yes
+endline,c11_disease_preg_8,0,No
+endline,c11_disease_preg_8,1,Yes
+endline,c11_disease_preg_9,0,No
+endline,c11_disease_preg_9,1,Yes
+endline,c11_disease_preg_10,0,No
+endline,c11_disease_preg_10,1,Yes
+endline,c11_disease_preg_11,0,No
+endline,c11_disease_preg_11,1,Yes
+endline,c11_disease_preg_12,0,No
+endline,c11_disease_preg_12,1,Yes
+endline,c11_disease_preg_13,0,No
+endline,c11_disease_preg_13,1,Yes
+endline,c11_disease_preg_14,0,No
+endline,c11_disease_preg_14,1,Yes
+endline,c11_disease_preg_15,0,No
+endline,c11_disease_preg_15,1,Yes
+endline,c11_disease_preg_16,0,No
+endline,c11_disease_preg_16,1,Yes
+endline,c11_disease_preg_17,0,No
+endline,c11_disease_preg_17,1,Yes
+endline,c11_disease_preg_18,0,No
+endline,c11_disease_preg_18,1,Yes
+endline,c11_disease_preg_19,0,No
+endline,c11_disease_preg_19,1,Yes
+endline,c11_disease_preg_20,0,No
+endline,c11_disease_preg_20,1,Yes
+endline,c11_disease_preg_21,0,No
+endline,c11_disease_preg_21,1,Yes
+endline,c11_disease_preg_22,0,No
+endline,c11_disease_preg_22,1,Yes
+endline,c11_disease_preg_23,0,No
+endline,c11_disease_preg_23,1,Yes
+endline,c11_disease_preg_24,0,No
+endline,c11_disease_preg_24,1,Yes
+endline,c11_disease_preg_25,0,No
+endline,c11_disease_preg_25,1,Yes
+endline,c11_disease_preg_26,0,No
+endline,c11_disease_preg_26,1,Yes
+endline,c11_disease_preg_27,0,No
+endline,c11_disease_preg_27,1,Yes
+endline,c11_disease_preg_28,0,No
+endline,c11_disease_preg_28,1,Yes
+endline,c11_disease_preg_29,0,No
+endline,c11_disease_preg_29,1,Yes
+endline,c11_disease_preg_30,0,No
+endline,c11_disease_preg_30,1,Yes
+endline,c11_disease_preg_31,0,No
+endline,c11_disease_preg_31,1,Yes
+endline,c11_disease_preg_32,0,No
+endline,c11_disease_preg_32,1,Yes
+endline,c11_disease_preg_33,0,No
+endline,c11_disease_preg_33,1,Yes
+endline,c11_disease_preg_34,0,No
+endline,c11_disease_preg_34,1,Yes
+endline,c11_disease_preg_35,0,No
+endline,c11_disease_preg_35,1,Yes
+endline,c11_disease_preg_36,0,No
+endline,c11_disease_preg_36,1,Yes
+endline,c11_disease_preg_37,0,No
+endline,c11_disease_preg_37,1,Yes
+endline,c11_disease_preg_38,0,No
+endline,c11_disease_preg_38,1,Yes
+endline,c11_disease_preg_39,0,No
+endline,c11_disease_preg_39,1,Yes
+endline,c11_disease_preg_40,0,No
+endline,c11_disease_preg_40,1,Yes
+endline,c11_disease_preg_41,0,No
+endline,c11_disease_preg_41,1,Yes
+endline,c11_disease_preg_42,0,No
+endline,c11_disease_preg_42,1,Yes
+endline,c11_disease_preg_43,0,No
+endline,c11_disease_preg_43,1,Yes
+endline,c11_disease_preg_44,0,No
+endline,c11_disease_preg_44,1,Yes
+endline,c11_disease_preg_45,0,No
+endline,c11_disease_preg_45,1,Yes
+endline,c11_disease_preg_46,0,No
+endline,c11_disease_preg_46,1,Yes
+endline,c11_disease_preg_47,0,No
+endline,c11_disease_preg_47,1,Yes
+endline,c11_disease_preg_48,0,No
+endline,c11_disease_preg_48,1,Yes
+endline,c11_disease_preg_98,0,No
+endline,c11_disease_preg_98,1,Yes
+endline,c11_disease_preg_97,0,No
+endline,c11_disease_preg_97,1,Yes
+endline,c12_diagnose_preg,0,No
+endline,c12_diagnose_preg,1,Yes
+endline,c13_medication_preg,0,No
+endline,c13_medication_preg,1,Yes
+endline,c14_meditake_preg,0,No
+endline,c14_meditake_preg,1,Yes
+endline,c15_format_preg_1,0,No
+endline,c15_format_preg_1,1,Yes
+endline,c15_format_preg_2,0,No
+endline,c15_format_preg_2,1,Yes
+endline,c15_format_preg_3,0,No
+endline,c15_format_preg_3,1,Yes
+endline,c16_virtual_preg_1,0,No
+endline,c16_virtual_preg_1,1,Yes
+endline,c16_virtual_preg_2,0,No
+endline,c16_virtual_preg_2,1,Yes
+endline,c16_virtual_preg_3,0,No
+endline,c16_virtual_preg_3,1,Yes
+endline,c16_virtual_preg_4,0,No
+endline,c16_virtual_preg_4,1,Yes
+endline,c16_virtual_preg_5,0,No
+endline,c16_virtual_preg_5,1,Yes
+endline,c16_virtual_preg_6,0,No
+endline,c16_virtual_preg_6,1,Yes
+endline,c16_virtual_preg_7,0,No
+endline,c16_virtual_preg_7,1,Yes
+endline,c18_virlast_preg,1,Text Message
+endline,c18_virlast_preg,2,Email
+endline,c18_virlast_preg,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+endline,c18_virlast_preg,4,Phone calls
+endline,c18_virlast_preg,5,"Videoconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_preg,6,"Audioconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_preg,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+endline,c20_personlast_preg,1,Gov't hospital
+endline,c20_personlast_preg,2,Gov't rural health center (RHC)
+endline,c20_personlast_preg,3,Peri-urban Health Center
+endline,c20_personlast_preg,4,Maternal and Child Health Clinic/ Hospital
+endline,c20_personlast_preg,5,Family Planning Clinic
+endline,c20_personlast_preg,6,Birth Center
+endline,c20_personlast_preg,7,Private Hospital/ Clinic
+endline,c20_personlast_preg,8,Private Doctor's Office
+endline,c20_personlast_preg,9,Traditional Medicine Hospitals
+endline,c20_personlast_preg,10,Traditional Medicine Clinics
+endline,c20_personlast_preg,11,Patient's Home
+endline,c20_personlast_preg,12,Provider's home or store
+endline,c20_personlast_preg,13,Charity clinics
+endline,c20_personlast_preg,14,Military hospital
+endline,c20_personlast_preg,15,Social Security Clinics
+endline,c20_personlast_preg,16,Workers' Hospital
+endline,c20_personlast_preg,17,Informal provider
+endline,c20_personlast_preg,99,Other (Specify):
+endline,filter_lastformat,1,In person
+endline,filter_lastformat,2,Telemdicine only
+endline,c25_assist_preg_0,0,No
+endline,c25_assist_preg_0,1,Yes
+endline,c25_assist_preg_1,0,No
+endline,c25_assist_preg_1,1,Yes
+endline,c25_assist_preg_2,0,No
+endline,c25_assist_preg_2,1,Yes
+endline,c25_assist_preg_3,0,No
+endline,c25_assist_preg_3,1,Yes
+endline,c25_assist_preg_4,0,No
+endline,c25_assist_preg_4,1,Yes
+endline,c25_assist_preg_5,0,No
+endline,c25_assist_preg_5,1,Yes
+endline,c25_assist_preg_6,0,No
+endline,c25_assist_preg_6,1,Yes
+endline,c25_assist_preg_7,0,No
+endline,c25_assist_preg_7,1,Yes
+endline,c25_assist_preg_8,0,No
+endline,c25_assist_preg_8,1,Yes
+endline,c25_assist_preg_9,0,No
+endline,c25_assist_preg_9,1,Yes
+endline,c25_assist_preg_10,0,No
+endline,c25_assist_preg_10,1,Yes
+endline,c25_assist_preg_11,0,No
+endline,c25_assist_preg_11,1,Yes
+endline,c25_assist_preg_12,0,No
+endline,c25_assist_preg_12,1,Yes
+endline,c25_assist_preg_97,0,No
+endline,c25_assist_preg_97,1,Yes
+endline,c25_assist_preg_98,0,No
+endline,c25_assist_preg_98,1,Yes
+endline,c26_nonsick_preg_1,0,No
+endline,c26_nonsick_preg_1,1,Yes
+endline,c26_nonsick_preg_2,0,No
+endline,c26_nonsick_preg_2,1,Yes
+endline,c26_nonsick_preg_3,0,No
+endline,c26_nonsick_preg_3,1,Yes
+endline,c26_nonsick_preg_4,0,No
+endline,c26_nonsick_preg_4,1,Yes
+endline,c26_nonsick_preg_5,0,No
+endline,c26_nonsick_preg_5,1,Yes
+endline,c26_nonsick_preg_6,0,No
+endline,c26_nonsick_preg_6,1,Yes
+endline,c26_nonsick_preg_7,0,No
+endline,c26_nonsick_preg_7,1,Yes
+endline,c27_notconsult_preg_1,0,No
+endline,c27_notconsult_preg_1,1,Yes
+endline,c27_notconsult_preg_2,0,No
+endline,c27_notconsult_preg_2,1,Yes
+endline,c27_notconsult_preg_3,0,No
+endline,c27_notconsult_preg_3,1,Yes
+endline,c27_notconsult_preg_4,0,No
+endline,c27_notconsult_preg_4,1,Yes
+endline,c27_notconsult_preg_5,0,No
+endline,c27_notconsult_preg_5,1,Yes
+endline,c27_notconsult_preg_6,0,No
+endline,c27_notconsult_preg_6,1,Yes
+endline,c27_notconsult_preg_7,0,No
+endline,c27_notconsult_preg_7,1,Yes
+endline,c27_notconsult_preg_8,0,No
+endline,c27_notconsult_preg_8,1,Yes
+endline,c27_notconsult_preg_9,0,No
+endline,c27_notconsult_preg_9,1,Yes
+endline,c27_notconsult_preg_10,0,No
+endline,c27_notconsult_preg_10,1,Yes
+endline,c27_notconsult_preg_11,0,No
+endline,c27_notconsult_preg_11,1,Yes
+endline,c27_notconsult_preg_12,0,No
+endline,c27_notconsult_preg_12,1,Yes
+endline,c27_notconsult_preg_13,0,No
+endline,c27_notconsult_preg_13,1,Yes
+endline,c27_notconsult_preg_14,0,No
+endline,c27_notconsult_preg_14,1,Yes
+endline,c27_notconsult_preg_15,0,No
+endline,c27_notconsult_preg_15,1,Yes
+endline,c27_notconsult_preg_16,0,No
+endline,c27_notconsult_preg_16,1,Yes
+endline,c27_notconsult_preg_17,0,No
+endline,c27_notconsult_preg_17,1,Yes
+endline,c27_notconsult_preg_18,0,No
+endline,c27_notconsult_preg_18,1,Yes
+endline,c27_notconsult_preg_19,0,No
+endline,c27_notconsult_preg_19,1,Yes
+endline,c27_notconsult_preg_20,0,No
+endline,c27_notconsult_preg_20,1,Yes
+endline,c27_notconsult_preg_21,0,No
+endline,c27_notconsult_preg_21,1,Yes
+endline,c27_notconsult_preg_22,0,No
+endline,c27_notconsult_preg_22,1,Yes
+endline,c27_notconsult_preg_23,0,No
+endline,c27_notconsult_preg_23,1,Yes
+endline,c27_notconsult_preg_24,0,No
+endline,c27_notconsult_preg_24,1,Yes
+endline,c28_inpatient_preg,0,No
+endline,c28_inpatient_preg,1,Yes
+endline,c29_insu_preg,0,No health insurance
+endline,c29_insu_preg,1,Social Security
+endline,c29_insu_preg,2,Health Insurance through Employer
+endline,c29_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+endline,c29_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c29_insu_preg,5,Bright start's support
+endline,c29_insu_preg,6,Terre des hommes (Tdh)
+endline,c29_insu_preg,7,UNICEF
+endline,c29_insu_preg,8,Local charity organization
+endline,c29_insu_preg,9,Pact Myanmar
+endline,c29_insu_preg,98,Don't know
+endline,c29_insu_preg,99,Other (Specify):
+endline,c31_disease_preg_1,0,No
+endline,c31_disease_preg_1,1,Yes
+endline,c31_disease_preg_2,0,No
+endline,c31_disease_preg_2,1,Yes
+endline,c31_disease_preg_3,0,No
+endline,c31_disease_preg_3,1,Yes
+endline,c31_disease_preg_4,0,No
+endline,c31_disease_preg_4,1,Yes
+endline,c31_disease_preg_5,0,No
+endline,c31_disease_preg_5,1,Yes
+endline,c31_disease_preg_6,0,No
+endline,c31_disease_preg_6,1,Yes
+endline,c31_disease_preg_7,0,No
+endline,c31_disease_preg_7,1,Yes
+endline,c31_disease_preg_8,0,No
+endline,c31_disease_preg_8,1,Yes
+endline,c31_disease_preg_9,0,No
+endline,c31_disease_preg_9,1,Yes
+endline,c31_disease_preg_10,0,No
+endline,c31_disease_preg_10,1,Yes
+endline,c31_disease_preg_11,0,No
+endline,c31_disease_preg_11,1,Yes
+endline,c31_disease_preg_12,0,No
+endline,c31_disease_preg_12,1,Yes
+endline,c31_disease_preg_13,0,No
+endline,c31_disease_preg_13,1,Yes
+endline,c31_disease_preg_14,0,No
+endline,c31_disease_preg_14,1,Yes
+endline,c31_disease_preg_15,0,No
+endline,c31_disease_preg_15,1,Yes
+endline,c31_disease_preg_16,0,No
+endline,c31_disease_preg_16,1,Yes
+endline,c31_disease_preg_17,0,No
+endline,c31_disease_preg_17,1,Yes
+endline,c31_disease_preg_18,0,No
+endline,c31_disease_preg_18,1,Yes
+endline,c31_disease_preg_19,0,No
+endline,c31_disease_preg_19,1,Yes
+endline,c31_disease_preg_20,0,No
+endline,c31_disease_preg_20,1,Yes
+endline,c31_disease_preg_21,0,No
+endline,c31_disease_preg_21,1,Yes
+endline,c31_disease_preg_22,0,No
+endline,c31_disease_preg_22,1,Yes
+endline,c31_disease_preg_23,0,No
+endline,c31_disease_preg_23,1,Yes
+endline,c31_disease_preg_24,0,No
+endline,c31_disease_preg_24,1,Yes
+endline,c31_disease_preg_25,0,No
+endline,c31_disease_preg_25,1,Yes
+endline,c31_disease_preg_26,0,No
+endline,c31_disease_preg_26,1,Yes
+endline,c31_disease_preg_27,0,No
+endline,c31_disease_preg_27,1,Yes
+endline,c31_disease_preg_28,0,No
+endline,c31_disease_preg_28,1,Yes
+endline,c31_disease_preg_29,0,No
+endline,c31_disease_preg_29,1,Yes
+endline,c31_disease_preg_30,0,No
+endline,c31_disease_preg_30,1,Yes
+endline,c31_disease_preg_31,0,No
+endline,c31_disease_preg_31,1,Yes
+endline,c31_disease_preg_32,0,No
+endline,c31_disease_preg_32,1,Yes
+endline,c31_disease_preg_33,0,No
+endline,c31_disease_preg_33,1,Yes
+endline,c31_disease_preg_34,0,No
+endline,c31_disease_preg_34,1,Yes
+endline,c31_disease_preg_35,0,No
+endline,c31_disease_preg_35,1,Yes
+endline,c31_disease_preg_36,0,No
+endline,c31_disease_preg_36,1,Yes
+endline,c31_disease_preg_37,0,No
+endline,c31_disease_preg_37,1,Yes
+endline,c31_disease_preg_38,0,No
+endline,c31_disease_preg_38,1,Yes
+endline,c31_disease_preg_39,0,No
+endline,c31_disease_preg_39,1,Yes
+endline,c31_disease_preg_40,0,No
+endline,c31_disease_preg_40,1,Yes
+endline,c31_disease_preg_41,0,No
+endline,c31_disease_preg_41,1,Yes
+endline,c31_disease_preg_42,0,No
+endline,c31_disease_preg_42,1,Yes
+endline,c31_disease_preg_43,0,No
+endline,c31_disease_preg_43,1,Yes
+endline,c31_disease_preg_44,0,No
+endline,c31_disease_preg_44,1,Yes
+endline,c32_opd_preg,0,No
+endline,c32_opd_preg,1,Yes
+endline,c33_hospital_preg,1,Government hospitals
+endline,c33_hospital_preg,2,Government Maternal and child hospital
+endline,c33_hospital_preg,3,Children Hospital
+endline,c33_hospital_preg,4,Workers' hospitals
+endline,c33_hospital_preg,5,Private hospitals
+endline,c33_hospital_preg,6,Traditional Medicine Hospitals
+endline,c33_hospital_preg,7,Military Hospital
+endline,c33_hospital_preg,8,Charity Hospital
+endline,c33_hospital_preg,9,Facility Covid Center/quarantine center
+endline,c33_hospital_preg,97,Prefer not to answer
+endline,c33_hospital_preg,98,Don't know
+endline,c33_hospital_preg,99,Other (Specify)
+endline,c2_nature_u7_1_1,0,No
+endline,c2_nature_u7_1_1,1,Yes
+endline,c2_nature_u7_2_1,0,No
+endline,c2_nature_u7_2_1,1,Yes
+endline,c2_nature_u7_3_1,0,No
+endline,c2_nature_u7_3_1,1,Yes
+endline,c2_nature_u7_4_1,0,No
+endline,c2_nature_u7_4_1,1,Yes
+endline,c2_nature_u7_5_1,0,No
+endline,c2_nature_u7_5_1,1,Yes
+endline,c2_nature_u7_6_1,0,No
+endline,c2_nature_u7_6_1,1,Yes
+endline,c2_nature_u7_7_1,0,No
+endline,c2_nature_u7_7_1,1,Yes
+endline,c2_nature_u7_8_1,0,No
+endline,c2_nature_u7_8_1,1,Yes
+endline,c2_nature_u7_9_1,0,No
+endline,c2_nature_u7_9_1,1,Yes
+endline,c2_nature_u7_10_1,0,No
+endline,c2_nature_u7_10_1,1,Yes
+endline,c2_nature_u7_11_1,0,No
+endline,c2_nature_u7_11_1,1,Yes
+endline,c3_test_u7_1,0,No
+endline,c3_test_u7_1,1,Yes
+endline,c7_compare_u7_1,1,Healthcare use increased
+endline,c7_compare_u7_1,2,Healthcare use decreased
+endline,c7_compare_u7_1,3,Healthcare use did not change
+endline,c7_compare_u7_1,4,"The child was born after November,2021"
+endline,c8_illyesno_u7_1,0,No
+endline,c8_illyesno_u7_1,1,Yes
+endline,c9_insu_u7_1,0,No health insurance
+endline,c9_insu_u7_1,1,Social Security
+endline,c9_insu_u7_1,2,Health Insurance through Employer
+endline,c9_insu_u7_1,3,Other Privately Purchased Commercial Health Insurance
+endline,c9_insu_u7_1,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c9_insu_u7_1,5,Bright start's support
+endline,c9_insu_u7_1,6,Terre des hommes (Tdh)
+endline,c9_insu_u7_1,7,UNICEF
+endline,c9_insu_u7_1,8,Local charity organization
+endline,c9_insu_u7_1,9,Pact Myanmar
+endline,c9_insu_u7_1,98,Don't know
+endline,c9_insu_u7_1,99,Other (Specify):
+endline,c10_seekcare_u7_1,0,No
+endline,c10_seekcare_u7_1,1,Yes
+endline,c11_disease_u7_1_1,0,No
+endline,c11_disease_u7_1_1,1,Yes
+endline,c11_disease_u7_2_1,0,No
+endline,c11_disease_u7_2_1,1,Yes
+endline,c11_disease_u7_3_1,0,No
+endline,c11_disease_u7_3_1,1,Yes
+endline,c11_disease_u7_4_1,0,No
+endline,c11_disease_u7_4_1,1,Yes
+endline,c11_disease_u7_5_1,0,No
+endline,c11_disease_u7_5_1,1,Yes
+endline,c11_disease_u7_6_1,0,No
+endline,c11_disease_u7_6_1,1,Yes
+endline,c11_disease_u7_7_1,0,No
+endline,c11_disease_u7_7_1,1,Yes
+endline,c11_disease_u7_8_1,0,No
+endline,c11_disease_u7_8_1,1,Yes
+endline,c11_disease_u7_9_1,0,No
+endline,c11_disease_u7_9_1,1,Yes
+endline,c11_disease_u7_10_1,0,No
+endline,c11_disease_u7_10_1,1,Yes
+endline,c11_disease_u7_11_1,0,No
+endline,c11_disease_u7_11_1,1,Yes
+endline,c11_disease_u7_12_1,0,No
+endline,c11_disease_u7_12_1,1,Yes
+endline,c11_disease_u7_13_1,0,No
+endline,c11_disease_u7_13_1,1,Yes
+endline,c11_disease_u7_14_1,0,No
+endline,c11_disease_u7_14_1,1,Yes
+endline,c11_disease_u7_15_1,0,No
+endline,c11_disease_u7_15_1,1,Yes
+endline,c11_disease_u7_16_1,0,No
+endline,c11_disease_u7_16_1,1,Yes
+endline,c11_disease_u7_17_1,0,No
+endline,c11_disease_u7_17_1,1,Yes
+endline,c11_disease_u7_18_1,0,No
+endline,c11_disease_u7_18_1,1,Yes
+endline,c11_disease_u7_19_1,0,No
+endline,c11_disease_u7_19_1,1,Yes
+endline,c11_disease_u7_20_1,0,No
+endline,c11_disease_u7_20_1,1,Yes
+endline,c11_disease_u7_21_1,0,No
+endline,c11_disease_u7_21_1,1,Yes
+endline,c11_disease_u7_22_1,0,No
+endline,c11_disease_u7_22_1,1,Yes
+endline,c11_disease_u7_23_1,0,No
+endline,c11_disease_u7_23_1,1,Yes
+endline,c11_disease_u7_24_1,0,No
+endline,c11_disease_u7_24_1,1,Yes
+endline,c11_disease_u7_25_1,0,No
+endline,c11_disease_u7_25_1,1,Yes
+endline,c11_disease_u7_26_1,0,No
+endline,c11_disease_u7_26_1,1,Yes
+endline,c11_disease_u7_27_1,0,No
+endline,c11_disease_u7_27_1,1,Yes
+endline,c11_disease_u7_28_1,0,No
+endline,c11_disease_u7_28_1,1,Yes
+endline,c11_disease_u7_29_1,0,No
+endline,c11_disease_u7_29_1,1,Yes
+endline,c11_disease_u7_30_1,0,No
+endline,c11_disease_u7_30_1,1,Yes
+endline,c11_disease_u7_31_1,0,No
+endline,c11_disease_u7_31_1,1,Yes
+endline,c11_disease_u7_32_1,0,No
+endline,c11_disease_u7_32_1,1,Yes
+endline,c11_disease_u7_33_1,0,No
+endline,c11_disease_u7_33_1,1,Yes
+endline,c11_disease_u7_34_1,0,No
+endline,c11_disease_u7_34_1,1,Yes
+endline,c11_disease_u7_35_1,0,No
+endline,c11_disease_u7_35_1,1,Yes
+endline,c11_disease_u7_36_1,0,No
+endline,c11_disease_u7_36_1,1,Yes
+endline,c11_disease_u7_37_1,0,No
+endline,c11_disease_u7_37_1,1,Yes
+endline,c11_disease_u7_38_1,0,No
+endline,c11_disease_u7_38_1,1,Yes
+endline,c11_disease_u7_39_1,0,No
+endline,c11_disease_u7_39_1,1,Yes
+endline,c11_disease_u7_40_1,0,No
+endline,c11_disease_u7_40_1,1,Yes
+endline,c11_disease_u7_41_1,0,No
+endline,c11_disease_u7_41_1,1,Yes
+endline,c11_disease_u7_42_1,0,No
+endline,c11_disease_u7_42_1,1,Yes
+endline,c11_disease_u7_43_1,0,No
+endline,c11_disease_u7_43_1,1,Yes
+endline,c11_disease_u7_44_1,0,No
+endline,c11_disease_u7_44_1,1,Yes
+endline,c11_disease_u7_45_1,0,No
+endline,c11_disease_u7_45_1,1,Yes
+endline,c11_disease_u7_46_1,0,No
+endline,c11_disease_u7_46_1,1,Yes
+endline,c11_disease_u7_47_1,0,No
+endline,c11_disease_u7_47_1,1,Yes
+endline,c11_disease_u7_48_1,0,No
+endline,c11_disease_u7_48_1,1,Yes
+endline,c11_disease_u7_98_1,0,No
+endline,c11_disease_u7_98_1,1,Yes
+endline,c11_disease_u7_97_1,0,No
+endline,c11_disease_u7_97_1,1,Yes
+endline,c12_diagnose_u7_1,0,No
+endline,c12_diagnose_u7_1,1,Yes
+endline,c13_medication_u7_1,0,No
+endline,c13_medication_u7_1,1,Yes
+endline,c14_meditake_u7_1,0,No
+endline,c14_meditake_u7_1,1,Yes
+endline,c15_format_u7_1_1,0,No
+endline,c15_format_u7_1_1,1,Yes
+endline,c15_format_u7_2_1,0,No
+endline,c15_format_u7_2_1,1,Yes
+endline,c15_format_u7_3_1,0,No
+endline,c15_format_u7_3_1,1,Yes
+endline,c16_virtual_u7_1_1,0,No
+endline,c16_virtual_u7_1_1,1,Yes
+endline,c16_virtual_u7_2_1,0,No
+endline,c16_virtual_u7_2_1,1,Yes
+endline,c16_virtual_u7_3_1,0,No
+endline,c16_virtual_u7_3_1,1,Yes
+endline,c16_virtual_u7_4_1,0,No
+endline,c16_virtual_u7_4_1,1,Yes
+endline,c16_virtual_u7_5_1,0,No
+endline,c16_virtual_u7_5_1,1,Yes
+endline,c16_virtual_u7_6_1,0,No
+endline,c16_virtual_u7_6_1,1,Yes
+endline,c16_virtual_u7_7_1,0,No
+endline,c16_virtual_u7_7_1,1,Yes
+endline,c18_virlast_u7_1,1,Text Message
+endline,c18_virlast_u7_1,2,Email
+endline,c18_virlast_u7_1,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+endline,c18_virlast_u7_1,4,Phone calls
+endline,c18_virlast_u7_1,5,"Videoconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_u7_1,6,"Audioconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_u7_1,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+endline,c20_personlast_u7_1,1,Gov't hospital
+endline,c20_personlast_u7_1,2,Gov't rural health center (RHC)
+endline,c20_personlast_u7_1,3,Peri-urban Health Center
+endline,c20_personlast_u7_1,4,Maternal and Child Health Clinic/ Hospital
+endline,c20_personlast_u7_1,5,Family Planning Clinic
+endline,c20_personlast_u7_1,6,Birth Center
+endline,c20_personlast_u7_1,7,Private Hospital/ Clinic
+endline,c20_personlast_u7_1,8,Private Doctor's Office
+endline,c20_personlast_u7_1,9,Traditional Medicine Hospitals
+endline,c20_personlast_u7_1,10,Traditional Medicine Clinics
+endline,c20_personlast_u7_1,11,Patient's Home
+endline,c20_personlast_u7_1,12,Provider's home or store
+endline,c20_personlast_u7_1,13,Charity clinics
+endline,c20_personlast_u7_1,14,Military hospital
+endline,c20_personlast_u7_1,15,Social Security Clinics
+endline,c20_personlast_u7_1,16,Workers' Hospital
+endline,c20_personlast_u7_1,17,Informal provider
+endline,c20_personlast_u7_1,99,Other (Specify):
+endline,filteru7_lastformat_1,1,In person
+endline,filteru7_lastformat_1,2,Telemdicine only
+endline,c25_assist_u7_0_1,0,No
+endline,c25_assist_u7_0_1,1,Yes
+endline,c25_assist_u7_1_1,0,No
+endline,c25_assist_u7_1_1,1,Yes
+endline,c25_assist_u7_2_1,0,No
+endline,c25_assist_u7_2_1,1,Yes
+endline,c25_assist_u7_3_1,0,No
+endline,c25_assist_u7_3_1,1,Yes
+endline,c25_assist_u7_4_1,0,No
+endline,c25_assist_u7_4_1,1,Yes
+endline,c25_assist_u7_5_1,0,No
+endline,c25_assist_u7_5_1,1,Yes
+endline,c25_assist_u7_6_1,0,No
+endline,c25_assist_u7_6_1,1,Yes
+endline,c25_assist_u7_7_1,0,No
+endline,c25_assist_u7_7_1,1,Yes
+endline,c25_assist_u7_8_1,0,No
+endline,c25_assist_u7_8_1,1,Yes
+endline,c25_assist_u7_9_1,0,No
+endline,c25_assist_u7_9_1,1,Yes
+endline,c25_assist_u7_10_1,0,No
+endline,c25_assist_u7_10_1,1,Yes
+endline,c25_assist_u7_11_1,0,No
+endline,c25_assist_u7_11_1,1,Yes
+endline,c25_assist_u7_12_1,0,No
+endline,c25_assist_u7_12_1,1,Yes
+endline,c25_assist_u7_97_1,0,No
+endline,c25_assist_u7_97_1,1,Yes
+endline,c25_assist_u7_98_1,0,No
+endline,c25_assist_u7_98_1,1,Yes
+endline,c26_nonsick_u7_1_1,0,No
+endline,c26_nonsick_u7_1_1,1,Yes
+endline,c26_nonsick_u7_2_1,0,No
+endline,c26_nonsick_u7_2_1,1,Yes
+endline,c26_nonsick_u7_3_1,0,No
+endline,c26_nonsick_u7_3_1,1,Yes
+endline,c26_nonsick_u7_4_1,0,No
+endline,c26_nonsick_u7_4_1,1,Yes
+endline,c27_notconsult_u7_1_1,0,No
+endline,c27_notconsult_u7_1_1,1,Yes
+endline,c27_notconsult_u7_2_1,0,No
+endline,c27_notconsult_u7_2_1,1,Yes
+endline,c27_notconsult_u7_3_1,0,No
+endline,c27_notconsult_u7_3_1,1,Yes
+endline,c27_notconsult_u7_4_1,0,No
+endline,c27_notconsult_u7_4_1,1,Yes
+endline,c27_notconsult_u7_5_1,0,No
+endline,c27_notconsult_u7_5_1,1,Yes
+endline,c27_notconsult_u7_6_1,0,No
+endline,c27_notconsult_u7_6_1,1,Yes
+endline,c27_notconsult_u7_7_1,0,No
+endline,c27_notconsult_u7_7_1,1,Yes
+endline,c27_notconsult_u7_8_1,0,No
+endline,c27_notconsult_u7_8_1,1,Yes
+endline,c27_notconsult_u7_9_1,0,No
+endline,c27_notconsult_u7_9_1,1,Yes
+endline,c27_notconsult_u7_10_1,0,No
+endline,c27_notconsult_u7_10_1,1,Yes
+endline,c27_notconsult_u7_11_1,0,No
+endline,c27_notconsult_u7_11_1,1,Yes
+endline,c27_notconsult_u7_12_1,0,No
+endline,c27_notconsult_u7_12_1,1,Yes
+endline,c27_notconsult_u7_13_1,0,No
+endline,c27_notconsult_u7_13_1,1,Yes
+endline,c27_notconsult_u7_14_1,0,No
+endline,c27_notconsult_u7_14_1,1,Yes
+endline,c27_notconsult_u7_15_1,0,No
+endline,c27_notconsult_u7_15_1,1,Yes
+endline,c27_notconsult_u7_16_1,0,No
+endline,c27_notconsult_u7_16_1,1,Yes
+endline,c27_notconsult_u7_17_1,0,No
+endline,c27_notconsult_u7_17_1,1,Yes
+endline,c27_notconsult_u7_18_1,0,No
+endline,c27_notconsult_u7_18_1,1,Yes
+endline,c27_notconsult_u7_19_1,0,No
+endline,c27_notconsult_u7_19_1,1,Yes
+endline,c27_notconsult_u7_20_1,0,No
+endline,c27_notconsult_u7_20_1,1,Yes
+endline,c27_notconsult_u7_21_1,0,No
+endline,c27_notconsult_u7_21_1,1,Yes
+endline,c27_notconsult_u7_22_1,0,No
+endline,c27_notconsult_u7_22_1,1,Yes
+endline,c27_notconsult_u7_23_1,0,No
+endline,c27_notconsult_u7_23_1,1,Yes
+endline,c27_notconsult_u7_24_1,0,No
+endline,c27_notconsult_u7_24_1,1,Yes
+endline,c28_inpatient_u7_1,0,No
+endline,c28_inpatient_u7_1,1,Yes
+endline,c29_insu_u7_1,0,No health insurance
+endline,c29_insu_u7_1,1,Social Security
+endline,c29_insu_u7_1,2,Health Insurance through Employer
+endline,c29_insu_u7_1,3,Other Privately Purchased Commercial Health Insurance
+endline,c29_insu_u7_1,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c29_insu_u7_1,5,Bright start's support
+endline,c29_insu_u7_1,6,Terre des hommes (Tdh)
+endline,c29_insu_u7_1,7,UNICEF
+endline,c29_insu_u7_1,8,Local charity organization
+endline,c29_insu_u7_1,9,Pact Myanmar
+endline,c29_insu_u7_1,98,Don't know
+endline,c29_insu_u7_1,99,Other (Specify):
+endline,c31_disease_u7_1_1,0,No
+endline,c31_disease_u7_1_1,1,Yes
+endline,c31_disease_u7_2_1,0,No
+endline,c31_disease_u7_2_1,1,Yes
+endline,c31_disease_u7_3_1,0,No
+endline,c31_disease_u7_3_1,1,Yes
+endline,c31_disease_u7_4_1,0,No
+endline,c31_disease_u7_4_1,1,Yes
+endline,c31_disease_u7_5_1,0,No
+endline,c31_disease_u7_5_1,1,Yes
+endline,c31_disease_u7_6_1,0,No
+endline,c31_disease_u7_6_1,1,Yes
+endline,c31_disease_u7_7_1,0,No
+endline,c31_disease_u7_7_1,1,Yes
+endline,c31_disease_u7_8_1,0,No
+endline,c31_disease_u7_8_1,1,Yes
+endline,c31_disease_u7_9_1,0,No
+endline,c31_disease_u7_9_1,1,Yes
+endline,c31_disease_u7_10_1,0,No
+endline,c31_disease_u7_10_1,1,Yes
+endline,c31_disease_u7_11_1,0,No
+endline,c31_disease_u7_11_1,1,Yes
+endline,c31_disease_u7_12_1,0,No
+endline,c31_disease_u7_12_1,1,Yes
+endline,c31_disease_u7_13_1,0,No
+endline,c31_disease_u7_13_1,1,Yes
+endline,c31_disease_u7_14_1,0,No
+endline,c31_disease_u7_14_1,1,Yes
+endline,c31_disease_u7_15_1,0,No
+endline,c31_disease_u7_15_1,1,Yes
+endline,c31_disease_u7_16_1,0,No
+endline,c31_disease_u7_16_1,1,Yes
+endline,c31_disease_u7_17_1,0,No
+endline,c31_disease_u7_17_1,1,Yes
+endline,c31_disease_u7_18_1,0,No
+endline,c31_disease_u7_18_1,1,Yes
+endline,c31_disease_u7_19_1,0,No
+endline,c31_disease_u7_19_1,1,Yes
+endline,c31_disease_u7_20_1,0,No
+endline,c31_disease_u7_20_1,1,Yes
+endline,c31_disease_u7_21_1,0,No
+endline,c31_disease_u7_21_1,1,Yes
+endline,c31_disease_u7_22_1,0,No
+endline,c31_disease_u7_22_1,1,Yes
+endline,c31_disease_u7_23_1,0,No
+endline,c31_disease_u7_23_1,1,Yes
+endline,c31_disease_u7_24_1,0,No
+endline,c31_disease_u7_24_1,1,Yes
+endline,c31_disease_u7_25_1,0,No
+endline,c31_disease_u7_25_1,1,Yes
+endline,c31_disease_u7_26_1,0,No
+endline,c31_disease_u7_26_1,1,Yes
+endline,c31_disease_u7_27_1,0,No
+endline,c31_disease_u7_27_1,1,Yes
+endline,c31_disease_u7_28_1,0,No
+endline,c31_disease_u7_28_1,1,Yes
+endline,c31_disease_u7_29_1,0,No
+endline,c31_disease_u7_29_1,1,Yes
+endline,c31_disease_u7_30_1,0,No
+endline,c31_disease_u7_30_1,1,Yes
+endline,c31_disease_u7_31_1,0,No
+endline,c31_disease_u7_31_1,1,Yes
+endline,c31_disease_u7_32_1,0,No
+endline,c31_disease_u7_32_1,1,Yes
+endline,c31_disease_u7_33_1,0,No
+endline,c31_disease_u7_33_1,1,Yes
+endline,c31_disease_u7_34_1,0,No
+endline,c31_disease_u7_34_1,1,Yes
+endline,c31_disease_u7_35_1,0,No
+endline,c31_disease_u7_35_1,1,Yes
+endline,c31_disease_u7_36_1,0,No
+endline,c31_disease_u7_36_1,1,Yes
+endline,c31_disease_u7_37_1,0,No
+endline,c31_disease_u7_37_1,1,Yes
+endline,c31_disease_u7_38_1,0,No
+endline,c31_disease_u7_38_1,1,Yes
+endline,c31_disease_u7_39_1,0,No
+endline,c31_disease_u7_39_1,1,Yes
+endline,c31_disease_u7_40_1,0,No
+endline,c31_disease_u7_40_1,1,Yes
+endline,c31_disease_u7_41_1,0,No
+endline,c31_disease_u7_41_1,1,Yes
+endline,c31_disease_u7_42_1,0,No
+endline,c31_disease_u7_42_1,1,Yes
+endline,c31_disease_u7_43_1,0,No
+endline,c31_disease_u7_43_1,1,Yes
+endline,c31_disease_u7_44_1,0,No
+endline,c31_disease_u7_44_1,1,Yes
+endline,c32_opd_u7_1,0,No
+endline,c32_opd_u7_1,1,Yes
+endline,c33_hospital_u7_1,1,Government hospitals
+endline,c33_hospital_u7_1,2,Government Maternal and child hospital
+endline,c33_hospital_u7_1,3,Children Hospital
+endline,c33_hospital_u7_1,4,Workers' hospitals
+endline,c33_hospital_u7_1,5,Private hospitals
+endline,c33_hospital_u7_1,6,Traditional Medicine Hospitals
+endline,c33_hospital_u7_1,7,Military Hospital
+endline,c33_hospital_u7_1,8,Charity Hospital
+endline,c33_hospital_u7_1,9,Facility Covid Center/quarantine center
+endline,c33_hospital_u7_1,97,Prefer not to answer
+endline,c33_hospital_u7_1,98,Don't know
+endline,c33_hospital_u7_1,99,Other (Specify)
+endline,c38_u7_live_1,1,Yes-living together
+endline,c38_u7_live_1,2,Not-living in another place
+endline,c38_u7_live_1,3,Passed away
+endline,c2_nature_u7_1_2,0,No
+endline,c2_nature_u7_1_2,1,Yes
+endline,c2_nature_u7_2_2,0,No
+endline,c2_nature_u7_2_2,1,Yes
+endline,c2_nature_u7_3_2,0,No
+endline,c2_nature_u7_3_2,1,Yes
+endline,c2_nature_u7_4_2,0,No
+endline,c2_nature_u7_4_2,1,Yes
+endline,c2_nature_u7_5_2,0,No
+endline,c2_nature_u7_5_2,1,Yes
+endline,c2_nature_u7_6_2,0,No
+endline,c2_nature_u7_6_2,1,Yes
+endline,c2_nature_u7_7_2,0,No
+endline,c2_nature_u7_7_2,1,Yes
+endline,c2_nature_u7_8_2,0,No
+endline,c2_nature_u7_8_2,1,Yes
+endline,c2_nature_u7_9_2,0,No
+endline,c2_nature_u7_9_2,1,Yes
+endline,c2_nature_u7_10_2,0,No
+endline,c2_nature_u7_10_2,1,Yes
+endline,c2_nature_u7_11_2,0,No
+endline,c2_nature_u7_11_2,1,Yes
+endline,c3_test_u7_2,0,No
+endline,c3_test_u7_2,1,Yes
+endline,c7_compare_u7_2,1,Healthcare use increased
+endline,c7_compare_u7_2,2,Healthcare use decreased
+endline,c7_compare_u7_2,3,Healthcare use did not change
+endline,c7_compare_u7_2,4,"The child was born after November,2021"
+endline,c8_illyesno_u7_2,0,No
+endline,c8_illyesno_u7_2,1,Yes
+endline,c9_insu_u7_2,0,No health insurance
+endline,c9_insu_u7_2,1,Social Security
+endline,c9_insu_u7_2,2,Health Insurance through Employer
+endline,c9_insu_u7_2,3,Other Privately Purchased Commercial Health Insurance
+endline,c9_insu_u7_2,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c9_insu_u7_2,5,Bright start's support
+endline,c9_insu_u7_2,6,Terre des hommes (Tdh)
+endline,c9_insu_u7_2,7,UNICEF
+endline,c9_insu_u7_2,8,Local charity organization
+endline,c9_insu_u7_2,9,Pact Myanmar
+endline,c9_insu_u7_2,98,Don't know
+endline,c9_insu_u7_2,99,Other (Specify):
+endline,c10_seekcare_u7_2,0,No
+endline,c10_seekcare_u7_2,1,Yes
+endline,c11_disease_u7_1_2,0,No
+endline,c11_disease_u7_1_2,1,Yes
+endline,c11_disease_u7_2_2,0,No
+endline,c11_disease_u7_2_2,1,Yes
+endline,c11_disease_u7_3_2,0,No
+endline,c11_disease_u7_3_2,1,Yes
+endline,c11_disease_u7_4_2,0,No
+endline,c11_disease_u7_4_2,1,Yes
+endline,c11_disease_u7_5_2,0,No
+endline,c11_disease_u7_5_2,1,Yes
+endline,c11_disease_u7_6_2,0,No
+endline,c11_disease_u7_6_2,1,Yes
+endline,c11_disease_u7_7_2,0,No
+endline,c11_disease_u7_7_2,1,Yes
+endline,c11_disease_u7_8_2,0,No
+endline,c11_disease_u7_8_2,1,Yes
+endline,c11_disease_u7_9_2,0,No
+endline,c11_disease_u7_9_2,1,Yes
+endline,c11_disease_u7_10_2,0,No
+endline,c11_disease_u7_10_2,1,Yes
+endline,c11_disease_u7_11_2,0,No
+endline,c11_disease_u7_11_2,1,Yes
+endline,c11_disease_u7_12_2,0,No
+endline,c11_disease_u7_12_2,1,Yes
+endline,c11_disease_u7_13_2,0,No
+endline,c11_disease_u7_13_2,1,Yes
+endline,c11_disease_u7_14_2,0,No
+endline,c11_disease_u7_14_2,1,Yes
+endline,c11_disease_u7_15_2,0,No
+endline,c11_disease_u7_15_2,1,Yes
+endline,c11_disease_u7_16_2,0,No
+endline,c11_disease_u7_16_2,1,Yes
+endline,c11_disease_u7_17_2,0,No
+endline,c11_disease_u7_17_2,1,Yes
+endline,c11_disease_u7_18_2,0,No
+endline,c11_disease_u7_18_2,1,Yes
+endline,c11_disease_u7_19_2,0,No
+endline,c11_disease_u7_19_2,1,Yes
+endline,c11_disease_u7_20_2,0,No
+endline,c11_disease_u7_20_2,1,Yes
+endline,c11_disease_u7_21_2,0,No
+endline,c11_disease_u7_21_2,1,Yes
+endline,c11_disease_u7_22_2,0,No
+endline,c11_disease_u7_22_2,1,Yes
+endline,c11_disease_u7_23_2,0,No
+endline,c11_disease_u7_23_2,1,Yes
+endline,c11_disease_u7_24_2,0,No
+endline,c11_disease_u7_24_2,1,Yes
+endline,c11_disease_u7_25_2,0,No
+endline,c11_disease_u7_25_2,1,Yes
+endline,c11_disease_u7_26_2,0,No
+endline,c11_disease_u7_26_2,1,Yes
+endline,c11_disease_u7_27_2,0,No
+endline,c11_disease_u7_27_2,1,Yes
+endline,c11_disease_u7_28_2,0,No
+endline,c11_disease_u7_28_2,1,Yes
+endline,c11_disease_u7_29_2,0,No
+endline,c11_disease_u7_29_2,1,Yes
+endline,c11_disease_u7_30_2,0,No
+endline,c11_disease_u7_30_2,1,Yes
+endline,c11_disease_u7_31_2,0,No
+endline,c11_disease_u7_31_2,1,Yes
+endline,c11_disease_u7_32_2,0,No
+endline,c11_disease_u7_32_2,1,Yes
+endline,c11_disease_u7_33_2,0,No
+endline,c11_disease_u7_33_2,1,Yes
+endline,c11_disease_u7_34_2,0,No
+endline,c11_disease_u7_34_2,1,Yes
+endline,c11_disease_u7_35_2,0,No
+endline,c11_disease_u7_35_2,1,Yes
+endline,c11_disease_u7_36_2,0,No
+endline,c11_disease_u7_36_2,1,Yes
+endline,c11_disease_u7_37_2,0,No
+endline,c11_disease_u7_37_2,1,Yes
+endline,c11_disease_u7_38_2,0,No
+endline,c11_disease_u7_38_2,1,Yes
+endline,c11_disease_u7_39_2,0,No
+endline,c11_disease_u7_39_2,1,Yes
+endline,c11_disease_u7_40_2,0,No
+endline,c11_disease_u7_40_2,1,Yes
+endline,c11_disease_u7_41_2,0,No
+endline,c11_disease_u7_41_2,1,Yes
+endline,c11_disease_u7_42_2,0,No
+endline,c11_disease_u7_42_2,1,Yes
+endline,c11_disease_u7_43_2,0,No
+endline,c11_disease_u7_43_2,1,Yes
+endline,c11_disease_u7_44_2,0,No
+endline,c11_disease_u7_44_2,1,Yes
+endline,c11_disease_u7_45_2,0,No
+endline,c11_disease_u7_45_2,1,Yes
+endline,c11_disease_u7_46_2,0,No
+endline,c11_disease_u7_46_2,1,Yes
+endline,c11_disease_u7_47_2,0,No
+endline,c11_disease_u7_47_2,1,Yes
+endline,c11_disease_u7_48_2,0,No
+endline,c11_disease_u7_48_2,1,Yes
+endline,c11_disease_u7_98_2,0,No
+endline,c11_disease_u7_98_2,1,Yes
+endline,c11_disease_u7_97_2,0,No
+endline,c11_disease_u7_97_2,1,Yes
+endline,c12_diagnose_u7_2,0,No
+endline,c12_diagnose_u7_2,1,Yes
+endline,c13_medication_u7_2,0,No
+endline,c13_medication_u7_2,1,Yes
+endline,c14_meditake_u7_2,0,No
+endline,c14_meditake_u7_2,1,Yes
+endline,c15_format_u7_1_2,0,No
+endline,c15_format_u7_1_2,1,Yes
+endline,c15_format_u7_2_2,0,No
+endline,c15_format_u7_2_2,1,Yes
+endline,c15_format_u7_3_2,0,No
+endline,c15_format_u7_3_2,1,Yes
+endline,c16_virtual_u7_1_2,0,No
+endline,c16_virtual_u7_1_2,1,Yes
+endline,c16_virtual_u7_2_2,0,No
+endline,c16_virtual_u7_2_2,1,Yes
+endline,c16_virtual_u7_3_2,0,No
+endline,c16_virtual_u7_3_2,1,Yes
+endline,c16_virtual_u7_4_2,0,No
+endline,c16_virtual_u7_4_2,1,Yes
+endline,c16_virtual_u7_5_2,0,No
+endline,c16_virtual_u7_5_2,1,Yes
+endline,c16_virtual_u7_6_2,0,No
+endline,c16_virtual_u7_6_2,1,Yes
+endline,c16_virtual_u7_7_2,0,No
+endline,c16_virtual_u7_7_2,1,Yes
+endline,c18_virlast_u7_2,1,Text Message
+endline,c18_virlast_u7_2,2,Email
+endline,c18_virlast_u7_2,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+endline,c18_virlast_u7_2,4,Phone calls
+endline,c18_virlast_u7_2,5,"Videoconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_u7_2,6,"Audioconference (e.g viber, telegram, messenger)"
+endline,c18_virlast_u7_2,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+endline,c20_personlast_u7_2,1,Gov't hospital
+endline,c20_personlast_u7_2,2,Gov't rural health center (RHC)
+endline,c20_personlast_u7_2,3,Peri-urban Health Center
+endline,c20_personlast_u7_2,4,Maternal and Child Health Clinic/ Hospital
+endline,c20_personlast_u7_2,5,Family Planning Clinic
+endline,c20_personlast_u7_2,6,Birth Center
+endline,c20_personlast_u7_2,7,Private Hospital/ Clinic
+endline,c20_personlast_u7_2,8,Private Doctor's Office
+endline,c20_personlast_u7_2,9,Traditional Medicine Hospitals
+endline,c20_personlast_u7_2,10,Traditional Medicine Clinics
+endline,c20_personlast_u7_2,11,Patient's Home
+endline,c20_personlast_u7_2,12,Provider's home or store
+endline,c20_personlast_u7_2,13,Charity clinics
+endline,c20_personlast_u7_2,14,Military hospital
+endline,c20_personlast_u7_2,15,Social Security Clinics
+endline,c20_personlast_u7_2,16,Workers' Hospital
+endline,c20_personlast_u7_2,17,Informal provider
+endline,c20_personlast_u7_2,99,Other (Specify):
+endline,c25_assist_u7_0_2,0,No
+endline,c25_assist_u7_0_2,1,Yes
+endline,c25_assist_u7_1_2,0,No
+endline,c25_assist_u7_1_2,1,Yes
+endline,c25_assist_u7_2_2,0,No
+endline,c25_assist_u7_2_2,1,Yes
+endline,c25_assist_u7_3_2,0,No
+endline,c25_assist_u7_3_2,1,Yes
+endline,c25_assist_u7_4_2,0,No
+endline,c25_assist_u7_4_2,1,Yes
+endline,c25_assist_u7_5_2,0,No
+endline,c25_assist_u7_5_2,1,Yes
+endline,c25_assist_u7_6_2,0,No
+endline,c25_assist_u7_6_2,1,Yes
+endline,c25_assist_u7_7_2,0,No
+endline,c25_assist_u7_7_2,1,Yes
+endline,c25_assist_u7_8_2,0,No
+endline,c25_assist_u7_8_2,1,Yes
+endline,c25_assist_u7_9_2,0,No
+endline,c25_assist_u7_9_2,1,Yes
+endline,c25_assist_u7_10_2,0,No
+endline,c25_assist_u7_10_2,1,Yes
+endline,c25_assist_u7_11_2,0,No
+endline,c25_assist_u7_11_2,1,Yes
+endline,c25_assist_u7_12_2,0,No
+endline,c25_assist_u7_12_2,1,Yes
+endline,c25_assist_u7_97_2,0,No
+endline,c25_assist_u7_97_2,1,Yes
+endline,c25_assist_u7_98_2,0,No
+endline,c25_assist_u7_98_2,1,Yes
+endline,c26_nonsick_u7_1_2,0,No
+endline,c26_nonsick_u7_1_2,1,Yes
+endline,c26_nonsick_u7_2_2,0,No
+endline,c26_nonsick_u7_2_2,1,Yes
+endline,c26_nonsick_u7_3_2,0,No
+endline,c26_nonsick_u7_3_2,1,Yes
+endline,c26_nonsick_u7_4_2,0,No
+endline,c26_nonsick_u7_4_2,1,Yes
+endline,c27_notconsult_u7_1_2,0,No
+endline,c27_notconsult_u7_1_2,1,Yes
+endline,c27_notconsult_u7_2_2,0,No
+endline,c27_notconsult_u7_2_2,1,Yes
+endline,c27_notconsult_u7_3_2,0,No
+endline,c27_notconsult_u7_3_2,1,Yes
+endline,c27_notconsult_u7_4_2,0,No
+endline,c27_notconsult_u7_4_2,1,Yes
+endline,c27_notconsult_u7_5_2,0,No
+endline,c27_notconsult_u7_5_2,1,Yes
+endline,c27_notconsult_u7_6_2,0,No
+endline,c27_notconsult_u7_6_2,1,Yes
+endline,c27_notconsult_u7_7_2,0,No
+endline,c27_notconsult_u7_7_2,1,Yes
+endline,c27_notconsult_u7_8_2,0,No
+endline,c27_notconsult_u7_8_2,1,Yes
+endline,c27_notconsult_u7_9_2,0,No
+endline,c27_notconsult_u7_9_2,1,Yes
+endline,c27_notconsult_u7_10_2,0,No
+endline,c27_notconsult_u7_10_2,1,Yes
+endline,c27_notconsult_u7_11_2,0,No
+endline,c27_notconsult_u7_11_2,1,Yes
+endline,c27_notconsult_u7_12_2,0,No
+endline,c27_notconsult_u7_12_2,1,Yes
+endline,c27_notconsult_u7_13_2,0,No
+endline,c27_notconsult_u7_13_2,1,Yes
+endline,c27_notconsult_u7_14_2,0,No
+endline,c27_notconsult_u7_14_2,1,Yes
+endline,c27_notconsult_u7_15_2,0,No
+endline,c27_notconsult_u7_15_2,1,Yes
+endline,c27_notconsult_u7_16_2,0,No
+endline,c27_notconsult_u7_16_2,1,Yes
+endline,c27_notconsult_u7_17_2,0,No
+endline,c27_notconsult_u7_17_2,1,Yes
+endline,c27_notconsult_u7_18_2,0,No
+endline,c27_notconsult_u7_18_2,1,Yes
+endline,c27_notconsult_u7_19_2,0,No
+endline,c27_notconsult_u7_19_2,1,Yes
+endline,c27_notconsult_u7_20_2,0,No
+endline,c27_notconsult_u7_20_2,1,Yes
+endline,c27_notconsult_u7_21_2,0,No
+endline,c27_notconsult_u7_21_2,1,Yes
+endline,c27_notconsult_u7_22_2,0,No
+endline,c27_notconsult_u7_22_2,1,Yes
+endline,c27_notconsult_u7_23_2,0,No
+endline,c27_notconsult_u7_23_2,1,Yes
+endline,c27_notconsult_u7_24_2,0,No
+endline,c27_notconsult_u7_24_2,1,Yes
+endline,c28_inpatient_u7_2,0,No
+endline,c28_inpatient_u7_2,1,Yes
+endline,c29_insu_u7_2,0,No health insurance
+endline,c29_insu_u7_2,1,Social Security
+endline,c29_insu_u7_2,2,Health Insurance through Employer
+endline,c29_insu_u7_2,3,Other Privately Purchased Commercial Health Insurance
+endline,c29_insu_u7_2,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c29_insu_u7_2,5,Bright start's support
+endline,c29_insu_u7_2,6,Terre des hommes (Tdh)
+endline,c29_insu_u7_2,7,UNICEF
+endline,c29_insu_u7_2,8,Local charity organization
+endline,c29_insu_u7_2,9,Pact Myanmar
+endline,c29_insu_u7_2,98,Don't know
+endline,c29_insu_u7_2,99,Other (Specify):
+endline,c31_disease_u7_1_2,0,No
+endline,c31_disease_u7_1_2,1,Yes
+endline,c31_disease_u7_2_2,0,No
+endline,c31_disease_u7_2_2,1,Yes
+endline,c31_disease_u7_3_2,0,No
+endline,c31_disease_u7_3_2,1,Yes
+endline,c31_disease_u7_4_2,0,No
+endline,c31_disease_u7_4_2,1,Yes
+endline,c31_disease_u7_5_2,0,No
+endline,c31_disease_u7_5_2,1,Yes
+endline,c31_disease_u7_6_2,0,No
+endline,c31_disease_u7_6_2,1,Yes
+endline,c31_disease_u7_7_2,0,No
+endline,c31_disease_u7_7_2,1,Yes
+endline,c31_disease_u7_8_2,0,No
+endline,c31_disease_u7_8_2,1,Yes
+endline,c31_disease_u7_9_2,0,No
+endline,c31_disease_u7_9_2,1,Yes
+endline,c31_disease_u7_10_2,0,No
+endline,c31_disease_u7_10_2,1,Yes
+endline,c31_disease_u7_11_2,0,No
+endline,c31_disease_u7_11_2,1,Yes
+endline,c31_disease_u7_12_2,0,No
+endline,c31_disease_u7_12_2,1,Yes
+endline,c31_disease_u7_13_2,0,No
+endline,c31_disease_u7_13_2,1,Yes
+endline,c31_disease_u7_14_2,0,No
+endline,c31_disease_u7_14_2,1,Yes
+endline,c31_disease_u7_15_2,0,No
+endline,c31_disease_u7_15_2,1,Yes
+endline,c31_disease_u7_16_2,0,No
+endline,c31_disease_u7_16_2,1,Yes
+endline,c31_disease_u7_17_2,0,No
+endline,c31_disease_u7_17_2,1,Yes
+endline,c31_disease_u7_18_2,0,No
+endline,c31_disease_u7_18_2,1,Yes
+endline,c31_disease_u7_19_2,0,No
+endline,c31_disease_u7_19_2,1,Yes
+endline,c31_disease_u7_20_2,0,No
+endline,c31_disease_u7_20_2,1,Yes
+endline,c31_disease_u7_21_2,0,No
+endline,c31_disease_u7_21_2,1,Yes
+endline,c31_disease_u7_22_2,0,No
+endline,c31_disease_u7_22_2,1,Yes
+endline,c31_disease_u7_23_2,0,No
+endline,c31_disease_u7_23_2,1,Yes
+endline,c31_disease_u7_24_2,0,No
+endline,c31_disease_u7_24_2,1,Yes
+endline,c31_disease_u7_25_2,0,No
+endline,c31_disease_u7_25_2,1,Yes
+endline,c31_disease_u7_26_2,0,No
+endline,c31_disease_u7_26_2,1,Yes
+endline,c31_disease_u7_27_2,0,No
+endline,c31_disease_u7_27_2,1,Yes
+endline,c31_disease_u7_28_2,0,No
+endline,c31_disease_u7_28_2,1,Yes
+endline,c31_disease_u7_29_2,0,No
+endline,c31_disease_u7_29_2,1,Yes
+endline,c31_disease_u7_30_2,0,No
+endline,c31_disease_u7_30_2,1,Yes
+endline,c31_disease_u7_31_2,0,No
+endline,c31_disease_u7_31_2,1,Yes
+endline,c31_disease_u7_32_2,0,No
+endline,c31_disease_u7_32_2,1,Yes
+endline,c31_disease_u7_33_2,0,No
+endline,c31_disease_u7_33_2,1,Yes
+endline,c31_disease_u7_34_2,0,No
+endline,c31_disease_u7_34_2,1,Yes
+endline,c31_disease_u7_35_2,0,No
+endline,c31_disease_u7_35_2,1,Yes
+endline,c31_disease_u7_36_2,0,No
+endline,c31_disease_u7_36_2,1,Yes
+endline,c31_disease_u7_37_2,0,No
+endline,c31_disease_u7_37_2,1,Yes
+endline,c31_disease_u7_38_2,0,No
+endline,c31_disease_u7_38_2,1,Yes
+endline,c31_disease_u7_39_2,0,No
+endline,c31_disease_u7_39_2,1,Yes
+endline,c31_disease_u7_40_2,0,No
+endline,c31_disease_u7_40_2,1,Yes
+endline,c31_disease_u7_41_2,0,No
+endline,c31_disease_u7_41_2,1,Yes
+endline,c31_disease_u7_42_2,0,No
+endline,c31_disease_u7_42_2,1,Yes
+endline,c31_disease_u7_43_2,0,No
+endline,c31_disease_u7_43_2,1,Yes
+endline,c31_disease_u7_44_2,0,No
+endline,c31_disease_u7_44_2,1,Yes
+endline,c32_opd_u7_2,0,No
+endline,c32_opd_u7_2,1,Yes
+endline,c33_hospital_u7_2,1,Government hospitals
+endline,c33_hospital_u7_2,2,Government Maternal and child hospital
+endline,c33_hospital_u7_2,3,Children Hospital
+endline,c33_hospital_u7_2,4,Workers' hospitals
+endline,c33_hospital_u7_2,5,Private hospitals
+endline,c33_hospital_u7_2,6,Traditional Medicine Hospitals
+endline,c33_hospital_u7_2,7,Military Hospital
+endline,c33_hospital_u7_2,8,Charity Hospital
+endline,c33_hospital_u7_2,9,Facility Covid Center/quarantine center
+endline,c33_hospital_u7_2,97,Prefer not to answer
+endline,c33_hospital_u7_2,98,Don't know
+endline,c33_hospital_u7_2,99,Other (Specify)
+endline,c38_u7_live_2,1,Yes-living together
+endline,c38_u7_live_2,2,Not-living in another place
+endline,c38_u7_live_2,3,Passed away
+endline,c2_nature_u7_1_3,0,No
+endline,c2_nature_u7_1_3,1,Yes
+endline,c2_nature_u7_2_3,0,No
+endline,c2_nature_u7_2_3,1,Yes
+endline,c2_nature_u7_3_3,0,No
+endline,c2_nature_u7_3_3,1,Yes
+endline,c2_nature_u7_4_3,0,No
+endline,c2_nature_u7_4_3,1,Yes
+endline,c2_nature_u7_5_3,0,No
+endline,c2_nature_u7_5_3,1,Yes
+endline,c2_nature_u7_6_3,0,No
+endline,c2_nature_u7_6_3,1,Yes
+endline,c2_nature_u7_7_3,0,No
+endline,c2_nature_u7_7_3,1,Yes
+endline,c2_nature_u7_8_3,0,No
+endline,c2_nature_u7_8_3,1,Yes
+endline,c2_nature_u7_9_3,0,No
+endline,c2_nature_u7_9_3,1,Yes
+endline,c2_nature_u7_10_3,0,No
+endline,c2_nature_u7_10_3,1,Yes
+endline,c2_nature_u7_11_3,0,No
+endline,c2_nature_u7_11_3,1,Yes
+endline,c3_test_u7_3,0,No
+endline,c3_test_u7_3,1,Yes
+endline,c7_compare_u7_3,1,Healthcare use increased
+endline,c7_compare_u7_3,2,Healthcare use decreased
+endline,c7_compare_u7_3,3,Healthcare use did not change
+endline,c7_compare_u7_3,4,"The child was born after November,2021"
+endline,c8_illyesno_u7_3,0,No
+endline,c8_illyesno_u7_3,1,Yes
+endline,c9_insu_u7_3,0,No health insurance
+endline,c9_insu_u7_3,1,Social Security
+endline,c9_insu_u7_3,2,Health Insurance through Employer
+endline,c9_insu_u7_3,3,Other Privately Purchased Commercial Health Insurance
+endline,c9_insu_u7_3,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c9_insu_u7_3,5,Bright start's support
+endline,c9_insu_u7_3,6,Terre des hommes (Tdh)
+endline,c9_insu_u7_3,7,UNICEF
+endline,c9_insu_u7_3,8,Local charity organization
+endline,c9_insu_u7_3,9,Pact Myanmar
+endline,c9_insu_u7_3,98,Don't know
+endline,c9_insu_u7_3,99,Other (Specify):
+endline,c10_seekcare_u7_3,0,No
+endline,c10_seekcare_u7_3,1,Yes
+endline,c11_disease_u7_1_3,0,No
+endline,c11_disease_u7_1_3,1,Yes
+endline,c11_disease_u7_2_3,0,No
+endline,c11_disease_u7_2_3,1,Yes
+endline,c11_disease_u7_3_3,0,No
+endline,c11_disease_u7_3_3,1,Yes
+endline,c11_disease_u7_4_3,0,No
+endline,c11_disease_u7_4_3,1,Yes
+endline,c11_disease_u7_5_3,0,No
+endline,c11_disease_u7_5_3,1,Yes
+endline,c11_disease_u7_6_3,0,No
+endline,c11_disease_u7_6_3,1,Yes
+endline,c11_disease_u7_7_3,0,No
+endline,c11_disease_u7_7_3,1,Yes
+endline,c11_disease_u7_8_3,0,No
+endline,c11_disease_u7_8_3,1,Yes
+endline,c11_disease_u7_9_3,0,No
+endline,c11_disease_u7_9_3,1,Yes
+endline,c11_disease_u7_10_3,0,No
+endline,c11_disease_u7_10_3,1,Yes
+endline,c11_disease_u7_11_3,0,No
+endline,c11_disease_u7_11_3,1,Yes
+endline,c11_disease_u7_12_3,0,No
+endline,c11_disease_u7_12_3,1,Yes
+endline,c11_disease_u7_13_3,0,No
+endline,c11_disease_u7_13_3,1,Yes
+endline,c11_disease_u7_14_3,0,No
+endline,c11_disease_u7_14_3,1,Yes
+endline,c11_disease_u7_15_3,0,No
+endline,c11_disease_u7_15_3,1,Yes
+endline,c11_disease_u7_16_3,0,No
+endline,c11_disease_u7_16_3,1,Yes
+endline,c11_disease_u7_17_3,0,No
+endline,c11_disease_u7_17_3,1,Yes
+endline,c11_disease_u7_18_3,0,No
+endline,c11_disease_u7_18_3,1,Yes
+endline,c11_disease_u7_19_3,0,No
+endline,c11_disease_u7_19_3,1,Yes
+endline,c11_disease_u7_20_3,0,No
+endline,c11_disease_u7_20_3,1,Yes
+endline,c11_disease_u7_21_3,0,No
+endline,c11_disease_u7_21_3,1,Yes
+endline,c11_disease_u7_22_3,0,No
+endline,c11_disease_u7_22_3,1,Yes
+endline,c11_disease_u7_23_3,0,No
+endline,c11_disease_u7_23_3,1,Yes
+endline,c11_disease_u7_24_3,0,No
+endline,c11_disease_u7_24_3,1,Yes
+endline,c11_disease_u7_25_3,0,No
+endline,c11_disease_u7_25_3,1,Yes
+endline,c11_disease_u7_26_3,0,No
+endline,c11_disease_u7_26_3,1,Yes
+endline,c11_disease_u7_27_3,0,No
+endline,c11_disease_u7_27_3,1,Yes
+endline,c11_disease_u7_28_3,0,No
+endline,c11_disease_u7_28_3,1,Yes
+endline,c11_disease_u7_29_3,0,No
+endline,c11_disease_u7_29_3,1,Yes
+endline,c11_disease_u7_30_3,0,No
+endline,c11_disease_u7_30_3,1,Yes
+endline,c11_disease_u7_31_3,0,No
+endline,c11_disease_u7_31_3,1,Yes
+endline,c11_disease_u7_32_3,0,No
+endline,c11_disease_u7_32_3,1,Yes
+endline,c11_disease_u7_33_3,0,No
+endline,c11_disease_u7_33_3,1,Yes
+endline,c11_disease_u7_34_3,0,No
+endline,c11_disease_u7_34_3,1,Yes
+endline,c11_disease_u7_35_3,0,No
+endline,c11_disease_u7_35_3,1,Yes
+endline,c11_disease_u7_36_3,0,No
+endline,c11_disease_u7_36_3,1,Yes
+endline,c11_disease_u7_37_3,0,No
+endline,c11_disease_u7_37_3,1,Yes
+endline,c11_disease_u7_38_3,0,No
+endline,c11_disease_u7_38_3,1,Yes
+endline,c11_disease_u7_39_3,0,No
+endline,c11_disease_u7_39_3,1,Yes
+endline,c11_disease_u7_40_3,0,No
+endline,c11_disease_u7_40_3,1,Yes
+endline,c11_disease_u7_41_3,0,No
+endline,c11_disease_u7_41_3,1,Yes
+endline,c11_disease_u7_42_3,0,No
+endline,c11_disease_u7_42_3,1,Yes
+endline,c11_disease_u7_43_3,0,No
+endline,c11_disease_u7_43_3,1,Yes
+endline,c11_disease_u7_44_3,0,No
+endline,c11_disease_u7_44_3,1,Yes
+endline,c11_disease_u7_45_3,0,No
+endline,c11_disease_u7_45_3,1,Yes
+endline,c11_disease_u7_46_3,0,No
+endline,c11_disease_u7_46_3,1,Yes
+endline,c11_disease_u7_47_3,0,No
+endline,c11_disease_u7_47_3,1,Yes
+endline,c11_disease_u7_48_3,0,No
+endline,c11_disease_u7_48_3,1,Yes
+endline,c11_disease_u7_98_3,0,No
+endline,c11_disease_u7_98_3,1,Yes
+endline,c11_disease_u7_97_3,0,No
+endline,c11_disease_u7_97_3,1,Yes
+endline,c12_diagnose_u7_3,0,No
+endline,c12_diagnose_u7_3,1,Yes
+endline,c13_medication_u7_3,0,No
+endline,c13_medication_u7_3,1,Yes
+endline,c14_meditake_u7_3,0,No
+endline,c14_meditake_u7_3,1,Yes
+endline,c15_format_u7_1_3,0,No
+endline,c15_format_u7_1_3,1,Yes
+endline,c15_format_u7_2_3,0,No
+endline,c15_format_u7_2_3,1,Yes
+endline,c15_format_u7_3_3,0,No
+endline,c15_format_u7_3_3,1,Yes
+endline,c20_personlast_u7_3,1,Gov't hospital
+endline,c20_personlast_u7_3,2,Gov't rural health center (RHC)
+endline,c20_personlast_u7_3,3,Peri-urban Health Center
+endline,c20_personlast_u7_3,4,Maternal and Child Health Clinic/ Hospital
+endline,c20_personlast_u7_3,5,Family Planning Clinic
+endline,c20_personlast_u7_3,6,Birth Center
+endline,c20_personlast_u7_3,7,Private Hospital/ Clinic
+endline,c20_personlast_u7_3,8,Private Doctor's Office
+endline,c20_personlast_u7_3,9,Traditional Medicine Hospitals
+endline,c20_personlast_u7_3,10,Traditional Medicine Clinics
+endline,c20_personlast_u7_3,11,Patient's Home
+endline,c20_personlast_u7_3,12,Provider's home or store
+endline,c20_personlast_u7_3,13,Charity clinics
+endline,c20_personlast_u7_3,14,Military hospital
+endline,c20_personlast_u7_3,15,Social Security Clinics
+endline,c20_personlast_u7_3,16,Workers' Hospital
+endline,c20_personlast_u7_3,17,Informal provider
+endline,c20_personlast_u7_3,99,Other (Specify):
+endline,c25_assist_u7_0_3,0,No
+endline,c25_assist_u7_0_3,1,Yes
+endline,c25_assist_u7_1_3,0,No
+endline,c25_assist_u7_1_3,1,Yes
+endline,c25_assist_u7_2_3,0,No
+endline,c25_assist_u7_2_3,1,Yes
+endline,c25_assist_u7_3_3,0,No
+endline,c25_assist_u7_3_3,1,Yes
+endline,c25_assist_u7_4_3,0,No
+endline,c25_assist_u7_4_3,1,Yes
+endline,c25_assist_u7_5_3,0,No
+endline,c25_assist_u7_5_3,1,Yes
+endline,c25_assist_u7_6_3,0,No
+endline,c25_assist_u7_6_3,1,Yes
+endline,c25_assist_u7_7_3,0,No
+endline,c25_assist_u7_7_3,1,Yes
+endline,c25_assist_u7_8_3,0,No
+endline,c25_assist_u7_8_3,1,Yes
+endline,c25_assist_u7_9_3,0,No
+endline,c25_assist_u7_9_3,1,Yes
+endline,c25_assist_u7_10_3,0,No
+endline,c25_assist_u7_10_3,1,Yes
+endline,c25_assist_u7_11_3,0,No
+endline,c25_assist_u7_11_3,1,Yes
+endline,c25_assist_u7_12_3,0,No
+endline,c25_assist_u7_12_3,1,Yes
+endline,c25_assist_u7_97_3,0,No
+endline,c25_assist_u7_97_3,1,Yes
+endline,c25_assist_u7_98_3,0,No
+endline,c25_assist_u7_98_3,1,Yes
+endline,c26_nonsick_u7_1_3,0,No
+endline,c26_nonsick_u7_1_3,1,Yes
+endline,c26_nonsick_u7_2_3,0,No
+endline,c26_nonsick_u7_2_3,1,Yes
+endline,c26_nonsick_u7_3_3,0,No
+endline,c26_nonsick_u7_3_3,1,Yes
+endline,c26_nonsick_u7_4_3,0,No
+endline,c26_nonsick_u7_4_3,1,Yes
+endline,c27_notconsult_u7_1_3,0,No
+endline,c27_notconsult_u7_1_3,1,Yes
+endline,c27_notconsult_u7_2_3,0,No
+endline,c27_notconsult_u7_2_3,1,Yes
+endline,c27_notconsult_u7_3_3,0,No
+endline,c27_notconsult_u7_3_3,1,Yes
+endline,c27_notconsult_u7_4_3,0,No
+endline,c27_notconsult_u7_4_3,1,Yes
+endline,c27_notconsult_u7_5_3,0,No
+endline,c27_notconsult_u7_5_3,1,Yes
+endline,c27_notconsult_u7_6_3,0,No
+endline,c27_notconsult_u7_6_3,1,Yes
+endline,c27_notconsult_u7_7_3,0,No
+endline,c27_notconsult_u7_7_3,1,Yes
+endline,c27_notconsult_u7_8_3,0,No
+endline,c27_notconsult_u7_8_3,1,Yes
+endline,c27_notconsult_u7_9_3,0,No
+endline,c27_notconsult_u7_9_3,1,Yes
+endline,c27_notconsult_u7_10_3,0,No
+endline,c27_notconsult_u7_10_3,1,Yes
+endline,c27_notconsult_u7_11_3,0,No
+endline,c27_notconsult_u7_11_3,1,Yes
+endline,c27_notconsult_u7_12_3,0,No
+endline,c27_notconsult_u7_12_3,1,Yes
+endline,c27_notconsult_u7_13_3,0,No
+endline,c27_notconsult_u7_13_3,1,Yes
+endline,c27_notconsult_u7_14_3,0,No
+endline,c27_notconsult_u7_14_3,1,Yes
+endline,c27_notconsult_u7_15_3,0,No
+endline,c27_notconsult_u7_15_3,1,Yes
+endline,c27_notconsult_u7_16_3,0,No
+endline,c27_notconsult_u7_16_3,1,Yes
+endline,c27_notconsult_u7_17_3,0,No
+endline,c27_notconsult_u7_17_3,1,Yes
+endline,c27_notconsult_u7_18_3,0,No
+endline,c27_notconsult_u7_18_3,1,Yes
+endline,c27_notconsult_u7_19_3,0,No
+endline,c27_notconsult_u7_19_3,1,Yes
+endline,c27_notconsult_u7_20_3,0,No
+endline,c27_notconsult_u7_20_3,1,Yes
+endline,c27_notconsult_u7_21_3,0,No
+endline,c27_notconsult_u7_21_3,1,Yes
+endline,c27_notconsult_u7_22_3,0,No
+endline,c27_notconsult_u7_22_3,1,Yes
+endline,c27_notconsult_u7_23_3,0,No
+endline,c27_notconsult_u7_23_3,1,Yes
+endline,c27_notconsult_u7_24_3,0,No
+endline,c27_notconsult_u7_24_3,1,Yes
+endline,c28_inpatient_u7_3,0,No
+endline,c28_inpatient_u7_3,1,Yes
+endline,c29_insu_u7_3,0,No health insurance
+endline,c29_insu_u7_3,1,Social Security
+endline,c29_insu_u7_3,2,Health Insurance through Employer
+endline,c29_insu_u7_3,3,Other Privately Purchased Commercial Health Insurance
+endline,c29_insu_u7_3,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c29_insu_u7_3,5,Bright start's support
+endline,c29_insu_u7_3,6,Terre des hommes (Tdh)
+endline,c29_insu_u7_3,7,UNICEF
+endline,c29_insu_u7_3,8,Local charity organization
+endline,c29_insu_u7_3,9,Pact Myanmar
+endline,c29_insu_u7_3,98,Don't know
+endline,c29_insu_u7_3,99,Other (Specify):
+endline,c2_nature_u7_1_4,0,No
+endline,c2_nature_u7_1_4,1,Yes
+endline,c2_nature_u7_2_4,0,No
+endline,c2_nature_u7_2_4,1,Yes
+endline,c2_nature_u7_3_4,0,No
+endline,c2_nature_u7_3_4,1,Yes
+endline,c2_nature_u7_4_4,0,No
+endline,c2_nature_u7_4_4,1,Yes
+endline,c2_nature_u7_5_4,0,No
+endline,c2_nature_u7_5_4,1,Yes
+endline,c2_nature_u7_6_4,0,No
+endline,c2_nature_u7_6_4,1,Yes
+endline,c2_nature_u7_7_4,0,No
+endline,c2_nature_u7_7_4,1,Yes
+endline,c2_nature_u7_8_4,0,No
+endline,c2_nature_u7_8_4,1,Yes
+endline,c2_nature_u7_9_4,0,No
+endline,c2_nature_u7_9_4,1,Yes
+endline,c2_nature_u7_10_4,0,No
+endline,c2_nature_u7_10_4,1,Yes
+endline,c2_nature_u7_11_4,0,No
+endline,c2_nature_u7_11_4,1,Yes
+endline,c3_test_u7_4,0,No
+endline,c3_test_u7_4,1,Yes
+endline,c7_compare_u7_4,1,Healthcare use increased
+endline,c7_compare_u7_4,2,Healthcare use decreased
+endline,c7_compare_u7_4,3,Healthcare use did not change
+endline,c7_compare_u7_4,4,"The child was born after November,2021"
+endline,c8_illyesno_u7_4,0,No
+endline,c8_illyesno_u7_4,1,Yes
+endline,c9_insu_u7_4,0,No health insurance
+endline,c9_insu_u7_4,1,Social Security
+endline,c9_insu_u7_4,2,Health Insurance through Employer
+endline,c9_insu_u7_4,3,Other Privately Purchased Commercial Health Insurance
+endline,c9_insu_u7_4,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c9_insu_u7_4,5,Bright start's support
+endline,c9_insu_u7_4,6,Terre des hommes (Tdh)
+endline,c9_insu_u7_4,7,UNICEF
+endline,c9_insu_u7_4,8,Local charity organization
+endline,c9_insu_u7_4,9,Pact Myanmar
+endline,c9_insu_u7_4,98,Don't know
+endline,c9_insu_u7_4,99,Other (Specify):
+endline,c10_seekcare_u7_4,0,No
+endline,c10_seekcare_u7_4,1,Yes
+endline,c11_disease_u7_1_4,0,No
+endline,c11_disease_u7_1_4,1,Yes
+endline,c11_disease_u7_2_4,0,No
+endline,c11_disease_u7_2_4,1,Yes
+endline,c11_disease_u7_3_4,0,No
+endline,c11_disease_u7_3_4,1,Yes
+endline,c11_disease_u7_4_4,0,No
+endline,c11_disease_u7_4_4,1,Yes
+endline,c11_disease_u7_5_4,0,No
+endline,c11_disease_u7_5_4,1,Yes
+endline,c11_disease_u7_6_4,0,No
+endline,c11_disease_u7_6_4,1,Yes
+endline,c11_disease_u7_7_4,0,No
+endline,c11_disease_u7_7_4,1,Yes
+endline,c11_disease_u7_8_4,0,No
+endline,c11_disease_u7_8_4,1,Yes
+endline,c11_disease_u7_9_4,0,No
+endline,c11_disease_u7_9_4,1,Yes
+endline,c11_disease_u7_10_4,0,No
+endline,c11_disease_u7_10_4,1,Yes
+endline,c11_disease_u7_11_4,0,No
+endline,c11_disease_u7_11_4,1,Yes
+endline,c11_disease_u7_12_4,0,No
+endline,c11_disease_u7_12_4,1,Yes
+endline,c11_disease_u7_13_4,0,No
+endline,c11_disease_u7_13_4,1,Yes
+endline,c11_disease_u7_14_4,0,No
+endline,c11_disease_u7_14_4,1,Yes
+endline,c11_disease_u7_15_4,0,No
+endline,c11_disease_u7_15_4,1,Yes
+endline,c11_disease_u7_16_4,0,No
+endline,c11_disease_u7_16_4,1,Yes
+endline,c11_disease_u7_17_4,0,No
+endline,c11_disease_u7_17_4,1,Yes
+endline,c11_disease_u7_18_4,0,No
+endline,c11_disease_u7_18_4,1,Yes
+endline,c11_disease_u7_19_4,0,No
+endline,c11_disease_u7_19_4,1,Yes
+endline,c11_disease_u7_20_4,0,No
+endline,c11_disease_u7_20_4,1,Yes
+endline,c11_disease_u7_21_4,0,No
+endline,c11_disease_u7_21_4,1,Yes
+endline,c11_disease_u7_22_4,0,No
+endline,c11_disease_u7_22_4,1,Yes
+endline,c11_disease_u7_23_4,0,No
+endline,c11_disease_u7_23_4,1,Yes
+endline,c11_disease_u7_24_4,0,No
+endline,c11_disease_u7_24_4,1,Yes
+endline,c11_disease_u7_25_4,0,No
+endline,c11_disease_u7_25_4,1,Yes
+endline,c11_disease_u7_26_4,0,No
+endline,c11_disease_u7_26_4,1,Yes
+endline,c11_disease_u7_27_4,0,No
+endline,c11_disease_u7_27_4,1,Yes
+endline,c11_disease_u7_28_4,0,No
+endline,c11_disease_u7_28_4,1,Yes
+endline,c11_disease_u7_29_4,0,No
+endline,c11_disease_u7_29_4,1,Yes
+endline,c11_disease_u7_30_4,0,No
+endline,c11_disease_u7_30_4,1,Yes
+endline,c11_disease_u7_31_4,0,No
+endline,c11_disease_u7_31_4,1,Yes
+endline,c11_disease_u7_32_4,0,No
+endline,c11_disease_u7_32_4,1,Yes
+endline,c11_disease_u7_33_4,0,No
+endline,c11_disease_u7_33_4,1,Yes
+endline,c11_disease_u7_34_4,0,No
+endline,c11_disease_u7_34_4,1,Yes
+endline,c11_disease_u7_35_4,0,No
+endline,c11_disease_u7_35_4,1,Yes
+endline,c11_disease_u7_36_4,0,No
+endline,c11_disease_u7_36_4,1,Yes
+endline,c11_disease_u7_37_4,0,No
+endline,c11_disease_u7_37_4,1,Yes
+endline,c11_disease_u7_38_4,0,No
+endline,c11_disease_u7_38_4,1,Yes
+endline,c11_disease_u7_39_4,0,No
+endline,c11_disease_u7_39_4,1,Yes
+endline,c11_disease_u7_40_4,0,No
+endline,c11_disease_u7_40_4,1,Yes
+endline,c11_disease_u7_41_4,0,No
+endline,c11_disease_u7_41_4,1,Yes
+endline,c11_disease_u7_42_4,0,No
+endline,c11_disease_u7_42_4,1,Yes
+endline,c11_disease_u7_43_4,0,No
+endline,c11_disease_u7_43_4,1,Yes
+endline,c11_disease_u7_44_4,0,No
+endline,c11_disease_u7_44_4,1,Yes
+endline,c11_disease_u7_45_4,0,No
+endline,c11_disease_u7_45_4,1,Yes
+endline,c11_disease_u7_46_4,0,No
+endline,c11_disease_u7_46_4,1,Yes
+endline,c11_disease_u7_47_4,0,No
+endline,c11_disease_u7_47_4,1,Yes
+endline,c11_disease_u7_48_4,0,No
+endline,c11_disease_u7_48_4,1,Yes
+endline,c11_disease_u7_98_4,0,No
+endline,c11_disease_u7_98_4,1,Yes
+endline,c11_disease_u7_97_4,0,No
+endline,c11_disease_u7_97_4,1,Yes
+endline,c12_diagnose_u7_4,0,No
+endline,c12_diagnose_u7_4,1,Yes
+endline,c13_medication_u7_4,0,No
+endline,c13_medication_u7_4,1,Yes
+endline,c14_meditake_u7_4,0,No
+endline,c14_meditake_u7_4,1,Yes
+endline,c15_format_u7_1_4,0,No
+endline,c15_format_u7_1_4,1,Yes
+endline,c15_format_u7_2_4,0,No
+endline,c15_format_u7_2_4,1,Yes
+endline,c15_format_u7_3_4,0,No
+endline,c15_format_u7_3_4,1,Yes
+endline,c20_personlast_u7_4,1,Gov't hospital
+endline,c20_personlast_u7_4,2,Gov't rural health center (RHC)
+endline,c20_personlast_u7_4,3,Peri-urban Health Center
+endline,c20_personlast_u7_4,4,Maternal and Child Health Clinic/ Hospital
+endline,c20_personlast_u7_4,5,Family Planning Clinic
+endline,c20_personlast_u7_4,6,Birth Center
+endline,c20_personlast_u7_4,7,Private Hospital/ Clinic
+endline,c20_personlast_u7_4,8,Private Doctor's Office
+endline,c20_personlast_u7_4,9,Traditional Medicine Hospitals
+endline,c20_personlast_u7_4,10,Traditional Medicine Clinics
+endline,c20_personlast_u7_4,11,Patient's Home
+endline,c20_personlast_u7_4,12,Provider's home or store
+endline,c20_personlast_u7_4,13,Charity clinics
+endline,c20_personlast_u7_4,14,Military hospital
+endline,c20_personlast_u7_4,15,Social Security Clinics
+endline,c20_personlast_u7_4,16,Workers' Hospital
+endline,c20_personlast_u7_4,17,Informal provider
+endline,c20_personlast_u7_4,99,Other (Specify):
+endline,c25_assist_u7_0_4,0,No
+endline,c25_assist_u7_0_4,1,Yes
+endline,c25_assist_u7_1_4,0,No
+endline,c25_assist_u7_1_4,1,Yes
+endline,c25_assist_u7_2_4,0,No
+endline,c25_assist_u7_2_4,1,Yes
+endline,c25_assist_u7_3_4,0,No
+endline,c25_assist_u7_3_4,1,Yes
+endline,c25_assist_u7_4_4,0,No
+endline,c25_assist_u7_4_4,1,Yes
+endline,c25_assist_u7_5_4,0,No
+endline,c25_assist_u7_5_4,1,Yes
+endline,c25_assist_u7_6_4,0,No
+endline,c25_assist_u7_6_4,1,Yes
+endline,c25_assist_u7_7_4,0,No
+endline,c25_assist_u7_7_4,1,Yes
+endline,c25_assist_u7_8_4,0,No
+endline,c25_assist_u7_8_4,1,Yes
+endline,c25_assist_u7_9_4,0,No
+endline,c25_assist_u7_9_4,1,Yes
+endline,c25_assist_u7_10_4,0,No
+endline,c25_assist_u7_10_4,1,Yes
+endline,c25_assist_u7_11_4,0,No
+endline,c25_assist_u7_11_4,1,Yes
+endline,c25_assist_u7_12_4,0,No
+endline,c25_assist_u7_12_4,1,Yes
+endline,c25_assist_u7_97_4,0,No
+endline,c25_assist_u7_97_4,1,Yes
+endline,c25_assist_u7_98_4,0,No
+endline,c25_assist_u7_98_4,1,Yes
+endline,c26_nonsick_u7_1_4,0,No
+endline,c26_nonsick_u7_1_4,1,Yes
+endline,c26_nonsick_u7_2_4,0,No
+endline,c26_nonsick_u7_2_4,1,Yes
+endline,c26_nonsick_u7_3_4,0,No
+endline,c26_nonsick_u7_3_4,1,Yes
+endline,c26_nonsick_u7_4_4,0,No
+endline,c26_nonsick_u7_4_4,1,Yes
+endline,c27_notconsult_u7_1_4,0,No
+endline,c27_notconsult_u7_1_4,1,Yes
+endline,c27_notconsult_u7_2_4,0,No
+endline,c27_notconsult_u7_2_4,1,Yes
+endline,c27_notconsult_u7_3_4,0,No
+endline,c27_notconsult_u7_3_4,1,Yes
+endline,c27_notconsult_u7_4_4,0,No
+endline,c27_notconsult_u7_4_4,1,Yes
+endline,c27_notconsult_u7_5_4,0,No
+endline,c27_notconsult_u7_5_4,1,Yes
+endline,c27_notconsult_u7_6_4,0,No
+endline,c27_notconsult_u7_6_4,1,Yes
+endline,c27_notconsult_u7_7_4,0,No
+endline,c27_notconsult_u7_7_4,1,Yes
+endline,c27_notconsult_u7_8_4,0,No
+endline,c27_notconsult_u7_8_4,1,Yes
+endline,c27_notconsult_u7_9_4,0,No
+endline,c27_notconsult_u7_9_4,1,Yes
+endline,c27_notconsult_u7_10_4,0,No
+endline,c27_notconsult_u7_10_4,1,Yes
+endline,c27_notconsult_u7_11_4,0,No
+endline,c27_notconsult_u7_11_4,1,Yes
+endline,c27_notconsult_u7_12_4,0,No
+endline,c27_notconsult_u7_12_4,1,Yes
+endline,c27_notconsult_u7_13_4,0,No
+endline,c27_notconsult_u7_13_4,1,Yes
+endline,c27_notconsult_u7_14_4,0,No
+endline,c27_notconsult_u7_14_4,1,Yes
+endline,c27_notconsult_u7_15_4,0,No
+endline,c27_notconsult_u7_15_4,1,Yes
+endline,c27_notconsult_u7_16_4,0,No
+endline,c27_notconsult_u7_16_4,1,Yes
+endline,c27_notconsult_u7_17_4,0,No
+endline,c27_notconsult_u7_17_4,1,Yes
+endline,c27_notconsult_u7_18_4,0,No
+endline,c27_notconsult_u7_18_4,1,Yes
+endline,c27_notconsult_u7_19_4,0,No
+endline,c27_notconsult_u7_19_4,1,Yes
+endline,c27_notconsult_u7_20_4,0,No
+endline,c27_notconsult_u7_20_4,1,Yes
+endline,c27_notconsult_u7_21_4,0,No
+endline,c27_notconsult_u7_21_4,1,Yes
+endline,c27_notconsult_u7_22_4,0,No
+endline,c27_notconsult_u7_22_4,1,Yes
+endline,c27_notconsult_u7_23_4,0,No
+endline,c27_notconsult_u7_23_4,1,Yes
+endline,c27_notconsult_u7_24_4,0,No
+endline,c27_notconsult_u7_24_4,1,Yes
+endline,c28_inpatient_u7_4,0,No
+endline,c28_inpatient_u7_4,1,Yes
+endline,c29_insu_u7_4,0,No health insurance
+endline,c29_insu_u7_4,1,Social Security
+endline,c29_insu_u7_4,2,Health Insurance through Employer
+endline,c29_insu_u7_4,3,Other Privately Purchased Commercial Health Insurance
+endline,c29_insu_u7_4,4,Mutual Health Organization/ Community-based Health Insurance
+endline,c29_insu_u7_4,5,Bright start's support
+endline,c29_insu_u7_4,6,Terre des hommes (Tdh)
+endline,c29_insu_u7_4,7,UNICEF
+endline,c29_insu_u7_4,8,Local charity organization
+endline,c29_insu_u7_4,9,Pact Myanmar
+endline,c29_insu_u7_4,98,Don't know
+endline,c29_insu_u7_4,99,Other (Specify):
+endline,c39_1_earn,0,No
+endline,c39_1_earn,1,Yes
+endline,c39_ownearn,1,Respondent
+endline,c39_ownearn,2,Husband/ Partner
+endline,c39_ownearn,3,Respondent and Husband/ Partner Jointly
+endline,c39_ownearn,4,My parents
+endline,c39_ownearn,5,Husband/Partner's parents
+endline,c39_ownearn,6,Respondent is Male.
+endline,c39_ownearn,99,Other (Specify):
+endline,c40_husearn,1,Respondent
+endline,c40_husearn,2,Husband/ Partner
+endline,c40_husearn,3,Respondent and Husband/ Partner Jointly
+endline,c40_husearn,4,My parents
+endline,c40_husearn,5,Husband/Partner's parents
+endline,c40_husearn,6,Respondent is Male.
+endline,c40_husearn,7,Husband partner was died/divorced/separated/single
+endline,c40_husearn,8,The reponsdent was spinster
+endline,c40_husearn,99,Other (Specify):
+endline,c41_health,1,Respondent
+endline,c41_health,2,Husband/ Partner
+endline,c41_health,3,Respondent and Husband/ Partner Jointly
+endline,c41_health,4,My parents
+endline,c41_health,5,Husband/Partner's parents
+endline,c41_health,6,Respondent is Male.
+endline,c41_health,99,Other (Specify):
+endline,c42_health_child,1,Respondent
+endline,c42_health_child,2,Husband/ Partner
+endline,c42_health_child,3,Respondent and Husband/ Partner Jointly
+endline,c42_health_child,4,My parents
+endline,c42_health_child,5,Husband/Partner's parents
+endline,c42_health_child,6,Respondent is Male.
+endline,c42_health_child,99,Other (Specify):
+endline,d1_preg,0,No
+endline,d1_preg,1,Yes
+endline,d1_preg,97,Don't want to answer
+endline,d1_preg,98,Don't Know
+endline,d2_insu_preg,0,No health insurance
+endline,d2_insu_preg,1,Social Security
+endline,d2_insu_preg,2,Health Insurance through Employer
+endline,d2_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+endline,d2_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+endline,d2_insu_preg,5,Bright start's support
+endline,d2_insu_preg,6,Terre des hommes (Tdh)
+endline,d2_insu_preg,7,UNICEF
+endline,d2_insu_preg,8,Local charity organization
+endline,d2_insu_preg,9,Pact Myanmar
+endline,d2_insu_preg,98,Don't know
+endline,d2_insu_preg,99,Other (Specify):
+endline,d4_anc,0,No
+endline,d4_anc,1,Yes
+endline,d8_antecare_1,0,No
+endline,d8_antecare_1,1,Yes
+endline,d8_antecare_2,0,No
+endline,d8_antecare_2,1,Yes
+endline,d8_antecare_3,0,No
+endline,d8_antecare_3,1,Yes
+endline,d8_antecare_4,0,No
+endline,d8_antecare_4,1,Yes
+endline,d8_antecare_5,0,No
+endline,d8_antecare_5,1,Yes
+endline,d8_antecare_6,0,No
+endline,d8_antecare_6,1,Yes
+endline,d8_antecare_7,0,No
+endline,d8_antecare_7,1,Yes
+endline,d8_antecare_8,0,No
+endline,d8_antecare_8,1,Yes
+endline,d8_antecare_9,0,No
+endline,d8_antecare_9,1,Yes
+endline,d8_antecare_10,0,No
+endline,d8_antecare_10,1,Yes
+endline,d8_antecare_11,0,No
+endline,d8_antecare_11,1,Yes
+endline,d9_admit,0,No
+endline,d9_admit,1,Yes
+endline,d10_past_preg_end,0,No
+endline,d10_past_preg_end,1,Yes
+endline,past_preg_outcome,1,Live birth
+endline,past_preg_outcome,2,Still birth
+endline,past_preg_outcome,3,Abortion
+endline,past_preg_outcome,99,Other (specify)
+endline,dob_yn,0,No
+endline,dob_yn,1,Yes
+endline,d12_place,1,Government hospital
+endline,d12_place,2,Government Rural health center(RHC)
+endline,d12_place,3,Peri-urban Health Center
+endline,d12_place,4,Maternal and Child Health Clinic/ Hospital
+endline,d12_place,5,Family Planning Clinic
+endline,d12_place,6,Birth Center
+endline,d12_place,7,Private Hospital/ Clinic
+endline,d12_place,8,Private Doctor's Office
+endline,d12_place,9,Traditional Medicine Hospitals
+endline,d12_place,10,Traditional Medicine Clinics
+endline,d12_place,11,Patient's Home
+endline,d12_place,12,Provider's home or store
+endline,d12_place,13,Charity Clinic
+endline,d12_place,14,Military Hosipital
+endline,d12_place,15,Miscarriage
+endline,d12_place,16,Workers' Hospital
+endline,d12_place,17,"Hospitals in foreign countries (Thailand, Malaysia,etc)"
+endline,d12_place,99,Other (Specify):
+endline,d12_assist_del,0,No one assisted
+endline,d12_assist_del,1,Doctor
+endline,d12_assist_del,2,Nurse/Midwife/LHV
+endline,d12_assist_del,3,Auxiliary Midwife
+endline,d12_assist_del,4,Traditional Birth Attendant
+endline,d12_assist_del,5,Relative/Friend
+endline,d12_assist_del,99,Other (specify)
+endline,d13_reason_1,0,No
+endline,d13_reason_1,1,Yes
+endline,d13_reason_2,0,No
+endline,d13_reason_2,1,Yes
+endline,d13_reason_3,0,No
+endline,d13_reason_3,1,Yes
+endline,d13_reason_4,0,No
+endline,d13_reason_4,1,Yes
+endline,d13_reason_5,0,No
+endline,d13_reason_5,1,Yes
+endline,d13_reason_6,0,No
+endline,d13_reason_6,1,Yes
+endline,d13_reason_7,0,No
+endline,d13_reason_7,1,Yes
+endline,d13_reason_8,0,No
+endline,d13_reason_8,1,Yes
+endline,d13_reason_9,0,No
+endline,d13_reason_9,1,Yes
+endline,d13_reason_10,0,No
+endline,d13_reason_10,1,Yes
+endline,d13_reason_11,0,No
+endline,d13_reason_11,1,Yes
+endline,d13_reason_12,0,No
+endline,d13_reason_12,1,Yes
+endline,d13_reason_13,0,No
+endline,d13_reason_13,1,Yes
+endline,d13_reason_14,0,No
+endline,d13_reason_14,1,Yes
+endline,d13_reason_15,0,No
+endline,d13_reason_15,1,Yes
+endline,d13_reason_16,0,No
+endline,d13_reason_16,1,Yes
+endline,d13_reason_17,0,No
+endline,d13_reason_17,1,Yes
+endline,d13_reason_18,0,No
+endline,d13_reason_18,1,Yes
+endline,d13_reason_19,0,No
+endline,d13_reason_19,1,Yes
+endline,d13_reason_20,0,No
+endline,d13_reason_20,1,Yes
+endline,d13_reason_21,0,No
+endline,d13_reason_21,1,Yes
+endline,d13_reason_22,0,No
+endline,d13_reason_22,1,Yes
+endline,d13_reason_23,0,No
+endline,d13_reason_23,1,Yes
+endline,d13_reason_24,0,No
+endline,d13_reason_24,1,Yes
+endline,d13_reason_25,0,No
+endline,d13_reason_25,1,Yes
+endline,d13_reason_26,0,No
+endline,d13_reason_26,1,Yes
+endline,d13_reason_27,0,No
+endline,d13_reason_27,1,Yes
+endline,d13_anc_yn,0,No
+endline,d13_anc_yn,1,Yes
+endline,d14_antecare_1,0,No
+endline,d14_antecare_1,1,Yes
+endline,d14_antecare_2,0,No
+endline,d14_antecare_2,1,Yes
+endline,d14_antecare_3,0,No
+endline,d14_antecare_3,1,Yes
+endline,d14_antecare_4,0,No
+endline,d14_antecare_4,1,Yes
+endline,d14_antecare_5,0,No
+endline,d14_antecare_5,1,Yes
+endline,d14_antecare_6,0,No
+endline,d14_antecare_6,1,Yes
+endline,d14_antecare_7,0,No
+endline,d14_antecare_7,1,Yes
+endline,d14_antecare_8,0,No
+endline,d14_antecare_8,1,Yes
+endline,d14_antecare_9,0,No
+endline,d14_antecare_9,1,Yes
+endline,d14_antecare_10,0,No
+endline,d14_antecare_10,1,Yes
+endline,d14_antecare_11,0,No
+endline,d14_antecare_11,1,Yes
+endline,d15_admit,0,No
+endline,d15_admit,1,Yes
+endline,d15_admit_reason,1,High blood pressure
+endline,d15_admit_reason,2,Preterm labor
+endline,d15_admit_reason,3,Premature rupture of membrane
+endline,d15_admit_reason,4,Vaginal bleeding during pregnancy
+endline,d15_admit_reason,5,Fever
+endline,d15_admit_reason,6,UTI
+endline,d15_admit_reason,7,Fall/accident
+endline,d15_admit_reason,8,No fetal heart sounds detected
+endline,d15_admit_reason,9,No fetal movement detected
+endline,d15_admit_reason,10,Diabetes during pregnancy
+endline,d15_admit_reason,11,Elective caesarean section
+endline,d15_admit_reason,12,Abnormal fetal presentation
+endline,d15_admit_reason,98,Don't know
+endline,d15_admit_reason,99,Other (specify)
+endline,d15_insutype,0,No health insurance
+endline,d15_insutype,1,Social Security
+endline,d15_insutype,2,Health Insurance through Employer
+endline,d15_insutype,3,Other Privately Purchased Commercial Health Insurance
+endline,d15_insutype,4,Mutual Health Organization/ Community-based Health Insurance
+endline,d15_insutype,5,Bright start's support
+endline,d15_insutype,6,Terre des hommes (Tdh)
+endline,d15_insutype,7,UNICEF
+endline,d15_insutype,8,Local charity organization
+endline,d15_insutype,9,Pact Myanmar
+endline,d15_insutype,98,Don't know
+endline,d15_insutype,99,Other (Specify):
+endline,d16_assist_yn,0,No
+endline,d16_assist_yn,1,Yes
+endline,d17_prog_support_1,0,No
+endline,d17_prog_support_1,1,Yes
+endline,d17_prog_support_2,0,No
+endline,d17_prog_support_2,1,Yes
+endline,d17_prog_support_3,0,No
+endline,d17_prog_support_3,1,Yes
+endline,d17_prog_support_4,0,No
+endline,d17_prog_support_4,1,Yes
+endline,e1_vaccine_1,1,Yes
+endline,e1_vaccine_1,2,No
+endline,e1_vaccine_1,98,Don't know
+endline,e2_vaccine_record_1,1,Yes
+endline,e2_vaccine_record_1,2,No
+endline,e2_vaccine_record_1,98,Don't know
+endline,e3a_birth_1,1,Yes
+endline,e3a_birth_1,2,No
+endline,e3a_birth_1,98,Don't know
+endline,e3b_2months_1,1,Yes
+endline,e3b_2months_1,2,No
+endline,e3b_2months_1,98,Don't know
+endline,e3c_4months_1,1,Yes
+endline,e3c_4months_1,2,No
+endline,e3c_4months_1,98,Don't know
+endline,e3c_6months_1,1,Yes
+endline,e3c_6months_1,2,No
+endline,e3c_6months_1,98,Don't know
+endline,e3d_9months_1,1,Yes
+endline,e3d_9months_1,2,No
+endline,e3d_9months_1,98,Don't know
+endline,e3e_half_1,1,Yes
+endline,e3e_half_1,2,No
+endline,e3e_half_1,98,Don't know
+endline,e3f_other_1,1,Yes
+endline,e3f_other_1,2,No
+endline,e3f_other_1,98,Don't know
+endline,e4_1_covid_1,1,Yes
+endline,e4_1_covid_1,2,No
+endline,e4_1_covid_1,98,Don't know
+endline,e1_vaccine_2,1,Yes
+endline,e1_vaccine_2,2,No
+endline,e1_vaccine_2,98,Don't know
+endline,e2_vaccine_record_2,1,Yes
+endline,e2_vaccine_record_2,2,No
+endline,e2_vaccine_record_2,98,Don't know
+endline,e3a_birth_2,1,Yes
+endline,e3a_birth_2,2,No
+endline,e3a_birth_2,98,Don't know
+endline,e3b_2months_2,1,Yes
+endline,e3b_2months_2,2,No
+endline,e3b_2months_2,98,Don't know
+endline,e3c_4months_2,1,Yes
+endline,e3c_4months_2,2,No
+endline,e3c_4months_2,98,Don't know
+endline,e3c_6months_2,1,Yes
+endline,e3c_6months_2,2,No
+endline,e3c_6months_2,98,Don't know
+endline,e3d_9months_2,1,Yes
+endline,e3d_9months_2,2,No
+endline,e3d_9months_2,98,Don't know
+endline,e3e_half_2,1,Yes
+endline,e3e_half_2,2,No
+endline,e3e_half_2,98,Don't know
+endline,e3f_other_2,1,Yes
+endline,e3f_other_2,2,No
+endline,e3f_other_2,98,Don't know
+endline,e4_1_covid_2,1,Yes
+endline,e4_1_covid_2,2,No
+endline,e4_1_covid_2,98,Don't know
+endline,e1_vaccine_3,1,Yes
+endline,e1_vaccine_3,2,No
+endline,e1_vaccine_3,98,Don't know
+endline,e2_vaccine_record_3,1,Yes
+endline,e2_vaccine_record_3,2,No
+endline,e2_vaccine_record_3,98,Don't know
+endline,e3a_birth_3,1,Yes
+endline,e3a_birth_3,2,No
+endline,e3a_birth_3,98,Don't know
+endline,e3b_2months_3,1,Yes
+endline,e3b_2months_3,2,No
+endline,e3b_2months_3,98,Don't know
+endline,e3c_4months_3,1,Yes
+endline,e3c_4months_3,2,No
+endline,e3c_4months_3,98,Don't know
+endline,e3c_6months_3,1,Yes
+endline,e3c_6months_3,2,No
+endline,e3c_6months_3,98,Don't know
+endline,e3d_9months_3,1,Yes
+endline,e3d_9months_3,2,No
+endline,e3d_9months_3,98,Don't know
+endline,e3e_half_3,1,Yes
+endline,e3e_half_3,2,No
+endline,e3e_half_3,98,Don't know
+endline,e3f_other_3,1,Yes
+endline,e3f_other_3,2,No
+endline,e3f_other_3,98,Don't know
+endline,e4_1_covid_3,1,Yes
+endline,e4_1_covid_3,2,No
+endline,e4_1_covid_3,98,Don't know
+endline,e1_vaccine_4,1,Yes
+endline,e1_vaccine_4,2,No
+endline,e1_vaccine_4,98,Don't know
+endline,e2_vaccine_record_4,1,Yes
+endline,e2_vaccine_record_4,2,No
+endline,e2_vaccine_record_4,98,Don't know
+endline,e3a_birth_4,1,Yes
+endline,e3a_birth_4,2,No
+endline,e3a_birth_4,98,Don't know
+endline,e3b_2months_4,1,Yes
+endline,e3b_2months_4,2,No
+endline,e3b_2months_4,98,Don't know
+endline,e3c_4months_4,1,Yes
+endline,e3c_4months_4,2,No
+endline,e3c_4months_4,98,Don't know
+endline,e3c_6months_4,1,Yes
+endline,e3c_6months_4,2,No
+endline,e3c_6months_4,98,Don't know
+endline,e3d_9months_4,1,Yes
+endline,e3d_9months_4,2,No
+endline,e3d_9months_4,98,Don't know
+endline,e3e_half_4,1,Yes
+endline,e3e_half_4,2,No
+endline,e3e_half_4,98,Don't know
+endline,e3f_other_4,1,Yes
+endline,e3f_other_4,2,No
+endline,e3f_other_4,98,Don't know
+endline,e4_1_covid_4,1,Yes
+endline,e4_1_covid_4,2,No
+endline,e4_1_covid_4,98,Don't know
+endline,f1_income_0,0,No
+endline,f1_income_0,1,Yes
+endline,f1_income_1,0,No
+endline,f1_income_1,1,Yes
+endline,f1_income_2,0,No
+endline,f1_income_2,1,Yes
+endline,f1_income_3,0,No
+endline,f1_income_3,1,Yes
+endline,f1_income_4,0,No
+endline,f1_income_4,1,Yes
+endline,f1_income_5,0,No
+endline,f1_income_5,1,Yes
+endline,f1_income_6,0,No
+endline,f1_income_6,1,Yes
+endline,f1_income_7,0,No
+endline,f1_income_7,1,Yes
+endline,f1_income_8,0,No
+endline,f1_income_8,1,Yes
+endline,f1_income_9,0,No
+endline,f1_income_9,1,Yes
+endline,f1_income_10,0,No
+endline,f1_income_10,1,Yes
+endline,f1_income_11,0,No
+endline,f1_income_11,1,Yes
+endline,f1_income_12,0,No
+endline,f1_income_12,1,Yes
+endline,f1_income_13,0,No
+endline,f1_income_13,1,Yes
+endline,f1_income_14,0,No
+endline,f1_income_14,1,Yes
+endline,f1_income_15,0,No
+endline,f1_income_15,1,Yes
+endline,f1_income_16,0,No
+endline,f1_income_16,1,Yes
+endline,f1_income_17,0,No
+endline,f1_income_17,1,Yes
+endline,f1_income_18,0,No
+endline,f1_income_18,1,Yes
+endline,f1_income_19,0,No
+endline,f1_income_19,1,Yes
+endline,f1_income_20,0,No
+endline,f1_income_20,1,Yes
+endline,f1_income_21,0,No
+endline,f1_income_21,1,Yes
+endline,f1_income_22,0,No
+endline,f1_income_22,1,Yes
+endline,f1_income_23,0,No
+endline,f1_income_23,1,Yes
+endline,f1_income_24,0,No
+endline,f1_income_24,1,Yes
+endline,f1_income_25,0,No
+endline,f1_income_25,1,Yes
+endline,f1_income_26,0,No
+endline,f1_income_26,1,Yes
+endline,f1_income_27,0,No
+endline,f1_income_27,1,Yes
+endline,f1_income_28,0,No
+endline,f1_income_28,1,Yes
+endline,f1_income_29,0,No
+endline,f1_income_29,1,Yes
+endline,f1_income_30,0,No
+endline,f1_income_30,1,Yes
+endline,f1_income_31,0,No
+endline,f1_income_31,1,Yes
+endline,f1_income_32,0,No
+endline,f1_income_32,1,Yes
+endline,f1_income_33,0,No
+endline,f1_income_33,1,Yes
+endline,f1_income_34,0,No
+endline,f1_income_34,1,Yes
+endline,f1_income_35,0,No
+endline,f1_income_35,1,Yes
+endline,f1_income_36,0,No
+endline,f1_income_36,1,Yes
+endline,f1_income_37,0,No
+endline,f1_income_37,1,Yes
+endline,f2_incomeone,0,None/unemployed
+endline,f2_incomeone,1,Farming
+endline,f2_incomeone,2,Livestock and poultry raising
+endline,f2_incomeone,3,Fishing
+endline,f2_incomeone,4,Wholesale and retail trade
+endline,f2_incomeone,5,Peddling
+endline,f2_incomeone,6,Manufacturing/handicraft
+endline,f2_incomeone,7,Salaried employment
+endline,f2_incomeone,8,Skilled Labourer
+endline,f2_incomeone,9,Agricultural daily labourer
+endline,f2_incomeone,10,Other daily labourer
+endline,f2_incomeone,11,"Private gifts, donations, assistance"
+endline,f2_incomeone,12,"Government assistance, pensions"
+endline,f2_incomeone,13,Remittance from abroad
+endline,f2_incomeone,14,Remittance from other parts of the country
+endline,f2_incomeone,15,Tourism-related work
+endline,f2_incomeone,16, Transport-related services
+endline,f2_incomeone,17,Broker
+endline,f2_incomeone,18,Land and housing rental agent
+endline,f2_incomeone,19,Money lander
+endline,f2_incomeone,20,Street venders
+endline,f2_incomeone,21,Stone collector
+endline,f2_incomeone,22,Hostel Service
+endline,f2_incomeone,23,Small petroleum extraction
+endline,f2_incomeone,24,Internet Café
+endline,f2_incomeone,25,Logger
+endline,f2_incomeone,26,Aircon services
+endline,f2_incomeone,27,Construction
+endline,f2_incomeone,28,Selling water
+endline,f2_incomeone,29,Copyer and Printing Shop
+endline,f2_incomeone,30,Quack Doctor
+endline,f2_incomeone,31,Selling firewood
+endline,f2_incomeone,32,Pharmacy shop
+endline,f2_incomeone,33,Tailor
+endline,f2_incomeone,34,Astrologer
+endline,f2_incomeone,35,Renting house to others
+endline,f2_incomeone,36,Phone/car/motorbike reparing service
+endline,f2_incomeone,37,Barber shop/beauty saloon
+endline,f4k_other_oth,1,Support to parents or other family members
+endline,f4k_other_oth,2,"Baby/child's accessories (diapers,toys,etc)"
+endline,f4k_other_oth,3,Household accessories and maintenance
+endline,f4k_other_oth,4,"Recreation (alcohol, cigarettes,etc)"
+endline,f4k_other_oth,5,Investment in job
+endline,f4k_other_oth,6,Baby sitter fees
+endline,f4k_other_oth,7,Loan reimbursement
+endline,f4k_other_oth,8,Cooking fuel
+endline,f4k_other_oth,9,security cost
+endline,f4k_other_oth,10,Administrative cost
+endline,f4k_other_oth,11,Personal accessories cost
+endline,f5_spend_compare,1,Increased
+endline,f5_spend_compare,2,Remain the same
+endline,f5_spend_compare,3,Decreased
+endline,f6_assist_yn,0,No
+endline,f6_assist_yn,1,Yes
+endline,f7_assist_org_0,0,No
+endline,f7_assist_org_0,1,Yes
+endline,f7_assist_org_1,0,No
+endline,f7_assist_org_1,1,Yes
+endline,f7_assist_org_2,0,No
+endline,f7_assist_org_2,1,Yes
+endline,f7_assist_org_3,0,No
+endline,f7_assist_org_3,1,Yes
+endline,f7_assist_org_4,0,No
+endline,f7_assist_org_4,1,Yes
+endline,f7_assist_org_5,0,No
+endline,f7_assist_org_5,1,Yes
+endline,f7_assist_org_6,0,No
+endline,f7_assist_org_6,1,Yes
+endline,f7_assist_org_7,0,No
+endline,f7_assist_org_7,1,Yes
+endline,f7_assist_org_8,0,No
+endline,f7_assist_org_8,1,Yes
+endline,f7_assist_org_9,0,No
+endline,f7_assist_org_9,1,Yes
+endline,f7_assist_org_10,0,No
+endline,f7_assist_org_10,1,Yes
+endline,f7_assist_org_11,0,No
+endline,f7_assist_org_11,1,Yes
+endline,f7_assist_org_12,0,No
+endline,f7_assist_org_12,1,Yes
+endline,f7_assist_org_97,0,No
+endline,f7_assist_org_97,1,Yes
+endline,f7_assist_org_98,0,No
+endline,f7_assist_org_98,1,Yes
+endline,f8_assist_type_1,0,No
+endline,f8_assist_type_1,1,Yes
+endline,f8_assist_type_2,0,No
+endline,f8_assist_type_2,1,Yes
+endline,f8_assist_type_3,0,No
+endline,f8_assist_type_3,1,Yes
+endline,f8_assist_type_4,0,No
+endline,f8_assist_type_4,1,Yes
+endline,g1_shock,0,No
+endline,g1_shock,1,Yes
+endline,g2_shockyes_1,0,No
+endline,g2_shockyes_1,1,Yes
+endline,g2_shockyes_2,0,No
+endline,g2_shockyes_2,1,Yes
+endline,g2_shockyes_3,0,No
+endline,g2_shockyes_3,1,Yes
+endline,g2_shockyes_4,0,No
+endline,g2_shockyes_4,1,Yes
+endline,g2_shockyes_5,0,No
+endline,g2_shockyes_5,1,Yes
+endline,g2_shockyes_6,0,No
+endline,g2_shockyes_6,1,Yes
+endline,g2_shockyes_7,0,No
+endline,g2_shockyes_7,1,Yes
+endline,g2_shockyes_8,0,No
+endline,g2_shockyes_8,1,Yes
+endline,g3_money,0,(I could not come up with the money)
+endline,g3_money,1,Savings
+endline,g3_money,2,"Family, relatives, or friends"
+endline,g3_money,3,Money from working
+endline,g3_money,4,"Borrowing from a bank, employer, or private lender"
+endline,g3_money,5,Selling assets
+endline,g3_money,99,Some other source
+endline,g4_difficult,0,(I could not come up with the money)
+endline,g4_difficult,1,Not difficult at all
+endline,g4_difficult,2,Somewhat difficult
+endline,g4_difficult,3,Very difficult
+endline,g4_difficult,98,Don't know
+endline,g5_difficult1,0,(I could not come up with the money)
+endline,g5_difficult1,1,Not difficult at all
+endline,g5_difficult1,2,Somewhat difficult
+endline,g5_difficult1,3,Very difficult
+endline,g5_difficult1,98,Don't know
+endline,g6_force_1,0,No
+endline,g6_force_1,1,Yes
+endline,g6_force_2,0,No
+endline,g6_force_2,1,Yes
+endline,g6_force_3,0,No
+endline,g6_force_3,1,Yes
+endline,g6_force_4,0,No
+endline,g6_force_4,1,Yes
+endline,g6_force_5,0,No
+endline,g6_force_5,1,Yes
+endline,g6_force_6,0,No
+endline,g6_force_6,1,Yes
+endline,h1_source,0,I don't receive Covid 19 information from any resource.
+endline,h1_source,1,Health workers and professionals
+endline,h1_source,2,Social Media (Facebook / Website)
+endline,h1_source,3,Radio / Television / Newspaper
+endline,h1_source,4,Brochure
+endline,h1_source,5,Poster
+endline,h1_source,6,Billboard
+endline,h1_source,7,Friends / Family / Relatives
+endline,h1_source,8,Hearsays
+endline,h1_source,9,There was no reliable source for me.
+endline,h1_source,10,Ward/village leaders
+endline,h1_source,11,Phone calls/SMS
+endline,h1_source,12,WHO
+endline,h1_source,13,Local peer groups (Mothers' group)
+endline,h1_source,97,Prefer not to answer
+endline,h1_source,98,Don't know
+endline,h1_source,99,Other (Specify):
+endline,h2_symptoms_1,0,No
+endline,h2_symptoms_1,1,Yes
+endline,h2_symptoms_2,0,No
+endline,h2_symptoms_2,1,Yes
+endline,h2_symptoms_3,0,No
+endline,h2_symptoms_3,1,Yes
+endline,h2_symptoms_4,0,No
+endline,h2_symptoms_4,1,Yes
+endline,h2_symptoms_5,0,No
+endline,h2_symptoms_5,1,Yes
+endline,h2_symptoms_6,0,No
+endline,h2_symptoms_6,1,Yes
+endline,h2_symptoms_7,0,No
+endline,h2_symptoms_7,1,Yes
+endline,h2_symptoms_8,0,No
+endline,h2_symptoms_8,1,Yes
+endline,h2_symptoms_9,0,No
+endline,h2_symptoms_9,1,Yes
+endline,h2_symptoms_10,0,No
+endline,h2_symptoms_10,1,Yes
+endline,h2_symptoms_11,0,No
+endline,h2_symptoms_11,1,Yes
+endline,h2_symptoms_12,0,No
+endline,h2_symptoms_12,1,Yes
+endline,h2_symptoms_13,0,No
+endline,h2_symptoms_13,1,Yes
+endline,h2_symptoms_14,0,No
+endline,h2_symptoms_14,1,Yes
+endline,h2_symptoms_15,0,No
+endline,h2_symptoms_15,1,Yes
+endline,h2_symptoms_16,0,No
+endline,h2_symptoms_16,1,Yes
+endline,h2_symptoms_17,0,No
+endline,h2_symptoms_17,1,Yes
+endline,h2_symptoms_98,0,No
+endline,h2_symptoms_98,1,Yes
+endline,h3_suspected_1,0,No
+endline,h3_suspected_1,1,Yes
+endline,h3_suspected_2,0,No
+endline,h3_suspected_2,1,Yes
+endline,h3_suspected_3,0,No
+endline,h3_suspected_3,1,Yes
+endline,h3_suspected_4,0,No
+endline,h3_suspected_4,1,Yes
+endline,h3_suspected_5,0,No
+endline,h3_suspected_5,1,Yes
+endline,h3_suspected_6,0,No
+endline,h3_suspected_6,1,Yes
+endline,h3_suspected_7,0,No
+endline,h3_suspected_7,1,Yes
+endline,h3_suspected_8,0,No
+endline,h3_suspected_8,1,Yes
+endline,h3_suspected_9,0,No
+endline,h3_suspected_9,1,Yes
+endline,h3_suspected_10,0,No
+endline,h3_suspected_10,1,Yes
+endline,h3_suspected_11,0,No
+endline,h3_suspected_11,1,Yes
+endline,h3_suspected_97,0,No
+endline,h3_suspected_97,1,Yes
+endline,h3_suspected_98,0,No
+endline,h3_suspected_98,1,Yes
+endline,h4_protect_1,0,No
+endline,h4_protect_1,1,Yes
+endline,h4_protect_2,0,No
+endline,h4_protect_2,1,Yes
+endline,h4_protect_3,0,No
+endline,h4_protect_3,1,Yes
+endline,h4_protect_4,0,No
+endline,h4_protect_4,1,Yes
+endline,h4_protect_5,0,No
+endline,h4_protect_5,1,Yes
+endline,h4_protect_6,0,No
+endline,h4_protect_6,1,Yes
+endline,h4_protect_7,0,No
+endline,h4_protect_7,1,Yes
+endline,h4_protect_8,0,No
+endline,h4_protect_8,1,Yes
+endline,h4_protect_9,0,No
+endline,h4_protect_9,1,Yes
+endline,h4_protect_10,0,No
+endline,h4_protect_10,1,Yes
+endline,h4_protect_11,0,No
+endline,h4_protect_11,1,Yes
+endline,h4_protect_12,0,No
+endline,h4_protect_12,1,Yes
+endline,h4_protect_13,0,No
+endline,h4_protect_13,1,Yes
+endline,h4_protect_14,0,No
+endline,h4_protect_14,1,Yes
+endline,h4_protect_15,0,No
+endline,h4_protect_15,1,Yes
+endline,h4_protect_16,0,No
+endline,h4_protect_16,1,Yes
+endline,h4_protect_17,0,No
+endline,h4_protect_17,1,Yes
+endline,h4_protect_18,0,No
+endline,h4_protect_18,1,Yes
+endline,h4_protect_19,0,No
+endline,h4_protect_19,1,Yes
+endline,h4_protect_20,0,No
+endline,h4_protect_20,1,Yes
+endline,h4_protect_21,0,No
+endline,h4_protect_21,1,Yes
+endline,h4_protect_22,0,No
+endline,h4_protect_22,1,Yes
+endline,h4_protect_98,0,No
+endline,h4_protect_98,1,Yes
+endline,h5_emergency_1,0,No
+endline,h5_emergency_1,1,Yes
+endline,h5_emergency_2,0,No
+endline,h5_emergency_2,1,Yes
+endline,h5_emergency_3,0,No
+endline,h5_emergency_3,1,Yes
+endline,h5_emergency_4,0,No
+endline,h5_emergency_4,1,Yes
+endline,h5_emergency_5,0,No
+endline,h5_emergency_5,1,Yes
+endline,h5_emergency_6,0,No
+endline,h5_emergency_6,1,Yes
+endline,h5_emergency_7,0,No
+endline,h5_emergency_7,1,Yes
+endline,h5_emergency_8,0,No
+endline,h5_emergency_8,1,Yes
+endline,h5_emergency_9,0,No
+endline,h5_emergency_9,1,Yes
+endline,h5_emergency_10,0,No
+endline,h5_emergency_10,1,Yes
+endline,h5_emergency_11,0,No
+endline,h5_emergency_11,1,Yes
+endline,h5_emergency_12,0,No
+endline,h5_emergency_12,1,Yes
+endline,h5_emergency_13,0,No
+endline,h5_emergency_13,1,Yes
+endline,h5_emergency_14,0,No
+endline,h5_emergency_14,1,Yes
+endline,h5_emergency_15,0,No
+endline,h5_emergency_15,1,Yes
+endline,h5_emergency_97,0,No
+endline,h5_emergency_97,1,Yes
+endline,h5_emergency_98,0,No
+endline,h5_emergency_98,1,Yes
+endline,h6_1_vaccine,0,No
+endline,h6_1_vaccine,1,Yes
+endline,j1_fucall,0,No
+endline,j1_fucall,1,Yes
+endline,j3_time,1,Anytime (9:00-20:00)
+endline,j3_time,2,Morning (9:00-12:00)
+endline,j3_time,3,Afternoon (12:00-16:00)
+endline,j3_time,4,Evening (16:00-20:00)

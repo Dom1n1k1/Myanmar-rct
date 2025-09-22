@@ -1,0 +1,115 @@
+wave,var,label,type,n_missing,pct_missing,n_unique,examples
+baseline,b3_electricity_3,B3_3.[Generated electricity by paying charges for lighting] was the source of el,haven_labelled,0,0,2,1 | 0
+baseline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,3001,93.5,41,15000 | 5000 | 10000 | 3000 | 70000
+baseline,c21_health_u7_1,C21. Money spent on direct health care costs for the most recent visit [Child (1,numeric,2123,66.1,80,30000 | 15000 | 8000 | 5000 | 8700
+baseline,c21_health_u7_2,C21. Money spent on direct health care costs for the most recent visit [Child (2,numeric,2933,91.4,46,5000 | 8000 | 25000 | 6000 | 4200
+baseline,c21_health_u7_3,C21. Money spent on direct health care costs for the most recent visit [Child (3,numeric,3170,98.8,15,30000 | 5000 | 6000 | 10000 | 4000
+baseline,c21_health_u7_4,C21. Money spent on direct health care costs for the most recent visit [Child (4,numeric,3207,99.9,2,6000 | 15000
+baseline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,3001,93.5,25,2000 | 1500 | 5000 | 30000 | 0
+baseline,c22_nonhealth_u7_1,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,2121,66.1,39,5000 | 15000 | 2000 | 4000 | 3000
+baseline,c22_nonhealth_u7_2,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,2933,91.4,28,2000 | 1000 | 6000 | 4000 | 3000
+baseline,c22_nonhealth_u7_3,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,3170,98.8,14,6000 | 2000 | 0 | 3000 | 1500
+baseline,c22_nonhealth_u7_4,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,3207,99.9,3,1500 | 5000 | 0
+baseline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,3001,93.5,66,17000 | 7000 | 11500 | 8000 | 100000
+baseline,c22b_u7_total_1,C22b.Total health care cost for primary care visits [Child (1)],numeric,2120,66,112,35000 | 30000 | 10000 | 7000 | 12700
+baseline,c22b_u7_total_2,C22b.Total health care cost for primary care visits [Child (2)],numeric,2932,91.3,68,7000 | 9000 | 31000 | 8000 | 5200
+baseline,c22b_u7_total_3,C22b.Total health care cost for primary care visits [Child (3)],numeric,3169,98.7,25,36000 | 7000 | 6000 | 8000 | 12000
+baseline,c22b_u7_total_4,C22b.Total health care cost for primary care visits [Child (4)],numeric,3207,99.9,3,7500 | 20000 | 6000
+baseline,c35_days_preg,C35.Days spent in the hospital for the most recent hospitalization [Pregnant Mot,numeric,3194,99.5,8,4 | 3 | 1 | 2 | 8
+baseline,c35_days_u7_1,C35.Days spent in the hospital for the most recent hospitalization [Child (1)],numeric,3127,97.4,16,5 | 2 | 16 | 9 | 3
+baseline,c35_days_u7_2,C35.Days spent in the hospital for the most recent hospitalization [Child (2)],numeric,3176,98.9,10,3 | 5 | 1 | 2 | 10
+baseline,c35_days_u7_3,C35.Days spent in the hospital for the most recent hospitalization [Child (3)],numeric,3209,100,1,3
+baseline,c36_health_preg,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,3196,99.6,9,110000 | 200000 | 20000 | 100000 | 15000
+baseline,c36_health_u7_1,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,3127,97.4,37,70000 | 15000 | 50000 | 400000 | 30000
+baseline,c36_health_u7_2,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,3178,99,21,20000 | 50000 | 5000 | 0 | 65000
+baseline,c36_health_u7_3,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,3209,100,1,150000
+baseline,c37_nonhealth_preg,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,3196,99.6,10,20000 | 40000 | 22000 | 30000 | 7000
+baseline,c37_nonhealth_u7_1,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,3130,97.5,30,30000 | 20000 | 250000 | 100000 | 0
+baseline,c37_nonhealth_u7_2,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,3177,99,15,30000 | 5000 | 20000 | 0 | 100000
+baseline,c37_nonhealth_u7_3,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,3209,100,1,50000
+baseline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,3194,99.5,14,130000 | 240000 | 42000 | 196 | 120000
+baseline,c37b_u7_total_1,C37.Total health care costs for inpatient care[Child (1)],numeric,3127,97.4,55,100000 | 35000 | 300000 | 500000 | 30000
+baseline,c37b_u7_total_2,C37.Total health care costs for inpatient care[Child (2)],numeric,3176,98.9,24,50000 | 55000 | 35000 | 20000 | 196
+baseline,c37b_u7_total_3,C37.Total health care costs for inpatient care[Child (3)],numeric,3209,100,1,200000
+baseline,c5_amount_preg,C5.Approximate spent on health care in the last 12 months [Pregnant Mother],numeric,2841,88.5,70,18000 | 250000 | 5000 | 45000 | 6000
+baseline,c5_amount_u7_1,C5.Approximate spent on health care in the last 12 months [Child (1)],numeric,1346,41.9,137,30000 | 40000 | 100000 | 50000 | 23000
+baseline,c5_amount_u7_2,C5.Approximate spent on health care in the last 12 months [Child (2)],numeric,2749,85.6,78,15000 | 20000 | 30000 | 200000 | 40000
+baseline,c5_amount_u7_3,C5.Approximate spent on health care in the last 12 months [Child (3)],numeric,3152,98.2,25,25000 | 40000 | 10000 | 800000 | 15000
+baseline,c5_amount_u7_4,C5.Approximate spent on health care in the last 12 months [Child (4)],numeric,3208,99.9,2,12000 | 6000
+baseline,c6_selfmed_preg,C6.Approximate spent on self-prescribed medication in the last 12 months [Pregna,numeric,3165,98.6,14,40000 | 2000 | 0 | 30000 | 50000
+baseline,c6_selfmed_u7_1,C6.Approximate spent on self-prescribed medication in the last 12 months [Child,numeric,2165,67.4,66,8000 | 0 | 23500 | 9000 | 5000
+baseline,c6_selfmed_u7_2,C6.Approximate spent on self-prescribed medication in the last 12 months [Child,numeric,2873,89.5,36,0 | 20000 | 10000 | 5000 | 15000
+baseline,c6_selfmed_u7_3,C6.Approximate spent on self-prescribed medication in the last 12 months [Child,numeric,3148,98.1,17,0 | 10000 | 4500 | 2500 | 50000
+baseline,c6_selfmed_u7_4,C6.Approximate spent on self-prescribed medication in the last 12 months [Child,numeric,3204,99.8,4,0 | 5000 | 2000 | 1500
+baseline,d13_reason_14,D13_14.[My insurance covered the costs at that health facility partially or full,haven_labelled,583,18.2,2,0 | 1
+baseline,d13_reason_8,D13_8.[Less costly] was  the main reasons for choosing to deliver at that place.,haven_labelled,583,18.2,2,0 | 1
+baseline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,103,3.2,47,5000 | 2000 | 10000 | 4000 | 6000
+baseline,f4k_other_oth,F4k.Other costs,haven_labelled,2879,89.7,6,1 | 3 | 2 | 5 | 4
+baseline,g2_shockyes_5,G1_5.[Delayed or unable to pay back loans] was the shock experienced over the pa,haven_labelled,436,13.6,2,0 | 1
+baseline,g2_shockyes_7,G1_7.[Not enough money for the family expenditure] was the shock experienced ove,haven_labelled,436,13.6,2,0 | 1
+baseline,g3_money,G3.Imagine that you have an emergency and you need to pay [1/20 of GNI per capit,haven_labelled,0,0,6,0 | 2 | 4 | 3 | 5
+baseline,g6_force,"G6.Pay for food, healthcare, or other expenses",character,0,0,25,1 | 5 | 6 | 3 | 1 2 3
+baseline,g6_force_1,"G6_1.[Sell off assets (including livestock)] was done to pay for food, healthcar",haven_labelled,0,0,2,1 | 0
+baseline,g6_force_2,"G6_2.[Deplete your savings] was done to pay for food, healthcare, or other expen",haven_labelled,0,0,2,0 | 1
+baseline,g6_force_3,G6_3.[Borrow money you were not certain you could pay back on time] was done to,haven_labelled,0,0,2,0 | 1
+baseline,g6_force_4,G6_4.[Skip making a required payment on a loan (NOT taking advantage of govt pro,haven_labelled,0,0,2,0 | 1
+baseline,g6_force_6,"G6_6.[None of the above] was done to pay for food, healthcare, or other expenses",haven_labelled,0,0,2,0 | 1
+baseline,h4_protect_2,H4_2.[Stay 6 feet away from others] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1
+endline,b3_electricity_3,B3. Generated electricity by paying charges for lighting,haven_labelled,0,0,2,0 | 1
+endline,c21_health_u7_1,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,1708,69.6,74,30000 | 15000 | 5000 | 18000 | 300000
+endline,c21_health_u7_2,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2272,92.6,41,15000 | 6000 | 10000 | 0 | 8000
+endline,c21_health_u7_3,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2436,99.3,10,18000 | 15000 | 30000 | 50000 | 17000
+endline,c21_health_u7_4,"C21. For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2449,99.8,2,10000 | 0
+endline,c22_nonhealth_u7_1,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,1708,69.6,43,25000 | 10000 | 0 | 2000 | 22000
+endline,c22_nonhealth_u7_2,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2272,92.6,23,2000 | 3000 | 5000 | 10000 | 0
+endline,c22_nonhealth_u7_3,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2436,99.3,7,12000 | 5000 | 15000 | 3000 | 30000
+endline,c22_nonhealth_u7_4,"C22.For [${u7_name}]'s most recent visit/interaction, how much money was spent",numeric,2449,99.8,4,2000 | 0 | 4000 | 2500
+endline,c36_health_preg,"C36. For [${preg_name}] most recent hospitalization, how much money was spent o",numeric,2225,90.7,45,400000 | 200000 | 300000 | 800000 | 50000
+endline,c36_health_u7_1,"C36. For [${u7_name}] most recent hospitalization, how much money was spent on",numeric,2323,94.7,37,25000 | 80000 | 30000 | 50000 | 150000
+endline,c36_health_u7_2,"C36. For [${u7_name}] most recent hospitalization, how much money was spent on",numeric,2420,98.7,20,20000 | 30000 | 150000 | 108000 | 60000
+endline,c5_amount_preg,"C5.In the last 12 months, what was the approximate amount spent on [${preg_name",numeric,2127,86.7,70,400000 | 500000 | 40000 | 120000 | 150000
+endline,c5_amount_u7_1,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]",numeric,624,25.4,121,21000 | 80000 | 60000 | 300000 | 12000
+endline,c5_amount_u7_2,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]",numeric,2027,82.6,63,200000 | 50000 | 40000 | 30000 | 100000
+endline,c5_amount_u7_3,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]",numeric,2396,97.7,21,30000 | 12000 | 8000 | 10000 | 40000
+endline,c5_amount_u7_4,"C5.In the last 12 months, what was the approximate amount spent on [${u7_name}]",numeric,2448,99.8,4,20000 | 100000 | 30000 | 40000
+endline,d13_reason_14,C13. My insurance covered the costs at that health facility partially or fully.,haven_labelled,2122,86.5,2,0 | 1
+endline,d13_reason_8,C13. Less costly,haven_labelled,2122,86.5,2,1 | 0
+endline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,0,0,52,15000 | 7000 | 10000 | 3000 | 2000
+endline,f4k_other_oth,othercost_oth,haven_labelled,2383,97.1,11,8 | 7 | 11 | 1 | 4
+endline,filter_lastformat,I'd like to ask the cost for the most recent visit. Since the respondent used bo,haven_labelled,2452,100,1,1
+endline,filteru7_lastformat_1,I'd like to ask the cost for the most recent visit. Since the respondent used bo,haven_labelled,2448,99.8,2,1 | 2
+endline,g2_shockyes_5,G2. Delayed or unable to pay back loans,haven_labelled,316,12.9,2,0 | 1
+endline,g2_shockyes_7,G2. Not enough money for the family expenditure,haven_labelled,316,12.9,2,1 | 0
+endline,g3_money,G3.Imagine that you have an emergency and you need to pay [1/20 of GNI per capit,haven_labelled,0,0,6,0 | 2 | 3 | 4 | 1
+endline,g6_force_3,G6. Borrow money you were not certain you could pay back on time,haven_labelled,0,0,2,0 | 1
+endline,g6_force_4,G6. Skip making a required payment on a loan (NOT taking advantage of govt progr,haven_labelled,0,0,2,0 | 1
+endline,h4_protect_2,H4. Stay 6 feet away from others,haven_labelled,0,0,2,1 | 0
+midline,c21_health_preg,C21. Money spent on direct health care costs for the most recent visit [Pregnant,numeric,522,97.8,9,8000 | 10000 | 6500 | 5500 | 28000
+midline,c21_health_u7_1,C21. Money spent on direct health care costs for the most recent visit [Child (1,numeric,384,71.9,38,5000 | 11000 | 10000 | 4000 | 0
+midline,c21_health_u7_2,C21. Money spent on direct health care costs for the most recent visit [Child (2,numeric,499,93.4,15,35000 | 3000 | 6000 | 10000 | 5000
+midline,c21_health_u7_3,C21. Money spent on direct health care costs for the most recent visit [Child (3,numeric,528,98.9,5,15000 | 11000 | 25000 | 20000 | 5000
+midline,c22_nonhealth_preg,C22.Money was spent on indirect healthcare costs for the most recent visit [Preg,numeric,522,97.8,8,4000 | 2000 | 1000 | 7000 | 0
+midline,c22_nonhealth_u7_1,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,383,71.7,19,3000 | 2000 | 8000 | 4000 | 1000
+midline,c22_nonhealth_u7_2,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,499,93.4,11,9000 | 3000 | 1000 | 1500 | 0
+midline,c22_nonhealth_u7_3,C22.Money was spent on indirect healthcare costs for the most recent visit [Chil,numeric,528,98.9,6,4000 | 9000 | 6000 | 3000 | 15000
+midline,c22b_total,C22b.Total health care cost for primary care visits [Pregnant mother],numeric,522,97.8,9,12000 | 8500 | 6500 | 35000 | 3000
+midline,c22b_u7_total_1,C22b.Total health care cost for primary care visits [Child (1)],numeric,383,71.7,54,8000 | 14000 | 13000 | 6000 | 9000
+midline,c22b_u7_total_2,C22b.Total health care cost for primary care visits [Child (2)],numeric,499,93.4,20,44000 | 6000 | 7000 | 7500 | 13000
+midline,c22b_u7_total_3,C22b.Total health care cost for primary care visits [Child (3)],numeric,528,98.9,5,19000 | 20000 | 31000 | 23000 | 25000
+midline,c35_days_preg,C35.Days spent in the hospital for the most recent hospitalization [Pregnant Mot,numeric,514,96.3,5,1 | 2 | 3 | 5 | 7
+midline,c35_days_u7_1,C35.Days spent in the hospital for the most recent hospitalization [Child (1)],numeric,532,99.6,2,20 | 1
+midline,c35_days_u7_2,C35.Days spent in the hospital for the most recent hospitalization [Child (2)],numeric,533,99.8,1,4
+midline,c36_health_preg,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,514,96.3,13,100000 | 70000 | 400000 | 150000 | 130000
+midline,c36_health_u7_1,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,533,99.8,1,130000
+midline,c36_health_u7_2,C36.Amount of money[MMK] spent on direct health care costs for most recent hospi,numeric,533,99.8,1,60000
+midline,c37_nonhealth_preg,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,514,96.3,13,40000 | 30000 | 200000 | 230000 | 50000
+midline,c37_nonhealth_u7_1,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,532,99.6,1,40000
+midline,c37_nonhealth_u7_2,C37.Amount of money[MMK] spent on indirect health care costs for most recent hos,numeric,533,99.8,1,20000
+midline,c37b_total,C37.Total health care costs for inpatient care[Pregnant mother],numeric,514,96.3,16,140000 | 130000 | 270000 | 300000 | 450000
+midline,c37b_u7_total_1,C37.Total health care costs for inpatient care[Child (1)],numeric,532,99.6,2,170000 | 40000
+midline,c37b_u7_total_2,C37.Total health care costs for inpatient care[Child (2)],numeric,533,99.8,1,80000
+midline,d13_reason_14,D13_14.[My insurance covered the costs at that health facility partially or full,haven_labelled,509,95.3,1,0
+midline,d13_reason_8,D13_8.[Less costly] was  the main reasons for choosing to deliver at that place.,haven_labelled,509,95.3,2,0 | 1
+midline,f4i_commu,"F4i.Communication (Wifi, topup bills)",numeric,9,1.7,27,2000 | 8000 | 5000 | 3000 | 20000
+midline,f4k_other_oth,F4k.Other costs,haven_labelled,491,91.9,4,1 | 3 | 8 | 2
+midline,h4_protect_2,H4_2.[Stay 6 feet away from others] is preventive measures against Covid-19,haven_labelled,0,0,2,0 | 1

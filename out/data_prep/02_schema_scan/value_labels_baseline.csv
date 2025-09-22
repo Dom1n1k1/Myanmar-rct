@@ -1,0 +1,2418 @@
+wave,var,value,value_label
+baseline,sample_order,0,Replacement
+baseline,sample_order,1,Target
+baseline,sample_order,2,Replacement_2
+baseline,sample_order,3,Replacement_3
+baseline,sample_order,4,Replacement_4
+baseline,group,0,Control
+baseline,group,1,Treatment
+baseline,consent,0,No
+baseline,consent,1,Yes
+baseline,b1a_audio,0,No
+baseline,b1a_audio,1,Yes
+baseline,a1_tsp,1,Hlaing Thar Yar
+baseline,a1_tsp,2,Shwe Pyi Thar
+baseline,a5_rs,1,Self
+baseline,a5_rs,2,Spouse
+baseline,a5_rs,3,Son/ Daughter
+baseline,a5_rs,4,Son/ Daughter-in-law
+baseline,a5_rs,5,Stepchild
+baseline,a5_rs,6,Grandchild
+baseline,a5_rs,7,Parent
+baseline,a5_rs,8,Parent-in-law
+baseline,a5_rs,9,Brother/ Sister
+baseline,a5_rs,10,Brother/ Sister-in-law
+baseline,a5_rs,11,Grandparent
+baseline,a5_rs,12,Adopted/ Foster Child
+baseline,a5_rs,13,Other Relative
+baseline,a5_rs,14,Servant/ Domestic Worker
+baseline,a5_rs,15,Lodger
+baseline,a5_rs,99,Other unrelated Person (Specify)
+baseline,a6_gender,0,Female
+baseline,a6_gender,1,Male
+baseline,a8_employ,1,Currently employed (permanent/ partial employment)
+baseline,a8_employ,2,Unemployed
+baseline,a8_employ,3,Retired
+baseline,a8_employ,4,Unable to work
+baseline,a8_employ,5,Looking for work
+baseline,a8_employ,97,Prefer not to answer
+baseline,a8_employ,98,Don't know
+baseline,a9_edu_hh,1,None/ Monastic or religious/ Grades 1-5
+baseline,a9_edu_hh,2,Grade 6-10
+baseline,a9_edu_hh,3,"Grade 11 and above (College, Postgraduate)"
+baseline,a9_edu_hh,97,Prefer not to answer
+baseline,a9_edu_hh,98,Don't know
+baseline,new_born,0,No
+baseline,new_born,1,Yes
+baseline,a12_preg,0,No
+baseline,a12_preg,1,Yes
+baseline,a14_edu_preg,1,None/ Monastic or religious/ Grades 1-5
+baseline,a14_edu_preg,2,Grade 6-10
+baseline,a14_edu_preg,3,"Grade 11 and above (College, Postgraduate)"
+baseline,a14_edu_preg,97,Prefer not to answer
+baseline,a14_edu_preg,98,Don't know
+baseline,a14_employ,1,Currently employed (permanent/ partial employment)
+baseline,a14_employ,2,Unemployed
+baseline,a14_employ,3,Retired
+baseline,a14_employ,4,Unable to work
+baseline,a14_employ,5,Looking for work
+baseline,a14_employ,97,Prefer not to answer
+baseline,a14_employ,98,Don't know
+baseline,a14_u7gender_1,0,Female
+baseline,a14_u7gender_1,1,Male
+baseline,a15_u7_relation_1,1,Birthmother
+baseline,a15_u7_relation_1,2,Aunty
+baseline,a15_u7_relation_1,3,Grandmother
+baseline,a15_u7_relation_1,4,Adopted Mother
+baseline,a15_u7_relation_1,5,Father
+baseline,a15_u7_relation_1,6,Elder sister
+baseline,a15_u7_relation_1,7,Stepmother
+baseline,a15_u7_relation_1,8,Uncle
+baseline,a15_u7_relation_1,9,Grandfather
+baseline,a15_u7_relation_1,10,Sister-in-law
+baseline,a14_u7gender_2,0,Female
+baseline,a14_u7gender_2,1,Male
+baseline,a15_u7_relation_2,1,Birthmother
+baseline,a15_u7_relation_2,2,Aunty
+baseline,a15_u7_relation_2,3,Grandmother
+baseline,a15_u7_relation_2,4,Adopted Mother
+baseline,a15_u7_relation_2,5,Father
+baseline,a15_u7_relation_2,6,Elder sister
+baseline,a15_u7_relation_2,7,Stepmother
+baseline,a15_u7_relation_2,8,Uncle
+baseline,a15_u7_relation_2,9,Grandfather
+baseline,a15_u7_relation_2,10,Sister-in-law
+baseline,a14_u7gender_3,0,Female
+baseline,a14_u7gender_3,1,Male
+baseline,a15_u7_relation_3,1,Birthmother
+baseline,a15_u7_relation_3,2,Aunty
+baseline,a15_u7_relation_3,3,Grandmother
+baseline,a15_u7_relation_3,4,Adopted Mother
+baseline,a15_u7_relation_3,5,Father
+baseline,a15_u7_relation_3,6,Elder sister
+baseline,a15_u7_relation_3,7,Stepmother
+baseline,a15_u7_relation_3,8,Uncle
+baseline,a15_u7_relation_3,9,Grandfather
+baseline,a15_u7_relation_3,10,Sister-in-law
+baseline,a14_u7gender_4,0,Female
+baseline,a14_u7gender_4,1,Male
+baseline,a15_u7_relation_4,1,Birthmother
+baseline,a15_u7_relation_4,2,Aunty
+baseline,a15_u7_relation_4,3,Grandmother
+baseline,a15_u7_relation_4,4,Adopted Mother
+baseline,a15_u7_relation_4,5,Father
+baseline,a15_u7_relation_4,6,Elder sister
+baseline,a15_u7_relation_4,7,Stepmother
+baseline,a15_u7_relation_4,8,Uncle
+baseline,a15_u7_relation_4,9,Grandfather
+baseline,a15_u7_relation_4,10,Sister-in-law
+baseline,a16_edu_u7,1,None/ Monastic or religious/ Grades 1-5
+baseline,a16_edu_u7,2,Grade 6-10
+baseline,a16_edu_u7,3,"Grade 11 and above (College, Postgraduate)"
+baseline,a16_edu_u7,97,Prefer not to answer
+baseline,a16_edu_u7,98,Don't know
+baseline,b3_electricity_0,0,No
+baseline,b3_electricity_0,1,Yes
+baseline,b3_electricity_1,0,No
+baseline,b3_electricity_1,1,Yes
+baseline,b3_electricity_2,0,No
+baseline,b3_electricity_2,1,Yes
+baseline,b3_electricity_3,0,No
+baseline,b3_electricity_3,1,Yes
+baseline,b3_electricity_4,0,No
+baseline,b3_electricity_4,1,Yes
+baseline,b4_water,1,Surface water (river/dam/ lake/pond/stream/spring။canal/ irrigation channel)
+baseline,b4_water,2,Ponds
+baseline,b4_water,3,Rainwater
+baseline,b4_water,4,Hand dug wells
+baseline,b4_water,5,Tube well / manual water pump/ borehole
+baseline,b4_water,6,Piped water
+baseline,b4_water,7,"storage tank,"
+baseline,b4_water,8,water truck
+baseline,b4_water,9,bottled water
+baseline,b4_water,10,Public tap/standpipe
+baseline,b4_water,11,Tanker truck
+baseline,b4_water,12,Cart with small tank
+baseline,b4_water,13,Stream
+baseline,b4_water,99,Others (specify)
+baseline,b5_roof,1,Thatch
+baseline,b5_roof,2,Large leaves
+baseline,b5_roof,3,Palm
+baseline,b5_roof,4,Dhani
+baseline,b5_roof,5,Bamboo
+baseline,b5_roof,6,Metal
+baseline,b5_roof,7,Concrete roofing
+baseline,b5_roof,8,Concrete flat roof
+baseline,b5_roof,9,Plastic
+baseline,b5_roof,10,No roof and stay under the bridge
+baseline,b5_roof,11,Paper
+baseline,b6_wall,1,Thatch
+baseline,b6_wall,2,Large leaves
+baseline,b6_wall,3,Palm
+baseline,b6_wall,4,Dhani
+baseline,b6_wall,5,Bamboo
+baseline,b6_wall,6,Brick
+baseline,b6_wall,7,Wood
+baseline,b6_wall,8,Using the wall of next door
+baseline,b6_wall,9,Stone
+baseline,b6_wall,10,Metal
+baseline,b6_wall,11,Plastic
+baseline,b6_wall,12,No wall and stay under the bridge
+baseline,b6_wall,99,Others (specify)
+baseline,b7_stove,0,No
+baseline,b7_stove,1,Yes
+baseline,b8_meat,0,No
+baseline,b8_meat,1,Yes
+baseline,c2_nature_preg_1,0,No
+baseline,c2_nature_preg_1,1,Yes
+baseline,c2_nature_preg_2,0,No
+baseline,c2_nature_preg_2,1,Yes
+baseline,c2_nature_preg_3,0,No
+baseline,c2_nature_preg_3,1,Yes
+baseline,c2_nature_preg_4,0,No
+baseline,c2_nature_preg_4,1,Yes
+baseline,c2_nature_preg_5,0,No
+baseline,c2_nature_preg_5,1,Yes
+baseline,c2_nature_preg_6,0,No
+baseline,c2_nature_preg_6,1,Yes
+baseline,c2_nature_preg_7,0,No
+baseline,c2_nature_preg_7,1,Yes
+baseline,c2_nature_preg_8,0,No
+baseline,c2_nature_preg_8,1,Yes
+baseline,c2_nature_preg_9,0,No
+baseline,c2_nature_preg_9,1,Yes
+baseline,c2_nature_preg_10,0,No
+baseline,c2_nature_preg_10,1,Yes
+baseline,c3_test_preg,0,No
+baseline,c3_test_preg,1,Yes
+baseline,c7_compare_preg,1,Healthcare use increased
+baseline,c7_compare_preg,2,Healthcare use decreased
+baseline,c7_compare_preg,3,Healthcare use did not change
+baseline,c8_illyesno_preg,0,No
+baseline,c8_illyesno_preg,1,Yes
+baseline,c9_insu_preg,0,No insurance
+baseline,c9_insu_preg,1,Social Security
+baseline,c9_insu_preg,2,Health Insurance through Employer
+baseline,c9_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+baseline,c9_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c9_insu_preg,98,Don’t know
+baseline,c9_insu_preg,99,Other (Specify):
+baseline,c10_seekcare_preg,0,No
+baseline,c10_seekcare_preg,1,Yes
+baseline,c11_disease_preg_1,0,No
+baseline,c11_disease_preg_1,1,Yes
+baseline,c11_disease_preg_2,0,No
+baseline,c11_disease_preg_2,1,Yes
+baseline,c11_disease_preg_3,0,No
+baseline,c11_disease_preg_3,1,Yes
+baseline,c11_disease_preg_4,0,No
+baseline,c11_disease_preg_4,1,Yes
+baseline,c11_disease_preg_5,0,No
+baseline,c11_disease_preg_5,1,Yes
+baseline,c11_disease_preg_6,0,No
+baseline,c11_disease_preg_6,1,Yes
+baseline,c11_disease_preg_7,0,No
+baseline,c11_disease_preg_7,1,Yes
+baseline,c11_disease_preg_8,0,No
+baseline,c11_disease_preg_8,1,Yes
+baseline,c11_disease_preg_9,0,No
+baseline,c11_disease_preg_9,1,Yes
+baseline,c11_disease_preg_10,0,No
+baseline,c11_disease_preg_10,1,Yes
+baseline,c11_disease_preg_11,0,No
+baseline,c11_disease_preg_11,1,Yes
+baseline,c11_disease_preg_12,0,No
+baseline,c11_disease_preg_12,1,Yes
+baseline,c11_disease_preg_13,0,No
+baseline,c11_disease_preg_13,1,Yes
+baseline,c11_disease_preg_14,0,No
+baseline,c11_disease_preg_14,1,Yes
+baseline,c11_disease_preg_15,0,No
+baseline,c11_disease_preg_15,1,Yes
+baseline,c11_disease_preg_16,0,No
+baseline,c11_disease_preg_16,1,Yes
+baseline,c11_disease_preg_17,0,No
+baseline,c11_disease_preg_17,1,Yes
+baseline,c11_disease_preg_18,0,No
+baseline,c11_disease_preg_18,1,Yes
+baseline,c11_disease_preg_19,0,No
+baseline,c11_disease_preg_19,1,Yes
+baseline,c11_disease_preg_20,0,No
+baseline,c11_disease_preg_20,1,Yes
+baseline,c11_disease_preg_21,0,No
+baseline,c11_disease_preg_21,1,Yes
+baseline,c11_disease_preg_22,0,No
+baseline,c11_disease_preg_22,1,Yes
+baseline,c11_disease_preg_23,0,No
+baseline,c11_disease_preg_23,1,Yes
+baseline,c11_disease_preg_24,0,No
+baseline,c11_disease_preg_24,1,Yes
+baseline,c11_disease_preg_25,0,No
+baseline,c11_disease_preg_25,1,Yes
+baseline,c11_disease_preg_26,0,No
+baseline,c11_disease_preg_26,1,Yes
+baseline,c11_disease_preg_27,0,No
+baseline,c11_disease_preg_27,1,Yes
+baseline,c11_disease_preg_28,0,No
+baseline,c11_disease_preg_28,1,Yes
+baseline,c11_disease_preg_29,0,No
+baseline,c11_disease_preg_29,1,Yes
+baseline,c11_disease_preg_30,0,No
+baseline,c11_disease_preg_30,1,Yes
+baseline,c11_disease_preg_31,0,No
+baseline,c11_disease_preg_31,1,Yes
+baseline,c11_disease_preg_32,0,No
+baseline,c11_disease_preg_32,1,Yes
+baseline,c11_disease_preg_33,0,No
+baseline,c11_disease_preg_33,1,Yes
+baseline,c11_disease_preg_34,0,No
+baseline,c11_disease_preg_34,1,Yes
+baseline,c11_disease_preg_35,0,No
+baseline,c11_disease_preg_35,1,Yes
+baseline,c11_disease_preg_36,0,No
+baseline,c11_disease_preg_36,1,Yes
+baseline,c11_disease_preg_37,0,No
+baseline,c11_disease_preg_37,1,Yes
+baseline,c11_disease_preg_38,0,No
+baseline,c11_disease_preg_38,1,Yes
+baseline,c11_disease_preg_39,0,No
+baseline,c11_disease_preg_39,1,Yes
+baseline,c11_disease_preg_40,0,No
+baseline,c11_disease_preg_40,1,Yes
+baseline,c11_disease_preg_41,0,No
+baseline,c11_disease_preg_41,1,Yes
+baseline,c11_disease_preg_42,0,No
+baseline,c11_disease_preg_42,1,Yes
+baseline,c11_disease_preg_43,0,No
+baseline,c11_disease_preg_43,1,Yes
+baseline,c11_disease_preg_44,0,No
+baseline,c11_disease_preg_44,1,Yes
+baseline,c11_disease_preg_45,0,No
+baseline,c11_disease_preg_45,1,Yes
+baseline,c12_diagnose_preg,0,No
+baseline,c12_diagnose_preg,1,Yes
+baseline,c13_medication_preg,0,No
+baseline,c13_medication_preg,1,Yes
+baseline,c14_meditake_preg,0,No
+baseline,c14_meditake_preg,1,Yes
+baseline,c15_format_preg_1,0,No
+baseline,c15_format_preg_1,1,Yes
+baseline,c15_format_preg_2,0,No
+baseline,c15_format_preg_2,1,Yes
+baseline,c15_format_preg_3,0,No
+baseline,c15_format_preg_3,1,Yes
+baseline,c16_virtual_preg_1,0,No
+baseline,c16_virtual_preg_1,1,Yes
+baseline,c16_virtual_preg_2,0,No
+baseline,c16_virtual_preg_2,1,Yes
+baseline,c16_virtual_preg_3,0,No
+baseline,c16_virtual_preg_3,1,Yes
+baseline,c16_virtual_preg_4,0,No
+baseline,c16_virtual_preg_4,1,Yes
+baseline,c16_virtual_preg_5,0,No
+baseline,c16_virtual_preg_5,1,Yes
+baseline,c16_virtual_preg_6,0,No
+baseline,c16_virtual_preg_6,1,Yes
+baseline,c16_virtual_preg_7,0,No
+baseline,c16_virtual_preg_7,1,Yes
+baseline,c20_personlast_preg,1,Gov’t hospital
+baseline,c20_personlast_preg,2,Gov’t rural health center (RHC)
+baseline,c20_personlast_preg,3,Peri-urban Health Center
+baseline,c20_personlast_preg,4,Maternal and Child Health Clinic/ Hospital
+baseline,c20_personlast_preg,5,Family Planning Clinic
+baseline,c20_personlast_preg,6,Birth Center
+baseline,c20_personlast_preg,7,Private Hospital/ Clinic
+baseline,c20_personlast_preg,8,Private Doctor’s Office
+baseline,c20_personlast_preg,9,Traditional Medicine Hospitals
+baseline,c20_personlast_preg,10,Traditional Medicine Clinics
+baseline,c20_personlast_preg,11,Patient’s Home
+baseline,c20_personlast_preg,12,Provider’s home or store
+baseline,c20_personlast_preg,13,Charity clinics
+baseline,c20_personlast_preg,14,Military hospital
+baseline,c20_personlast_preg,15,Social Security Clinics
+baseline,c20_personlast_preg,16,Workers' Hospital
+baseline,c20_personlast_preg,17,Midwife
+baseline,c25_assist_preg_0,0,No
+baseline,c25_assist_preg_0,1,Yes
+baseline,c25_assist_preg_1,0,No
+baseline,c25_assist_preg_1,1,Yes
+baseline,c25_assist_preg_2,0,No
+baseline,c25_assist_preg_2,1,Yes
+baseline,c25_assist_preg_3,0,No
+baseline,c25_assist_preg_3,1,Yes
+baseline,c25_assist_preg_4,0,No
+baseline,c25_assist_preg_4,1,Yes
+baseline,c25_assist_preg_5,0,No
+baseline,c25_assist_preg_5,1,Yes
+baseline,c25_assist_preg_6,0,No
+baseline,c25_assist_preg_6,1,Yes
+baseline,c25_assist_preg_8,0,No
+baseline,c25_assist_preg_8,1,Yes
+baseline,c25_assist_preg_98,0,No
+baseline,c25_assist_preg_98,1,Yes
+baseline,c25_assist_preg_7,0,No
+baseline,c25_assist_preg_7,1,Yes
+baseline,c26_nonsick_preg_1,0,No
+baseline,c26_nonsick_preg_1,1,Yes
+baseline,c26_nonsick_preg_2,0,No
+baseline,c26_nonsick_preg_2,1,Yes
+baseline,c26_nonsick_preg_3,0,No
+baseline,c26_nonsick_preg_3,1,Yes
+baseline,c26_nonsick_preg_4,0,No
+baseline,c26_nonsick_preg_4,1,Yes
+baseline,c26_nonsick_preg_5,0,No
+baseline,c26_nonsick_preg_5,1,Yes
+baseline,c26_nonsick_preg_6,0,No
+baseline,c26_nonsick_preg_6,1,Yes
+baseline,c26_nonsick_preg_7,0,No
+baseline,c26_nonsick_preg_7,1,Yes
+baseline,c27_notconsult_preg_1,0,No
+baseline,c27_notconsult_preg_1,1,Yes
+baseline,c27_notconsult_preg_2,0,No
+baseline,c27_notconsult_preg_2,1,Yes
+baseline,c27_notconsult_preg_3,0,No
+baseline,c27_notconsult_preg_3,1,Yes
+baseline,c27_notconsult_preg_4,0,No
+baseline,c27_notconsult_preg_4,1,Yes
+baseline,c27_notconsult_preg_5,0,No
+baseline,c27_notconsult_preg_5,1,Yes
+baseline,c27_notconsult_preg_6,0,No
+baseline,c27_notconsult_preg_6,1,Yes
+baseline,c27_notconsult_preg_7,0,No
+baseline,c27_notconsult_preg_7,1,Yes
+baseline,c27_notconsult_preg_8,0,No
+baseline,c27_notconsult_preg_8,1,Yes
+baseline,c27_notconsult_preg_9,0,No
+baseline,c27_notconsult_preg_9,1,Yes
+baseline,c27_notconsult_preg_10,0,No
+baseline,c27_notconsult_preg_10,1,Yes
+baseline,c27_notconsult_preg_11,0,No
+baseline,c27_notconsult_preg_11,1,Yes
+baseline,c27_notconsult_preg_12,0,No
+baseline,c27_notconsult_preg_12,1,Yes
+baseline,c27_notconsult_preg_13,0,No
+baseline,c27_notconsult_preg_13,1,Yes
+baseline,c27_notconsult_preg_14,0,No
+baseline,c27_notconsult_preg_14,1,Yes
+baseline,c27_notconsult_preg_15,0,No
+baseline,c27_notconsult_preg_15,1,Yes
+baseline,c27_notconsult_preg_16,0,No
+baseline,c27_notconsult_preg_16,1,Yes
+baseline,c27_notconsult_preg_17,0,No
+baseline,c27_notconsult_preg_17,1,Yes
+baseline,c27_notconsult_preg_18,0,No
+baseline,c27_notconsult_preg_18,1,Yes
+baseline,c27_notconsult_preg_19,0,No
+baseline,c27_notconsult_preg_19,1,Yes
+baseline,c27_notconsult_preg_20,0,No
+baseline,c27_notconsult_preg_20,1,Yes
+baseline,c27_notconsult_preg_21,0,No
+baseline,c27_notconsult_preg_21,1,Yes
+baseline,c27_notconsult_preg_22,0,No
+baseline,c27_notconsult_preg_22,1,Yes
+baseline,c27_notconsult_preg_23,0,No
+baseline,c27_notconsult_preg_23,1,Yes
+baseline,c27_notconsult_preg_24,0,No
+baseline,c27_notconsult_preg_24,1,Yes
+baseline,c27_notconsult_preg_25,0,No
+baseline,c27_notconsult_preg_25,1,Yes
+baseline,c28_inpatient_preg,0,No
+baseline,c28_inpatient_preg,1,Yes
+baseline,c29_insu_preg,0,No insurance
+baseline,c29_insu_preg,1,Social Security
+baseline,c29_insu_preg,2,Health Insurance through Employer
+baseline,c29_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+baseline,c29_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c29_insu_preg,98,Don’t know
+baseline,c29_insu_preg,99,Other (Specify):
+baseline,c31_disease_preg_1,0,No
+baseline,c31_disease_preg_1,1,Yes
+baseline,c31_disease_preg_2,0,No
+baseline,c31_disease_preg_2,1,Yes
+baseline,c31_disease_preg_3,0,No
+baseline,c31_disease_preg_3,1,Yes
+baseline,c31_disease_preg_4,0,No
+baseline,c31_disease_preg_4,1,Yes
+baseline,c31_disease_preg_5,0,No
+baseline,c31_disease_preg_5,1,Yes
+baseline,c31_disease_preg_6,0,No
+baseline,c31_disease_preg_6,1,Yes
+baseline,c31_disease_preg_7,0,No
+baseline,c31_disease_preg_7,1,Yes
+baseline,c31_disease_preg_8,0,No
+baseline,c31_disease_preg_8,1,Yes
+baseline,c31_disease_preg_9,0,No
+baseline,c31_disease_preg_9,1,Yes
+baseline,c31_disease_preg_10,0,No
+baseline,c31_disease_preg_10,1,Yes
+baseline,c31_disease_preg_11,0,No
+baseline,c31_disease_preg_11,1,Yes
+baseline,c31_disease_preg_12,0,No
+baseline,c31_disease_preg_12,1,Yes
+baseline,c31_disease_preg_13,0,No
+baseline,c31_disease_preg_13,1,Yes
+baseline,c31_disease_preg_14,0,No
+baseline,c31_disease_preg_14,1,Yes
+baseline,c31_disease_preg_15,0,No
+baseline,c31_disease_preg_15,1,Yes
+baseline,c31_disease_preg_16,0,No
+baseline,c31_disease_preg_16,1,Yes
+baseline,c31_disease_preg_17,0,No
+baseline,c31_disease_preg_17,1,Yes
+baseline,c31_disease_preg_18,0,No
+baseline,c31_disease_preg_18,1,Yes
+baseline,c31_disease_preg_19,0,No
+baseline,c31_disease_preg_19,1,Yes
+baseline,c31_disease_preg_20,0,No
+baseline,c31_disease_preg_20,1,Yes
+baseline,c31_disease_preg_21,0,No
+baseline,c31_disease_preg_21,1,Yes
+baseline,c31_disease_preg_22,0,No
+baseline,c31_disease_preg_22,1,Yes
+baseline,c31_disease_preg_23,0,No
+baseline,c31_disease_preg_23,1,Yes
+baseline,c31_disease_preg_24,0,No
+baseline,c31_disease_preg_24,1,Yes
+baseline,c31_disease_preg_25,0,No
+baseline,c31_disease_preg_25,1,Yes
+baseline,c31_disease_preg_42,0,No
+baseline,c31_disease_preg_42,1,Yes
+baseline,c31_disease_preg_41,0,No
+baseline,c31_disease_preg_41,1,Yes
+baseline,c31_disease_preg_40,0,No
+baseline,c31_disease_preg_40,1,Yes
+baseline,c31_disease_preg_39,0,No
+baseline,c31_disease_preg_39,1,Yes
+baseline,c31_disease_preg_38,0,No
+baseline,c31_disease_preg_38,1,Yes
+baseline,c31_disease_preg_37,0,No
+baseline,c31_disease_preg_37,1,Yes
+baseline,c31_disease_preg_36,0,No
+baseline,c31_disease_preg_36,1,Yes
+baseline,c31_disease_preg_35,0,No
+baseline,c31_disease_preg_35,1,Yes
+baseline,c31_disease_preg_34,0,No
+baseline,c31_disease_preg_34,1,Yes
+baseline,c31_disease_preg_33,0,No
+baseline,c31_disease_preg_33,1,Yes
+baseline,c31_disease_preg_32,0,No
+baseline,c31_disease_preg_32,1,Yes
+baseline,c31_disease_preg_31,0,No
+baseline,c31_disease_preg_31,1,Yes
+baseline,c31_disease_preg_30,0,No
+baseline,c31_disease_preg_30,1,Yes
+baseline,c31_disease_preg_29,0,No
+baseline,c31_disease_preg_29,1,Yes
+baseline,c31_disease_preg_28,0,No
+baseline,c31_disease_preg_28,1,Yes
+baseline,c31_disease_preg_27,0,No
+baseline,c31_disease_preg_27,1,Yes
+baseline,c31_disease_preg_26,0,No
+baseline,c31_disease_preg_26,1,Yes
+baseline,c32_opd_preg,0,No
+baseline,c32_opd_preg,1,Yes
+baseline,c33_hospital_preg,1,Government hospitals
+baseline,c33_hospital_preg,2,Government Maternal and child hospital
+baseline,c33_hospital_preg,3,Children Hospital
+baseline,c33_hospital_preg,4,Workers’ hospitals
+baseline,c33_hospital_preg,5,Private hospitals
+baseline,c33_hospital_preg,6,Traditional Medicine Hospitals
+baseline,c33_hospital_preg,7,Military Hospital
+baseline,c33_hospital_preg,8,Charity Hospital
+baseline,c33_hospital_preg,9,Facility Covid Center/quarantine center
+baseline,c33_hospital_preg,97,Prefer not to answer
+baseline,c33_hospital_preg,98,Don’t know
+baseline,c33_hospital_preg,99,Other (Specify)
+baseline,c2_nature_u7_1_1,0,No
+baseline,c2_nature_u7_1_1,1,Yes
+baseline,c2_nature_u7_2_1,0,No
+baseline,c2_nature_u7_2_1,1,Yes
+baseline,c2_nature_u7_3_1,0,No
+baseline,c2_nature_u7_3_1,1,Yes
+baseline,c2_nature_u7_4_1,0,No
+baseline,c2_nature_u7_4_1,1,Yes
+baseline,c2_nature_u7_5_1,0,No
+baseline,c2_nature_u7_5_1,1,Yes
+baseline,c2_nature_u7_6_1,0,No
+baseline,c2_nature_u7_6_1,1,Yes
+baseline,c2_nature_u7_7_1,0,No
+baseline,c2_nature_u7_7_1,1,Yes
+baseline,c2_nature_u7_8_1,0,No
+baseline,c2_nature_u7_8_1,1,Yes
+baseline,c2_nature_u7_9_1,0,No
+baseline,c2_nature_u7_9_1,1,Yes
+baseline,c2_nature_u7_10_1,0,No
+baseline,c2_nature_u7_10_1,1,Yes
+baseline,c3_test_u7_1,0,No
+baseline,c3_test_u7_1,1,Yes
+baseline,c7_compare_u7_1,1,Healthcare use increased
+baseline,c7_compare_u7_1,2,Healthcare use decreased
+baseline,c7_compare_u7_1,3,Healthcare use did not change
+baseline,c7_compare_u7_1,4,"The child was born after February 1,2021"
+baseline,c8_illyesno_u7_1,0,No
+baseline,c8_illyesno_u7_1,1,Yes
+baseline,c9_insu_u7_1,0,No insurance
+baseline,c9_insu_u7_1,1,Social Security
+baseline,c9_insu_u7_1,2,Health Insurance through Employer
+baseline,c9_insu_u7_1,3,Other Privately Purchased Commercial Health Insurance
+baseline,c9_insu_u7_1,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c9_insu_u7_1,98,Don’t know
+baseline,c9_insu_u7_1,99,Other (Specify):
+baseline,c10_seekcare_u7_1,0,No
+baseline,c10_seekcare_u7_1,1,Yes
+baseline,c11_disease_u7_1_1,0,No
+baseline,c11_disease_u7_1_1,1,Yes
+baseline,c11_disease_u7_2_1,0,No
+baseline,c11_disease_u7_2_1,1,Yes
+baseline,c11_disease_u7_3_1,0,No
+baseline,c11_disease_u7_3_1,1,Yes
+baseline,c11_disease_u7_4_1,0,No
+baseline,c11_disease_u7_4_1,1,Yes
+baseline,c11_disease_u7_5_1,0,No
+baseline,c11_disease_u7_5_1,1,Yes
+baseline,c11_disease_u7_6_1,0,No
+baseline,c11_disease_u7_6_1,1,Yes
+baseline,c11_disease_u7_7_1,0,No
+baseline,c11_disease_u7_7_1,1,Yes
+baseline,c11_disease_u7_8_1,0,No
+baseline,c11_disease_u7_8_1,1,Yes
+baseline,c11_disease_u7_9_1,0,No
+baseline,c11_disease_u7_9_1,1,Yes
+baseline,c11_disease_u7_10_1,0,No
+baseline,c11_disease_u7_10_1,1,Yes
+baseline,c11_disease_u7_11_1,0,No
+baseline,c11_disease_u7_11_1,1,Yes
+baseline,c11_disease_u7_12_1,0,No
+baseline,c11_disease_u7_12_1,1,Yes
+baseline,c11_disease_u7_13_1,0,No
+baseline,c11_disease_u7_13_1,1,Yes
+baseline,c11_disease_u7_14_1,0,No
+baseline,c11_disease_u7_14_1,1,Yes
+baseline,c11_disease_u7_15_1,0,No
+baseline,c11_disease_u7_15_1,1,Yes
+baseline,c11_disease_u7_16_1,0,No
+baseline,c11_disease_u7_16_1,1,Yes
+baseline,c11_disease_u7_17_1,0,No
+baseline,c11_disease_u7_17_1,1,Yes
+baseline,c11_disease_u7_18_1,0,No
+baseline,c11_disease_u7_18_1,1,Yes
+baseline,c11_disease_u7_19_1,0,No
+baseline,c11_disease_u7_19_1,1,Yes
+baseline,c11_disease_u7_45_1,0,No
+baseline,c11_disease_u7_45_1,1,Yes
+baseline,c11_disease_u7_44_1,0,No
+baseline,c11_disease_u7_44_1,1,Yes
+baseline,c11_disease_u7_43_1,0,No
+baseline,c11_disease_u7_43_1,1,Yes
+baseline,c11_disease_u7_42_1,0,No
+baseline,c11_disease_u7_42_1,1,Yes
+baseline,c11_disease_u7_41_1,0,No
+baseline,c11_disease_u7_41_1,1,Yes
+baseline,c11_disease_u7_40_1,0,No
+baseline,c11_disease_u7_40_1,1,Yes
+baseline,c11_disease_u7_39_1,0,No
+baseline,c11_disease_u7_39_1,1,Yes
+baseline,c11_disease_u7_38_1,0,No
+baseline,c11_disease_u7_38_1,1,Yes
+baseline,c11_disease_u7_37_1,0,No
+baseline,c11_disease_u7_37_1,1,Yes
+baseline,c11_disease_u7_36_1,0,No
+baseline,c11_disease_u7_36_1,1,Yes
+baseline,c11_disease_u7_35_1,0,No
+baseline,c11_disease_u7_35_1,1,Yes
+baseline,c11_disease_u7_34_1,0,No
+baseline,c11_disease_u7_34_1,1,Yes
+baseline,c11_disease_u7_33_1,0,No
+baseline,c11_disease_u7_33_1,1,Yes
+baseline,c11_disease_u7_32_1,0,No
+baseline,c11_disease_u7_32_1,1,Yes
+baseline,c11_disease_u7_31_1,0,No
+baseline,c11_disease_u7_31_1,1,Yes
+baseline,c11_disease_u7_30_1,0,No
+baseline,c11_disease_u7_30_1,1,Yes
+baseline,c11_disease_u7_29_1,0,No
+baseline,c11_disease_u7_29_1,1,Yes
+baseline,c11_disease_u7_28_1,0,No
+baseline,c11_disease_u7_28_1,1,Yes
+baseline,c11_disease_u7_27_1,0,No
+baseline,c11_disease_u7_27_1,1,Yes
+baseline,c11_disease_u7_26_1,0,No
+baseline,c11_disease_u7_26_1,1,Yes
+baseline,c11_disease_u7_25_1,0,No
+baseline,c11_disease_u7_25_1,1,Yes
+baseline,c11_disease_u7_24_1,0,No
+baseline,c11_disease_u7_24_1,1,Yes
+baseline,c11_disease_u7_23_1,0,No
+baseline,c11_disease_u7_23_1,1,Yes
+baseline,c11_disease_u7_22_1,0,No
+baseline,c11_disease_u7_22_1,1,Yes
+baseline,c11_disease_u7_21_1,0,No
+baseline,c11_disease_u7_21_1,1,Yes
+baseline,c11_disease_u7_20_1,0,No
+baseline,c11_disease_u7_20_1,1,Yes
+baseline,c12_diagnose_u7_1,0,No
+baseline,c12_diagnose_u7_1,1,Yes
+baseline,c13_medication_u7_1,0,No
+baseline,c13_medication_u7_1,1,Yes
+baseline,c14_meditake_u7_1,0,No
+baseline,c14_meditake_u7_1,1,Yes
+baseline,c15_format_u7_1_1,0,No
+baseline,c15_format_u7_1_1,1,Yes
+baseline,c15_format_u7_2_1,0,No
+baseline,c15_format_u7_2_1,1,Yes
+baseline,c15_format_u7_3_1,0,No
+baseline,c15_format_u7_3_1,1,Yes
+baseline,c16_virtual_u7_1_1,0,No
+baseline,c16_virtual_u7_1_1,1,Yes
+baseline,c16_virtual_u7_2_1,0,No
+baseline,c16_virtual_u7_2_1,1,Yes
+baseline,c16_virtual_u7_3_1,0,No
+baseline,c16_virtual_u7_3_1,1,Yes
+baseline,c16_virtual_u7_4_1,0,No
+baseline,c16_virtual_u7_4_1,1,Yes
+baseline,c16_virtual_u7_5_1,0,No
+baseline,c16_virtual_u7_5_1,1,Yes
+baseline,c16_virtual_u7_6_1,0,No
+baseline,c16_virtual_u7_6_1,1,Yes
+baseline,c16_virtual_u7_7_1,0,No
+baseline,c16_virtual_u7_7_1,1,Yes
+baseline,c20_personlast_u7_1,1,Gov’t hospital
+baseline,c20_personlast_u7_1,2,Gov’t rural health center (RHC)
+baseline,c20_personlast_u7_1,3,Peri-urban Health Center
+baseline,c20_personlast_u7_1,4,Maternal and Child Health Clinic/ Hospital
+baseline,c20_personlast_u7_1,5,Family Planning Clinic
+baseline,c20_personlast_u7_1,6,Birth Center
+baseline,c20_personlast_u7_1,7,Private Hospital/ Clinic
+baseline,c20_personlast_u7_1,8,Private Doctor’s Office
+baseline,c20_personlast_u7_1,9,Traditional Medicine Hospitals
+baseline,c20_personlast_u7_1,10,Traditional Medicine Clinics
+baseline,c20_personlast_u7_1,11,Patient’s Home
+baseline,c20_personlast_u7_1,12,Provider’s home or store
+baseline,c20_personlast_u7_1,13,Charity clinics
+baseline,c20_personlast_u7_1,14,Military hospital
+baseline,c20_personlast_u7_1,15,Social Security Clinics
+baseline,c20_personlast_u7_1,16,Workers' Hospital
+baseline,c20_personlast_u7_1,17,Midwife
+baseline,c25_assist_u7_0_1,0,No
+baseline,c25_assist_u7_0_1,1,Yes
+baseline,c25_assist_u7_1_1,0,No
+baseline,c25_assist_u7_1_1,1,Yes
+baseline,c25_assist_u7_2_1,0,No
+baseline,c25_assist_u7_2_1,1,Yes
+baseline,c25_assist_u7_3_1,0,No
+baseline,c25_assist_u7_3_1,1,Yes
+baseline,c25_assist_u7_4_1,0,No
+baseline,c25_assist_u7_4_1,1,Yes
+baseline,c25_assist_u7_5_1,0,No
+baseline,c25_assist_u7_5_1,1,Yes
+baseline,c25_assist_u7_6_1,0,No
+baseline,c25_assist_u7_6_1,1,Yes
+baseline,c25_assist_u7_8_1,0,No
+baseline,c25_assist_u7_8_1,1,Yes
+baseline,c25_assist_u7_7_1,0,No
+baseline,c25_assist_u7_7_1,1,Yes
+baseline,c25_assist_u7_98_1,0,No
+baseline,c25_assist_u7_98_1,1,Yes
+baseline,c26_nonsick_u7_1_1,0,No
+baseline,c26_nonsick_u7_1_1,1,Yes
+baseline,c26_nonsick_u7_2_1,0,No
+baseline,c26_nonsick_u7_2_1,1,Yes
+baseline,c26_nonsick_u7_3_1,0,No
+baseline,c26_nonsick_u7_3_1,1,Yes
+baseline,c26_nonsick_u7_4_1,0,No
+baseline,c26_nonsick_u7_4_1,1,Yes
+baseline,c27_notconsult_u7_1_1,0,No
+baseline,c27_notconsult_u7_1_1,1,Yes
+baseline,c27_notconsult_u7_2_1,0,No
+baseline,c27_notconsult_u7_2_1,1,Yes
+baseline,c27_notconsult_u7_3_1,0,No
+baseline,c27_notconsult_u7_3_1,1,Yes
+baseline,c27_notconsult_u7_4_1,0,No
+baseline,c27_notconsult_u7_4_1,1,Yes
+baseline,c27_notconsult_u7_5_1,0,No
+baseline,c27_notconsult_u7_5_1,1,Yes
+baseline,c27_notconsult_u7_6_1,0,No
+baseline,c27_notconsult_u7_6_1,1,Yes
+baseline,c27_notconsult_u7_7_1,0,No
+baseline,c27_notconsult_u7_7_1,1,Yes
+baseline,c27_notconsult_u7_8_1,0,No
+baseline,c27_notconsult_u7_8_1,1,Yes
+baseline,c27_notconsult_u7_9_1,0,No
+baseline,c27_notconsult_u7_9_1,1,Yes
+baseline,c27_notconsult_u7_10_1,0,No
+baseline,c27_notconsult_u7_10_1,1,Yes
+baseline,c27_notconsult_u7_11_1,0,No
+baseline,c27_notconsult_u7_11_1,1,Yes
+baseline,c27_notconsult_u7_12_1,0,No
+baseline,c27_notconsult_u7_12_1,1,Yes
+baseline,c27_notconsult_u7_13_1,0,No
+baseline,c27_notconsult_u7_13_1,1,Yes
+baseline,c27_notconsult_u7_14_1,0,No
+baseline,c27_notconsult_u7_14_1,1,Yes
+baseline,c27_notconsult_u7_15_1,0,No
+baseline,c27_notconsult_u7_15_1,1,Yes
+baseline,c27_notconsult_u7_16_1,0,No
+baseline,c27_notconsult_u7_16_1,1,Yes
+baseline,c27_notconsult_u7_17_1,0,No
+baseline,c27_notconsult_u7_17_1,1,Yes
+baseline,c27_notconsult_u7_18_1,0,No
+baseline,c27_notconsult_u7_18_1,1,Yes
+baseline,c27_notconsult_u7_19_1,0,No
+baseline,c27_notconsult_u7_19_1,1,Yes
+baseline,c27_notconsult_u7_20_1,0,No
+baseline,c27_notconsult_u7_20_1,1,Yes
+baseline,c27_notconsult_u7_21_1,0,No
+baseline,c27_notconsult_u7_21_1,1,Yes
+baseline,c27_notconsult_u7_22_1,0,No
+baseline,c27_notconsult_u7_22_1,1,Yes
+baseline,c27_notconsult_u7_23_1,0,No
+baseline,c27_notconsult_u7_23_1,1,Yes
+baseline,c27_notconsult_u7_24_1,0,No
+baseline,c27_notconsult_u7_24_1,1,Yes
+baseline,c27_notconsult_u7_25_1,0,No
+baseline,c27_notconsult_u7_25_1,1,Yes
+baseline,c28_inpatient_u7_1,0,No
+baseline,c28_inpatient_u7_1,1,Yes
+baseline,c31_disease_u7_1_1,0,No
+baseline,c31_disease_u7_1_1,1,Yes
+baseline,c31_disease_u7_2_1,0,No
+baseline,c31_disease_u7_2_1,1,Yes
+baseline,c31_disease_u7_3_1,0,No
+baseline,c31_disease_u7_3_1,1,Yes
+baseline,c31_disease_u7_4_1,0,No
+baseline,c31_disease_u7_4_1,1,Yes
+baseline,c31_disease_u7_5_1,0,No
+baseline,c31_disease_u7_5_1,1,Yes
+baseline,c31_disease_u7_6_1,0,No
+baseline,c31_disease_u7_6_1,1,Yes
+baseline,c31_disease_u7_7_1,0,No
+baseline,c31_disease_u7_7_1,1,Yes
+baseline,c31_disease_u7_8_1,0,No
+baseline,c31_disease_u7_8_1,1,Yes
+baseline,c31_disease_u7_9_1,0,No
+baseline,c31_disease_u7_9_1,1,Yes
+baseline,c31_disease_u7_10_1,0,No
+baseline,c31_disease_u7_10_1,1,Yes
+baseline,c31_disease_u7_11_1,0,No
+baseline,c31_disease_u7_11_1,1,Yes
+baseline,c31_disease_u7_12_1,0,No
+baseline,c31_disease_u7_12_1,1,Yes
+baseline,c31_disease_u7_13_1,0,No
+baseline,c31_disease_u7_13_1,1,Yes
+baseline,c31_disease_u7_14_1,0,No
+baseline,c31_disease_u7_14_1,1,Yes
+baseline,c31_disease_u7_15_1,0,No
+baseline,c31_disease_u7_15_1,1,Yes
+baseline,c31_disease_u7_16_1,0,No
+baseline,c31_disease_u7_16_1,1,Yes
+baseline,c31_disease_u7_17_1,0,No
+baseline,c31_disease_u7_17_1,1,Yes
+baseline,c31_disease_u7_18_1,0,No
+baseline,c31_disease_u7_18_1,1,Yes
+baseline,c31_disease_u7_19_1,0,No
+baseline,c31_disease_u7_19_1,1,Yes
+baseline,c31_disease_u7_20_1,0,No
+baseline,c31_disease_u7_20_1,1,Yes
+baseline,c31_disease_u7_21_1,0,No
+baseline,c31_disease_u7_21_1,1,Yes
+baseline,c31_disease_u7_22_1,0,No
+baseline,c31_disease_u7_22_1,1,Yes
+baseline,c31_disease_u7_23_1,0,No
+baseline,c31_disease_u7_23_1,1,Yes
+baseline,c31_disease_u7_24_1,0,No
+baseline,c31_disease_u7_24_1,1,Yes
+baseline,c31_disease_u7_25_1,0,No
+baseline,c31_disease_u7_25_1,1,Yes
+baseline,c31_disease_u7_42_1,0,No
+baseline,c31_disease_u7_42_1,1,Yes
+baseline,c31_disease_u7_41_1,0,No
+baseline,c31_disease_u7_41_1,1,Yes
+baseline,c31_disease_u7_40_1,0,No
+baseline,c31_disease_u7_40_1,1,Yes
+baseline,c31_disease_u7_39_1,0,No
+baseline,c31_disease_u7_39_1,1,Yes
+baseline,c31_disease_u7_38_1,0,No
+baseline,c31_disease_u7_38_1,1,Yes
+baseline,c31_disease_u7_37_1,0,No
+baseline,c31_disease_u7_37_1,1,Yes
+baseline,c31_disease_u7_36_1,0,No
+baseline,c31_disease_u7_36_1,1,Yes
+baseline,c31_disease_u7_35_1,0,No
+baseline,c31_disease_u7_35_1,1,Yes
+baseline,c31_disease_u7_34_1,0,No
+baseline,c31_disease_u7_34_1,1,Yes
+baseline,c31_disease_u7_33_1,0,No
+baseline,c31_disease_u7_33_1,1,Yes
+baseline,c31_disease_u7_32_1,0,No
+baseline,c31_disease_u7_32_1,1,Yes
+baseline,c31_disease_u7_31_1,0,No
+baseline,c31_disease_u7_31_1,1,Yes
+baseline,c31_disease_u7_30_1,0,No
+baseline,c31_disease_u7_30_1,1,Yes
+baseline,c31_disease_u7_29_1,0,No
+baseline,c31_disease_u7_29_1,1,Yes
+baseline,c31_disease_u7_28_1,0,No
+baseline,c31_disease_u7_28_1,1,Yes
+baseline,c31_disease_u7_27_1,0,No
+baseline,c31_disease_u7_27_1,1,Yes
+baseline,c31_disease_u7_26_1,0,No
+baseline,c31_disease_u7_26_1,1,Yes
+baseline,c32_opd_u7_1,0,No
+baseline,c32_opd_u7_1,1,Yes
+baseline,c33_hospital_u7_1,1,Government hospitals
+baseline,c33_hospital_u7_1,2,Government Maternal and child hospital
+baseline,c33_hospital_u7_1,3,Children Hospital
+baseline,c33_hospital_u7_1,4,Workers’ hospitals
+baseline,c33_hospital_u7_1,5,Private hospitals
+baseline,c33_hospital_u7_1,6,Traditional Medicine Hospitals
+baseline,c33_hospital_u7_1,7,Military Hospital
+baseline,c33_hospital_u7_1,8,Charity Hospital
+baseline,c33_hospital_u7_1,9,Facility Covid Center/quarantine center
+baseline,c33_hospital_u7_1,97,Prefer not to answer
+baseline,c33_hospital_u7_1,98,Don’t know
+baseline,c33_hospital_u7_1,99,Other (Specify)
+baseline,c2_nature_u7_1_2,0,No
+baseline,c2_nature_u7_1_2,1,Yes
+baseline,c2_nature_u7_2_2,0,No
+baseline,c2_nature_u7_2_2,1,Yes
+baseline,c2_nature_u7_3_2,0,No
+baseline,c2_nature_u7_3_2,1,Yes
+baseline,c2_nature_u7_4_2,0,No
+baseline,c2_nature_u7_4_2,1,Yes
+baseline,c2_nature_u7_5_2,0,No
+baseline,c2_nature_u7_5_2,1,Yes
+baseline,c2_nature_u7_6_2,0,No
+baseline,c2_nature_u7_6_2,1,Yes
+baseline,c2_nature_u7_7_2,0,No
+baseline,c2_nature_u7_7_2,1,Yes
+baseline,c2_nature_u7_8_2,0,No
+baseline,c2_nature_u7_8_2,1,Yes
+baseline,c2_nature_u7_9_2,0,No
+baseline,c2_nature_u7_9_2,1,Yes
+baseline,c2_nature_u7_10_2,0,No
+baseline,c2_nature_u7_10_2,1,Yes
+baseline,c3_test_u7_2,0,No
+baseline,c3_test_u7_2,1,Yes
+baseline,c7_compare_u7_2,1,Healthcare use increased
+baseline,c7_compare_u7_2,2,Healthcare use decreased
+baseline,c7_compare_u7_2,3,Healthcare use did not change
+baseline,c7_compare_u7_2,4,"The child was born after February 1,2021"
+baseline,c8_illyesno_u7_2,0,No
+baseline,c8_illyesno_u7_2,1,Yes
+baseline,c10_seekcare_u7_2,0,No
+baseline,c10_seekcare_u7_2,1,Yes
+baseline,c11_disease_u7_1_2,0,No
+baseline,c11_disease_u7_1_2,1,Yes
+baseline,c11_disease_u7_2_2,0,No
+baseline,c11_disease_u7_2_2,1,Yes
+baseline,c11_disease_u7_3_2,0,No
+baseline,c11_disease_u7_3_2,1,Yes
+baseline,c11_disease_u7_4_2,0,No
+baseline,c11_disease_u7_4_2,1,Yes
+baseline,c11_disease_u7_5_2,0,No
+baseline,c11_disease_u7_5_2,1,Yes
+baseline,c11_disease_u7_6_2,0,No
+baseline,c11_disease_u7_6_2,1,Yes
+baseline,c11_disease_u7_7_2,0,No
+baseline,c11_disease_u7_7_2,1,Yes
+baseline,c11_disease_u7_8_2,0,No
+baseline,c11_disease_u7_8_2,1,Yes
+baseline,c11_disease_u7_9_2,0,No
+baseline,c11_disease_u7_9_2,1,Yes
+baseline,c11_disease_u7_10_2,0,No
+baseline,c11_disease_u7_10_2,1,Yes
+baseline,c11_disease_u7_11_2,0,No
+baseline,c11_disease_u7_11_2,1,Yes
+baseline,c11_disease_u7_12_2,0,No
+baseline,c11_disease_u7_12_2,1,Yes
+baseline,c11_disease_u7_13_2,0,No
+baseline,c11_disease_u7_13_2,1,Yes
+baseline,c11_disease_u7_14_2,0,No
+baseline,c11_disease_u7_14_2,1,Yes
+baseline,c11_disease_u7_15_2,0,No
+baseline,c11_disease_u7_15_2,1,Yes
+baseline,c11_disease_u7_16_2,0,No
+baseline,c11_disease_u7_16_2,1,Yes
+baseline,c11_disease_u7_17_2,0,No
+baseline,c11_disease_u7_17_2,1,Yes
+baseline,c11_disease_u7_18_2,0,No
+baseline,c11_disease_u7_18_2,1,Yes
+baseline,c11_disease_u7_19_2,0,No
+baseline,c11_disease_u7_19_2,1,Yes
+baseline,c11_disease_u7_45_2,0,No
+baseline,c11_disease_u7_45_2,1,Yes
+baseline,c11_disease_u7_44_2,0,No
+baseline,c11_disease_u7_44_2,1,Yes
+baseline,c11_disease_u7_43_2,0,No
+baseline,c11_disease_u7_43_2,1,Yes
+baseline,c11_disease_u7_42_2,0,No
+baseline,c11_disease_u7_42_2,1,Yes
+baseline,c11_disease_u7_41_2,0,No
+baseline,c11_disease_u7_41_2,1,Yes
+baseline,c11_disease_u7_40_2,0,No
+baseline,c11_disease_u7_40_2,1,Yes
+baseline,c11_disease_u7_39_2,0,No
+baseline,c11_disease_u7_39_2,1,Yes
+baseline,c11_disease_u7_38_2,0,No
+baseline,c11_disease_u7_38_2,1,Yes
+baseline,c11_disease_u7_37_2,0,No
+baseline,c11_disease_u7_37_2,1,Yes
+baseline,c11_disease_u7_36_2,0,No
+baseline,c11_disease_u7_36_2,1,Yes
+baseline,c11_disease_u7_35_2,0,No
+baseline,c11_disease_u7_35_2,1,Yes
+baseline,c11_disease_u7_34_2,0,No
+baseline,c11_disease_u7_34_2,1,Yes
+baseline,c11_disease_u7_33_2,0,No
+baseline,c11_disease_u7_33_2,1,Yes
+baseline,c11_disease_u7_32_2,0,No
+baseline,c11_disease_u7_32_2,1,Yes
+baseline,c11_disease_u7_31_2,0,No
+baseline,c11_disease_u7_31_2,1,Yes
+baseline,c11_disease_u7_30_2,0,No
+baseline,c11_disease_u7_30_2,1,Yes
+baseline,c11_disease_u7_29_2,0,No
+baseline,c11_disease_u7_29_2,1,Yes
+baseline,c11_disease_u7_28_2,0,No
+baseline,c11_disease_u7_28_2,1,Yes
+baseline,c11_disease_u7_27_2,0,No
+baseline,c11_disease_u7_27_2,1,Yes
+baseline,c11_disease_u7_26_2,0,No
+baseline,c11_disease_u7_26_2,1,Yes
+baseline,c11_disease_u7_25_2,0,No
+baseline,c11_disease_u7_25_2,1,Yes
+baseline,c11_disease_u7_24_2,0,No
+baseline,c11_disease_u7_24_2,1,Yes
+baseline,c11_disease_u7_23_2,0,No
+baseline,c11_disease_u7_23_2,1,Yes
+baseline,c11_disease_u7_22_2,0,No
+baseline,c11_disease_u7_22_2,1,Yes
+baseline,c11_disease_u7_21_2,0,No
+baseline,c11_disease_u7_21_2,1,Yes
+baseline,c11_disease_u7_20_2,0,No
+baseline,c11_disease_u7_20_2,1,Yes
+baseline,c12_diagnose_u7_2,0,No
+baseline,c12_diagnose_u7_2,1,Yes
+baseline,c13_medication_u7_2,0,No
+baseline,c13_medication_u7_2,1,Yes
+baseline,c14_meditake_u7_2,0,No
+baseline,c14_meditake_u7_2,1,Yes
+baseline,c15_format_u7_1_2,0,No
+baseline,c15_format_u7_1_2,1,Yes
+baseline,c15_format_u7_2_2,0,No
+baseline,c15_format_u7_2_2,1,Yes
+baseline,c15_format_u7_3_2,0,No
+baseline,c15_format_u7_3_2,1,Yes
+baseline,c16_virtual_u7_1_2,0,No
+baseline,c16_virtual_u7_1_2,1,Yes
+baseline,c16_virtual_u7_2_2,0,No
+baseline,c16_virtual_u7_2_2,1,Yes
+baseline,c16_virtual_u7_3_2,0,No
+baseline,c16_virtual_u7_3_2,1,Yes
+baseline,c16_virtual_u7_4_2,0,No
+baseline,c16_virtual_u7_4_2,1,Yes
+baseline,c16_virtual_u7_5_2,0,No
+baseline,c16_virtual_u7_5_2,1,Yes
+baseline,c16_virtual_u7_6_2,0,No
+baseline,c16_virtual_u7_6_2,1,Yes
+baseline,c16_virtual_u7_7_2,0,No
+baseline,c16_virtual_u7_7_2,1,Yes
+baseline,c20_personlast_u7_2,1,Gov’t hospital
+baseline,c20_personlast_u7_2,2,Gov’t rural health center (RHC)
+baseline,c20_personlast_u7_2,3,Peri-urban Health Center
+baseline,c20_personlast_u7_2,4,Maternal and Child Health Clinic/ Hospital
+baseline,c20_personlast_u7_2,5,Family Planning Clinic
+baseline,c20_personlast_u7_2,6,Birth Center
+baseline,c20_personlast_u7_2,7,Private Hospital/ Clinic
+baseline,c20_personlast_u7_2,8,Private Doctor’s Office
+baseline,c20_personlast_u7_2,9,Traditional Medicine Hospitals
+baseline,c20_personlast_u7_2,10,Traditional Medicine Clinics
+baseline,c20_personlast_u7_2,11,Patient’s Home
+baseline,c20_personlast_u7_2,12,Provider’s home or store
+baseline,c20_personlast_u7_2,13,Charity clinics
+baseline,c20_personlast_u7_2,14,Military hospital
+baseline,c20_personlast_u7_2,15,Social Security Clinics
+baseline,c20_personlast_u7_2,16,Workers' Hospital
+baseline,c20_personlast_u7_2,17,Midwife
+baseline,c25_assist_u7_0_2,0,No
+baseline,c25_assist_u7_0_2,1,Yes
+baseline,c25_assist_u7_1_2,0,No
+baseline,c25_assist_u7_1_2,1,Yes
+baseline,c25_assist_u7_2_2,0,No
+baseline,c25_assist_u7_2_2,1,Yes
+baseline,c25_assist_u7_3_2,0,No
+baseline,c25_assist_u7_3_2,1,Yes
+baseline,c25_assist_u7_4_2,0,No
+baseline,c25_assist_u7_4_2,1,Yes
+baseline,c25_assist_u7_5_2,0,No
+baseline,c25_assist_u7_5_2,1,Yes
+baseline,c25_assist_u7_6_2,0,No
+baseline,c25_assist_u7_6_2,1,Yes
+baseline,c25_assist_u7_8_2,0,No
+baseline,c25_assist_u7_8_2,1,Yes
+baseline,c25_assist_u7_7_2,0,No
+baseline,c25_assist_u7_7_2,1,Yes
+baseline,c25_assist_u7_98_2,0,No
+baseline,c25_assist_u7_98_2,1,Yes
+baseline,c26_nonsick_u7_1_2,0,No
+baseline,c26_nonsick_u7_1_2,1,Yes
+baseline,c26_nonsick_u7_2_2,0,No
+baseline,c26_nonsick_u7_2_2,1,Yes
+baseline,c26_nonsick_u7_3_2,0,No
+baseline,c26_nonsick_u7_3_2,1,Yes
+baseline,c26_nonsick_u7_4_2,0,No
+baseline,c26_nonsick_u7_4_2,1,Yes
+baseline,c27_notconsult_u7_1_2,0,No
+baseline,c27_notconsult_u7_1_2,1,Yes
+baseline,c27_notconsult_u7_2_2,0,No
+baseline,c27_notconsult_u7_2_2,1,Yes
+baseline,c27_notconsult_u7_3_2,0,No
+baseline,c27_notconsult_u7_3_2,1,Yes
+baseline,c27_notconsult_u7_4_2,0,No
+baseline,c27_notconsult_u7_4_2,1,Yes
+baseline,c27_notconsult_u7_5_2,0,No
+baseline,c27_notconsult_u7_5_2,1,Yes
+baseline,c27_notconsult_u7_6_2,0,No
+baseline,c27_notconsult_u7_6_2,1,Yes
+baseline,c27_notconsult_u7_7_2,0,No
+baseline,c27_notconsult_u7_7_2,1,Yes
+baseline,c27_notconsult_u7_8_2,0,No
+baseline,c27_notconsult_u7_8_2,1,Yes
+baseline,c27_notconsult_u7_9_2,0,No
+baseline,c27_notconsult_u7_9_2,1,Yes
+baseline,c27_notconsult_u7_10_2,0,No
+baseline,c27_notconsult_u7_10_2,1,Yes
+baseline,c27_notconsult_u7_11_2,0,No
+baseline,c27_notconsult_u7_11_2,1,Yes
+baseline,c27_notconsult_u7_12_2,0,No
+baseline,c27_notconsult_u7_12_2,1,Yes
+baseline,c27_notconsult_u7_13_2,0,No
+baseline,c27_notconsult_u7_13_2,1,Yes
+baseline,c27_notconsult_u7_14_2,0,No
+baseline,c27_notconsult_u7_14_2,1,Yes
+baseline,c27_notconsult_u7_15_2,0,No
+baseline,c27_notconsult_u7_15_2,1,Yes
+baseline,c27_notconsult_u7_16_2,0,No
+baseline,c27_notconsult_u7_16_2,1,Yes
+baseline,c27_notconsult_u7_17_2,0,No
+baseline,c27_notconsult_u7_17_2,1,Yes
+baseline,c27_notconsult_u7_18_2,0,No
+baseline,c27_notconsult_u7_18_2,1,Yes
+baseline,c27_notconsult_u7_19_2,0,No
+baseline,c27_notconsult_u7_19_2,1,Yes
+baseline,c27_notconsult_u7_20_2,0,No
+baseline,c27_notconsult_u7_20_2,1,Yes
+baseline,c27_notconsult_u7_21_2,0,No
+baseline,c27_notconsult_u7_21_2,1,Yes
+baseline,c27_notconsult_u7_22_2,0,No
+baseline,c27_notconsult_u7_22_2,1,Yes
+baseline,c27_notconsult_u7_23_2,0,No
+baseline,c27_notconsult_u7_23_2,1,Yes
+baseline,c27_notconsult_u7_24_2,0,No
+baseline,c27_notconsult_u7_24_2,1,Yes
+baseline,c27_notconsult_u7_25_2,0,No
+baseline,c27_notconsult_u7_25_2,1,Yes
+baseline,c28_inpatient_u7_2,0,No
+baseline,c28_inpatient_u7_2,1,Yes
+baseline,c29_insu_u7_2,0,No insurance
+baseline,c29_insu_u7_2,1,Social Security
+baseline,c29_insu_u7_2,2,Health Insurance through Employer
+baseline,c29_insu_u7_2,3,Other Privately Purchased Commercial Health Insurance
+baseline,c29_insu_u7_2,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c29_insu_u7_2,98,Don’t know
+baseline,c29_insu_u7_2,99,Other (Specify):
+baseline,c31_disease_u7_1_2,0,No
+baseline,c31_disease_u7_1_2,1,Yes
+baseline,c31_disease_u7_2_2,0,No
+baseline,c31_disease_u7_2_2,1,Yes
+baseline,c31_disease_u7_3_2,0,No
+baseline,c31_disease_u7_3_2,1,Yes
+baseline,c31_disease_u7_4_2,0,No
+baseline,c31_disease_u7_4_2,1,Yes
+baseline,c31_disease_u7_5_2,0,No
+baseline,c31_disease_u7_5_2,1,Yes
+baseline,c31_disease_u7_6_2,0,No
+baseline,c31_disease_u7_6_2,1,Yes
+baseline,c31_disease_u7_7_2,0,No
+baseline,c31_disease_u7_7_2,1,Yes
+baseline,c31_disease_u7_8_2,0,No
+baseline,c31_disease_u7_8_2,1,Yes
+baseline,c31_disease_u7_9_2,0,No
+baseline,c31_disease_u7_9_2,1,Yes
+baseline,c31_disease_u7_10_2,0,No
+baseline,c31_disease_u7_10_2,1,Yes
+baseline,c31_disease_u7_11_2,0,No
+baseline,c31_disease_u7_11_2,1,Yes
+baseline,c31_disease_u7_12_2,0,No
+baseline,c31_disease_u7_12_2,1,Yes
+baseline,c31_disease_u7_13_2,0,No
+baseline,c31_disease_u7_13_2,1,Yes
+baseline,c31_disease_u7_14_2,0,No
+baseline,c31_disease_u7_14_2,1,Yes
+baseline,c31_disease_u7_15_2,0,No
+baseline,c31_disease_u7_15_2,1,Yes
+baseline,c31_disease_u7_16_2,0,No
+baseline,c31_disease_u7_16_2,1,Yes
+baseline,c31_disease_u7_17_2,0,No
+baseline,c31_disease_u7_17_2,1,Yes
+baseline,c31_disease_u7_18_2,0,No
+baseline,c31_disease_u7_18_2,1,Yes
+baseline,c31_disease_u7_19_2,0,No
+baseline,c31_disease_u7_19_2,1,Yes
+baseline,c31_disease_u7_20_2,0,No
+baseline,c31_disease_u7_20_2,1,Yes
+baseline,c31_disease_u7_21_2,0,No
+baseline,c31_disease_u7_21_2,1,Yes
+baseline,c31_disease_u7_22_2,0,No
+baseline,c31_disease_u7_22_2,1,Yes
+baseline,c31_disease_u7_23_2,0,No
+baseline,c31_disease_u7_23_2,1,Yes
+baseline,c31_disease_u7_24_2,0,No
+baseline,c31_disease_u7_24_2,1,Yes
+baseline,c31_disease_u7_25_2,0,No
+baseline,c31_disease_u7_25_2,1,Yes
+baseline,c31_disease_u7_42_2,0,No
+baseline,c31_disease_u7_42_2,1,Yes
+baseline,c31_disease_u7_41_2,0,No
+baseline,c31_disease_u7_41_2,1,Yes
+baseline,c31_disease_u7_40_2,0,No
+baseline,c31_disease_u7_40_2,1,Yes
+baseline,c31_disease_u7_39_2,0,No
+baseline,c31_disease_u7_39_2,1,Yes
+baseline,c31_disease_u7_38_2,0,No
+baseline,c31_disease_u7_38_2,1,Yes
+baseline,c31_disease_u7_37_2,0,No
+baseline,c31_disease_u7_37_2,1,Yes
+baseline,c31_disease_u7_36_2,0,No
+baseline,c31_disease_u7_36_2,1,Yes
+baseline,c31_disease_u7_35_2,0,No
+baseline,c31_disease_u7_35_2,1,Yes
+baseline,c31_disease_u7_34_2,0,No
+baseline,c31_disease_u7_34_2,1,Yes
+baseline,c31_disease_u7_33_2,0,No
+baseline,c31_disease_u7_33_2,1,Yes
+baseline,c31_disease_u7_32_2,0,No
+baseline,c31_disease_u7_32_2,1,Yes
+baseline,c31_disease_u7_31_2,0,No
+baseline,c31_disease_u7_31_2,1,Yes
+baseline,c31_disease_u7_30_2,0,No
+baseline,c31_disease_u7_30_2,1,Yes
+baseline,c31_disease_u7_29_2,0,No
+baseline,c31_disease_u7_29_2,1,Yes
+baseline,c31_disease_u7_28_2,0,No
+baseline,c31_disease_u7_28_2,1,Yes
+baseline,c31_disease_u7_27_2,0,No
+baseline,c31_disease_u7_27_2,1,Yes
+baseline,c31_disease_u7_26_2,0,No
+baseline,c31_disease_u7_26_2,1,Yes
+baseline,c32_opd_u7_2,0,No
+baseline,c32_opd_u7_2,1,Yes
+baseline,c33_hospital_u7_2,1,Government hospitals
+baseline,c33_hospital_u7_2,2,Government Maternal and child hospital
+baseline,c33_hospital_u7_2,3,Children Hospital
+baseline,c33_hospital_u7_2,4,Workers’ hospitals
+baseline,c33_hospital_u7_2,5,Private hospitals
+baseline,c33_hospital_u7_2,6,Traditional Medicine Hospitals
+baseline,c33_hospital_u7_2,7,Military Hospital
+baseline,c33_hospital_u7_2,8,Charity Hospital
+baseline,c33_hospital_u7_2,9,Facility Covid Center/quarantine center
+baseline,c33_hospital_u7_2,97,Prefer not to answer
+baseline,c33_hospital_u7_2,98,Don’t know
+baseline,c33_hospital_u7_2,99,Other (Specify)
+baseline,c2_nature_u7_1_3,0,No
+baseline,c2_nature_u7_1_3,1,Yes
+baseline,c2_nature_u7_2_3,0,No
+baseline,c2_nature_u7_2_3,1,Yes
+baseline,c2_nature_u7_3_3,0,No
+baseline,c2_nature_u7_3_3,1,Yes
+baseline,c2_nature_u7_4_3,0,No
+baseline,c2_nature_u7_4_3,1,Yes
+baseline,c2_nature_u7_5_3,0,No
+baseline,c2_nature_u7_5_3,1,Yes
+baseline,c2_nature_u7_6_3,0,No
+baseline,c2_nature_u7_6_3,1,Yes
+baseline,c2_nature_u7_7_3,0,No
+baseline,c2_nature_u7_7_3,1,Yes
+baseline,c2_nature_u7_8_3,0,No
+baseline,c2_nature_u7_8_3,1,Yes
+baseline,c2_nature_u7_9_3,0,No
+baseline,c2_nature_u7_9_3,1,Yes
+baseline,c2_nature_u7_10_3,0,No
+baseline,c2_nature_u7_10_3,1,Yes
+baseline,c3_test_u7_3,0,No
+baseline,c3_test_u7_3,1,Yes
+baseline,c7_compare_u7_3,1,Healthcare use increased
+baseline,c7_compare_u7_3,2,Healthcare use decreased
+baseline,c7_compare_u7_3,3,Healthcare use did not change
+baseline,c7_compare_u7_3,4,"The child was born after February 1,2021"
+baseline,c8_illyesno_u7_3,0,No
+baseline,c8_illyesno_u7_3,1,Yes
+baseline,c9_insu_u7_3,0,No insurance
+baseline,c9_insu_u7_3,1,Social Security
+baseline,c9_insu_u7_3,2,Health Insurance through Employer
+baseline,c9_insu_u7_3,3,Other Privately Purchased Commercial Health Insurance
+baseline,c9_insu_u7_3,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c9_insu_u7_3,98,Don’t know
+baseline,c9_insu_u7_3,99,Other (Specify):
+baseline,c10_seekcare_u7_3,0,No
+baseline,c10_seekcare_u7_3,1,Yes
+baseline,c11_disease_u7_1_3,0,No
+baseline,c11_disease_u7_1_3,1,Yes
+baseline,c11_disease_u7_2_3,0,No
+baseline,c11_disease_u7_2_3,1,Yes
+baseline,c11_disease_u7_3_3,0,No
+baseline,c11_disease_u7_3_3,1,Yes
+baseline,c11_disease_u7_4_3,0,No
+baseline,c11_disease_u7_4_3,1,Yes
+baseline,c11_disease_u7_5_3,0,No
+baseline,c11_disease_u7_5_3,1,Yes
+baseline,c11_disease_u7_6_3,0,No
+baseline,c11_disease_u7_6_3,1,Yes
+baseline,c11_disease_u7_7_3,0,No
+baseline,c11_disease_u7_7_3,1,Yes
+baseline,c11_disease_u7_8_3,0,No
+baseline,c11_disease_u7_8_3,1,Yes
+baseline,c11_disease_u7_9_3,0,No
+baseline,c11_disease_u7_9_3,1,Yes
+baseline,c11_disease_u7_10_3,0,No
+baseline,c11_disease_u7_10_3,1,Yes
+baseline,c11_disease_u7_11_3,0,No
+baseline,c11_disease_u7_11_3,1,Yes
+baseline,c11_disease_u7_12_3,0,No
+baseline,c11_disease_u7_12_3,1,Yes
+baseline,c11_disease_u7_13_3,0,No
+baseline,c11_disease_u7_13_3,1,Yes
+baseline,c11_disease_u7_14_3,0,No
+baseline,c11_disease_u7_14_3,1,Yes
+baseline,c11_disease_u7_15_3,0,No
+baseline,c11_disease_u7_15_3,1,Yes
+baseline,c11_disease_u7_16_3,0,No
+baseline,c11_disease_u7_16_3,1,Yes
+baseline,c11_disease_u7_17_3,0,No
+baseline,c11_disease_u7_17_3,1,Yes
+baseline,c11_disease_u7_18_3,0,No
+baseline,c11_disease_u7_18_3,1,Yes
+baseline,c11_disease_u7_19_3,0,No
+baseline,c11_disease_u7_19_3,1,Yes
+baseline,c11_disease_u7_45_3,0,No
+baseline,c11_disease_u7_45_3,1,Yes
+baseline,c11_disease_u7_44_3,0,No
+baseline,c11_disease_u7_44_3,1,Yes
+baseline,c11_disease_u7_43_3,0,No
+baseline,c11_disease_u7_43_3,1,Yes
+baseline,c11_disease_u7_42_3,0,No
+baseline,c11_disease_u7_42_3,1,Yes
+baseline,c11_disease_u7_41_3,0,No
+baseline,c11_disease_u7_41_3,1,Yes
+baseline,c11_disease_u7_40_3,0,No
+baseline,c11_disease_u7_40_3,1,Yes
+baseline,c11_disease_u7_39_3,0,No
+baseline,c11_disease_u7_39_3,1,Yes
+baseline,c11_disease_u7_38_3,0,No
+baseline,c11_disease_u7_38_3,1,Yes
+baseline,c11_disease_u7_37_3,0,No
+baseline,c11_disease_u7_37_3,1,Yes
+baseline,c11_disease_u7_36_3,0,No
+baseline,c11_disease_u7_36_3,1,Yes
+baseline,c11_disease_u7_35_3,0,No
+baseline,c11_disease_u7_35_3,1,Yes
+baseline,c11_disease_u7_34_3,0,No
+baseline,c11_disease_u7_34_3,1,Yes
+baseline,c11_disease_u7_33_3,0,No
+baseline,c11_disease_u7_33_3,1,Yes
+baseline,c11_disease_u7_32_3,0,No
+baseline,c11_disease_u7_32_3,1,Yes
+baseline,c11_disease_u7_31_3,0,No
+baseline,c11_disease_u7_31_3,1,Yes
+baseline,c11_disease_u7_30_3,0,No
+baseline,c11_disease_u7_30_3,1,Yes
+baseline,c11_disease_u7_29_3,0,No
+baseline,c11_disease_u7_29_3,1,Yes
+baseline,c11_disease_u7_28_3,0,No
+baseline,c11_disease_u7_28_3,1,Yes
+baseline,c11_disease_u7_27_3,0,No
+baseline,c11_disease_u7_27_3,1,Yes
+baseline,c11_disease_u7_26_3,0,No
+baseline,c11_disease_u7_26_3,1,Yes
+baseline,c11_disease_u7_25_3,0,No
+baseline,c11_disease_u7_25_3,1,Yes
+baseline,c11_disease_u7_24_3,0,No
+baseline,c11_disease_u7_24_3,1,Yes
+baseline,c11_disease_u7_23_3,0,No
+baseline,c11_disease_u7_23_3,1,Yes
+baseline,c11_disease_u7_22_3,0,No
+baseline,c11_disease_u7_22_3,1,Yes
+baseline,c11_disease_u7_21_3,0,No
+baseline,c11_disease_u7_21_3,1,Yes
+baseline,c11_disease_u7_20_3,0,No
+baseline,c11_disease_u7_20_3,1,Yes
+baseline,c12_diagnose_u7_3,0,No
+baseline,c12_diagnose_u7_3,1,Yes
+baseline,c13_medication_u7_3,0,No
+baseline,c13_medication_u7_3,1,Yes
+baseline,c14_meditake_u7_3,0,No
+baseline,c14_meditake_u7_3,1,Yes
+baseline,c15_format_u7_1_3,0,No
+baseline,c15_format_u7_1_3,1,Yes
+baseline,c15_format_u7_2_3,0,No
+baseline,c15_format_u7_2_3,1,Yes
+baseline,c15_format_u7_3_3,0,No
+baseline,c15_format_u7_3_3,1,Yes
+baseline,c20_personlast_u7_3,1,Gov’t hospital
+baseline,c20_personlast_u7_3,2,Gov’t rural health center (RHC)
+baseline,c20_personlast_u7_3,3,Peri-urban Health Center
+baseline,c20_personlast_u7_3,4,Maternal and Child Health Clinic/ Hospital
+baseline,c20_personlast_u7_3,5,Family Planning Clinic
+baseline,c20_personlast_u7_3,6,Birth Center
+baseline,c20_personlast_u7_3,7,Private Hospital/ Clinic
+baseline,c20_personlast_u7_3,8,Private Doctor’s Office
+baseline,c20_personlast_u7_3,9,Traditional Medicine Hospitals
+baseline,c20_personlast_u7_3,10,Traditional Medicine Clinics
+baseline,c20_personlast_u7_3,11,Patient’s Home
+baseline,c20_personlast_u7_3,12,Provider’s home or store
+baseline,c20_personlast_u7_3,13,Charity clinics
+baseline,c20_personlast_u7_3,14,Military hospital
+baseline,c20_personlast_u7_3,15,Social Security Clinics
+baseline,c20_personlast_u7_3,16,Workers' Hospital
+baseline,c20_personlast_u7_3,17,Midwife
+baseline,c25_assist_u7_0_3,0,No
+baseline,c25_assist_u7_0_3,1,Yes
+baseline,c25_assist_u7_1_3,0,No
+baseline,c25_assist_u7_1_3,1,Yes
+baseline,c25_assist_u7_2_3,0,No
+baseline,c25_assist_u7_2_3,1,Yes
+baseline,c25_assist_u7_3_3,0,No
+baseline,c25_assist_u7_3_3,1,Yes
+baseline,c25_assist_u7_4_3,0,No
+baseline,c25_assist_u7_4_3,1,Yes
+baseline,c25_assist_u7_5_3,0,No
+baseline,c25_assist_u7_5_3,1,Yes
+baseline,c25_assist_u7_6_3,0,No
+baseline,c25_assist_u7_6_3,1,Yes
+baseline,c25_assist_u7_8_3,0,No
+baseline,c25_assist_u7_8_3,1,Yes
+baseline,c25_assist_u7_7_3,0,No
+baseline,c25_assist_u7_7_3,1,Yes
+baseline,c25_assist_u7_98_3,0,No
+baseline,c25_assist_u7_98_3,1,Yes
+baseline,c26_nonsick_u7_1_3,0,No
+baseline,c26_nonsick_u7_1_3,1,Yes
+baseline,c26_nonsick_u7_2_3,0,No
+baseline,c26_nonsick_u7_2_3,1,Yes
+baseline,c26_nonsick_u7_3_3,0,No
+baseline,c26_nonsick_u7_3_3,1,Yes
+baseline,c26_nonsick_u7_4_3,0,No
+baseline,c26_nonsick_u7_4_3,1,Yes
+baseline,c27_notconsult_u7_1_3,0,No
+baseline,c27_notconsult_u7_1_3,1,Yes
+baseline,c27_notconsult_u7_2_3,0,No
+baseline,c27_notconsult_u7_2_3,1,Yes
+baseline,c27_notconsult_u7_3_3,0,No
+baseline,c27_notconsult_u7_3_3,1,Yes
+baseline,c27_notconsult_u7_4_3,0,No
+baseline,c27_notconsult_u7_4_3,1,Yes
+baseline,c27_notconsult_u7_5_3,0,No
+baseline,c27_notconsult_u7_5_3,1,Yes
+baseline,c27_notconsult_u7_6_3,0,No
+baseline,c27_notconsult_u7_6_3,1,Yes
+baseline,c27_notconsult_u7_7_3,0,No
+baseline,c27_notconsult_u7_7_3,1,Yes
+baseline,c27_notconsult_u7_8_3,0,No
+baseline,c27_notconsult_u7_8_3,1,Yes
+baseline,c27_notconsult_u7_9_3,0,No
+baseline,c27_notconsult_u7_9_3,1,Yes
+baseline,c27_notconsult_u7_10_3,0,No
+baseline,c27_notconsult_u7_10_3,1,Yes
+baseline,c27_notconsult_u7_11_3,0,No
+baseline,c27_notconsult_u7_11_3,1,Yes
+baseline,c27_notconsult_u7_12_3,0,No
+baseline,c27_notconsult_u7_12_3,1,Yes
+baseline,c27_notconsult_u7_13_3,0,No
+baseline,c27_notconsult_u7_13_3,1,Yes
+baseline,c27_notconsult_u7_14_3,0,No
+baseline,c27_notconsult_u7_14_3,1,Yes
+baseline,c27_notconsult_u7_15_3,0,No
+baseline,c27_notconsult_u7_15_3,1,Yes
+baseline,c27_notconsult_u7_16_3,0,No
+baseline,c27_notconsult_u7_16_3,1,Yes
+baseline,c27_notconsult_u7_17_3,0,No
+baseline,c27_notconsult_u7_17_3,1,Yes
+baseline,c27_notconsult_u7_18_3,0,No
+baseline,c27_notconsult_u7_18_3,1,Yes
+baseline,c27_notconsult_u7_19_3,0,No
+baseline,c27_notconsult_u7_19_3,1,Yes
+baseline,c27_notconsult_u7_20_3,0,No
+baseline,c27_notconsult_u7_20_3,1,Yes
+baseline,c27_notconsult_u7_21_3,0,No
+baseline,c27_notconsult_u7_21_3,1,Yes
+baseline,c27_notconsult_u7_22_3,0,No
+baseline,c27_notconsult_u7_22_3,1,Yes
+baseline,c27_notconsult_u7_23_3,0,No
+baseline,c27_notconsult_u7_23_3,1,Yes
+baseline,c27_notconsult_u7_24_3,0,No
+baseline,c27_notconsult_u7_24_3,1,Yes
+baseline,c27_notconsult_u7_25_3,0,No
+baseline,c27_notconsult_u7_25_3,1,Yes
+baseline,c28_inpatient_u7_3,0,No
+baseline,c28_inpatient_u7_3,1,Yes
+baseline,c29_insu_u7_3,0,No insurance
+baseline,c29_insu_u7_3,1,Social Security
+baseline,c29_insu_u7_3,2,Health Insurance through Employer
+baseline,c29_insu_u7_3,3,Other Privately Purchased Commercial Health Insurance
+baseline,c29_insu_u7_3,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c29_insu_u7_3,98,Don’t know
+baseline,c29_insu_u7_3,99,Other (Specify):
+baseline,c31_disease_u7_1_3,0,No
+baseline,c31_disease_u7_1_3,1,Yes
+baseline,c31_disease_u7_2_3,0,No
+baseline,c31_disease_u7_2_3,1,Yes
+baseline,c31_disease_u7_3_3,0,No
+baseline,c31_disease_u7_3_3,1,Yes
+baseline,c31_disease_u7_4_3,0,No
+baseline,c31_disease_u7_4_3,1,Yes
+baseline,c31_disease_u7_5_3,0,No
+baseline,c31_disease_u7_5_3,1,Yes
+baseline,c31_disease_u7_6_3,0,No
+baseline,c31_disease_u7_6_3,1,Yes
+baseline,c31_disease_u7_7_3,0,No
+baseline,c31_disease_u7_7_3,1,Yes
+baseline,c31_disease_u7_8_3,0,No
+baseline,c31_disease_u7_8_3,1,Yes
+baseline,c31_disease_u7_9_3,0,No
+baseline,c31_disease_u7_9_3,1,Yes
+baseline,c31_disease_u7_10_3,0,No
+baseline,c31_disease_u7_10_3,1,Yes
+baseline,c31_disease_u7_11_3,0,No
+baseline,c31_disease_u7_11_3,1,Yes
+baseline,c31_disease_u7_12_3,0,No
+baseline,c31_disease_u7_12_3,1,Yes
+baseline,c31_disease_u7_13_3,0,No
+baseline,c31_disease_u7_13_3,1,Yes
+baseline,c31_disease_u7_14_3,0,No
+baseline,c31_disease_u7_14_3,1,Yes
+baseline,c31_disease_u7_15_3,0,No
+baseline,c31_disease_u7_15_3,1,Yes
+baseline,c31_disease_u7_16_3,0,No
+baseline,c31_disease_u7_16_3,1,Yes
+baseline,c31_disease_u7_17_3,0,No
+baseline,c31_disease_u7_17_3,1,Yes
+baseline,c31_disease_u7_18_3,0,No
+baseline,c31_disease_u7_18_3,1,Yes
+baseline,c31_disease_u7_19_3,0,No
+baseline,c31_disease_u7_19_3,1,Yes
+baseline,c31_disease_u7_20_3,0,No
+baseline,c31_disease_u7_20_3,1,Yes
+baseline,c31_disease_u7_21_3,0,No
+baseline,c31_disease_u7_21_3,1,Yes
+baseline,c31_disease_u7_22_3,0,No
+baseline,c31_disease_u7_22_3,1,Yes
+baseline,c31_disease_u7_23_3,0,No
+baseline,c31_disease_u7_23_3,1,Yes
+baseline,c31_disease_u7_24_3,0,No
+baseline,c31_disease_u7_24_3,1,Yes
+baseline,c31_disease_u7_25_3,0,No
+baseline,c31_disease_u7_25_3,1,Yes
+baseline,c31_disease_u7_42_3,0,No
+baseline,c31_disease_u7_42_3,1,Yes
+baseline,c31_disease_u7_41_3,0,No
+baseline,c31_disease_u7_41_3,1,Yes
+baseline,c31_disease_u7_40_3,0,No
+baseline,c31_disease_u7_40_3,1,Yes
+baseline,c31_disease_u7_39_3,0,No
+baseline,c31_disease_u7_39_3,1,Yes
+baseline,c31_disease_u7_38_3,0,No
+baseline,c31_disease_u7_38_3,1,Yes
+baseline,c31_disease_u7_37_3,0,No
+baseline,c31_disease_u7_37_3,1,Yes
+baseline,c31_disease_u7_36_3,0,No
+baseline,c31_disease_u7_36_3,1,Yes
+baseline,c31_disease_u7_35_3,0,No
+baseline,c31_disease_u7_35_3,1,Yes
+baseline,c31_disease_u7_34_3,0,No
+baseline,c31_disease_u7_34_3,1,Yes
+baseline,c31_disease_u7_33_3,0,No
+baseline,c31_disease_u7_33_3,1,Yes
+baseline,c31_disease_u7_32_3,0,No
+baseline,c31_disease_u7_32_3,1,Yes
+baseline,c31_disease_u7_31_3,0,No
+baseline,c31_disease_u7_31_3,1,Yes
+baseline,c31_disease_u7_30_3,0,No
+baseline,c31_disease_u7_30_3,1,Yes
+baseline,c31_disease_u7_29_3,0,No
+baseline,c31_disease_u7_29_3,1,Yes
+baseline,c31_disease_u7_28_3,0,No
+baseline,c31_disease_u7_28_3,1,Yes
+baseline,c31_disease_u7_27_3,0,No
+baseline,c31_disease_u7_27_3,1,Yes
+baseline,c31_disease_u7_26_3,0,No
+baseline,c31_disease_u7_26_3,1,Yes
+baseline,c32_opd_u7_3,0,No
+baseline,c32_opd_u7_3,1,Yes
+baseline,c33_hospital_u7_3,1,Government hospitals
+baseline,c33_hospital_u7_3,2,Government Maternal and child hospital
+baseline,c33_hospital_u7_3,3,Children Hospital
+baseline,c33_hospital_u7_3,4,Workers’ hospitals
+baseline,c33_hospital_u7_3,5,Private hospitals
+baseline,c33_hospital_u7_3,6,Traditional Medicine Hospitals
+baseline,c33_hospital_u7_3,7,Military Hospital
+baseline,c33_hospital_u7_3,8,Charity Hospital
+baseline,c33_hospital_u7_3,9,Facility Covid Center/quarantine center
+baseline,c33_hospital_u7_3,97,Prefer not to answer
+baseline,c33_hospital_u7_3,98,Don’t know
+baseline,c33_hospital_u7_3,99,Other (Specify)
+baseline,c2_nature_u7_1_4,0,No
+baseline,c2_nature_u7_1_4,1,Yes
+baseline,c2_nature_u7_2_4,0,No
+baseline,c2_nature_u7_2_4,1,Yes
+baseline,c2_nature_u7_3_4,0,No
+baseline,c2_nature_u7_3_4,1,Yes
+baseline,c2_nature_u7_4_4,0,No
+baseline,c2_nature_u7_4_4,1,Yes
+baseline,c2_nature_u7_5_4,0,No
+baseline,c2_nature_u7_5_4,1,Yes
+baseline,c2_nature_u7_6_4,0,No
+baseline,c2_nature_u7_6_4,1,Yes
+baseline,c2_nature_u7_7_4,0,No
+baseline,c2_nature_u7_7_4,1,Yes
+baseline,c2_nature_u7_8_4,0,No
+baseline,c2_nature_u7_8_4,1,Yes
+baseline,c2_nature_u7_9_4,0,No
+baseline,c2_nature_u7_9_4,1,Yes
+baseline,c2_nature_u7_10_4,0,No
+baseline,c2_nature_u7_10_4,1,Yes
+baseline,c3_test_u7_4,0,No
+baseline,c3_test_u7_4,1,Yes
+baseline,c7_compare_u7_4,1,Healthcare use increased
+baseline,c7_compare_u7_4,2,Healthcare use decreased
+baseline,c7_compare_u7_4,3,Healthcare use did not change
+baseline,c7_compare_u7_4,4,"The child was born after February 1,2021"
+baseline,c8_illyesno_u7_4,0,No
+baseline,c8_illyesno_u7_4,1,Yes
+baseline,c9_insu_u7_4,0,No insurance
+baseline,c9_insu_u7_4,1,Social Security
+baseline,c9_insu_u7_4,2,Health Insurance through Employer
+baseline,c9_insu_u7_4,3,Other Privately Purchased Commercial Health Insurance
+baseline,c9_insu_u7_4,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c9_insu_u7_4,98,Don’t know
+baseline,c9_insu_u7_4,99,Other (Specify):
+baseline,c10_seekcare_u7_4,0,No
+baseline,c10_seekcare_u7_4,1,Yes
+baseline,c11_disease_u7_1_4,0,No
+baseline,c11_disease_u7_1_4,1,Yes
+baseline,c11_disease_u7_2_4,0,No
+baseline,c11_disease_u7_2_4,1,Yes
+baseline,c11_disease_u7_3_4,0,No
+baseline,c11_disease_u7_3_4,1,Yes
+baseline,c11_disease_u7_4_4,0,No
+baseline,c11_disease_u7_4_4,1,Yes
+baseline,c11_disease_u7_5_4,0,No
+baseline,c11_disease_u7_5_4,1,Yes
+baseline,c11_disease_u7_6_4,0,No
+baseline,c11_disease_u7_6_4,1,Yes
+baseline,c11_disease_u7_7_4,0,No
+baseline,c11_disease_u7_7_4,1,Yes
+baseline,c11_disease_u7_8_4,0,No
+baseline,c11_disease_u7_8_4,1,Yes
+baseline,c11_disease_u7_9_4,0,No
+baseline,c11_disease_u7_9_4,1,Yes
+baseline,c11_disease_u7_10_4,0,No
+baseline,c11_disease_u7_10_4,1,Yes
+baseline,c11_disease_u7_11_4,0,No
+baseline,c11_disease_u7_11_4,1,Yes
+baseline,c11_disease_u7_12_4,0,No
+baseline,c11_disease_u7_12_4,1,Yes
+baseline,c11_disease_u7_13_4,0,No
+baseline,c11_disease_u7_13_4,1,Yes
+baseline,c11_disease_u7_14_4,0,No
+baseline,c11_disease_u7_14_4,1,Yes
+baseline,c11_disease_u7_15_4,0,No
+baseline,c11_disease_u7_15_4,1,Yes
+baseline,c11_disease_u7_16_4,0,No
+baseline,c11_disease_u7_16_4,1,Yes
+baseline,c11_disease_u7_17_4,0,No
+baseline,c11_disease_u7_17_4,1,Yes
+baseline,c11_disease_u7_18_4,0,No
+baseline,c11_disease_u7_18_4,1,Yes
+baseline,c11_disease_u7_19_4,0,No
+baseline,c11_disease_u7_19_4,1,Yes
+baseline,c11_disease_u7_45_4,0,No
+baseline,c11_disease_u7_45_4,1,Yes
+baseline,c11_disease_u7_44_4,0,No
+baseline,c11_disease_u7_44_4,1,Yes
+baseline,c11_disease_u7_43_4,0,No
+baseline,c11_disease_u7_43_4,1,Yes
+baseline,c11_disease_u7_42_4,0,No
+baseline,c11_disease_u7_42_4,1,Yes
+baseline,c11_disease_u7_41_4,0,No
+baseline,c11_disease_u7_41_4,1,Yes
+baseline,c11_disease_u7_40_4,0,No
+baseline,c11_disease_u7_40_4,1,Yes
+baseline,c11_disease_u7_39_4,0,No
+baseline,c11_disease_u7_39_4,1,Yes
+baseline,c11_disease_u7_38_4,0,No
+baseline,c11_disease_u7_38_4,1,Yes
+baseline,c11_disease_u7_37_4,0,No
+baseline,c11_disease_u7_37_4,1,Yes
+baseline,c11_disease_u7_36_4,0,No
+baseline,c11_disease_u7_36_4,1,Yes
+baseline,c11_disease_u7_35_4,0,No
+baseline,c11_disease_u7_35_4,1,Yes
+baseline,c11_disease_u7_34_4,0,No
+baseline,c11_disease_u7_34_4,1,Yes
+baseline,c11_disease_u7_33_4,0,No
+baseline,c11_disease_u7_33_4,1,Yes
+baseline,c11_disease_u7_32_4,0,No
+baseline,c11_disease_u7_32_4,1,Yes
+baseline,c11_disease_u7_31_4,0,No
+baseline,c11_disease_u7_31_4,1,Yes
+baseline,c11_disease_u7_30_4,0,No
+baseline,c11_disease_u7_30_4,1,Yes
+baseline,c11_disease_u7_29_4,0,No
+baseline,c11_disease_u7_29_4,1,Yes
+baseline,c11_disease_u7_28_4,0,No
+baseline,c11_disease_u7_28_4,1,Yes
+baseline,c11_disease_u7_27_4,0,No
+baseline,c11_disease_u7_27_4,1,Yes
+baseline,c11_disease_u7_26_4,0,No
+baseline,c11_disease_u7_26_4,1,Yes
+baseline,c11_disease_u7_25_4,0,No
+baseline,c11_disease_u7_25_4,1,Yes
+baseline,c11_disease_u7_24_4,0,No
+baseline,c11_disease_u7_24_4,1,Yes
+baseline,c11_disease_u7_23_4,0,No
+baseline,c11_disease_u7_23_4,1,Yes
+baseline,c11_disease_u7_22_4,0,No
+baseline,c11_disease_u7_22_4,1,Yes
+baseline,c11_disease_u7_21_4,0,No
+baseline,c11_disease_u7_21_4,1,Yes
+baseline,c11_disease_u7_20_4,0,No
+baseline,c11_disease_u7_20_4,1,Yes
+baseline,c12_diagnose_u7_4,0,No
+baseline,c12_diagnose_u7_4,1,Yes
+baseline,c13_medication_u7_4,0,No
+baseline,c13_medication_u7_4,1,Yes
+baseline,c14_meditake_u7_4,0,No
+baseline,c14_meditake_u7_4,1,Yes
+baseline,c15_format_u7_1_4,0,No
+baseline,c15_format_u7_1_4,1,Yes
+baseline,c15_format_u7_2_4,0,No
+baseline,c15_format_u7_2_4,1,Yes
+baseline,c15_format_u7_3_4,0,No
+baseline,c15_format_u7_3_4,1,Yes
+baseline,c18_virlast_preg,1,Text Message
+baseline,c18_virlast_preg,2,Email
+baseline,c18_virlast_preg,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+baseline,c18_virlast_preg,4,Phone calls
+baseline,c18_virlast_preg,5,"Videoconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_preg,6,"Audioconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_preg,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+baseline,c18_virlast_u7_1,1,Text Message
+baseline,c18_virlast_u7_1,2,Email
+baseline,c18_virlast_u7_1,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+baseline,c18_virlast_u7_1,4,Phone calls
+baseline,c18_virlast_u7_1,5,"Videoconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_u7_1,6,"Audioconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_u7_1,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+baseline,c18_virlast_u7_2,1,Text Message
+baseline,c18_virlast_u7_2,2,Email
+baseline,c18_virlast_u7_2,3,"Messaging within a website (e.g., patient portal, viber, telegram, messenger)"
+baseline,c18_virlast_u7_2,4,Phone calls
+baseline,c18_virlast_u7_2,5,"Videoconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_u7_2,6,"Audioconference (e.g viber, telegram, messenger)"
+baseline,c18_virlast_u7_2,7,eVisit (when you answer questions about your health issue online and hear back from a doctor later)
+baseline,c20_personlast_u7_4,1,Gov’t hospital
+baseline,c20_personlast_u7_4,2,Gov’t rural health center (RHC)
+baseline,c20_personlast_u7_4,3,Peri-urban Health Center
+baseline,c20_personlast_u7_4,4,Maternal and Child Health Clinic/ Hospital
+baseline,c20_personlast_u7_4,5,Family Planning Clinic
+baseline,c20_personlast_u7_4,6,Birth Center
+baseline,c20_personlast_u7_4,7,Private Hospital/ Clinic
+baseline,c20_personlast_u7_4,8,Private Doctor’s Office
+baseline,c20_personlast_u7_4,9,Traditional Medicine Hospitals
+baseline,c20_personlast_u7_4,10,Traditional Medicine Clinics
+baseline,c20_personlast_u7_4,11,Patient’s Home
+baseline,c20_personlast_u7_4,12,Provider’s home or store
+baseline,c20_personlast_u7_4,13,Charity clinics
+baseline,c20_personlast_u7_4,14,Military hospital
+baseline,c20_personlast_u7_4,15,Social Security Clinics
+baseline,c20_personlast_u7_4,16,Workers' Hospital
+baseline,c20_personlast_u7_4,17,Midwife
+baseline,c25_assist_u7_0_4,0,No
+baseline,c25_assist_u7_0_4,1,Yes
+baseline,c25_assist_u7_1_4,0,No
+baseline,c25_assist_u7_1_4,1,Yes
+baseline,c25_assist_u7_2_4,0,No
+baseline,c25_assist_u7_2_4,1,Yes
+baseline,c25_assist_u7_3_4,0,No
+baseline,c25_assist_u7_3_4,1,Yes
+baseline,c25_assist_u7_4_4,0,No
+baseline,c25_assist_u7_4_4,1,Yes
+baseline,c25_assist_u7_5_4,0,No
+baseline,c25_assist_u7_5_4,1,Yes
+baseline,c25_assist_u7_6_4,0,No
+baseline,c25_assist_u7_6_4,1,Yes
+baseline,c25_assist_u7_8_4,0,No
+baseline,c25_assist_u7_8_4,1,Yes
+baseline,c25_assist_u7_7_4,0,No
+baseline,c25_assist_u7_7_4,1,Yes
+baseline,c25_assist_u7_98_4,0,No
+baseline,c25_assist_u7_98_4,1,Yes
+baseline,c26_nonsick_u7_1_4,0,No
+baseline,c26_nonsick_u7_1_4,1,Yes
+baseline,c26_nonsick_u7_2_4,0,No
+baseline,c26_nonsick_u7_2_4,1,Yes
+baseline,c26_nonsick_u7_3_4,0,No
+baseline,c26_nonsick_u7_3_4,1,Yes
+baseline,c26_nonsick_u7_4_4,0,No
+baseline,c26_nonsick_u7_4_4,1,Yes
+baseline,c27_notconsult_u7_1_4,0,No
+baseline,c27_notconsult_u7_1_4,1,Yes
+baseline,c27_notconsult_u7_2_4,0,No
+baseline,c27_notconsult_u7_2_4,1,Yes
+baseline,c27_notconsult_u7_3_4,0,No
+baseline,c27_notconsult_u7_3_4,1,Yes
+baseline,c27_notconsult_u7_4_4,0,No
+baseline,c27_notconsult_u7_4_4,1,Yes
+baseline,c27_notconsult_u7_5_4,0,No
+baseline,c27_notconsult_u7_5_4,1,Yes
+baseline,c27_notconsult_u7_6_4,0,No
+baseline,c27_notconsult_u7_6_4,1,Yes
+baseline,c27_notconsult_u7_7_4,0,No
+baseline,c27_notconsult_u7_7_4,1,Yes
+baseline,c27_notconsult_u7_8_4,0,No
+baseline,c27_notconsult_u7_8_4,1,Yes
+baseline,c27_notconsult_u7_9_4,0,No
+baseline,c27_notconsult_u7_9_4,1,Yes
+baseline,c27_notconsult_u7_10_4,0,No
+baseline,c27_notconsult_u7_10_4,1,Yes
+baseline,c27_notconsult_u7_11_4,0,No
+baseline,c27_notconsult_u7_11_4,1,Yes
+baseline,c27_notconsult_u7_12_4,0,No
+baseline,c27_notconsult_u7_12_4,1,Yes
+baseline,c27_notconsult_u7_13_4,0,No
+baseline,c27_notconsult_u7_13_4,1,Yes
+baseline,c27_notconsult_u7_14_4,0,No
+baseline,c27_notconsult_u7_14_4,1,Yes
+baseline,c27_notconsult_u7_15_4,0,No
+baseline,c27_notconsult_u7_15_4,1,Yes
+baseline,c27_notconsult_u7_16_4,0,No
+baseline,c27_notconsult_u7_16_4,1,Yes
+baseline,c27_notconsult_u7_17_4,0,No
+baseline,c27_notconsult_u7_17_4,1,Yes
+baseline,c27_notconsult_u7_18_4,0,No
+baseline,c27_notconsult_u7_18_4,1,Yes
+baseline,c27_notconsult_u7_19_4,0,No
+baseline,c27_notconsult_u7_19_4,1,Yes
+baseline,c27_notconsult_u7_20_4,0,No
+baseline,c27_notconsult_u7_20_4,1,Yes
+baseline,c27_notconsult_u7_21_4,0,No
+baseline,c27_notconsult_u7_21_4,1,Yes
+baseline,c27_notconsult_u7_22_4,0,No
+baseline,c27_notconsult_u7_22_4,1,Yes
+baseline,c27_notconsult_u7_23_4,0,No
+baseline,c27_notconsult_u7_23_4,1,Yes
+baseline,c27_notconsult_u7_24_4,0,No
+baseline,c27_notconsult_u7_24_4,1,Yes
+baseline,c27_notconsult_u7_25_4,0,No
+baseline,c27_notconsult_u7_25_4,1,Yes
+baseline,c28_inpatient_u7_4,0,No
+baseline,c28_inpatient_u7_4,1,Yes
+baseline,c29_insu_u7_4,0,No insurance
+baseline,c29_insu_u7_4,1,Social Security
+baseline,c29_insu_u7_4,2,Health Insurance through Employer
+baseline,c29_insu_u7_4,3,Other Privately Purchased Commercial Health Insurance
+baseline,c29_insu_u7_4,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,c29_insu_u7_4,98,Don’t know
+baseline,c29_insu_u7_4,99,Other (Specify):
+baseline,c39_ownearn,1,Respondent
+baseline,c39_ownearn,2,Husband/ Partner
+baseline,c39_ownearn,3,Respondent and Husband/ Partner Jointly
+baseline,c39_ownearn,4,My parents
+baseline,c39_ownearn,5,Husband/Partner's parents
+baseline,c39_ownearn,6,Respondent is Male.
+baseline,c39_ownearn,99,Other (Specify):
+baseline,c40_husearn,1,Respondent
+baseline,c40_husearn,2,Husband/ Partner
+baseline,c40_husearn,3,Respondent and Husband/ Partner Jointly
+baseline,c40_husearn,4,My parents
+baseline,c40_husearn,5,Husband/Partner's parents
+baseline,c40_husearn,6,Respondent is Male.
+baseline,c40_husearn,7,Husband partner was died/divorced/separated/single
+baseline,c40_husearn,8,The reponsdent was spincter
+baseline,c40_husearn,99,Other (Specify):
+baseline,c41_health,1,Respondent
+baseline,c41_health,2,Husband/ Partner
+baseline,c41_health,3,Respondent and Husband/ Partner Jointly
+baseline,c41_health,4,My parents
+baseline,c41_health,5,Husband/Partner's parents
+baseline,c41_health,6,Respondent is Male.
+baseline,c41_health,99,Other (Specify):
+baseline,c42_health_child,1,Respondent
+baseline,c42_health_child,2,Husband/ Partner
+baseline,c42_health_child,3,Respondent and Husband/ Partner Jointly
+baseline,c42_health_child,4,My parents
+baseline,c42_health_child,5,Husband/Partner's parents
+baseline,c42_health_child,6,Respondent is Male.
+baseline,c42_health_child,99,Other (Specify):
+baseline,d1_preg,0,No
+baseline,d1_preg,1,Yes
+baseline,d1_preg,97,Don’t want to answer
+baseline,d1_preg,98,Don’t Know
+baseline,d2_insu_preg,0,No insurance
+baseline,d2_insu_preg,1,Social Security
+baseline,d2_insu_preg,2,Health Insurance through Employer
+baseline,d2_insu_preg,3,Other Privately Purchased Commercial Health Insurance
+baseline,d2_insu_preg,4,Mutual Health Organization/ Community-based Health Insurance
+baseline,d2_insu_preg,98,Don’t know
+baseline,d2_insu_preg,99,Other (Specify):
+baseline,d4_anc,0,No
+baseline,d4_anc,1,Yes
+baseline,d8_antecare_1,0,No
+baseline,d8_antecare_1,1,Yes
+baseline,d8_antecare_2,0,No
+baseline,d8_antecare_2,1,Yes
+baseline,d8_antecare_3,0,No
+baseline,d8_antecare_3,1,Yes
+baseline,d8_antecare_4,0,No
+baseline,d8_antecare_4,1,Yes
+baseline,d8_antecare_5,0,No
+baseline,d8_antecare_5,1,Yes
+baseline,d8_antecare_6,0,No
+baseline,d8_antecare_6,1,Yes
+baseline,d8_antecare_7,0,No
+baseline,d8_antecare_7,1,Yes
+baseline,d8_antecare_8,0,No
+baseline,d8_antecare_8,1,Yes
+baseline,d8_antecare_9,0,No
+baseline,d8_antecare_9,1,Yes
+baseline,d8_antecare_10,0,No
+baseline,d8_antecare_10,1,Yes
+baseline,d8_antecare_11,0,No
+baseline,d8_antecare_11,1,Yes
+baseline,d9_admit,0,No
+baseline,d9_admit,1,Yes
+baseline,d10_past_preg,0,No
+baseline,d10_past_preg,1,Yes
+baseline,d12_place,1,Government hospital
+baseline,d12_place,2,Government Rural health center(RHC)
+baseline,d12_place,3,Peri-urban Health Center
+baseline,d12_place,4,Maternal and Child Health Clinic/ Hospital
+baseline,d12_place,5,Family Planning Clinic
+baseline,d12_place,6,Birth Center
+baseline,d12_place,7,Private Hospital/ Clinic
+baseline,d12_place,8,Private Doctor’s Office
+baseline,d12_place,9,Traditional Medicine Hospitals
+baseline,d12_place,10,Traditional Medicine Clinics
+baseline,d12_place,11,Patient’s Home
+baseline,d12_place,12,Provider’s home or store
+baseline,d12_place,13,Charity Clinic
+baseline,d12_place,14,Military Hosipital
+baseline,d12_place,15,Miscarriage
+baseline,d12_place,16,Workers' Hospital
+baseline,d12_place,17,"Hospitals in foreign countries (Thailand, Malaysia,etc)"
+baseline,d12_place,99,Other (Specify):
+baseline,d13_reason_1,0,No
+baseline,d13_reason_1,1,Yes
+baseline,d13_reason_2,0,No
+baseline,d13_reason_2,1,Yes
+baseline,d13_reason_3,0,No
+baseline,d13_reason_3,1,Yes
+baseline,d13_reason_4,0,No
+baseline,d13_reason_4,1,Yes
+baseline,d13_reason_5,0,No
+baseline,d13_reason_5,1,Yes
+baseline,d13_reason_6,0,No
+baseline,d13_reason_6,1,Yes
+baseline,d13_reason_7,0,No
+baseline,d13_reason_7,1,Yes
+baseline,d13_reason_8,0,No
+baseline,d13_reason_8,1,Yes
+baseline,d13_reason_9,0,No
+baseline,d13_reason_9,1,Yes
+baseline,d13_reason_10,0,No
+baseline,d13_reason_10,1,Yes
+baseline,d13_reason_11,0,No
+baseline,d13_reason_11,1,Yes
+baseline,d13_reason_12,0,No
+baseline,d13_reason_12,1,Yes
+baseline,d13_reason_13,0,No
+baseline,d13_reason_13,1,Yes
+baseline,d13_reason_14,0,No
+baseline,d13_reason_14,1,Yes
+baseline,d13_reason_15,0,No
+baseline,d13_reason_15,1,Yes
+baseline,d13_reason_16,0,No
+baseline,d13_reason_16,1,Yes
+baseline,d13_reason_17,0,No
+baseline,d13_reason_17,1,Yes
+baseline,d13_reason_19,0,No
+baseline,d13_reason_19,1,Yes
+baseline,d13_reason_20,0,No
+baseline,d13_reason_20,1,Yes
+baseline,d13_reason_21,0,No
+baseline,d13_reason_21,1,Yes
+baseline,d13_reason_22,0,No
+baseline,d13_reason_22,1,Yes
+baseline,d13_reason_23,0,No
+baseline,d13_reason_23,1,Yes
+baseline,d13_reason_24,0,No
+baseline,d13_reason_24,1,Yes
+baseline,d13_reason_25,0,No
+baseline,d13_reason_25,1,Yes
+baseline,d13_reason_26,0,No
+baseline,d13_reason_26,1,Yes
+baseline,d13_reason_27,0,No
+baseline,d13_reason_27,1,Yes
+baseline,d13_reason_28,0,No
+baseline,d13_reason_28,1,Yes
+baseline,d15_admit,0,No
+baseline,d15_admit,1,Yes
+baseline,e1_vaccine_1,1,Yes
+baseline,e1_vaccine_1,2,No
+baseline,e1_vaccine_1,98,Don’t know
+baseline,e2_vaccine_record_1,1,Yes
+baseline,e2_vaccine_record_1,2,No
+baseline,e2_vaccine_record_1,98,Don’t know
+baseline,e3a_birth_1,1,Yes
+baseline,e3a_birth_1,2,No
+baseline,e3a_birth_1,98,Don’t know
+baseline,e3b_2months_1,1,Yes
+baseline,e3b_2months_1,2,No
+baseline,e3b_2months_1,98,Don’t know
+baseline,e3c_4months_1,1,Yes
+baseline,e3c_4months_1,2,No
+baseline,e3c_4months_1,98,Don’t know
+baseline,e3c_6months_1,1,Yes
+baseline,e3c_6months_1,2,No
+baseline,e3c_6months_1,98,Don’t know
+baseline,e3d_9months_1,1,Yes
+baseline,e3d_9months_1,2,No
+baseline,e3d_9months_1,98,Don’t know
+baseline,e3e_half_1,1,Yes
+baseline,e3e_half_1,2,No
+baseline,e3e_half_1,98,Don’t know
+baseline,e3f_other_1,1,Yes
+baseline,e3f_other_1,2,No
+baseline,e3f_other_1,98,Don’t know
+baseline,e1_vaccine_2,1,Yes
+baseline,e1_vaccine_2,2,No
+baseline,e1_vaccine_2,98,Don’t know
+baseline,e2_vaccine_record_2,1,Yes
+baseline,e2_vaccine_record_2,2,No
+baseline,e2_vaccine_record_2,98,Don’t know
+baseline,e3a_birth_2,1,Yes
+baseline,e3a_birth_2,2,No
+baseline,e3a_birth_2,98,Don’t know
+baseline,e3b_2months_2,1,Yes
+baseline,e3b_2months_2,2,No
+baseline,e3b_2months_2,98,Don’t know
+baseline,e3c_4months_2,1,Yes
+baseline,e3c_4months_2,2,No
+baseline,e3c_4months_2,98,Don’t know
+baseline,e3c_6months_2,1,Yes
+baseline,e3c_6months_2,2,No
+baseline,e3c_6months_2,98,Don’t know
+baseline,e3d_9months_2,1,Yes
+baseline,e3d_9months_2,2,No
+baseline,e3d_9months_2,98,Don’t know
+baseline,e3e_half_2,1,Yes
+baseline,e3e_half_2,2,No
+baseline,e3e_half_2,98,Don’t know
+baseline,e3f_other_2,1,Yes
+baseline,e3f_other_2,2,No
+baseline,e3f_other_2,98,Don’t know
+baseline,e1_vaccine_3,1,Yes
+baseline,e1_vaccine_3,2,No
+baseline,e1_vaccine_3,98,Don’t know
+baseline,e2_vaccine_record_3,1,Yes
+baseline,e2_vaccine_record_3,2,No
+baseline,e2_vaccine_record_3,98,Don’t know
+baseline,e3a_birth_3,1,Yes
+baseline,e3a_birth_3,2,No
+baseline,e3a_birth_3,98,Don’t know
+baseline,e3b_2months_3,1,Yes
+baseline,e3b_2months_3,2,No
+baseline,e3b_2months_3,98,Don’t know
+baseline,e3c_4months_3,1,Yes
+baseline,e3c_4months_3,2,No
+baseline,e3c_4months_3,98,Don’t know
+baseline,e3c_6months_3,1,Yes
+baseline,e3c_6months_3,2,No
+baseline,e3c_6months_3,98,Don’t know
+baseline,e3d_9months_3,1,Yes
+baseline,e3d_9months_3,2,No
+baseline,e3d_9months_3,98,Don’t know
+baseline,e3e_half_3,1,Yes
+baseline,e3e_half_3,2,No
+baseline,e3e_half_3,98,Don’t know
+baseline,e3f_other_3,1,Yes
+baseline,e3f_other_3,2,No
+baseline,e3f_other_3,98,Don’t know
+baseline,e1_vaccine_4,1,Yes
+baseline,e1_vaccine_4,2,No
+baseline,e1_vaccine_4,98,Don’t know
+baseline,e2_vaccine_record_4,1,Yes
+baseline,e2_vaccine_record_4,2,No
+baseline,e2_vaccine_record_4,98,Don’t know
+baseline,e3a_birth_4,1,Yes
+baseline,e3a_birth_4,2,No
+baseline,e3a_birth_4,98,Don’t know
+baseline,e3b_2months_4,1,Yes
+baseline,e3b_2months_4,2,No
+baseline,e3b_2months_4,98,Don’t know
+baseline,e3c_4months_4,1,Yes
+baseline,e3c_4months_4,2,No
+baseline,e3c_4months_4,98,Don’t know
+baseline,e3c_6months_4,1,Yes
+baseline,e3c_6months_4,2,No
+baseline,e3c_6months_4,98,Don’t know
+baseline,e3d_9months_4,1,Yes
+baseline,e3d_9months_4,2,No
+baseline,e3d_9months_4,98,Don’t know
+baseline,e3e_half_4,1,Yes
+baseline,e3e_half_4,2,No
+baseline,e3e_half_4,98,Don’t know
+baseline,f1_income_0,0,No
+baseline,f1_income_0,1,Yes
+baseline,f1_income_1,0,No
+baseline,f1_income_1,1,Yes
+baseline,f1_income_2,0,No
+baseline,f1_income_2,1,Yes
+baseline,f1_income_3,0,No
+baseline,f1_income_3,1,Yes
+baseline,f1_income_4,0,No
+baseline,f1_income_4,1,Yes
+baseline,f1_income_5,0,No
+baseline,f1_income_5,1,Yes
+baseline,f1_income_6,0,No
+baseline,f1_income_6,1,Yes
+baseline,f1_income_7,0,No
+baseline,f1_income_7,1,Yes
+baseline,f1_income_8,0,No
+baseline,f1_income_8,1,Yes
+baseline,f1_income_9,0,No
+baseline,f1_income_9,1,Yes
+baseline,f1_income_10,0,No
+baseline,f1_income_10,1,Yes
+baseline,f1_income_11,0,No
+baseline,f1_income_11,1,Yes
+baseline,f1_income_12,0,No
+baseline,f1_income_12,1,Yes
+baseline,f1_income_13,0,No
+baseline,f1_income_13,1,Yes
+baseline,f1_income_14,0,No
+baseline,f1_income_14,1,Yes
+baseline,f1_income_15,0,No
+baseline,f1_income_15,1,Yes
+baseline,f1_income_16,0,No
+baseline,f1_income_16,1,Yes
+baseline,f1_income_17,0,No
+baseline,f1_income_17,1,Yes
+baseline,f1_income_18,0,No
+baseline,f1_income_18,1,Yes
+baseline,f1_income_19,0,No
+baseline,f1_income_19,1,Yes
+baseline,f1_income_20,0,No
+baseline,f1_income_20,1,Yes
+baseline,f1_income_21,0,No
+baseline,f1_income_21,1,Yes
+baseline,f1_income_22,0,No
+baseline,f1_income_22,1,Yes
+baseline,f1_income_23,0,No
+baseline,f1_income_23,1,Yes
+baseline,f1_income_24,0,No
+baseline,f1_income_24,1,Yes
+baseline,f1_income_25,0,No
+baseline,f1_income_25,1,Yes
+baseline,f1_income_26,0,No
+baseline,f1_income_26,1,Yes
+baseline,f1_income_27,0,No
+baseline,f1_income_27,1,Yes
+baseline,f1_income_28,0,No
+baseline,f1_income_28,1,Yes
+baseline,f1_income_29,0,No
+baseline,f1_income_29,1,Yes
+baseline,f1_income_30,0,No
+baseline,f1_income_30,1,Yes
+baseline,f1_income_31,0,No
+baseline,f1_income_31,1,Yes
+baseline,f1_income_32,0,No
+baseline,f1_income_32,1,Yes
+baseline,f1_income_33,0,No
+baseline,f1_income_33,1,Yes
+baseline,f1_income_34,0,No
+baseline,f1_income_34,1,Yes
+baseline,f1_income_35,0,No
+baseline,f1_income_35,1,Yes
+baseline,f1_income_36,0,No
+baseline,f1_income_36,1,Yes
+baseline,f1_income_37,0,No
+baseline,f1_income_37,1,Yes
+baseline,f2_incomeone,0,None/unemployed
+baseline,f2_incomeone,1,Farming
+baseline,f2_incomeone,2,Livestock and poultry raising
+baseline,f2_incomeone,3,Fishing
+baseline,f2_incomeone,4,Wholesale and retail trade
+baseline,f2_incomeone,5,Peddling
+baseline,f2_incomeone,6,Manufacturing/handicraft
+baseline,f2_incomeone,7,Salaried employment
+baseline,f2_incomeone,8,Skilled Labourer
+baseline,f2_incomeone,9,Agricultural daily labourer
+baseline,f2_incomeone,10,Other daily labourer
+baseline,f2_incomeone,11,"Private gifts, donations, assistance"
+baseline,f2_incomeone,12,"Government assistance, pensions"
+baseline,f2_incomeone,13,Remittance from abroad
+baseline,f2_incomeone,14,Remittance from other parts of the country
+baseline,f2_incomeone,15,Tourism-related work
+baseline,f2_incomeone,16, Transport-related services
+baseline,f2_incomeone,17,Broker
+baseline,f2_incomeone,18,Land and housing rental agent
+baseline,f2_incomeone,19,Money lander
+baseline,f2_incomeone,20,Street venders
+baseline,f2_incomeone,21,Stone collector
+baseline,f2_incomeone,22,Hostel Service
+baseline,f2_incomeone,23,Small petroleum extraction
+baseline,f2_incomeone,24,Internet Café
+baseline,f2_incomeone,25,Logger
+baseline,f2_incomeone,26,Aircon services
+baseline,f2_incomeone,27,Construction
+baseline,f2_incomeone,28,Selling water
+baseline,f2_incomeone,29,Copyer and Printing Shop
+baseline,f2_incomeone,30,Quack Doctor
+baseline,f2_incomeone,31,Selling firewood
+baseline,f2_incomeone,32,Pharmacy shop
+baseline,f2_incomeone,33,Tailor
+baseline,f2_incomeone,34,Astrologer
+baseline,f2_incomeone,35,Renting house to others
+baseline,f2_incomeone,36,Phone/car/motorbike reparing service
+baseline,f2_incomeone,37,Barber shop/beauty saloon
+baseline,f4k_other_oth,1,Support to parents or other family members
+baseline,f4k_other_oth,2,"Baby/child's accessories (diapers,toys,etc)"
+baseline,f4k_other_oth,3,Household accessories and maintenance
+baseline,f4k_other_oth,4,"Recreation (alcohol, cigarettes,etc)"
+baseline,f4k_other_oth,5,Investment in job
+baseline,f4k_other_oth,6,Baby sitter fees
+baseline,f4k_other_oth,7,Loan reimbursement
+baseline,g1_shock,0,No
+baseline,g1_shock,1,Yes
+baseline,g2_shockyes_1,0,No
+baseline,g2_shockyes_1,1,Yes
+baseline,g2_shockyes_2,0,No
+baseline,g2_shockyes_2,1,Yes
+baseline,g2_shockyes_3,0,No
+baseline,g2_shockyes_3,1,Yes
+baseline,g2_shockyes_4,0,No
+baseline,g2_shockyes_4,1,Yes
+baseline,g2_shockyes_5,0,No
+baseline,g2_shockyes_5,1,Yes
+baseline,g2_shockyes_6,0,No
+baseline,g2_shockyes_6,1,Yes
+baseline,g2_shockyes_7,0,No
+baseline,g2_shockyes_7,1,Yes
+baseline,g2_shockyes_8,0,No
+baseline,g2_shockyes_8,1,Yes
+baseline,g3_money,0,(I could not come up with the money)
+baseline,g3_money,1,Savings
+baseline,g3_money,2,"Family, relatives, or friends"
+baseline,g3_money,3,Money from working
+baseline,g3_money,4,"Borrowing from a bank, employer, or private lender"
+baseline,g3_money,5,Selling assets
+baseline,g3_money,99,Some other source
+baseline,g4_difficult,0,(I could not come up with the money)
+baseline,g4_difficult,1,Not difficult at all
+baseline,g4_difficult,2,Somewhat difficult
+baseline,g4_difficult,3,Very difficult
+baseline,g5_difficult1,0,(I could not come up with the money)
+baseline,g5_difficult1,1,Not difficult at all
+baseline,g5_difficult1,2,Somewhat difficult
+baseline,g5_difficult1,3,Very difficult
+baseline,g6_force_1,0,No
+baseline,g6_force_1,1,Yes
+baseline,g6_force_2,0,No
+baseline,g6_force_2,1,Yes
+baseline,g6_force_3,0,No
+baseline,g6_force_3,1,Yes
+baseline,g6_force_4,0,No
+baseline,g6_force_4,1,Yes
+baseline,g6_force_5,0,No
+baseline,g6_force_5,1,Yes
+baseline,g6_force_6,0,No
+baseline,g6_force_6,1,Yes
+baseline,h1_source,0,I don't receive Covid 19 information from any resource.
+baseline,h1_source,1,Health workers and professionals
+baseline,h1_source,2,Social Media (Facebook / Website)
+baseline,h1_source,3,Radio / Television / Newspaper
+baseline,h1_source,4,Brochure
+baseline,h1_source,5,Poster
+baseline,h1_source,6,Billboard
+baseline,h1_source,7,Friends / Family / Relatives
+baseline,h1_source,8,Hearsays
+baseline,h1_source,9,There was no reliable source for me.
+baseline,h1_source,10,Ward/village leaders
+baseline,h1_source,11,Phone calls/SMS
+baseline,h1_source,12,WHO
+baseline,h1_source,13,Local peer groups (Mothers' group)
+baseline,h1_source,97,Prefer not to answer
+baseline,h1_source,98,Don't know
+baseline,h1_source,99,Other (Specify):
+baseline,h2_symptoms_1,0,No
+baseline,h2_symptoms_1,1,Yes
+baseline,h2_symptoms_2,0,No
+baseline,h2_symptoms_2,1,Yes
+baseline,h2_symptoms_3,0,No
+baseline,h2_symptoms_3,1,Yes
+baseline,h2_symptoms_4,0,No
+baseline,h2_symptoms_4,1,Yes
+baseline,h2_symptoms_5,0,No
+baseline,h2_symptoms_5,1,Yes
+baseline,h2_symptoms_6,0,No
+baseline,h2_symptoms_6,1,Yes
+baseline,h2_symptoms_7,0,No
+baseline,h2_symptoms_7,1,Yes
+baseline,h2_symptoms_8,0,No
+baseline,h2_symptoms_8,1,Yes
+baseline,h2_symptoms_9,0,No
+baseline,h2_symptoms_9,1,Yes
+baseline,h2_symptoms_10,0,No
+baseline,h2_symptoms_10,1,Yes
+baseline,h2_symptoms_11,0,No
+baseline,h2_symptoms_11,1,Yes
+baseline,h2_symptoms_12,0,No
+baseline,h2_symptoms_12,1,Yes
+baseline,h2_symptoms_13,0,No
+baseline,h2_symptoms_13,1,Yes
+baseline,h2_symptoms_14,0,No
+baseline,h2_symptoms_14,1,Yes
+baseline,h2_symptoms_15,0,No
+baseline,h2_symptoms_15,1,Yes
+baseline,h2_symptoms_16,0,No
+baseline,h2_symptoms_16,1,Yes
+baseline,h2_symptoms_17,0,No
+baseline,h2_symptoms_17,1,Yes
+baseline,h3_suspected_1,0,No
+baseline,h3_suspected_1,1,Yes
+baseline,h3_suspected_2,0,No
+baseline,h3_suspected_2,1,Yes
+baseline,h3_suspected_3,0,No
+baseline,h3_suspected_3,1,Yes
+baseline,h3_suspected_4,0,No
+baseline,h3_suspected_4,1,Yes
+baseline,h3_suspected_5,0,No
+baseline,h3_suspected_5,1,Yes
+baseline,h3_suspected_6,0,No
+baseline,h3_suspected_6,1,Yes
+baseline,h3_suspected_7,0,No
+baseline,h3_suspected_7,1,Yes
+baseline,h3_suspected_8,0,No
+baseline,h3_suspected_8,1,Yes
+baseline,h3_suspected_9,0,No
+baseline,h3_suspected_9,1,Yes
+baseline,h3_suspected_10,0,No
+baseline,h3_suspected_10,1,Yes
+baseline,h3_suspected_11,0,No
+baseline,h3_suspected_11,1,Yes
+baseline,h4_protect_1,0,No
+baseline,h4_protect_1,1,Yes
+baseline,h4_protect_2,0,No
+baseline,h4_protect_2,1,Yes
+baseline,h4_protect_3,0,No
+baseline,h4_protect_3,1,Yes
+baseline,h4_protect_4,0,No
+baseline,h4_protect_4,1,Yes
+baseline,h4_protect_5,0,No
+baseline,h4_protect_5,1,Yes
+baseline,h4_protect_6,0,No
+baseline,h4_protect_6,1,Yes
+baseline,h4_protect_7,0,No
+baseline,h4_protect_7,1,Yes
+baseline,h4_protect_8,0,No
+baseline,h4_protect_8,1,Yes
+baseline,h4_protect_9,0,No
+baseline,h4_protect_9,1,Yes
+baseline,h4_protect_10,0,No
+baseline,h4_protect_10,1,Yes
+baseline,h4_protect_11,0,No
+baseline,h4_protect_11,1,Yes
+baseline,h4_protect_12,0,No
+baseline,h4_protect_12,1,Yes
+baseline,h4_protect_13,0,No
+baseline,h4_protect_13,1,Yes
+baseline,h4_protect_14,0,No
+baseline,h4_protect_14,1,Yes
+baseline,h4_protect_15,0,No
+baseline,h4_protect_15,1,Yes
+baseline,h4_protect_16,0,No
+baseline,h4_protect_16,1,Yes
+baseline,h4_protect_17,0,No
+baseline,h4_protect_17,1,Yes
+baseline,h4_protect_18,0,No
+baseline,h4_protect_18,1,Yes
+baseline,h4_protect_19,0,No
+baseline,h4_protect_19,1,Yes
+baseline,h4_protect_20,0,No
+baseline,h4_protect_20,1,Yes
+baseline,h4_protect_21,0,No
+baseline,h4_protect_21,1,Yes
+baseline,h4_protect_22,0,No
+baseline,h4_protect_22,1,Yes
+baseline,h5_emergency_1,0,No
+baseline,h5_emergency_1,1,Yes
+baseline,h5_emergency_2,0,No
+baseline,h5_emergency_2,1,Yes
+baseline,h5_emergency_3,0,No
+baseline,h5_emergency_3,1,Yes
+baseline,h5_emergency_4,0,No
+baseline,h5_emergency_4,1,Yes
+baseline,h5_emergency_5,0,No
+baseline,h5_emergency_5,1,Yes
+baseline,h5_emergency_6,0,No
+baseline,h5_emergency_6,1,Yes
+baseline,h5_emergency_7,0,No
+baseline,h5_emergency_7,1,Yes
+baseline,h5_emergency_8,0,No
+baseline,h5_emergency_8,1,Yes
+baseline,h5_emergency_9,0,No
+baseline,h5_emergency_9,1,Yes
+baseline,h5_emergency_10,0,No
+baseline,h5_emergency_10,1,Yes
+baseline,h5_emergency_11,0,No
+baseline,h5_emergency_11,1,Yes
+baseline,h5_emergency_12,0,No
+baseline,h5_emergency_12,1,Yes
+baseline,h5_emergency_13,0,No
+baseline,h5_emergency_13,1,Yes
+baseline,h5_emergency_14,0,No
+baseline,h5_emergency_14,1,Yes
+baseline,h5_emergency_15,0,No
+baseline,h5_emergency_15,1,Yes
+baseline,j1_fucall,0,No
+baseline,j1_fucall,1,Yes
+baseline,j3_time,1,Anytime (9:00-20:00)
+baseline,j3_time,2,Morning (9:00-12:00)
+baseline,j3_time,3,Afternoon (12:00-16:00)
+baseline,j3_time,4,Evening (16:00-20:00)
+baseline,call_status,1,Completed
+baseline,call_status,2,"Answered, but not completed"
+baseline,call_status,3,"Answered, but not by the respondent"
+baseline,call_status,4,Phone number does not exist
+baseline,call_status,5,Refusal
+baseline,call_status,6,Do not understand the language
+baseline,call_status,7,Deceased
+baseline,call_status,8,Can't answer these days due to emergency issue
+baseline,call_status,9,Canot contact by the same residential people
+baseline,call_status,10,"Answered, but not by the respondent, but phone number is given"
+baseline,call_status,11,"Not available, and have a appointment"
+baseline,call_status,12,Phone is busy
+baseline,call_status,13,"Call to respondent ended immediately, no ring"
+baseline,call_status,14,"Number not available, outside coverage area or switched off"
+baseline,call_status,15,Number rings but there is no answer
+baseline,call_status,16,Phone answered but dropped without any response
+baseline,call_status,17,Phone number was wrong (Do not know the respondent)
+baseline,call_status,18,Phone is switched off.
+baseline,call_status,19,Incoming calls are denied.
+baseline,call_status,20,The eligible person is not living in Hlaing Thar Yar or Shwe Pyi Thar any more.
+baseline,call_status,21,The pregnant mother was not pregnant anymore.
+baseline,call_status,23,The phone number was not owned by eligible household members.
+baseline,call_status,24,The child/children are 7 years and above.
+baseline,group_raw,0,Control
+baseline,group_raw,1,Treatment
